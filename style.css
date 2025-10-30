@@ -1,0 +1,71 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  background: #f9fafb;
+  color: #222;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+header {
+  background: #4a5568;
+  color: white;
+  padding: 1rem 2rem;
+  text-align: center;
+}
+
+.subtitle {
+  font-weight: 300;
+  margin-top: 0.25rem;
+}
+
+main {
+  flex: 1;
+  display: flex;
+  min-height: 0;
+}
+
+.menu {
+  width: 280px;
+  background: #edf2f7;
+  padding: 1rem;
+  overflow-y: auto;
+  border-right: 1px solid #ccc;
+}
+
+.menu-item {
+  font-weight: bold;
+  cursor: pointer;
+  padding: 0.4rem 0;
+}
+
+.menu-leaf {
+  margin-left: 1rem;
+  cursor: pointer;
+  padding: 0.2rem 0;
+  color: #2b6cb0;
+}
+
+.menu-leaf:hover {
+  text-decoration: underline;
+}
+
+.submenu {
+  margin-left: 0.5rem;
+  padding-left: 0.5rem;
+  border-left: 1px solid #ccc;
+}
+
+.content {
+  flex: 1;
+  padding: 1.5rem;
+  overflow-y: auto;
+}
+
+footer {
+  text-align: center;
+  padding: 0.5rem;
+  background: #e2e8f0;
+  font-size: 0.9rem;
+}
