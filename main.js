@@ -2,9 +2,10 @@ document.addEventListener("DOMContentLoaded", async () => {
     const menu = document.getElementById("menu");
     const content = document.getElementById("content");
 
-    // Fetch the static JSON file instead of PHP
+    // Fetch the static JSON file
     const response = await fetch("data/conjs.json");
     const conjectures = await response.json();
+    console.log(conjectures);
 
     // Build a nested category structure
     const categoryTree = {};
