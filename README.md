@@ -95,12 +95,12 @@ Each conjecture is stored as a JSON or Markdown file with fields like:
   "refs": ["Some relevant paper or arXiv link"],
   "kwds": ["chord", "cycle", "connectivity"],
   "is_open": true,
-  "head": "Graph Theory",
+  "head": "G is a 3-connected graph",
   "prev_conjs": [],
   "cntr": 0
-}
+}```
 
-# Explanation of JSON Fields
+## Explanation of JSON Fields
 
 id: Unique identifier for the conjecture
 title: Name of the conjecture
