@@ -1,0 +1,11 @@
+{
+  "uuid": "e5cdd1cb-90c9-4602-826b-7ee7dcce0b2f",
+  "name": "Odd perfect number",
+  "link": "https://en.wikipedia.org/wiki/Perfect_number",
+  "summary": "In number theory, a perfect number is a positive integer that is equal to the sum of its positive proper divisors, that is, divisors excluding the number itself. For instance, 6 has proper divisors 1, 2, and 3, and 1 + 2 + 3 = 6, so 6 is a perfect number. The next perfect number is 28, because 1 + 2 + 4 + 7 + 14 = 28.\nThe first seven perfect numbers are 6, 28, 496, 8128, 33550336, 8589869056, and 137438691328.\nThe sum of proper divisors of a number is called its aliquot sum, so a perfect number ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

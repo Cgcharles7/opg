@@ -1,0 +1,11 @@
+{
+  "uuid": "6b8fc366-7fb1-415d-b93d-9ca1b5b8d2f9",
+  "name": "Painlevé conjecture",
+  "link": "https://en.wikipedia.org/wiki/Painlev%C3%A9_conjecture",
+  "summary": "In physics, the Painlevé conjecture is a theorem about singularities among the solutions to the n-body problem: there are noncollision singularities for n ≥ 4.\nThe theorem was proven for n ≥ 5 in 1988 by Jeff Xia and for n = 4 in 2014 by Jinxin Xue.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

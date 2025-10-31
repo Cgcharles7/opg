@@ -1,0 +1,11 @@
+{
+  "uuid": "087d7837-9ea6-4c49-8e87-71de67538315",
+  "name": "Picard group",
+  "link": "https://en.wikipedia.org/wiki/Picard_group",
+  "summary": "In mathematics, the Picard group of a ringed space X, denoted by Pic(X), is the group of isomorphism classes of invertible sheaves (or line bundles) on X, with the group operation being tensor product. This construction is a global version of the construction of the divisor class group, or ideal class group, and is much used in algebraic geometry and the theory of complex manifolds.\nAlternatively, the Picard group can be defined as the sheaf cohomology group\n\n  \n    \n      \n        \n          H\n",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

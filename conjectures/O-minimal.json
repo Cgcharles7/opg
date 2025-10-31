@@ -1,0 +1,11 @@
+{
+  "uuid": "47d6fd95-943e-42b2-b4bc-bb4451efa0f2",
+  "name": "O-minimal",
+  "link": "https://en.wikipedia.org/wiki/O-minimal_theory",
+  "summary": "In mathematical logic, and more specifically in model theory, an infinite structure \n  \n    \n      \n        (\n        M\n        ,\n        <\n        ,\n        …\n        )\n      \n    \n    {\\displaystyle (M,<,\\dots )}\n  \n that is totally ordered by \n  \n    \n      \n        <\n      \n    \n    {\\displaystyle <}\n  \n is called an o-minimal structure if and only if every definable subset \n  \n    \n      \n        X\n        ⊆\n        M\n      \n    \n    {\\displaystyle X\\subseteq M}\n  \n (with parameters taken f",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

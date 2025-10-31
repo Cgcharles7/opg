@@ -1,0 +1,11 @@
+{
+  "uuid": "41c1f35e-c87b-42a6-b938-df4bf738124d",
+  "name": "Novikov conjecture",
+  "link": "https://en.wikipedia.org/wiki/Novikov_conjecture",
+  "summary": "The Novikov conjecture is one of the most important unsolved problems in topology.  It is named for Sergei Novikov who originally posed the conjecture in 1965.\nThe Novikov conjecture concerns the homotopy invariance of certain polynomials in the Pontryagin classes of a manifold, arising from the fundamental group. According to the Novikov conjecture, the higher signatures, which are certain numerical invariants of smooth manifolds, are homotopy invariants.\nThe conjecture has been proved for fini",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

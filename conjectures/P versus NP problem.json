@@ -1,0 +1,11 @@
+{
+  "uuid": "f7571b2c-dfee-4185-9aea-8963834cba96",
+  "name": "P versus NP problem",
+  "link": "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+  "summary": "The P versus NP problem is a major unsolved problem in theoretical computer science. Informally, it asks whether every problem whose solution can be quickly verified can also be quickly solved.\nHere, \"quickly\" means an algorithm exists that solves the task and runs in polynomial time (as opposed to, say, exponential time), meaning the task completion time is bounded above by a polynomial function on the size of the input to the algorithm. The general class of questions that some algorithm can an",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

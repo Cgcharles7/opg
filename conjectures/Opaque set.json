@@ -1,0 +1,11 @@
+{
+  "uuid": "bdfbcb21-3ac3-47a2-b9e4-4adb0b146f9a",
+  "name": "Opaque set",
+  "link": "https://en.wikipedia.org/wiki/Opaque_set",
+  "summary": "In discrete geometry, an opaque set is a system of curves or other set in the plane that blocks all lines of sight across a polygon, circle, or other shape. Opaque sets have also been called barriers, beam detectors, opaque covers, or (in cases where they have the form of a forest of line segments or other curves) opaque forests. Opaque sets were introduced by Stefan Mazurkiewicz in 1916, and the problem of minimizing their total length was posed by Frederick Bagemihl in 1959.\nFor instance, visi",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

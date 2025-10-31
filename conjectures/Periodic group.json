@@ -1,0 +1,11 @@
+{
+  "uuid": "a9924c87-1faf-41d0-be54-89ab0b95b559",
+  "name": "Periodic group",
+  "link": "https://en.wikipedia.org/wiki/Torsion_group",
+  "summary": "In group theory, a branch of mathematics, a torsion group or a periodic group is a group in which every element has finite order. The exponent of such a group, if it exists, is the least common multiple of the orders of the elements. \nFor example, it follows from Lagrange's theorem that every finite group is periodic and it has an exponent that divides its order.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

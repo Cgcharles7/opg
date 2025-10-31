@@ -1,0 +1,11 @@
+{
+  "uuid": "ef6c7954-c1a4-4984-81eb-4d32e5e4c55a",
+  "name": "Orchard-planting problem",
+  "link": "https://en.wikipedia.org/wiki/Orchard-planting_problem",
+  "summary": "In discrete geometry, the original orchard-planting problem (or the tree-planting problem) asks for the maximum number of 3-point lines attainable by a configuration of a specific number of points in the plane. There are also investigations into how many k-point lines there can be. Hallard T. Croft and Paul Erdős proved\n\n  \n    \n      \n        \n          t\n          \n            k\n          \n        \n        >\n        \n          \n            \n              c\n              \n                n\n    ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

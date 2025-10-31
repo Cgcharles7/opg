@@ -1,0 +1,11 @@
+{
+  "uuid": "bea21800-15ed-4e38-ae6f-8e1aa55661e0",
+  "name": "Odd greedy expansion",
+  "link": "https://en.wikipedia.org/wiki/Odd_greedy_expansion",
+  "summary": "In number theory, the odd greedy expansion problem asks whether a greedy algorithm for finding Egyptian fractions with odd denominators always succeeds. It is an open problem.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

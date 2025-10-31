@@ -1,0 +1,11 @@
+{
+  "uuid": "b644a6d2-dfbe-4a6c-9c25-687b76cd9aff",
+  "name": "Parshin's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Parshin%27s_conjecture",
+  "summary": "In mathematics, more specifically in algebraic geometry, Parshin's conjecture (also referred to as the Beilinson–Parshin conjecture) states that for any smooth projective variety X defined over a finite field, the higher algebraic K-groups vanish up to torsion:\n\n  \n    \n      \n        \n          K\n          \n            i\n          \n        \n        (\n        X\n        )\n        ⊗\n        \n          Q\n        \n        =\n        0\n        ,\n         \n        \n        i\n        >\n        0.\n      ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

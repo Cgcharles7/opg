@@ -1,0 +1,11 @@
+{
+  "uuid": "50661f8f-8069-4975-a3a2-c9e613cde109",
+  "name": "Operad",
+  "link": "https://en.wikipedia.org/wiki/Operad",
+  "summary": "In mathematics, an operad is a structure that consists of abstract operations, each one having a fixed finite number of inputs (arguments) and one output, as well as a specification of how to compose these operations. Given an operad \n  \n    \n      \n        O\n      \n    \n    {\\displaystyle O}\n  \n, one defines an algebra over \n  \n    \n      \n        O\n      \n    \n    {\\displaystyle O}\n  \n to be a set together with concrete operations on this set which behave just like the abstract operations of \n",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

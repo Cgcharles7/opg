@@ -1,0 +1,11 @@
+{
+  "uuid": "65e08eea-b3ff-4e3b-8090-42677c6dc3f2",
+  "name": "Overfull graph",
+  "link": "https://en.wikipedia.org/wiki/Overfull_graph",
+  "summary": "In graph theory, an overfull graph is a graph whose size is greater than the product of its maximum degree and half of its order floored, i.e. \n  \n    \n      \n        \n          |\n        \n        E\n        \n          |\n        \n        >\n        Δ\n        (\n        G\n        )\n        ⌊\n        \n          |\n        \n        V\n        \n          |\n        \n        \n          /\n        \n        2\n        ⌋\n      \n    \n    {\\displaystyle |E|>\\Delta (G)\\lfloor |V|/2\\rfloor }\n  \n where \n  \n    \n    ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

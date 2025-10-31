@@ -1,0 +1,11 @@
+{
+  "uuid": "ed156e9c-7ec4-4677-98b7-0790f184b988",
+  "name": "Partially ordered set",
+  "link": "https://en.wikipedia.org/wiki/Partially_ordered_set",
+  "summary": "In mathematics, especially order theory, a partial order on a set is an arrangement such that, for certain pairs of elements, one precedes the other. The word partial is used to indicate that not every pair of elements needs to be comparable; that is, there may be pairs for which neither element precedes the other. Partial orders thus generalize total orders, in which every pair is comparable.\nFormally, a partial order is a homogeneous binary relation that is reflexive, antisymmetric, and transi",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}
