@@ -1,0 +1,11 @@
+{
+  "uuid": "0bb24bea-a37f-452e-b36f-502aa7f3ab26",
+  "name": "Hilbert symbol",
+  "link": "https://en.wikipedia.org/wiki/Hilbert_symbol",
+  "summary": "In mathematics, the Hilbert symbol or norm-residue symbol is a function (–, –) from K× × K× to the group of nth roots of unity in a local field K such as the fields of reals or p-adic numbers. It is related to reciprocity laws, and can be defined in terms of the Artin symbol of local class field theory. The Hilbert symbol was introduced by David Hilbert (1897, sections 64, 131, 1998, English translation) in his Zahlbericht, with the slight difference that he defined it for elements of global fie",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

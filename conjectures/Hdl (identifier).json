@@ -1,0 +1,11 @@
+{
+  "uuid": "8718b4a2-336f-4940-bf16-40803419fb85",
+  "name": "Hdl (identifier)",
+  "link": "https://en.wikipedia.org/wiki/Handle_System",
+  "summary": "The Handle System is a proprietary registry assigning persistent identifiers, or handles, to information resources, and for resolving \"those handles into the information necessary to locate, access, and otherwise make use of the resources\".\nAs with handles used elsewhere in computing, Handle System handles are opaque, and encode no information about the underlying resource, being bound only to metadata regarding the resource. Consequently, the handles are not rendered invalid by changes to the m",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

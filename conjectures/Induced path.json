@@ -1,0 +1,11 @@
+{
+  "uuid": "887b06cf-ff13-40ef-a436-a3da790b7194",
+  "name": "Induced path",
+  "link": "https://en.wikipedia.org/wiki/Induced_path",
+  "summary": "In the mathematical area of graph theory, an induced path in an undirected graph G is a path that is an induced subgraph of G. That is, it is a sequence of vertices in G such that each two adjacent vertices in the sequence are connected by an edge in G, and each two nonadjacent vertices in the sequence are not connected by any edge in G.  An induced path is sometimes called a snake, and the problem of finding long induced paths in hypercube graphs is known as the snake-in-the-box problem.\nSimila",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

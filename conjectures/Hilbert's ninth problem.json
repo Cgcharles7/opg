@@ -1,0 +1,11 @@
+{
+  "uuid": "59e0382e-40af-4e79-a434-ad9aa6e18ebb",
+  "name": "Hilbert's ninth problem",
+  "link": "https://en.wikipedia.org/wiki/Hilbert%27s_ninth_problem",
+  "summary": "Hilbert's ninth problem, from the list of 23 Hilbert's problems (1900), asked to find the most general reciprocity law for the norm residues of k-th order in a general algebraic number field, where k is a power of a prime.\nProblem was partially solved for abelian extensions by Artin reciprocity and class field theory for abelian extensions of number fields. Generaliztion of this results to non-abelian class field theory seems to be one of the most challenging problems in algebraic number theory,",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

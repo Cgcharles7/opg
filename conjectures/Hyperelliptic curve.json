@@ -1,0 +1,11 @@
+{
+  "uuid": "8c1e46eb-88f8-4aca-b68f-6523c2b00b8b",
+  "name": "Hyperelliptic curve",
+  "link": "https://en.wikipedia.org/wiki/Hyperelliptic_curve",
+  "summary": "In algebraic geometry, a hyperelliptic curve is an algebraic curve of genus g > 1, given by an equation of the form\n\n  \n    \n      \n        \n          y\n          \n            2\n          \n        \n        +\n        h\n        (\n        x\n        )\n        y\n        =\n        f\n        (\n        x\n        )\n      \n    \n    {\\displaystyle y^{2}+h(x)y=f(x)}\n  \n\nwhere f(x) is a polynomial of degree n = 2g + 1 > 4 or n = 2g + 2 > 4 with n distinct roots, and h(x) is a polynomial of degree < g + 2 (if",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

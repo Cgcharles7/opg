@@ -1,0 +1,11 @@
+{
+  "uuid": "6e38eace-3452-424a-a994-8ea8e7e119d6",
+  "name": "Hypercube",
+  "link": "https://en.wikipedia.org/wiki/Hypercube",
+  "summary": "In geometry, a hypercube is an n-dimensional analogue of a square (n = 2) and a cube (n = 3); the special case for n = 4 is known as a tesseract. It is a closed, compact, convex figure whose 1-skeleton consists of groups of opposite parallel line segments aligned in each of the space's dimensions, perpendicular to each other and of the same length. A unit hypercube's longest diagonal in n dimensions is equal to \n  \n    \n      \n        \n          \n            n\n          \n        \n      \n    \n   ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

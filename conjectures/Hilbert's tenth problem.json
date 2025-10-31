@@ -1,0 +1,11 @@
+{
+  "uuid": "689609e0-e09f-46e5-a8a6-b8640933d546",
+  "name": "Hilbert's tenth problem",
+  "link": "https://en.wikipedia.org/wiki/Hilbert%27s_tenth_problem",
+  "summary": "Hilbert's tenth problem is the tenth on the list of mathematical problems that the German mathematician David Hilbert posed in 1900.  It is the challenge to provide a general algorithm that, for any given Diophantine equation (a polynomial equation with integer coefficients and a finite number of unknowns), can decide whether the equation has a solution with all unknowns taking integer values.\nFor example, the Diophantine equation \n  \n    \n      \n        3\n        \n          x\n          \n       ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "0d7203b7-d331-443b-b53c-4b4a76231c62",
+  "name": "Hilbert series and Hilbert polynomial",
+  "link": "https://en.wikipedia.org/wiki/Hilbert_series_and_Hilbert_polynomial",
+  "summary": "In commutative algebra, the Hilbert function, the Hilbert polynomial, and the Hilbert series of a graded commutative algebra finitely generated over a field are three strongly related notions which measure the growth of the dimension of the homogeneous components of the algebra.\nThese notions have been extended to filtered algebras, and graded or filtered modules over these algebras, as well as to coherent sheaves over projective schemes.\nThe typical situations where these notions are used are t",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}
