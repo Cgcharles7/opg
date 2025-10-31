@@ -80,7 +80,7 @@ Each conjecture is stored as a JSON or Markdown file with fields like:
   "head": "Graph Theory",
   "prev_conjs": [],
   "cntr": 0
-}
+}```
 
 # Explanation of JSON Fields
 id: This is a unique identifier for the conjecture
