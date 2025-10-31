@@ -1,0 +1,16 @@
+{
+  "uuid": "2f810601-c957-471e-a0f7-6e64dff161d0",
+  "name": "Yau's conjecture on the first eigenvalue",
+  "link": "https://en.wikipedia.org/wiki/Yau%27s_conjecture_on_the_first_eigenvalue",
+  "summary": "In mathematics, Yau's conjecture on the first eigenvalue is, as of 2018, an unsolved conjecture proposed by Shing-Tung Yau in 1982. It asks:\n\nIs it true that the first eigenvalue for the Laplace–Beltrami operator on an embedded closed minimal hypersurface of \n  \n    \n      \n        \n          S\n          \n            n\n            +\n            1\n          \n        \n      \n    \n    {\\displaystyle S^{n+1}}\n  \n is \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n?\nIf true, it will im",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Differential geometry",
+    "Unsolved problems",
+    "Geometry"
+  ],
+  "authors": []
+}

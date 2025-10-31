@@ -1,0 +1,18 @@
+{
+  "uuid": "9fb87a5c-9ca9-4a45-bf70-6d98fc2ed01b",
+  "name": "Yau's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Yau%27s_conjecture",
+  "summary": "In differential geometry, Yau's conjecture is a mathematical conjecture which states that any closed Riemannian 3-manifold has infinitely many smooth closed immersed minimal surfaces. It is named after Shing-Tung Yau, who posed it as the 88th entry in his 1982 list of open problems in differential geometry.\nThe conjecture was resolved by Kei Irie, Fernando Codá Marques and André Neves in the generic case, and by Antoine Song in full generality.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Problems solved since 1995",
+    "21st century",
+    "Unsolved problems",
+    "Differential geometry",
+    "Geometry"
+  ],
+  "authors": []
+}

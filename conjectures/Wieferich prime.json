@@ -1,0 +1,16 @@
+{
+  "uuid": "4edc778e-aca9-4e56-97e3-2d526e47396e",
+  "name": "Wieferich prime",
+  "link": "https://en.wikipedia.org/wiki/Wieferich_prime",
+  "summary": "In number theory, a Wieferich prime is a prime number p such that p2 divides 2p − 1 − 1, therefore connecting these primes with Fermat's little theorem, which states that every odd prime p divides 2p − 1 − 1. Wieferich primes were first described by Arthur Wieferich in 1909 in works pertaining to Fermat's Last Theorem, at which time both of Fermat's theorems were already well known to mathematicians.\nSince then, connections between Wieferich primes and various other topics in mathematics have be",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "039ebf53-5137-49ca-846d-8dd6ffe260bf",
+  "name": "Waring's problem",
+  "link": "https://en.wikipedia.org/wiki/Waring%27s_problem",
+  "summary": "In number theory, Waring's problem asks whether each natural number k has an associated positive integer s such that every natural number is the sum of at most s natural numbers raised to the power k. For example, every natural number is the sum of at most 4 squares, 9 cubes, or 19 fourth powers. Waring's problem was proposed in 1770 by Edward Waring, after whom it is named. Its affirmative answer, known as the Hilbert–Waring theorem, was provided by Hilbert in 1909. Waring's problem has its own",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Additive number theory"
+  ],
+  "authors": []
+}

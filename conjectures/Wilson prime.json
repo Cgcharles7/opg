@@ -1,0 +1,16 @@
+{
+  "uuid": "24e5be12-1dee-49a7-b1cd-ee669b7f3547",
+  "name": "Wilson prime",
+  "link": "https://en.wikipedia.org/wiki/Wilson_prime",
+  "summary": "In number theory, a Wilson prime is a prime number \n  \n    \n      \n        p\n      \n    \n    {\\displaystyle p}\n  \n such that \n  \n    \n      \n        \n          p\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle p^{2}}\n  \n divides \n  \n    \n      \n        (\n        p\n        −\n        1\n        )\n        !\n        +\n        1\n      \n    \n    {\\displaystyle (p-1)!+1}\n  \n, where \"\n  \n    \n      \n        !\n      \n    \n    {\\displaystyle !}\n  \n\" denotes the factorial functio",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}
