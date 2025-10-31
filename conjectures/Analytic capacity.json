@@ -1,0 +1,11 @@
+{
+  "uuid": "73056905-e937-4624-ae3a-f7b0ca047bb5",
+  "name": "Analytic capacity",
+  "link": "https://en.wikipedia.org/wiki/Analytic_capacity",
+  "summary": "In the mathematical discipline of complex analysis, the analytic capacity of a compact subset K of the complex plane is a number that denotes \"how big\" a bounded analytic function on C \\ K can become. Roughly speaking, γ(K) measures the size of the unit ball of the space of bounded analytic functions outside K.\nIt was first introduced by Lars Ahlfors in the 1940s while studying the removability of singularities of bounded analytic functions.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

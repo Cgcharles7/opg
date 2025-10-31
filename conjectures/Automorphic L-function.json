@@ -1,0 +1,11 @@
+{
+  "uuid": "575a6fe1-8759-4b5c-8eb2-e00a7edcc3a8",
+  "name": "Automorphic L-function",
+  "link": "https://en.wikipedia.org/wiki/Automorphic_L-function",
+  "summary": "In mathematics, an automorphic L-function is a function L(s,π,r) of a complex variable s, associated to an automorphic representation π of a reductive group G over a global field and a finite-dimensional complex representation r of the Langlands dual group LG of G, generalizing the Dirichlet L-series of a Dirichlet character and the Mellin transform of a modular form. They were introduced by Langlands (1967, 1970, 1971).\nBorel (1979) and Arthur & Gelbart (1991) gave surveys of automorphic L-func",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

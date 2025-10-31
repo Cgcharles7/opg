@@ -1,0 +1,11 @@
+{
+  "uuid": "43c2a96a-b1ab-4626-b694-6ca364a1361b",
+  "name": "Algebraic curve",
+  "link": "https://en.wikipedia.org/wiki/Algebraic_curve",
+  "summary": "In mathematics, an affine algebraic plane curve is the zero set of a polynomial in two variables. A projective algebraic plane curve is the zero set in a projective plane of a homogeneous polynomial in three variables. An affine algebraic plane curve can be completed in a projective algebraic plane curve by homogenizing its defining polynomial. Conversely, a projective algebraic plane curve of homogeneous equation h(x, y, t) = 0 can be restricted to the affine algebraic plane curve of equation h",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

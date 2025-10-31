@@ -1,0 +1,11 @@
+{
+  "uuid": "b87967f7-2c5b-4459-850a-d30763433baf",
+  "name": "Algebraic independence",
+  "link": "https://en.wikipedia.org/wiki/Algebraic_independence",
+  "summary": "In abstract algebra, a subset \n  \n    \n      \n        S\n      \n    \n    {\\displaystyle S}\n  \n of a field \n  \n    \n      \n        L\n      \n    \n    {\\displaystyle L}\n  \n is algebraically independent over a subfield \n  \n    \n      \n        K\n      \n    \n    {\\displaystyle K}\n  \n if the elements of \n  \n    \n      \n        S\n      \n    \n    {\\displaystyle S}\n  \n do not satisfy any non-trivial polynomial equation with coefficients in \n  \n    \n      \n        K\n      \n    \n    {\\displaystyle K}\n  \n.\nIn",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

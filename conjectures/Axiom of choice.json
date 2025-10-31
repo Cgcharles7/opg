@@ -1,0 +1,11 @@
+{
+  "uuid": "01eaa454-ae5d-43c1-9ad5-345e0ec1c202",
+  "name": "Axiom of choice",
+  "link": "https://en.wikipedia.org/wiki/Axiom_of_choice",
+  "summary": "In mathematics, the axiom of choice, abbreviated AC or AoC, is an axiom of set theory. Informally put, the axiom of choice says that given any collection of non-empty sets, it is possible to construct a new set by choosing one element from each set, even if the collection is infinite. Formally, it states that for every indexed family \n  \n    \n      \n        (\n        \n          S\n          \n            i\n          \n        \n        \n          )\n          \n            i\n            ∈\n            ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

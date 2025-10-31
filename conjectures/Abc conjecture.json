@@ -1,0 +1,11 @@
+{
+  "uuid": "3e1896ea-10bc-42d9-abc9-975d1863d428",
+  "name": "Abc conjecture",
+  "link": "https://en.wikipedia.org/wiki/Abc_conjecture",
+  "summary": "The abc conjecture (also known as the Oesterlé–Masser conjecture) is a conjecture in number theory that arose out of a discussion of Joseph Oesterlé and David Masser in 1985. It is stated in terms of three positive integers \n  \n    \n      \n        a\n        ,\n        b\n      \n    \n    {\\displaystyle a,b}\n  \n and \n  \n    \n      \n        c\n      \n    \n    {\\displaystyle c}\n  \n (hence the name) that are relatively prime and satisfy \n  \n    \n      \n        a\n        +\n        b\n        =\n        c\n ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

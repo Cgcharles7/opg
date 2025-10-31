@@ -1,0 +1,11 @@
+{
+  "uuid": "fb46a16b-b5d1-4c00-ab2f-2d9bb3a8b5a0",
+  "name": "Balanced prime",
+  "link": "https://en.wikipedia.org/wiki/Balanced_prime",
+  "summary": "In number theory, a balanced prime is a prime number with equal-sized prime gaps above and below it, so that it is equal to the arithmetic mean of the nearest primes above and below. Or to put it algebraically, the \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \nth prime number \n  \n    \n      \n        \n          p\n          \n            n\n          \n        \n      \n    \n    {\\displaystyle p_{n}}\n  \n is a balanced prime if\n\n  \n    \n      \n        \n          p\n          \n           ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

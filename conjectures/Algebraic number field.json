@@ -1,0 +1,11 @@
+{
+  "uuid": "34e606ea-5c50-4c6c-84ba-c28d930bdbde",
+  "name": "Algebraic number field",
+  "link": "https://en.wikipedia.org/wiki/Algebraic_number_field",
+  "summary": "In mathematics, an algebraic number field (or simply number field) is an extension field \n  \n    \n      \n        K\n      \n    \n    {\\displaystyle K}\n  \n of the field of rational numbers \n  \n    \n      \n        \n          Q\n        \n      \n    \n    {\\displaystyle \\mathbb {Q} }\n  \n such that the field extension \n  \n    \n      \n        K\n        \n          /\n        \n        \n          Q\n        \n      \n    \n    {\\displaystyle K/\\mathbb {Q} }\n  \n has finite degree (and hence is an algebraic field e",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

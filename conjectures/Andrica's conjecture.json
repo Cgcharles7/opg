@@ -1,0 +1,11 @@
+{
+  "uuid": "4713770a-fbe9-444a-ba18-a995f68307d4",
+  "name": "Andrica's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Andrica%27s_conjecture",
+  "summary": "Andrica's conjecture (named after Romanian mathematician Dorin Andrica (es)) is a conjecture regarding the gaps between prime numbers.\nThe conjecture states that the inequality\n\n  \n    \n      \n        \n          \n            \n              p\n              \n                n\n                +\n                1\n              \n            \n          \n        \n        −\n        \n          \n            \n              p\n              \n                n\n              \n            \n          \n        \n ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

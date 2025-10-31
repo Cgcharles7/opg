@@ -1,0 +1,11 @@
+{
+  "uuid": "1afc20bc-7fdb-4f83-ba29-b6bcee0f6849",
+  "name": "Affine manifold",
+  "link": "https://en.wikipedia.org/wiki/Affine_manifold",
+  "summary": "In differential geometry, an affine manifold is a differentiable manifold equipped with a flat, torsion-free connection.\nEquivalently, it is a manifold that is (if connected) covered by an open subset of \n  \n    \n      \n        \n          \n            \n              R\n            \n          \n          \n            n\n          \n        \n      \n    \n    {\\displaystyle {\\mathbb {R} }^{n}}\n  \n, with monodromy acting by affine transformations. This equivalence is an easy corollary of Cartan–Ambrose–H",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

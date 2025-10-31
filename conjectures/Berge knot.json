@@ -1,0 +1,11 @@
+{
+  "uuid": "957ca153-1281-4423-96ac-f4718f115b60",
+  "name": "Berge knot",
+  "link": "https://en.wikipedia.org/wiki/Berge_knot",
+  "summary": "In the mathematical theory of knots, a Berge knot (named after mathematician John Berge) or doubly primitive knot is any member of a particular family of knots in the 3-sphere. A Berge knot K is defined by the conditions:\n\nK lies on a genus two Heegaard surface S\nin each handlebody bound by S, K meets some meridian disc exactly once.\nJohn Berge constructed these knots as a way of creating knots with lens space surgeries and classified all the Berge knots. Cameron Gordon conjectured these were th",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

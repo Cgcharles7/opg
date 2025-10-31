@@ -1,0 +1,11 @@
+{
+  "uuid": "80a821b2-7c11-44b4-876d-88912b96e7b9",
+  "name": "Angel problem",
+  "link": "https://en.wikipedia.org/wiki/Angel_problem",
+  "summary": "The angel problem is a question in combinatorial game theory proposed by John Horton Conway. The game is commonly referred to as the angels and devils game. The game is played by two players called the angel and the devil. It is played on an infinite chessboard (or equivalently the points of a 2D lattice). The angel has a power k (a natural number 1 or higher), specified before the game starts. The board starts empty with the angel in one square. On each turn, the angel jumps to a different empt",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

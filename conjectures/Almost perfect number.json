@@ -1,0 +1,11 @@
+{
+  "uuid": "e7d7b023-e324-4576-a24f-ee70112d7742",
+  "name": "Almost perfect number",
+  "link": "https://en.wikipedia.org/wiki/Almost_perfect_number",
+  "summary": "In mathematics, an almost perfect number (sometimes also called slightly defective or least deficient number) is a natural number n such that the sum of all divisors of n (the sum-of-divisors function σ(n)) is equal to 2n − 1, the sum of all proper divisors of n, s(n) = σ(n) − n, then being equal to n − 1. The only known almost perfect numbers are powers of 2 with non-negative exponents (sequence A000079 in the OEIS). Therefore the only known odd almost perfect number is 20 = 1, and the only kno",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

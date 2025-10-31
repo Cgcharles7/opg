@@ -1,0 +1,11 @@
+{
+  "uuid": "a89c0aea-ae0d-48e3-9f78-2a4525052daa",
+  "name": "Arithmetic geometry",
+  "link": "https://en.wikipedia.org/wiki/Arithmetic_geometry",
+  "summary": "In mathematics, arithmetic geometry is roughly the application of techniques from algebraic geometry to problems in number theory. Arithmetic geometry is centered around Diophantine geometry, the study of rational points of algebraic varieties.\nIn more abstract terms, arithmetic geometry can be defined as the study of schemes of finite type over the spectrum of the ring of integers.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

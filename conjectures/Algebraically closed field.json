@@ -1,0 +1,11 @@
+{
+  "uuid": "2b0ad405-c276-497f-8b21-78992a1452a7",
+  "name": "Algebraically closed field",
+  "link": "https://en.wikipedia.org/wiki/Algebraically_closed_field",
+  "summary": "In mathematics, a field F is algebraically closed if every non-constant polynomial with coefficients in F has a root in F. In other words, a field is algebraically closed if the fundamental theorem of algebra holds for it.  For example, the field of real numbers is not algebraically closed because the polynomial \n  \n    \n      \n        \n          x\n          \n            2\n          \n        \n        +\n        1\n      \n    \n    {\\displaystyle x^{2}+1}\n  \n has no real roots, while the field of co",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}
