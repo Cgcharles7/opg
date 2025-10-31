@@ -1,0 +1,11 @@
+{
+  "uuid": "ac132a6c-4fb9-414b-a6a8-60f11b37b90b",
+  "name": "Maulik–Nekrasov–Okounkov–Pandharipande conjecture",
+  "link": "https://en.wikipedia.org/wiki/Donaldson%E2%80%93Thomas_theory",
+  "summary": "In mathematics, specifically algebraic geometry, Donaldson–Thomas theory is the theory of Donaldson–Thomas invariants.   Given a compact moduli space of sheaves on a Calabi–Yau threefold, its Donaldson–Thomas invariant is the virtual number of its points, i.e., the integral of the cohomology class 1 against the virtual fundamental class.  The Donaldson–Thomas invariant is a holomorphic analogue of the Casson invariant.  The invariants were introduced by Simon Donaldson and Richard Thomas (1998).",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

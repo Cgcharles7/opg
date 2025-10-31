@@ -1,0 +1,11 @@
+{
+  "uuid": "7cbce62d-a1ba-4428-874d-2425d1a33437",
+  "name": "Macdonald polynomials",
+  "link": "https://en.wikipedia.org/wiki/Macdonald_polynomials",
+  "summary": "In mathematics, Macdonald polynomials Pλ(x; t,q) are a  family of orthogonal symmetric polynomials in several variables, introduced by Macdonald in 1987. He later introduced a non-symmetric generalization in 1995. Macdonald originally associated his polynomials with weights λ of finite root systems and used just one variable t, but later realized that it is more natural to associate them with  affine root systems rather than finite root systems, in which case the variable t can be replaced by se",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

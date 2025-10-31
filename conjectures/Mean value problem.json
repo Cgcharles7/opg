@@ -1,0 +1,11 @@
+{
+  "uuid": "c0198c05-7d94-42d0-9f40-60c2517117eb",
+  "name": "Mean value problem",
+  "link": "https://en.wikipedia.org/wiki/Mean_value_problem",
+  "summary": "In mathematics, the mean value problem was posed by Stephen Smale in 1981. This problem is still open in full generality. The problem asks:\n\nFor a given complex polynomial \n  \n    \n      \n        f\n      \n    \n    {\\displaystyle f}\n  \n of degree \n  \n    \n      \n        d\n        ≥\n        2\n      \n    \n    {\\displaystyle d\\geq 2}\n  \n and a complex number \n  \n    \n      \n        z\n      \n    \n    {\\displaystyle z}\n  \n, is there a critical point \n  \n    \n      \n        c\n      \n    \n    {\\displays",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

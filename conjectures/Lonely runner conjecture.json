@@ -1,0 +1,11 @@
+{
+  "uuid": "dfb3e294-1381-46c6-b13c-584db3bc35ee",
+  "name": "Lonely runner conjecture",
+  "link": "https://en.wikipedia.org/wiki/Lonely_runner_conjecture",
+  "summary": "In number theory, specifically the study of Diophantine approximation, the lonely runner conjecture is a conjecture about the long-term behavior of runners on a circular track. It states that \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n runners on a track of unit length, with constant speeds all distinct from one another, will each be lonely at some time—at least \n  \n    \n      \n        1\n        \n          /\n        \n        n\n      \n    \n    {\\displaystyle 1/n}\n  \n units awa",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "5024eee1-bdbe-486b-82c8-ac9351fbbf46",
+  "name": "Lucas number",
+  "link": "https://en.wikipedia.org/wiki/Lucas_number",
+  "summary": "The Lucas sequence is an integer sequence named after the mathematician François Édouard Anatole Lucas (1842–1891), who studied both that sequence and the closely related Fibonacci sequence. Individual numbers in the Lucas sequence are known as Lucas numbers. Lucas numbers and Fibonacci numbers form complementary instances of Lucas sequences. \nThe Lucas sequence has the same recursive relationship as the Fibonacci sequence, where each term is the sum of the two previous terms, but with different",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}
