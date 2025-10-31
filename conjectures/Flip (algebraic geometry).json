@@ -1,0 +1,11 @@
+{
+  "uuid": "e5f666b9-13b6-40f0-aeeb-0601fda1bde5",
+  "name": "Flip (algebraic geometry)",
+  "link": "https://en.wikipedia.org/wiki/Flip_(algebraic_geometry)",
+  "summary": "In algebraic geometry, flips  and  flops are  codimension-2 surgery operations arising in the minimal model program, given by blowing up along a relative canonical ring.  In dimension 3 flips are used to construct minimal models, and any two birationally equivalent  minimal models are connected by a sequence of flops. It is conjectured that the same is true in higher dimensions.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

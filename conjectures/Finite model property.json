@@ -1,0 +1,11 @@
+{
+  "uuid": "33224d9f-6ace-446e-8f7f-91304219d09b",
+  "name": "Finite model property",
+  "link": "https://en.wikipedia.org/wiki/Finite_model_property",
+  "summary": "In mathematical logic, a logic L has the finite model property (fmp for short) if any non-theorem of L is falsified by some finite model of L. Another way of putting this is to say that L has the fmp if for every formula A of L, A is an L-theorem if and only if A is a theorem of the theory of finite models of L.\nIf L is finitely axiomatizable (and has a recursive set of inference rules) and has the fmp, then it is decidable. However, the result does not hold if L is merely recursively axiomatiza",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

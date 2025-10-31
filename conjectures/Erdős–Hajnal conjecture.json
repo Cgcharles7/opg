@@ -1,0 +1,11 @@
+{
+  "uuid": "da80c830-177d-4300-8fc3-dab06156dae9",
+  "name": "Erdős–Hajnal conjecture",
+  "link": "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Hajnal_conjecture",
+  "summary": "In graph theory, a branch of mathematics, the Erdős–Hajnal conjecture states that families of graphs defined by forbidden induced subgraphs have either large cliques or large independent sets. It is named for Paul Erdős and András Hajnal, who first posed it as an open problem in a paper from 1977.\nMore precisely, for an arbitrary undirected graph \n  \n    \n      \n        H\n      \n    \n    {\\displaystyle H}\n  \n, let \n  \n    \n      \n        \n          \n            \n              F\n            \n    ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

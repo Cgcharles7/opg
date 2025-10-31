@@ -1,0 +1,11 @@
+{
+  "uuid": "95f31f67-2063-473d-99b5-73cecd3553ee",
+  "name": "Eternal dominating set",
+  "link": "https://en.wikipedia.org/wiki/Eternal_dominating_set",
+  "summary": "In graph theory, an eternal dominating set for a graph G = (V, E) is a subset D of V such that D is a dominating set on which mobile guards are initially located (at most one guard may be located on any vertex). The set D must be such that for any infinite sequence of attacks occurring sequentially at vertices, the set D can be modified by moving a guard from an adjacent vertex to the attacked vertex, provided the attacked vertex has no guard on it at the time it is attacked. The configuration o",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

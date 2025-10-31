@@ -1,0 +1,11 @@
+{
+  "uuid": "5d710afb-52a7-4a3d-95f0-177aeaa5ed90",
+  "name": "Fermat–Catalan conjecture",
+  "link": "https://en.wikipedia.org/wiki/Fermat%E2%80%93Catalan_conjecture",
+  "summary": "In number theory, the Fermat–Catalan conjecture is a generalization of Fermat's Last Theorem and of Catalan's conjecture. The conjecture states that the equation\n\nhas only finitely many solutions (a, b, c, m, n, k) with distinct triplets of values (am, bn, ck) where a, b, c are positive coprime integers and m, n, k are positive integers satisfying\n\nThe inequality on m, n, and k is a necessary part of the conjecture. Without the inequality there would be infinitely many solutions, for instance wi",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

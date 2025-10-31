@@ -1,0 +1,11 @@
+{
+  "uuid": "12be2cfb-a2d9-46e9-9ea8-7744f0b997d0",
+  "name": "Formal languages",
+  "link": "https://en.wikipedia.org/wiki/Formal_language",
+  "summary": "In logic, mathematics, computer science, and linguistics, a formal language is a set of strings whose symbols are taken from a set called \"alphabet\".\nThe alphabet of a formal language consists of symbols that concatenate into strings (also called \"words\"). Words that belong to a particular formal language are sometimes called well-formed words. A formal language is often defined by means of a formal grammar such as a regular grammar or context-free grammar.\nIn computer science, formal languages ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

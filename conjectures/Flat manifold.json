@@ -1,0 +1,11 @@
+{
+  "uuid": "936a92f0-eb1e-4315-9c55-425b33d0f938",
+  "name": "Flat manifold",
+  "link": "https://en.wikipedia.org/wiki/Flat_manifold",
+  "summary": "In mathematics, a Riemannian manifold is said to be flat if its Riemann curvature tensor is everywhere zero. Intuitively, a flat manifold is one that \"locally looks like\" Euclidean space in terms of distances and angles, e.g. the interior angles of a triangle add up to 180°.\nThe universal cover of a complete flat manifold is Euclidean space. This can be used to prove the theorem of \nBieberbach (1911, 1912) that all compact flat manifolds are finitely covered by tori; the 3-dimensional case was p",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

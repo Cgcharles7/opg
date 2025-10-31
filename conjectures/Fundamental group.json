@@ -1,0 +1,11 @@
+{
+  "uuid": "1710e657-62d7-44ff-85b8-4967e3e95c65",
+  "name": "Fundamental group",
+  "link": "https://en.wikipedia.org/wiki/Fundamental_group",
+  "summary": "In the mathematical  field of algebraic topology, the fundamental group of a topological space is the group of the equivalence classes under homotopy of the loops contained in the space. It records information about the basic shape, or holes, of the topological space. The fundamental group is the first and simplest homotopy group. The fundamental group is a homotopy invariant—topological spaces that are homotopy equivalent (or the stronger case of homeomorphic) have isomorphic fundamental groups",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

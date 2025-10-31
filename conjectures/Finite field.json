@@ -1,0 +1,11 @@
+{
+  "uuid": "a0582149-8a7f-465c-9e07-ea3500f54930",
+  "name": "Finite field",
+  "link": "https://en.wikipedia.org/wiki/Finite_field",
+  "summary": "In mathematics, a finite field or Galois field (so-named in honor of Évariste Galois) is a field that has a finite number of elements.  As with any field, a finite field is a set on which the operations of multiplication, addition, subtraction and division are defined and satisfy certain basic rules.  The most common examples of finite fields are the integers mod \n  \n    \n      \n        p\n      \n    \n    {\\displaystyle p}\n  \n when \n  \n    \n      \n        p\n      \n    \n    {\\displaystyle p}\n  \n i",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

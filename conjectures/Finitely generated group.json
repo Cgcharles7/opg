@@ -1,0 +1,11 @@
+{
+  "uuid": "92781e0d-3413-49b9-8fbb-f058136e23be",
+  "name": "Finitely generated group",
+  "link": "https://en.wikipedia.org/wiki/Finitely_generated_group",
+  "summary": "In algebra, a finitely generated group is a group G that has some finite generating set S so that every element of G can be written as the combination (under the group operation) of finitely many elements of  S and of inverses of such elements. \nBy definition, every finite group is finitely generated, since S can be taken to be G itself. Every infinite finitely generated group must be countable but countable groups need not be finitely generated. The additive group of rational numbers Q is an ex",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "3626a72d-3296-48c8-978f-5da1eed470c4",
+  "name": "Finitely presented group",
+  "link": "https://en.wikipedia.org/wiki/Presentation_of_a_group",
+  "summary": "In mathematics, a presentation is one method of specifying a group. A presentation of a group G comprises a set S of generators—so that every element of the group can be written as a product of powers of some of these generators—and a set R of relations among those generators. We then say G has presentation\n\n  \n    \n      \n        ⟨\n        S\n        ∣\n        R\n        ⟩\n        .\n      \n    \n    {\\displaystyle \\langle S\\mid R\\rangle .}\n  \n\nInformally, G has the above presentation if it is the ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

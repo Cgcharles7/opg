@@ -1,0 +1,11 @@
+{
+  "uuid": "037433dd-0cfc-4f50-95c5-180f288b8fda",
+  "name": "Galois module",
+  "link": "https://en.wikipedia.org/wiki/Galois_representation",
+  "summary": "In mathematics, a Galois module is a G-module, with G being the Galois group (named for Évariste Galois) of some extension of fields. The term Galois representation is frequently used when the G-module is a vector space over a field or a free module over a ring in representation theory, but can also be used as a synonym for G-module. The study of Galois modules for extensions of local or global fields and their group cohomology is an important tool in number theory.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}
