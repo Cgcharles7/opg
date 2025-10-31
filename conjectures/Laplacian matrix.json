@@ -1,0 +1,11 @@
+{
+  "uuid": "13efbb14-451a-4120-b9c2-54a2a4519874",
+  "name": "Laplacian matrix",
+  "link": "https://en.wikipedia.org/wiki/Laplacian_matrix",
+  "summary": "In the mathematical field of graph theory, the Laplacian matrix, also called the graph Laplacian, admittance matrix, Kirchhoff matrix, or discrete Laplacian, is a matrix representation of a graph. Named after Pierre-Simon Laplace, the graph Laplacian matrix can be viewed as a matrix form of the negative discrete Laplace operator on a graph approximating the negative continuous Laplacian obtained by the finite difference method.\nThe Laplacian matrix relates to many functional graph properties. Ki",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

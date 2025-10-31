@@ -1,0 +1,11 @@
+{
+  "uuid": "8c6784e7-a7d5-4f86-bdcc-c1446e73c04a",
+  "name": "Lebesgue's universal covering problem",
+  "link": "https://en.wikipedia.org/wiki/Lebesgue%27s_universal_covering_problem",
+  "summary": "Lebesgue's universal covering problem is an unsolved problem in geometry that asks for the convex shape of smallest area that can cover every planar set of diameter one. The diameter of a set by definition is the least upper bound of the distances between all pairs of points in the set. A shape covers a set if it contains a congruent subset. In other words the set may be rotated, translated or reflected to fit inside the shape.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

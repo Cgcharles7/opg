@@ -1,0 +1,11 @@
+{
+  "uuid": "d1e81e51-ee05-4379-bc0b-5ec2c779bbfd",
+  "name": "Legendre's constant",
+  "link": "https://en.wikipedia.org/wiki/Legendre%27s_constant",
+  "summary": "Legendre's constant is a mathematical constant occurring in a formula constructed by Adrien-Marie Legendre to approximate the behavior of the prime-counting function \n  \n    \n      \n        π\n        (\n        x\n        )\n      \n    \n    {\\displaystyle \\pi (x)}\n  \n. The value that corresponds precisely to its asymptotic behavior is now known to be 1.\nExamination of available numerical data for known values of \n  \n    \n      \n        π\n        (\n        x\n        )\n      \n    \n    {\\displaystyle ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

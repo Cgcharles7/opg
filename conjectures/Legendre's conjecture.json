@@ -1,0 +1,11 @@
+{
+  "uuid": "9ab9a480-6202-4481-969c-b6a4f7d00721",
+  "name": "Legendre's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Legendre%27s_conjecture",
+  "summary": "Legendre's conjecture, proposed by Adrien-Marie Legendre, states that there is a prime number between \n  \n    \n      \n        \n          n\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle n^{2}}\n  \n and \n  \n    \n      \n        (\n        n\n        +\n        1\n        \n          )\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle (n+1)^{2}}\n  \n for every positive integer \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n.  \n\nThe con",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

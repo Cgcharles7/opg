@@ -1,0 +1,11 @@
+{
+  "uuid": "739cfade-1120-4498-85a2-08e3f4cbfa9b",
+  "name": "Linear differential equation",
+  "link": "https://en.wikipedia.org/wiki/Linear_differential_equation",
+  "summary": "In mathematics, a linear differential equation is a differential equation that is linear in the unknown function and its derivatives, so it can be written in the form \n\n  \n    \n      \n        \n          a\n          \n            0\n          \n        \n        (\n        x\n        )\n        y\n        +\n        \n          a\n          \n            1\n          \n        \n        (\n        x\n        )\n        \n          y\n          ′\n        \n        +\n        \n          a\n          \n            2\n      ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

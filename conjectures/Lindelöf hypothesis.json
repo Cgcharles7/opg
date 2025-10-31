@@ -1,0 +1,11 @@
+{
+  "uuid": "d4c8107d-8174-4a5a-b429-a8d8695e24fe",
+  "name": "Lindelöf hypothesis",
+  "link": "https://en.wikipedia.org/wiki/Lindel%C3%B6f_hypothesis",
+  "summary": "In mathematics, the Lindelöf hypothesis is a conjecture by Finnish mathematician Ernst Leonard Lindelöf about the rate of growth of the Riemann zeta function on the critical line. This hypothesis is implied by the Riemann hypothesis. It says that for any ε > 0,\n\n  \n    \n      \n        ζ\n        \n        \n          (\n          \n            \n              \n                1\n                2\n              \n            \n            +\n            i\n            t\n          \n          )\n        \n     ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

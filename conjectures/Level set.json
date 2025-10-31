@@ -1,0 +1,11 @@
+{
+  "uuid": "ee74f6fc-400d-4fdc-b56a-9f5a22be4601",
+  "name": "Level set",
+  "link": "https://en.wikipedia.org/wiki/Level_set",
+  "summary": "In mathematics, a level set of a real-valued function f  of n real variables is a set where the function takes on a given constant value c, that is:\n\n  \n    \n      \n        \n          L\n          \n            c\n          \n        \n        (\n        f\n        )\n        =\n        \n          {\n          \n            (\n            \n              x\n              \n                1\n              \n            \n            ,\n            …\n            ,\n            \n              x\n              \n       ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

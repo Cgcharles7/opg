@@ -1,0 +1,11 @@
+{
+  "uuid": "3b92684b-6234-4de8-be94-81ae54b6dbf6",
+  "name": "Linear relation",
+  "link": "https://en.wikipedia.org/wiki/Linear_relation",
+  "summary": "In linear algebra, a linear relation, or simply relation, between elements of a vector space or a module is a linear equation that has these elements as a solution. \nMore precisely, if \n  \n    \n      \n        \n          e\n          \n            1\n          \n        \n        ,\n        …\n        ,\n        \n          e\n          \n            n\n          \n        \n      \n    \n    {\\displaystyle e_{1},\\dots ,e_{n}}\n  \n are elements of a (left) module M over a ring R (the case of a vector space over a",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "2989bac3-d31b-46d5-bc11-177161f0057e",
+  "name": "Laplace–Beltrami operator",
+  "link": "https://en.wikipedia.org/wiki/Laplace%E2%80%93Beltrami_operator",
+  "summary": "In differential geometry, the Laplace–Beltrami operator is a generalization of the Laplace operator to functions defined on submanifolds in Euclidean space and, even more generally, on Riemannian and pseudo-Riemannian manifolds. It is named after Pierre-Simon Laplace and Eugenio Beltrami.\nFor any twice-differentiable real-valued function f defined on Euclidean space Rn, the Laplace operator (also known as the Laplacian) takes f to the divergence of its gradient vector field, which is the sum of ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "cf37b87a-3a9e-479a-8090-8804add229bd",
+  "name": "Latin squares",
+  "link": "https://en.wikipedia.org/wiki/Latin_square",
+  "summary": "In combinatorics and in experimental design, a Latin square is an n × n array filled with n different symbols, each occurring exactly once in each row and exactly once in each column.  An example of a 3×3 Latin square is\n\nThe name \"Latin square\" was inspired by mathematical papers by Leonhard Euler (1707–1783), who used Latin characters as symbols, but any set of symbols can be used: in the above example, the alphabetic sequence A, B, C can be replaced by the integer sequence 1, 2, 3. Euler bega",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}
