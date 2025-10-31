@@ -2,43 +2,22 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Open Problem Garden (Revival)</title>
-  <link rel="stylesheet" href="style.css">
-
-  <!-- MathJax for LaTeX rendering -->
-  <script id="MathJax-script" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  <title>A Math Site for Unsolved Conjectures</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script>
+    window.MathJax = {
+      tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+      svg: { fontCache: 'global' }
+    };
   </script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" async></script>
 </head>
 <body>
-  <header>
-    <h1>Open Problem Garden</h1>
-    <p class="subtitle">A community-maintained collection of mathematical conjectures</p>
-  </header>
+  <div id="container">
+    <aside id="tree"></aside>
+    <main id="content"><p>Select a conjecture to view details.</p></main>
+  </div>
 
-  <main>
-    <aside id="menu" class="menu">
-      <p>Loading categories...</p>
-    </aside>
-
-    <section id="content" class="content">
-      <h2>Welcome</h2>
-      <p>
-        Explore open problems in mathematics, organized by subject.
-        Click a category on the left to view conjectures and their details.
-      </p>
-    </section>
-  </main>
-
-  <footer>
-    <p>
-      Built with love for the mathematical community.
-      Hosted on <a href="https://github.com/">GitHub Pages</a>.
-    </p>
-  </footer>
-
-  <!-- Main logic -->
   <script src="main.js"></script>
 </body>
 </html>
