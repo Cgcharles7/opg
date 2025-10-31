@@ -1,88 +1,70 @@
-document.addEventListener("DOMContentLoaded", async () => {
-    const menu = document.getElementById("menu");
-    const content = document.getElementById("content");
+async function loadConjectures() {
+  const manifestResponse = await fetch('manifest.json');
+  const files = await manifestResponse.json();
 
-    // Fetch the static JSON file
-    const response = await fetch("data/conjs.json");
-    const conjectures = await response.json();
-    console.log(conjectures);
+  const conjectures = [];
 
-    // Build a nested category structure
-    const categoryTree = {};
+  for (const file of files) {
+    const response = await fetch(`conjectures/${file}`);
+    const data = await response.json();
+    conjectures.push(data);
+  }
 
-    conjectures.forEach(c => {
-        if (!c.categories) return;
+  buildTree(conjectures);
+}
 
-        const cats = c.categories.split(",").map(s => s.trim());
-        let node = categoryTree;
+// Build the category tree dynamically
+function buildTree(conjectures) {
+  const treeContainer = document.getElementById('tree');
+  treeContainer.innerHTML = '';
 
-        cats.forEach((cat, i) => {
-            if (!node[cat]) node[cat] = { __conjs: [] };
-            if (i === cats.length - 1) {
-                node[cat].__conjs.push(c);
-            }
-            node = node[cat];
-        });
+  const categories = {};
+
+  // Group conjectures by category
+  conjectures.forEach(c => {
+    (c.categories || []).forEach(cat => {
+      if (!categories[cat]) categories[cat] = [];
+      categories[cat].push(c);
+    });
+  });
+
+  // Build HTML
+  for (const cat in categories) {
+    const catDiv = document.createElement('div');
+    catDiv.className = 'category';
+    catDiv.innerHTML = `<strong>${cat}</strong>`;
+    
+    const list = document.createElement('ul');
+
+    categories[cat].forEach(c => {
+      const item = document.createElement('li');
+      const link = document.createElement('a');
+      link.href = '#';
+      link.textContent = c.title;
+      link.addEventListener('click', () => displayConjecture(c));
+      item.appendChild(link);
+      list.appendChild(item);
     });
 
-    // Recursive function to build menu HTML
-    function buildMenu(tree, parentEl) {
-        Object.keys(tree).forEach(key => {
-            if (key === "__conjs") return;
+    catDiv.appendChild(list);
+    treeContainer.appendChild(catDiv);
+  }
+}
 
-            const div = document.createElement("div");
-            div.className = "menu-item";
-            div.textContent = key;
+// Display a conjecture when clicked
+function displayConjecture(c) {
+  const content = document.getElementById('content');
+  content.innerHTML = `
+    <h2>${c.title}</h2>
+    <p><strong>Authors:</strong> ${c.authors ? c.authors.join(', ') : 'Unknown'}</p>
+    <p><strong>Categories:</strong> ${(c.categories || []).join(', ')}</p>
+    <p><strong>Difficulty:</strong> ${c.difficulty ?? '—'}</p>
+    <p>${c.description}</p>
+    <p><strong>References:</strong></p>
+    <ul>${(c.refs || []).map(r => `<li><a href="${r}" target="_blank">${r}</a></li>`).join('')}</ul>
+  `;
 
-            const subDiv = document.createElement("div");
-            subDiv.className = "submenu";
-            subDiv.style.display = "none";
+  if (window.MathJax) MathJax.typesetPromise();
+}
 
-            div.addEventListener("click", () => {
-                subDiv.style.display = subDiv.style.display === "none" ? "block" : "none";
-            });
-
-            parentEl.appendChild(div);
-            parentEl.appendChild(subDiv);
-
-            // Recursively build submenus
-            buildMenu(tree[key], subDiv);
-
-            // Add leaf nodes (conjectures)
-            tree[key].__conjs.forEach(conj => {
-                const leaf = document.createElement("div");
-                leaf.className = "menu-leaf";
-                leaf.textContent = conj.title;
-                leaf.addEventListener("click", () => showConjecture(conj));
-                subDiv.appendChild(leaf);
-            });
-        });
-    }
-
-    function showConjecture(conj) {
-        content.innerHTML = `
-            <h2>${conj.title}</h2>
-            <p><strong>Authors:</strong> ${conj.authors || "Unknown"}</p>
-            <p><strong>Categories:</strong> ${conj.categories}</p>
-            <p><strong>Difficulty:</strong> ${conj.difficulty || "N/A"}</p>
-            <p><strong>Description:</strong><br>${conj.description}</p>
-            <p><strong>References:</strong> ${conj.refs || "None"}</p>
-            <p><strong>Keywords:</strong> ${conj.kwds || "None"}</p>
-        `;
-        if (window.MathJax) {
-            MathJax.typesetPromise([content]);
-        }
-        window.location.hash = `#conj-${conj.id}`;
-    }
-
-    // Build the menu
-    menu.innerHTML = "";
-    buildMenu(categoryTree, menu);
-
-    // Handle direct links via hash
-    if (window.location.hash.startsWith("#conj-")) {
-        const id = parseInt(window.location.hash.replace("#conj-", ""));
-        const conj = conjectures.find(c => c.id === id);
-        if (conj) showConjecture(conj);
-    }
-});
+document.addEventListener('DOMContentLoaded', loadConjectures);
