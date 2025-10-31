@@ -1,0 +1,16 @@
+{
+  "uuid": "741ffac4-158e-4b1c-b01e-257376ee4b11",
+  "name": "Osserman manifold",
+  "link": "https://en.wikipedia.org/wiki/Osserman_manifold",
+  "summary": "In mathematics, particularly in differential geometry, an Osserman manifold is a Riemannian manifold in which the characteristic polynomial of the Jacobi operator of unit tangent vectors is a constant on the unit tangent bundle. It is named after American mathematician Robert Osserman.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Differential geometry",
+    "Unsolved problems",
+    "Geometry"
+  ],
+  "authors": []
+}

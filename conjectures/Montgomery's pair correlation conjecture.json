@@ -1,0 +1,16 @@
+{
+  "uuid": "e91703bf-8716-4db2-8279-818268d77c4e",
+  "name": "Montgomery's pair correlation conjecture",
+  "link": "https://en.wikipedia.org/wiki/Montgomery%27s_pair_correlation_conjecture",
+  "summary": "In mathematics, Montgomery's pair correlation conjecture is a conjecture made by Hugh Montgomery (1973) that the pair correlation between pairs of zeros of the Riemann zeta function (normalized to have unit average spacing) is\n\n  \n    \n      \n        1\n        −\n        \n          \n            (\n            \n              \n                \n                  sin\n                  ⁡\n                  (\n                  π\n                  u\n                  )\n                \n                \n  ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Analytic number theory"
+  ],
+  "authors": []
+}

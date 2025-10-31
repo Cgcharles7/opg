@@ -1,0 +1,16 @@
+{
+  "uuid": "c3a9b926-3984-4987-bb1f-bd9ac5f2762c",
+  "name": "Lander, Parkin, and Selfridge conjecture",
+  "link": "https://en.wikipedia.org/wiki/Lander,_Parkin,_and_Selfridge_conjecture",
+  "summary": "In number theory, the Lander, Parkin, and Selfridge conjecture concerns the integer solutions of equations which contain sums of like powers.  The equations are generalisations of those considered in Fermat's Last Theorem. The conjecture is that if the sum of some k-th powers equals the sum of some other k-th powers, then the total number of terms in both sums combined must be at least k.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Additive number theory"
+  ],
+  "authors": []
+}

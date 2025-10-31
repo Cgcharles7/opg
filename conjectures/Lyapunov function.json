@@ -1,0 +1,15 @@
+{
+  "uuid": "d2322c33-b7f2-4638-97ee-68a81598b8c3",
+  "name": "Lyapunov function",
+  "link": "https://en.wikipedia.org/wiki/Lyapunov_function",
+  "summary": "In the theory of ordinary differential equations (ODEs), Lyapunov functions, named after Aleksandr Lyapunov, are scalar functions that may be used to prove the stability of an equilibrium of an ODE.  Lyapunov functions (also called Lyapunov’s second method for stability) are important to stability theory of dynamical systems and control theory. A similar concept appears in the theory of general state-space Markov chains usually under the name Foster–Lyapunov functions.\nFor certain classes of ODE",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Dynamical systems",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

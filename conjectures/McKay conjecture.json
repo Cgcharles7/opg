@@ -1,0 +1,16 @@
+{
+  "uuid": "2346effa-951e-4fd4-a8a9-48f54f9e6ea5",
+  "name": "McKay conjecture",
+  "link": "https://en.wikipedia.org/wiki/McKay_conjecture",
+  "summary": "In mathematics, specifically in the field of group theory, the McKay conjecture is a theorem of equality between two numbers: the number of irreducible complex characters of degree not divisible by a prime number \n  \n    \n      \n        p\n      \n    \n    {\\displaystyle p}\n  \n for a given finite group and the same number for the normalizer in that group of a Sylow \n  \n    \n      \n        p\n      \n    \n    {\\displaystyle p}\n  \n-subgroup. \nIt is named after the Canadian mathematician John McKay, wh",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems",
+    "Representation theory"
+  ],
+  "authors": []
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "953127b7-e376-49f5-9d7b-98a982836e04",
+  "name": "Lychrel number",
+  "link": "https://en.wikipedia.org/wiki/Lychrel_number",
+  "summary": "A Lychrel number is a natural number that cannot form a palindrome through the iterative process of repeatedly reversing its digits and adding the resulting numbers. This process is sometimes called the 196-algorithm, after the most famous number associated with the process. In base ten, no Lychrel numbers have been yet proven to exist, but many, including 196, are suspected on heuristic and statistical grounds. The name \"Lychrel\" was coined by Wade Van Landingham as a rough anagram of \"Cheryl\",",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "General"
+  ],
+  "authors": []
+}

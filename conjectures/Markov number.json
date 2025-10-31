@@ -1,0 +1,16 @@
+{
+  "uuid": "bda718a3-7cbf-4ebe-90da-578826211f32",
+  "name": "Markov number",
+  "link": "https://en.wikipedia.org/wiki/Markov_number",
+  "summary": "A Markov number or Markoff number is a positive integer x, y or z that is part of a solution to the Markov Diophantine equation\n\n  \n    \n      \n        \n          x\n          \n            2\n          \n        \n        +\n        \n          y\n          \n            2\n          \n        \n        +\n        \n          z\n          \n            2\n          \n        \n        =\n        3\n        x\n        y\n        z\n        ,\n        \n      \n    \n    {\\displaystyle x^{2}+y^{2}+z^{2}=3xyz,\\,}\n  \n\nstudied",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Diophantine equations",
+    "Number theory",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

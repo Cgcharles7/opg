@@ -1,0 +1,16 @@
+{
+  "uuid": "405b501a-cf4f-4e90-8b8d-1bc2fb9760a0",
+  "name": "Lafforgue's theorem",
+  "link": "https://en.wikipedia.org/wiki/Lafforgue%27s_theorem",
+  "summary": "In mathematics, Lafforgue's theorem, due to Laurent Lafforgue, completes the Langlands program for general linear groups over algebraic function fields, by giving a correspondence between automorphic forms on these groups and representations of Galois groups. \nThe Langlands conjectures were introduced by Langlands (1967, 1970) and  describe a correspondence between representations of the Weil group of an algebraic function field and representations of algebraic groups over the function field, ge",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "20th century",
+    "Number theory",
+    "Problems solved since 1995"
+  ],
+  "authors": []
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "327515d8-a66b-4170-9f57-8a9f76d5355a",
+  "name": "Lenstra–Pomerance–Wagstaff conjecture",
+  "link": "https://en.wikipedia.org/wiki/Mersenne_conjectures",
+  "summary": "In mathematics, the Mersenne conjectures concern the characterization of a kind of prime numbers called Mersenne primes, meaning prime numbers that are a power of two minus one.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}

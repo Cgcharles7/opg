@@ -1,0 +1,17 @@
+{
+  "uuid": "19bd40d1-0fe7-49b7-901a-4bf0c338e62c",
+  "name": "Noetherian ring",
+  "link": "https://en.wikipedia.org/wiki/Noetherian_ring",
+  "summary": "In mathematics, a Noetherian ring is a ring that satisfies the ascending chain condition on left and right ideals. If the chain condition is satisfied only for left ideals or for right ideals, then the ring is said left-Noetherian or right-Noetherian respectively. Formally, every increasing sequence \n  \n    \n      \n        \n          I\n          \n            1\n          \n        \n        ⊆\n        \n          I\n          \n            2\n          \n        \n        ⊆\n        \n          I\n          ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems",
+    "Algebraic geometry",
+    "Geometry"
+  ],
+  "authors": []
+}

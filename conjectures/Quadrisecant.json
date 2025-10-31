@@ -1,0 +1,15 @@
+{
+  "uuid": "72ec07a7-54ab-4ece-aa4a-ef75fde01daa",
+  "name": "Quadrisecant",
+  "link": "https://en.wikipedia.org/wiki/Quadrisecant",
+  "summary": "In geometry, a quadrisecant or quadrisecant line of a space curve is a line that passes through four points of the curve. This is the largest possible number of intersections that a generic space curve can have with a line, and for such curves the quadrisecants form a discrete set of lines. Quadrisecants have been studied for curves of several types:\n\nKnots and links in knot theory, when nontrivial, always have quadrisecants, and the existence and number of quadrisecants has been studied in conn",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Topology",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

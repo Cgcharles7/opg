@@ -1,0 +1,16 @@
+{
+  "uuid": "dc20fed3-cce1-4201-83d0-a6eb7a4ae99c",
+  "name": "Pólya conjecture",
+  "link": "https://en.wikipedia.org/wiki/P%C3%B3lya_conjecture",
+  "summary": "In number theory, the Pólya conjecture (or Pólya's conjecture) stated that \"most\" (i.e., 50% or more) of the natural numbers less than any given number have an odd number of prime factors. The conjecture was set forth by the Hungarian mathematician George Pólya in 1919, and proved false in 1958 by C. Brian Haselgrove. Though mathematicians typically refer to this statement as the Pólya conjecture, Pólya never actually conjectured that the statement was true; rather, he showed that the truth of t",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Analytic number theory"
+  ],
+  "authors": []
+}

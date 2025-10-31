@@ -1,0 +1,15 @@
+{
+  "uuid": "7718d9d1-b9ff-411e-9c99-b22185ab7a9b",
+  "name": "Monomial conjecture",
+  "link": "https://en.wikipedia.org/wiki/Monomial_conjecture",
+  "summary": "In commutative algebra, a field of mathematics, the monomial conjecture of Melvin Hochster says the following:\nLet A be a Noetherian local ring of Krull dimension d and let x1, ..., xd be a system of parameters for A (so that A/(x1, ..., xd) is an Artinian ring). Then for all positive integers t, we have\n\n  \n    \n      \n        \n          x\n          \n            1\n          \n          \n            t\n          \n        \n        ⋯\n        \n          x\n          \n            d\n          \n         ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

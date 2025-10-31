@@ -1,0 +1,16 @@
+{
+  "uuid": "cde03d43-182b-424b-9d90-d5287cf970d8",
+  "name": "Mersenne prime",
+  "link": "https://en.wikipedia.org/wiki/Mersenne_prime",
+  "summary": "In mathematics, a Mersenne prime is a prime number that is one less than a power of two.  That is, it is a prime number of the form Mn = 2n − 1 for some integer n.  They are named after Marin Mersenne, a French Minim friar, who studied them in the early 17th century.  If n is a composite number then so is 2n − 1.  Therefore, an equivalent definition of the Mersenne primes is that they are the prime numbers of the form Mp = 2p − 1 for some prime p.\nThe exponents n which give Mersenne primes are 2",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}
