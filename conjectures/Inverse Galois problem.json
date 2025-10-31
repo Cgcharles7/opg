@@ -1,0 +1,11 @@
+{
+  "uuid": "4efdea99-1f7d-45c7-af8d-7b1b69e9e53c",
+  "name": "Inverse Galois problem",
+  "link": "https://en.wikipedia.org/wiki/Inverse_Galois_problem",
+  "summary": "In Galois theory, the inverse Galois problem concerns whether or not every finite group appears as the Galois group of some Galois extension of the rational numbers \n  \n    \n      \n        \n          Q\n        \n      \n    \n    {\\displaystyle \\mathbb {Q} }\n  \n. This problem, first posed in the early 19th century, is unsolved.\nThere are some permutation groups for which generic polynomials are known, which define all algebraic extensions of \n  \n    \n      \n        \n          Q\n        \n      \n    ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

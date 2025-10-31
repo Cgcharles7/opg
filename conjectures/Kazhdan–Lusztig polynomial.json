@@ -1,0 +1,11 @@
+{
+  "uuid": "02f3ccfc-c18d-4060-9ee7-0f8f12b8c2a8",
+  "name": "Kazhdan–Lusztig polynomial",
+  "link": "https://en.wikipedia.org/wiki/Kazhdan%E2%80%93Lusztig_polynomial",
+  "summary": "In the mathematical field of representation theory, a Kazhdan–Lusztig polynomial \n  \n    \n      \n        \n          P\n          \n            y\n            ,\n            w\n          \n        \n        (\n        q\n        )\n      \n    \n    {\\displaystyle P_{y,w}(q)}\n  \n is a member of a family of integral polynomials introduced by David Kazhdan and George Lusztig (1979). They are indexed by pairs of elements y, w of a  Coxeter group W, which can in particular be the Weyl group of a Lie group.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

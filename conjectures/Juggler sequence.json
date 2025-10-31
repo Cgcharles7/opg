@@ -1,0 +1,11 @@
+{
+  "uuid": "a30a8984-a397-4f6f-bc05-a47455cca76a",
+  "name": "Juggler sequence",
+  "link": "https://en.wikipedia.org/wiki/Juggler_sequence",
+  "summary": "In number theory, a juggler sequence is an integer sequence that starts with a positive integer a0, with each subsequent term in the sequence defined by the recurrence relation:\n\n  \n    \n      \n        \n          a\n          \n            k\n            +\n            1\n          \n        \n        =\n        \n          \n            {\n            \n              \n                \n                  \n                    ⌊\n                    \n                      a\n                      \n              ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

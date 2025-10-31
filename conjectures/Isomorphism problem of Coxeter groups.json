@@ -1,0 +1,11 @@
+{
+  "uuid": "f1c39fe9-4706-47f5-812c-0228f78776dc",
+  "name": "Isomorphism problem of Coxeter groups",
+  "link": "https://en.wikipedia.org/wiki/Isomorphism_problem_of_Coxeter_groups",
+  "summary": "It is an unresolved problem in the mathematical field of group theory to determine whether or not two Coxeter groups (specified by their Coxeter diagrams) are isomorphic as abstract groups.  Equivalently, the problem asks to determine, for a given Coxeter group \n  \n    \n      \n        W\n      \n    \n    {\\displaystyle W}\n  \n, the possible subsets \n  \n    \n      \n        S\n      \n    \n    {\\displaystyle S}\n  \n of \n  \n    \n      \n        W\n      \n    \n    {\\displaystyle W}\n  \n that are Coxeter gene",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

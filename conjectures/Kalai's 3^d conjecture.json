@@ -1,0 +1,11 @@
+{
+  "uuid": "7af72123-3111-40cc-ba1a-d1dd402f5c9b",
+  "name": "Kalai's 3^d conjecture",
+  "link": "https://en.wikipedia.org/wiki/Kalai%27s_3%5Ed_conjecture",
+  "summary": "In geometry, more specifically in polytope theory, Kalai's 3d conjecture is a conjecture on the polyhedral combinatorics of centrally symmetric polytopes, made by Gil Kalai in 1989. It states that every d-dimensional centrally symmetric polytope has at least 3d nonempty faces (including the polytope itself as a face but not including the empty set).",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "06b6cc12-66dc-4ea0-9def-1084b2951abd",
+  "name": "Kronecker–Weber theorem",
+  "link": "https://en.wikipedia.org/wiki/Kronecker%E2%80%93Weber_theorem",
+  "summary": "In algebraic number theory, it can be shown that every cyclotomic field is an abelian extension of the rational number field Q, having Galois group of the form \n  \n    \n      \n        (\n        \n          Z\n        \n        \n          /\n        \n        n\n        \n          Z\n        \n        \n          )\n          \n            ×\n          \n        \n      \n    \n    {\\displaystyle (\\mathbb {Z} /n\\mathbb {Z} )^{\\times }}\n  \n. The Kronecker–Weber theorem provides a partial converse: every finite ab",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

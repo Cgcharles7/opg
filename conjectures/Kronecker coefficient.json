@@ -1,0 +1,11 @@
+{
+  "uuid": "257e91e4-b992-46c1-becd-c69002767ae5",
+  "name": "Kronecker coefficient",
+  "link": "https://en.wikipedia.org/wiki/Kronecker_coefficient",
+  "summary": "In mathematics, Kronecker coefficients gλμν describe the decomposition of the tensor product (= Kronecker product) of two irreducible representations of a symmetric group into irreducible representations. They play an important role in algebraic combinatorics and geometric complexity theory. They were introduced by Murnaghan in 1938.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

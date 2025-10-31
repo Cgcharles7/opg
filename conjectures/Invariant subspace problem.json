@@ -1,0 +1,11 @@
+{
+  "uuid": "8e1fd5a3-ba42-4231-9b8a-c6000a161293",
+  "name": "Invariant subspace problem",
+  "link": "https://en.wikipedia.org/wiki/Invariant_subspace_problem",
+  "summary": "In the field of mathematics known as functional analysis, the invariant subspace problem is a partially unresolved problem asking whether every bounded operator on a complex Banach space sends some non-trivial closed subspace to itself. Many variants of the problem have been solved, by restricting the class of bounded operators considered or by specifying a particular class of Banach spaces. The problem is still open for separable Hilbert spaces (in other words, each example, found so far, of an",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

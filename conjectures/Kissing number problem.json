@@ -1,0 +1,11 @@
+{
+  "uuid": "d3feb612-52d9-4e1c-be3c-bb3d6c9ec07c",
+  "name": "Kissing number problem",
+  "link": "https://en.wikipedia.org/wiki/Kissing_number",
+  "summary": "In geometry, the kissing number of a mathematical space is defined as the greatest number of non-overlapping unit spheres that can be arranged in that space such that they each touch a common unit sphere.  For a given sphere packing (arrangement of spheres) in a given space, a kissing number can also be defined for each individual sphere as the number of spheres it touches.  For a lattice packing the kissing number is the same for every sphere, but for an arbitrary sphere packing the kissing num",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

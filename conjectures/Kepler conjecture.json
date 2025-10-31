@@ -1,0 +1,11 @@
+{
+  "uuid": "5ceb0720-18fd-4435-9070-b903070d2dbc",
+  "name": "Kepler conjecture",
+  "link": "https://en.wikipedia.org/wiki/Kepler_conjecture",
+  "summary": "The Kepler conjecture, named after the 17th-century mathematician and astronomer Johannes Kepler, is a mathematical theorem about sphere packing in three-dimensional Euclidean space. It states that no arrangement of equally sized spheres filling space has a greater average density than that of the cubic close packing (face-centered cubic) and hexagonal close packing arrangements. The density of these arrangements is around 74.05%.\nIn 1998, the American mathematician Thomas Hales, following an ap",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}
