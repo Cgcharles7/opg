@@ -72,15 +72,28 @@ Each conjecture is stored as a JSON or Markdown file with fields like:
   "title": "Chords of longest cycles",
   "authors": ["Thomassen"],
   "categories": ["Graph Theory", "Basic GT", "Cycles"],
-  "difficulty": "★★★",
+  "difficulty": 3,
   "description": "If G is a 3-connected graph, every longest cycle in G has a chord.",
   "refs": ["Some relevant paper or arXiv link"],
   "kwds": ["chord", "cycle", "connectivity"],
   "is_open": true,
   "head": "Graph Theory",
-  "prev_conjs": []
-}```
+  "prev_conjs": [],
+  "cntr": 0
+}
 
+# Explanation of JSON Fields
+id: This is a unique identifier for the conjecture
+title: This should be the name of the conjecture
+authors: Likely an originator of the conjecture
+categories: This is an array of topics. Inside the arrays should be strings. 
+difficulty: A numeric representation on a scale of 0 to 4. This is difficult to gauge though because if it is unsolved, how can someone know how difficult it is. Maybe interest or popularity would be a better metric here.
+refs: This is short for references. It will contain an array of papers or arxiv links.
+kwds: This is an array of keywords.
+is_open: currently set to true for all problems.
+head: If we assume the conjectures are asking an if then proposition, or a P -> Q, then the head is the P portion. Over a large enough set of conjectures, this would allow us to group them by similarity of heads to see how they correlate. 
+prev_conjs: This empty array will track user activity across the site in a PageRank style. In particular, it will evaluate which conjectures they visit before visiting this conjecture. Similar to the Google's initial pagerank, it seems plausable that a lot of activity on other conjectures immediately before doing another one, could mean that they are linked together, particuarly if it happens a lot.
+cntr: This integer is a measure of how popular each conjecture is over time. 
 
 # Licensing & Attribution
 This project is under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
