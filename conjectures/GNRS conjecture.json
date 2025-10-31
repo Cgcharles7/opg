@@ -1,0 +1,16 @@
+{
+  "uuid": "db91359b-be52-4fb3-ad0e-5a7138507801",
+  "name": "GNRS conjecture",
+  "link": "https://en.wikipedia.org/wiki/GNRS_conjecture",
+  "summary": "In theoretical computer science and metric geometry, the GNRS conjecture connects the theory of graph minors, the stretch factor of embeddings, and the approximation ratio of multi-commodity flow problems. It is named after Anupam Gupta, Ilan Newman, Yuri Rabinovich, and Alistair Sinclair, who formulated it in 2004.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Graph drawing and embedding",
+    "Unsolved problems",
+    "Graph theory"
+  ],
+  "authors": []
+}

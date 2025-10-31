@@ -1,0 +1,15 @@
+{
+  "uuid": "c1fdac22-9a1f-46ae-9ed3-fc1cdbf066fd",
+  "name": "Köthe conjecture",
+  "link": "https://en.wikipedia.org/wiki/K%C3%B6the_conjecture",
+  "summary": "In mathematics, the Köthe conjecture is a problem in ring theory, open as of 2025. It is formulated in various ways. Suppose that R is a ring. One way to state the conjecture is that if R has no nil ideal, other than {0}, then it has no nil one-sided ideal, other than {0}.\nThis question was posed in 1930 by Gottfried Köthe (1905–1989). The Köthe conjecture has been shown to be true for various classes of rings, such as polynomial identity rings and right Noetherian rings, but a general solution ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

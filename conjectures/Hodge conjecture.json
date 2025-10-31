@@ -1,0 +1,15 @@
+{
+  "uuid": "b114e162-5c1b-4a67-8879-db486ea3b9bd",
+  "name": "Hodge conjecture",
+  "link": "https://en.wikipedia.org/wiki/Hodge_conjecture",
+  "summary": "In mathematics, the Hodge conjecture is a major unsolved problem in algebraic geometry and complex geometry that relates the algebraic topology of a non-singular complex algebraic variety to its subvarieties.\nIn simple terms, the Hodge conjecture asserts that the basic topological information like the number of holes in certain geometric spaces, complex algebraic varieties, can be understood by studying the possible nice shapes sitting inside those spaces, which look like zero sets of polynomial",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Millennium Prize Problems",
+    "Lists of unsolved problems in mathematics"
+  ],
+  "authors": []
+}

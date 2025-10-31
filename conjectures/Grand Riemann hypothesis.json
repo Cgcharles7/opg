@@ -1,0 +1,16 @@
+{
+  "uuid": "2da2e32c-2e2b-45a6-ab06-992f5a56a52c",
+  "name": "Grand Riemann hypothesis",
+  "link": "https://en.wikipedia.org/wiki/Grand_Riemann_hypothesis",
+  "summary": "In mathematics, the grand Riemann hypothesis is a generalisation of the Riemann hypothesis and generalized Riemann hypothesis. It states that the nontrivial zeros of all automorphic L-functions lie on the critical line \n  \n    \n      \n        \n          \n            1\n            2\n          \n        \n        +\n        i\n        t\n      \n    \n    {\\displaystyle {\\frac {1}{2}}+it}\n  \n with \n  \n    \n      \n        t\n      \n    \n    {\\displaystyle t}\n  \n a real number variable and \n  \n    \n      \n ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Analytic number theory"
+  ],
+  "authors": []
+}

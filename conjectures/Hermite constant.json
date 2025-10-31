@@ -1,0 +1,16 @@
+{
+  "uuid": "83a0b2e0-5248-44b1-8310-d759ddb77fc8",
+  "name": "Hermite constant",
+  "link": "https://en.wikipedia.org/wiki/Hermite_constant",
+  "summary": "In mathematics, the Hermite constant, named after Charles Hermite, determines how long a shortest element of a lattice in Euclidean space can be.\nThe constant \n  \n    \n      \n        \n          γ\n          \n            n\n          \n        \n      \n    \n    {\\displaystyle \\gamma _{n}}\n  \n for integers \n  \n    \n      \n        n\n        >\n        0\n      \n    \n    {\\displaystyle n>0}\n  \n is defined as follows.  For a lattice \n  \n    \n      \n        L\n      \n    \n    {\\displaystyle L}\n  \n in Euclide",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Euclidean geometry",
+    "Geometry"
+  ],
+  "authors": []
+}

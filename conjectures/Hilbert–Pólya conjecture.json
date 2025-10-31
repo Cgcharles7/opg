@@ -1,0 +1,16 @@
+{
+  "uuid": "3ed1c2c8-6ba8-43ec-b443-b44e4602c43f",
+  "name": "Hilbert–Pólya conjecture",
+  "link": "https://en.wikipedia.org/wiki/Hilbert%E2%80%93P%C3%B3lya_conjecture",
+  "summary": "In mathematics, the Hilbert–Pólya conjecture states that the non-trivial zeros of the Riemann zeta function correspond to eigenvalues of a self-adjoint operator. It is a possible approach to the Riemann hypothesis, by means of spectral theory.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Analytic number theory"
+  ],
+  "authors": []
+}

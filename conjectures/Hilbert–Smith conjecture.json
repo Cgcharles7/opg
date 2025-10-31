@@ -1,0 +1,15 @@
+{
+  "uuid": "3e487ac7-dcb3-4378-8d7f-17eb388ee377",
+  "name": "Hilbert–Smith conjecture",
+  "link": "https://en.wikipedia.org/wiki/Hilbert%E2%80%93Smith_conjecture",
+  "summary": "In mathematics, the Hilbert–Smith conjecture is concerned with the transformation groups of manifolds; and in particular with the limitations on topological groups G that can act effectively (faithfully) on a (topological) manifold M. Restricting to groups G which are locally compact and have a continuous, faithful group action on M, the conjecture states that G must be a Lie group.\nBecause of known structural results on G, it is enough to deal with the case where G is the additive group \n  \n   ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Topology",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

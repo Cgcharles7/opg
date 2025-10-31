@@ -1,0 +1,16 @@
+{
+  "uuid": "0e51bc21-dabc-4b57-8a49-cbf896dbcbfe",
+  "name": "Hartmanis–Stearns conjecture",
+  "link": "https://en.wikipedia.org/wiki/Hartmanis%E2%80%93Stearns_conjecture",
+  "summary": "In theoretical computer science and mathematics, the Hartmanis–Stearns conjecture is an open problem named after Juris Hartmanis and Richard E. Stearns, who posed it in a 1965 paper that founded the field of computational complexity theory (earning them the 1993 ACM Turing Award).\nAn infinite word is said to be real-time computable when there exists a multitape Turing machine which (run without input) writes the successive letters of the word on its output tape, taking a bounded amount of time b",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Diophantine approximation and transcendental number theory",
+    "Number theory",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

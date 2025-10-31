@@ -1,0 +1,16 @@
+{
+  "uuid": "a827b93e-2585-4b98-95a8-a529075cf6f4",
+  "name": "Grimm's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Grimm%27s_conjecture",
+  "summary": "In number theory, Grimm's conjecture (named after Carl Albert Grimm, 1 April 1926 – 2 January 2018) states that to each element of a set of consecutive composite numbers one can assign a distinct prime that divides it. It was first published in American Mathematical Monthly, 76 (1969) 1126-1128.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "General"
+  ],
+  "authors": []
+}

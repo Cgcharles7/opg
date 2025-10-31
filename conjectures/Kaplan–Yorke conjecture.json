@@ -1,0 +1,15 @@
+{
+  "uuid": "281fd367-abe9-4d83-bf0b-0a3c4cb5701b",
+  "name": "Kaplan–Yorke conjecture",
+  "link": "https://en.wikipedia.org/wiki/Kaplan%E2%80%93Yorke_conjecture",
+  "summary": "In applied mathematics, the Kaplan–Yorke conjecture concerns the dimension of an attractor, using Lyapunov exponents. By arranging the Lyapunov exponents in order from largest to smallest \n  \n    \n      \n        \n          λ\n          \n            1\n          \n        \n        ≥\n        \n          λ\n          \n            2\n          \n        \n        ≥\n        ⋯\n        ≥\n        \n          λ\n          \n            n\n          \n        \n      \n    \n    {\\displaystyle \\lambda _{1}\\geq \\lambda _{",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Dynamical systems",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

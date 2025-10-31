@@ -1,0 +1,16 @@
+{
+  "uuid": "d4d8e17d-73f6-4437-bddc-0404a6fb0a28",
+  "name": "Heilbronn triangle problem",
+  "link": "https://en.wikipedia.org/wiki/Heilbronn_triangle_problem",
+  "summary": "In discrete geometry and discrepancy theory, the Heilbronn triangle problem is a problem of placing points in the plane, avoiding triangles of small area. It is named after Hans Heilbronn, who conjectured that, no matter how points are placed in a given area, the smallest triangle area will be at most inversely proportional to the square of the number of points. His conjecture was proven false, but the asymptotic growth rate of the minimum triangle area remains unknown.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Discrete geometry",
+    "Unsolved problems",
+    "Geometry"
+  ],
+  "authors": []
+}

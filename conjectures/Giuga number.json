@@ -1,0 +1,16 @@
+{
+  "uuid": "684b24ad-7d33-42e8-8389-37b501135aed",
+  "name": "Giuga number",
+  "link": "https://en.wikipedia.org/wiki/Giuga_number",
+  "summary": "In number theory, a Giuga number is a composite number \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n such that for each of its distinct prime factors \n  \n    \n      \n        \n          p\n          \n            i\n          \n        \n      \n    \n    {\\displaystyle p_{i}}\n  \n we have \n  \n    \n      \n        \n          p\n          \n            i\n          \n        \n        \n          |\n        \n        \n          (\n          \n            \n              \n                n\n          ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "General"
+  ],
+  "authors": []
+}

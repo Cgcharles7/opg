@@ -1,0 +1,15 @@
+{
+  "uuid": "482ab051-cc90-46f8-8570-b256b3876166",
+  "name": "Goldberg–Seymour conjecture",
+  "link": "https://en.wikipedia.org/wiki/Goldberg%E2%80%93Seymour_conjecture",
+  "summary": "In graph theory, the Goldberg–Seymour conjecture states that, for a multigraph \n  \n    \n      \n        G\n      \n    \n    {\\displaystyle G}\n  \n\n  \n    \n      \n        \n          \n            χ\n            ′\n          \n        \n        ⁡\n        (\n        G\n        )\n        ≤\n        max\n        (\n        1\n        +\n        \n          Δ\n        \n        ⁡\n        (\n        G\n        )\n        ,\n        \n        \n          Γ\n        \n        ⁡\n        (\n        G\n        )\n        )\n      \n    \n ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Problems solved since 1995",
+    "Graph theory"
+  ],
+  "authors": []
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "6af06035-7880-49f4-8f9f-1f3f5123276f",
+  "name": "Kelmans–Seymour conjecture",
+  "link": "https://en.wikipedia.org/wiki/Kelmans%E2%80%93Seymour_conjecture",
+  "summary": "In graph theory, the Kelmans–Seymour conjecture states that every 5-vertex-connected graph that is not planar contains a subdivision of the 5-vertex complete graph K5. It is named for Paul Seymour and Alexander Kelmans, who independently described the conjecture; Seymour in 1977 and Kelmans in 1979. A proof was announced in 2016, and published in four papers in 2020.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Problems solved since 1995",
+    "Graph theory"
+  ],
+  "authors": []
+}

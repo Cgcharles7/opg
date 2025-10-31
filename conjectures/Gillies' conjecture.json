@@ -1,0 +1,16 @@
+{
+  "uuid": "318ec75e-c79f-470b-9e01-491c804e2a98",
+  "name": "Gillies' conjecture",
+  "link": "https://en.wikipedia.org/wiki/Gillies%27_conjecture",
+  "summary": "In number theory, Gillies' conjecture is a conjecture about the distribution of prime divisors of Mersenne numbers and was made by Donald B. Gillies in a 1964 paper in which he also announced the discovery of three new Mersenne primes. The conjecture is a specialization of the prime number theorem and is a refinement of conjectures due to I. J. Good and Daniel Shanks. The conjecture remains an open problem: several papers give empirical support, but it disagrees with the widely accepted (but als",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}
