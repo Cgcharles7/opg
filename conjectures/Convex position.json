@@ -1,0 +1,11 @@
+{
+  "uuid": "33282689-7355-4c2e-a4a8-53afd126c89d",
+  "name": "Convex position",
+  "link": "https://en.wikipedia.org/wiki/Convex_position",
+  "summary": "In discrete and computational geometry, a set of points in the Euclidean plane or a higher-dimensional Euclidean space is said to be in convex position or convex independent if none of the points can be represented as a convex combination of the others. A finite set of points is in convex position if all of the points are vertices of their convex hull. More generally, a family of convex sets is said to be in convex position if they are pairwise disjoint and none of them is contained in the conve",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "ea9c21a3-8aac-480b-a8a4-1ab5ab37bc7e",
+  "name": "Conway knot",
+  "link": "https://en.wikipedia.org/wiki/Conway_knot",
+  "summary": "In mathematics, specifically in knot theory, the Conway knot (or Conway's knot) is a particular knot with 11 crossings, named after John Horton Conway.\nIt is related by mutation to the Kinoshita–Terasaka knot, with which it shares the same Jones polynomial. Both knots also have the curious property of having the same Alexander polynomial and Conway polynomial as the unknot.\nThe issue of the sliceness of the Conway knot was resolved in 2020 by Lisa Piccirillo, 50 years after John Horton Conway fi",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "2eea134f-c415-4ab0-974e-00691e16c5b4",
+  "name": "Critical point (mathematics)",
+  "link": "https://en.wikipedia.org/wiki/Critical_point_(mathematics)",
+  "summary": "In mathematics, a critical point is the argument of a function where the function derivative is zero (or undefined, as specified below).\nThe value of the function at a critical point is a critical value.\nMore specifically, when dealing with functions of a real variable, a critical point is a point in the domain of the function where the function derivative is equal to zero (also known as a stationary point) or where the function is not differentiable. Similarly, when dealing with complex variabl",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

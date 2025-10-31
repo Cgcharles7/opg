@@ -1,0 +1,11 @@
+{
+  "uuid": "810a4488-2ec2-4bef-8910-06010d10435b",
+  "name": "Cuboid conjectures",
+  "link": "https://en.wikipedia.org/wiki/Euler_brick",
+  "summary": "In mathematics, an Euler brick, named after Leonhard Euler, is a rectangular cuboid whose edges and face diagonals all have integer lengths. A primitive Euler brick is an Euler brick whose edge lengths are relatively prime. A perfect Euler brick is one whose space diagonal is also an integer, but such a brick has not yet been found.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

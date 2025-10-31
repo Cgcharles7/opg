@@ -1,0 +1,11 @@
+{
+  "uuid": "b57cce34-126d-4574-b711-08567ccd8ed6",
+  "name": "Dedekind number",
+  "link": "https://en.wikipedia.org/wiki/Dedekind_number",
+  "summary": "In mathematics, the Dedekind numbers are a rapidly growing sequence of integers named after Richard Dedekind, who defined them in 1897. The Dedekind number \n  \n    \n      \n        M\n        (\n        n\n        )\n      \n    \n    {\\displaystyle M(n)}\n  \n is the number of monotone Boolean functions of \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n variables. Equivalently, it is the number of antichains of subsets of an \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

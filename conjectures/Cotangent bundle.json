@@ -1,0 +1,11 @@
+{
+  "uuid": "32768d5b-c43f-4cdd-97ff-20ffe2081467",
+  "name": "Cotangent bundle",
+  "link": "https://en.wikipedia.org/wiki/Cotangent_bundle",
+  "summary": "In mathematics, especially differential geometry, the cotangent bundle of a smooth manifold is the vector bundle of all the cotangent spaces at every point in the manifold. It may be described also as the dual bundle to the tangent bundle. This may be generalized to categories with more structure than smooth manifolds, such as complex manifolds, or (in the form of cotangent sheaf) algebraic varieties or schemes. In the smooth case, any Riemannian metric or symplectic form gives an isomorphism be",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

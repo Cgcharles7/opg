@@ -1,0 +1,11 @@
+{
+  "uuid": "cf1155d6-46b6-4186-8ec4-748384e4b3ca",
+  "name": "Conformal map",
+  "link": "https://en.wikipedia.org/wiki/Conformal_map",
+  "summary": "In mathematics, a conformal map is a function that locally preserves angles, but not necessarily lengths.\nMore formally, let \n  \n    \n      \n        U\n      \n    \n    {\\displaystyle U}\n  \n and \n  \n    \n      \n        V\n      \n    \n    {\\displaystyle V}\n  \n be open subsets of \n  \n    \n      \n        \n          \n            R\n          \n          \n            n\n          \n        \n      \n    \n    {\\displaystyle \\mathbb {R} ^{n}}\n  \n. A function \n  \n    \n      \n        f\n        :\n        U\n       ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "9ba9104e-e462-47db-842a-2488fe1baf3c",
+  "name": "Degree sequence",
+  "link": "https://en.wikipedia.org/wiki/Degree_(graph_theory)",
+  "summary": "In graph theory, the degree (or valency) of a vertex of a graph is the number of edges that are incident to the vertex; in a multigraph, a loop contributes 2 to a vertex's degree, for the two ends of the edge. The degree of a vertex \n  \n    \n      \n        v\n      \n    \n    {\\displaystyle v}\n  \n is denoted \n  \n    \n      \n        deg\n        ⁡\n        (\n        v\n        )\n      \n    \n    {\\displaystyle \\deg(v)}\n  \n or \n  \n    \n      \n        deg\n        ⁡\n        v\n      \n    \n    {\\displaystyl",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

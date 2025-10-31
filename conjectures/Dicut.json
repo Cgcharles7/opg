@@ -1,0 +1,11 @@
+{
+  "uuid": "0f96f4c5-d7ea-4b6c-9515-d3e98a2c889c",
+  "name": "Dicut",
+  "link": "https://en.wikipedia.org/wiki/Dicut",
+  "summary": "In mathematics, a dicut is a set of edges in a directed graph,\ndefined from a partition of the vertices into two subsets, so that each edge that has an endpoint in both subsets is directed from the first subset to the second. Each strongly connected component of the graph must be entirely contained in one of the two subsets, so a strongly connected graph has no nontrivial dicuts. Often, the underlying directed graph is assumed to be weakly connected; if not, the empty edge set would correspond t",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

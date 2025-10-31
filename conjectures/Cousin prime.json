@@ -1,0 +1,11 @@
+{
+  "uuid": "3fbb4c38-3bee-470a-a6ce-56db0da02b05",
+  "name": "Cousin prime",
+  "link": "https://en.wikipedia.org/wiki/Cousin_prime",
+  "summary": "In number theory, cousin primes are prime numbers that differ by four.  Compare this with twin primes, pairs of prime numbers that differ by two, and sexy primes, pairs of prime numbers that differ by six.\nThe cousin primes (sequences OEIS: A023200 and OEIS: A046132 in OEIS) below 1000 are:\n\n(3, 7), (7, 11), (13, 17), (19, 23), (37, 41), (43, 47), (67, 71), (79, 83), (97, 101), (103, 107), (109, 113), (127, 131), (163, 167), (193, 197), (223, 227), (229, 233), (277, 281), (307, 311), (313, 317),",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

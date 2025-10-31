@@ -1,0 +1,11 @@
+{
+  "uuid": "1f3c7312-9e38-4e6e-b25d-7ac5c18beb3f",
+  "name": "Degree of a polynomial",
+  "link": "https://en.wikipedia.org/wiki/Degree_of_a_polynomial",
+  "summary": "In mathematics, the degree of a polynomial is the highest of the degrees of the polynomial's monomials (individual terms) with non-zero coefficients. The degree of a term is the sum of the exponents of the variables that appear in it, and thus is a non-negative integer. For a univariate polynomial, the degree of the polynomial is simply the highest exponent occurring in the polynomial. The term order has been used as a synonym of degree but, nowadays, may refer to several other concepts (see Ord",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

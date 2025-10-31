@@ -1,0 +1,11 @@
+{
+  "uuid": "c05de679-1dc9-45e9-aaed-f276c7e9586f",
+  "name": "Decision tree model",
+  "link": "https://en.wikipedia.org/wiki/Decision_tree_model",
+  "summary": "In computational complexity theory, the decision tree model is the model of computation in which an algorithm can be considered to be a decision tree, i.e. a sequence of queries or tests that are done adaptively, so the outcome of previous tests can influence the tests performed next.\nTypically, these tests have a small number of outcomes (such as a yes–no question) and can be performed quickly (say, with unit computational cost), so the worst-case time complexity of an algorithm in the decision",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

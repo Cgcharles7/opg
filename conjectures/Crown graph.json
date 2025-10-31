@@ -1,0 +1,11 @@
+{
+  "uuid": "19414ede-4bdb-4714-8b55-8664592e618d",
+  "name": "Crown graph",
+  "link": "https://en.wikipedia.org/wiki/Crown_graph",
+  "summary": "In graph theory, a branch of mathematics, a crown graph on 2n vertices is an undirected graph with two sets of vertices {u1, u2, …, un}  and {v1, v2, …, vn}  and with an edge from ui to vj whenever i ≠ j.\nThe crown graph can be viewed as a complete bipartite graph from which the edges of a perfect matching have been removed, as the bipartite double cover of a complete graph, as the tensor product Kn × K2, as the complement of the Cartesian direct product of Kn and K2, or as a bipartite Kneser gr",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "d8042252-fb1d-452a-a8f3-ff6ae9420c47",
+  "name": "Contractible space",
+  "link": "https://en.wikipedia.org/wiki/Contractible_space",
+  "summary": "In mathematics, a topological space X is contractible if the identity map on X is null-homotopic, i.e. if it is homotopic to some constant map. Intuitively, a contractible space is one that can be continuously shrunk to a point within that space.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

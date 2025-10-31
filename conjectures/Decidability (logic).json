@@ -1,0 +1,11 @@
+{
+  "uuid": "5e548504-d68a-4790-8178-2d3d392b4023",
+  "name": "Decidability (logic)",
+  "link": "https://en.wikipedia.org/wiki/Decidability_(logic)",
+  "summary": "In logic, a true/false decision problem is decidable if there exists an effective method for deriving the correct answer. Zeroth-order logic (propositional logic) is decidable, whereas first-order and higher-order logic are not. Logical systems are decidable if membership in their set of logically valid formulas (or theorems) can be effectively determined. A theory (set of sentences closed under logical consequence) in a fixed logical system is decidable if there is an effective method for deter",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

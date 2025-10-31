@@ -1,0 +1,11 @@
+{
+  "uuid": "1282c866-9dc7-4995-8c61-c8b8b8044019",
+  "name": "Constructive set theory",
+  "link": "https://en.wikipedia.org/wiki/Constructive_set_theory",
+  "summary": "Axiomatic constructive set theory is an approach to mathematical constructivism following the program of axiomatic set theory.\nThe same first-order language with \"\n  \n    \n      \n        =\n      \n    \n    {\\displaystyle =}\n  \n\" and \"\n  \n    \n      \n        ∈\n      \n    \n    {\\displaystyle \\in }\n  \n\" of classical set theory is usually used, so this is not to be confused with a constructive types approach.\nOn the other hand, some constructive theories are indeed motivated by their interpretability",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

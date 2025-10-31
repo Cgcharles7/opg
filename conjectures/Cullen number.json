@@ -1,0 +1,11 @@
+{
+  "uuid": "e68e5a76-2da9-416a-9c5b-4542d2e720f6",
+  "name": "Cullen number",
+  "link": "https://en.wikipedia.org/wiki/Cullen_number",
+  "summary": "In mathematics, a Cullen number is a member of the integer sequence \n  \n    \n      \n        \n          C\n          \n            n\n          \n        \n        =\n        n\n        ⋅\n        \n          2\n          \n            n\n          \n        \n        +\n        1\n      \n    \n    {\\displaystyle C_{n}=n\\cdot 2^{n}+1}\n  \n (where \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n is a natural number). Cullen numbers were first studied by James Cullen in 1905. The numbers are special c",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

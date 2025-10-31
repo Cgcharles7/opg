@@ -1,0 +1,11 @@
+{
+  "uuid": "ea9471f9-f14f-45c6-b500-7b50cd7c8289",
+  "name": "Cramér's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Cram%C3%A9r%27s_conjecture",
+  "summary": "In number theory, Cramér's conjecture, formulated by the Swedish mathematician Harald Cramér in 1936, is an estimate for the size of gaps between consecutive prime numbers: intuitively, that gaps between consecutive primes are always small, and the conjecture quantifies asymptotically just how small they must be.  It states that\n\n  \n    \n      \n        \n          p\n          \n            n\n            +\n            1\n          \n        \n        −\n        \n          p\n          \n            n\n   ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}
