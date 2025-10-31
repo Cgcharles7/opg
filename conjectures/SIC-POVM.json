@@ -1,0 +1,11 @@
+{
+  "uuid": "9c836dcd-0062-4352-9338-77783df5e9a6",
+  "name": "SIC-POVM",
+  "link": "https://en.wikipedia.org/wiki/SIC-POVM",
+  "summary": "In the context of quantum mechanics and quantum information theory, symmetric, informationally complete, positive operator-valued measures (SIC-POVMs) are a particular type of generalized measurement (POVM). SIC-POVMs are particularly notable thanks to their defining features of (1) being informationally complete; (2) having the minimal number of outcomes compatible with informational completeness, and (3) being highly symmetric. In this context, informational completeness is the property of a P",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

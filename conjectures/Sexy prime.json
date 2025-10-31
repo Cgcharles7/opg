@@ -1,0 +1,11 @@
+{
+  "uuid": "b7273013-2369-438a-806a-202bedc48fe4",
+  "name": "Sexy prime",
+  "link": "https://en.wikipedia.org/wiki/Sexy_primes",
+  "summary": "In number theory, sexy primes are prime numbers that differ from each other by 6. For example, the numbers 5 and 11 are a pair of sexy primes, because both are prime and \n  \n    \n      \n        11\n        −\n        5\n        =\n        6\n      \n    \n    {\\textstyle 11-5=6}\n  \n.\nThe term \"sexy prime\" is a pun stemming from the Latin word for six: sex.\nIf p + 2 or p + 4 (where p is the lower prime) is also prime, then the sexy prime is part of a prime triplet. In August 2014, the Polymath group, se",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

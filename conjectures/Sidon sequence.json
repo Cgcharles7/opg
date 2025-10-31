@@ -1,0 +1,11 @@
+{
+  "uuid": "f2d7c809-d785-4c3c-8e7b-7fdac5a1359e",
+  "name": "Sidon sequence",
+  "link": "https://en.wikipedia.org/wiki/Sidon_sequence",
+  "summary": "In number theory, a Sidon sequence is a sequence \n  \n    \n      \n        A\n        =\n        {\n        \n          a\n          \n            0\n          \n        \n        ,\n        \n          a\n          \n            1\n          \n        \n        ,\n        \n          a\n          \n            2\n          \n        \n        ,\n        …\n        }\n      \n    \n    {\\displaystyle A=\\{a_{0},a_{1},a_{2},\\dots \\}}\n  \n of natural numbers in which all pairwise sums \n  \n    \n      \n        \n          a\n       ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

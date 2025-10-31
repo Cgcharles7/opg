@@ -1,0 +1,11 @@
+{
+  "uuid": "5e596b22-a5b7-4c23-bdf6-26ec7514539d",
+  "name": "Singular cardinal",
+  "link": "https://en.wikipedia.org/wiki/Regular_cardinal",
+  "summary": "In set theory, a regular cardinal is a  cardinal number that is equal to its own cofinality.  More explicitly, this means that \n  \n    \n      \n        κ\n      \n    \n    {\\displaystyle \\kappa }\n  \n is a regular cardinal if and only if every unbounded subset \n  \n    \n      \n        C\n        ⊆\n        κ\n      \n    \n    {\\displaystyle C\\subseteq \\kappa }\n  \n has cardinality \n  \n    \n      \n        κ\n      \n    \n    {\\displaystyle \\kappa }\n  \n.  Infinite well-ordered cardinals that are not regular a",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

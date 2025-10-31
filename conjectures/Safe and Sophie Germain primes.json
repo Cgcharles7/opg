@@ -1,0 +1,11 @@
+{
+  "uuid": "951fbb75-34ea-4033-9ef3-15467c5cd90a",
+  "name": "Safe and Sophie Germain primes",
+  "link": "https://en.wikipedia.org/wiki/Safe_and_Sophie_Germain_primes",
+  "summary": "In number theory, a prime number p is a Sophie Germain prime if 2p + 1 is also prime. The number 2p + 1 associated with a Sophie Germain prime is called a safe prime. For example, 11 is a Sophie Germain prime and 2 × 11 + 1 = 23 is its associated safe prime. Sophie Germain primes and safe primes have applications in public key cryptography and primality testing. It has been conjectured that there are infinitely many Sophie Germain primes, but this remains unproven.\nSophie Germain primes are name",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

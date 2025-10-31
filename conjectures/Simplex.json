@@ -1,0 +1,11 @@
+{
+  "uuid": "58aa3ece-024b-45de-9c27-e1babb897616",
+  "name": "Simplex",
+  "link": "https://en.wikipedia.org/wiki/Simplex",
+  "summary": "In geometry, a simplex (plural: simplexes or simplices) is a generalization of the notion of a triangle or tetrahedron to arbitrary dimensions. The simplex is so-named because it represents the simplest possible polytope in any given dimension. For example,\n\na 0-dimensional simplex is a point,\na 1-dimensional simplex is a line segment,\na 2-dimensional simplex is a triangle,\na 3-dimensional simplex is a tetrahedron, and\na 4-dimensional simplex is a 5-cell.\nSpecifically, a k-simplex is a k-dimensi",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

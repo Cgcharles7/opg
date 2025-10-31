@@ -1,0 +1,11 @@
+{
+  "uuid": "b80510ad-03f8-4c32-a25d-4328a17d73ab",
+  "name": "Self-avoiding walk",
+  "link": "https://en.wikipedia.org/wiki/Self-avoiding_walk",
+  "summary": "In mathematics, a self-avoiding walk (SAW) is a sequence of moves on a lattice (a lattice path) that does not visit the same point more than once. This is a special case of the graph theoretical notion of a path. A self-avoiding polygon (SAP) is a closed self-avoiding walk on a lattice. Very little is known rigorously about the self-avoiding walk from a mathematical perspective, although physicists have provided numerous conjectures that are believed to be true and are strongly supported by nume",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

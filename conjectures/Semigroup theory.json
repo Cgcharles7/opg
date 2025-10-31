@@ -1,0 +1,11 @@
+{
+  "uuid": "f05fa83d-a6fd-465d-a83a-6b6cbd0f717f",
+  "name": "Semigroup theory",
+  "link": "https://en.wikipedia.org/wiki/Semigroup",
+  "summary": "In mathematics, a semigroup is an algebraic structure consisting of a set together with an associative internal binary operation on it.\nThe binary operation of a semigroup is most often denoted multiplicatively (just notation, not necessarily the elementary arithmetic multiplication): x ⋅ y, or simply xy, denotes the result of applying the semigroup operation to the ordered pair (x, y). Associativity is formally expressed as that (x ⋅ y) ⋅ z = x ⋅ (y ⋅ z) for all x, y and z in the semigroup.\nSem",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

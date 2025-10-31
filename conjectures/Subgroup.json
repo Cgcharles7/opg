@@ -1,0 +1,11 @@
+{
+  "uuid": "2067df22-b34f-482f-a88f-20c79df6303c",
+  "name": "Subgroup",
+  "link": "https://en.wikipedia.org/wiki/Subgroup",
+  "summary": "In group theory, a branch of mathematics, a subset of a group G is a subgroup of G if the members of that subset form a group with respect to the group operation in G. \nFormally, given a group G under a binary operation ∗, a subset H of G is called a subgroup of G if H also forms a group under the operation ∗. More precisely, H is a subgroup of G if the restriction of ∗ to H × H is a group operation on H. This is often denoted H ≤ G, read as \"H is a subgroup of G\".\nThe trivial subgroup of any gr",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

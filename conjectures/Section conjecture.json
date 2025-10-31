@@ -1,0 +1,11 @@
+{
+  "uuid": "b0fb3b08-a068-454b-b188-b34cce45b9aa",
+  "name": "Section conjecture",
+  "link": "https://en.wikipedia.org/wiki/Section_conjecture",
+  "summary": "In anabelian geometry, a branch of algebraic geometry, the section conjecture gives a conjectural description of the splittings of the group homomorphism \n  \n    \n      \n        \n          π\n          \n            1\n          \n        \n        (\n        X\n        )\n        →\n        Gal\n        ⁡\n        (\n        k\n        )\n      \n    \n    {\\displaystyle \\pi _{1}(X)\\to \\operatorname {Gal} (k)}\n  \n, where \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n is a complete smooth curve",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

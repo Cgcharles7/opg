@@ -1,0 +1,11 @@
+{
+  "uuid": "17d379e5-82af-4439-ba0c-56e80a7f25ce",
+  "name": "Semisimple algebraic group",
+  "link": "https://en.wikipedia.org/wiki/Reductive_group",
+  "summary": "In mathematics, a reductive group is a type of linear algebraic group over a field. One definition is that a connected linear algebraic group G over a perfect field is reductive if it has a representation that has a finite kernel and is a direct sum of irreducible representations. Reductive groups include some of the most important groups in mathematics, such as the general linear group GL(n) of invertible matrices, the special orthogonal group SO(n), and the symplectic group Sp(2n). Simple alge",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

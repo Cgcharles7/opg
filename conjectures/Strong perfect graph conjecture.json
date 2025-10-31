@@ -1,0 +1,11 @@
+{
+  "uuid": "738d72ea-6cf6-4dbf-8f50-dba5a2c2c5b9",
+  "name": "Strong perfect graph conjecture",
+  "link": "https://en.wikipedia.org/wiki/Strong_perfect_graph_theorem",
+  "summary": "In graph theory, the strong perfect graph theorem is a forbidden graph characterization of the perfect graphs as being exactly the graphs that have neither odd holes (odd-length induced cycles of length at least 5) nor odd antiholes (complements of odd holes). It was conjectured by Claude Berge in 1961. A proof by Maria Chudnovsky, Neil Robertson, Paul Seymour, and Robin Thomas was announced in 2002 and published by them in 2006.\nThe proof of the strong perfect graph theorem won for its authors ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

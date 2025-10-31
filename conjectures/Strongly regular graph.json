@@ -1,0 +1,11 @@
+{
+  "uuid": "e46a4348-1dd2-4041-8372-270c709b7e26",
+  "name": "Strongly regular graph",
+  "link": "https://en.wikipedia.org/wiki/Strongly_regular_graph",
+  "summary": "In graph theory, a strongly regular graph  (SRG) is a regular graph G = (V, E) with v vertices and degree k such that for some given integers \n  \n    \n      \n        λ\n        ,\n        μ\n        ≥\n        0\n      \n    \n    {\\displaystyle \\lambda ,\\mu \\geq 0}\n  \n\nevery two adjacent vertices have λ common neighbours, and\nevery two non-adjacent vertices have μ common neighbours.\nSuch a strongly regular graph is denoted by srg(v, k, λ, μ). Its complement graph is also strongly regular: it is an srg",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "353a88c5-9521-41f8-9f00-bb4b994c2a28",
+  "name": "Stable theory",
+  "link": "https://en.wikipedia.org/wiki/Stable_theory",
+  "summary": "In the mathematical field of model theory, a theory  is called stable  if it satisfies certain combinatorial restrictions on its complexity. Stable theories are rooted in the proof of Morley's categoricity theorem and were extensively studied as part of Saharon Shelah's classification theory, which showed a dichotomy that either the models of a theory admit a nice classification or the models are too numerous to have any hope of a reasonable classification. A first step of this program was showi",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

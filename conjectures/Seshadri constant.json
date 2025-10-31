@@ -1,0 +1,11 @@
+{
+  "uuid": "18f6e811-8ade-423f-ae7a-2347065c6373",
+  "name": "Seshadri constant",
+  "link": "https://en.wikipedia.org/wiki/Seshadri_constant",
+  "summary": "In algebraic geometry, a Seshadri constant is an invariant of an ample line bundle L at a point P on an algebraic variety. It was introduced by Demailly to measure a certain rate of growth, of the tensor powers of L, in terms of the jets of the sections of the Lk. The object was the study of the Fujita conjecture.\nThe name is in honour of the Indian mathematician C. S. Seshadri.\nIt is known that Nagata's conjecture on algebraic curves is equivalent to the assertion that for more than nine genera",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

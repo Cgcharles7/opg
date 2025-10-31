@@ -1,0 +1,11 @@
+{
+  "uuid": "bcab484b-37f5-4084-8440-e23f87dead4b",
+  "name": "Scheinerman's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Scheinerman%27s_conjecture",
+  "summary": "In mathematics, Scheinerman's conjecture, now a theorem, states that every planar graph is the intersection graph of a set of line segments in the plane. This conjecture was formulated by E. R. Scheinerman in his Ph.D. thesis (1984), following earlier results that every planar graph could be represented as the intersection graph of a set of simple curves in the plane \n(Sinden 1966)\n(Ehrlich, Even & Tarjan 1976). It was proven by Jeremie Chalopin and Daniel Gonçalves (2009).\nFor instance, the gra",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

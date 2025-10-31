@@ -1,0 +1,11 @@
+{
+  "uuid": "370d85c2-b37e-4881-a712-568075762bed",
+  "name": "Self-adjoint operator",
+  "link": "https://en.wikipedia.org/wiki/Self-adjoint_operator",
+  "summary": "In mathematics, a self-adjoint operator on a complex vector space V with inner product \n  \n    \n      \n        ⟨\n        ⋅\n        ,\n        ⋅\n        ⟩\n      \n    \n    {\\displaystyle \\langle \\cdot ,\\cdot \\rangle }\n  \n is a linear map A (from V to itself) that is its own adjoint. That is, \n  \n    \n      \n        ⟨\n        A\n        x\n        ,\n        y\n        ⟩\n        =\n        ⟨\n        x\n        ,\n        A\n        y\n        ⟩\n      \n    \n    {\\displaystyle \\langle Ax,y\\rangle =\\langle x,Ay",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

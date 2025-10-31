@@ -1,0 +1,11 @@
+{
+  "uuid": "f77da67f-31e2-4baf-a699-9faa0bf87c46",
+  "name": "Smooth morphism",
+  "link": "https://en.wikipedia.org/wiki/Smooth_morphism",
+  "summary": "In algebraic geometry, a morphism \n  \n    \n      \n        f\n        :\n        X\n        →\n        S\n      \n    \n    {\\displaystyle f:X\\to S}\n  \n between schemes is said to be smooth if\n\n(i) it is locally of finite presentation\n(ii) it is flat, and\n(iii) for every geometric point \n  \n    \n      \n        \n          \n            s\n            ¯\n          \n        \n        →\n        S\n      \n    \n    {\\displaystyle {\\overline {s}}\\to S}\n  \n the fiber \n  \n    \n      \n        \n          X\n          \n ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}
