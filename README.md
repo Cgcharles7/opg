@@ -99,3 +99,42 @@ Each conjecture is stored as a JSON or Markdown file with fields like:
   "prev_conjs": [],
   "cntr": 0
 }
+
+# Explanation of JSON Fields
+
+id: Unique identifier for the conjecture
+title: Name of the conjecture
+authors: Originator(s) of the conjecture
+categories: Array of topic strings
+difficulty: Numeric scale (0–4). While difficulty is subjective, popularity or research activity could serve as a proxy metric.
+refs: Array of references or arXiv links
+kwds: Array of keywords
+is_open: Boolean value, true if the problem remains unsolved
+head: If a conjecture is expressed as an implication P → Q, this field represents P
+prev_conjs: Tracks which conjectures users visit before this one, enabling PageRank-style linkage
+cntr: Popularity counter tracking engagement over time
+
+# Licensing & Attribution
+
+The original Open Problem Garden made its content publicly accessible but did not specify a license.
+This project therefore operates under a good-faith fair-use preservation model for educational and research purposes.
+
+If the original creators or maintainers wish to clarify licensing or ownership, this repository will comply and coordinate accordingly.
+
+All new contributions here are released under
+Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0).
+
+Original concept and data courtesy of
+Dominic van der Zypen and Robert Šámal (founders of Open Problem Garden).
+
+# Future Directions
+- Community moderation via GitHub Discussions or Wiki
+- Linking conjectures through shared hypotheses and dependency graphs
+- Incorporating machine learning insights into problem clustering
+- Adding cross-references between related conjectures and open questions
+
+# Contact
+
+If you were involved in the original Open Problem Garden project,
+or would like to collaborate on its modern continuation,
+please reach out via GitHub or email.
