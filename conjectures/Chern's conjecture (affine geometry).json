@@ -1,0 +1,16 @@
+{
+  "uuid": "6fafb117-99e8-41ac-842d-72dbca6409b6",
+  "name": "Chern's conjecture (affine geometry)",
+  "link": "https://en.wikipedia.org/wiki/Chern%27s_conjecture_(affine_geometry)",
+  "summary": "Chern's conjecture for affinely flat manifolds was proposed by Shiing-Shen Chern in 1955 in the field of affine geometry. As of 2025, it remains an unsolved mathematical problem. \nChern's conjecture states that the Euler characteristic of a compact affine manifold vanishes.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Differential geometry",
+    "Unsolved problems",
+    "Geometry"
+  ],
+  "authors": []
+}

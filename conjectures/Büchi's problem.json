@@ -1,0 +1,16 @@
+{
+  "uuid": "7ca159d7-3e2d-4887-85b1-a257391bcc13",
+  "name": "Büchi's problem",
+  "link": "https://en.wikipedia.org/wiki/B%C3%BCchi%27s_problem",
+  "summary": "In number theory, Büchi's problem, also known as the n squares' problem, is an open problem named after the Swiss mathematician Julius Richard Büchi. It asks whether there is a positive integer M such that every sequence of M or more integer squares, whose second difference is constant and equal to 2, is necessarily a sequence of squares of the form (x + i)2, i = 1, 2, ..., M,... for some integer x. In 1983, Douglas Hensley observed that Büchi's problem is equivalent to the following: Does there",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "General"
+  ],
+  "authors": []
+}

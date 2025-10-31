@@ -1,0 +1,16 @@
+{
+  "uuid": "b7450ffe-a0c1-46b5-9bd6-6236afff9577",
+  "name": "Bernstein's problem",
+  "link": "https://en.wikipedia.org/wiki/Bernstein%27s_problem",
+  "summary": "In differential geometry, Bernstein's problem is as follows: if the graph of a function on Rn−1 is a minimal surface in Rn, does this imply that the function is linear? \nThis is true for n at most 8, but false for n at least 9.  The problem is named for Sergei Natanovich Bernstein who solved the case n = 3 in 1914.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Differential geometry",
+    "Unsolved problems",
+    "Geometry"
+  ],
+  "authors": []
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "590766c7-a943-44ed-8e67-fa46037bfc5f",
+  "name": "Alspach's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Alspach%27s_conjecture",
+  "summary": "Alspach's conjecture is a mathematical theorem that characterizes the disjoint cycle covers of complete graphs with prescribed cycle lengths. It is named after Brian Alspach, who posed it as a research problem in 1981. A proof was published by Darryn Bryant, Daniel Horsley, and William Pettersson (2014).",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Problems solved since 1995",
+    "Graph theory"
+  ],
+  "authors": []
+}

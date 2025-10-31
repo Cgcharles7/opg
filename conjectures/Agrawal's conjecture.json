@@ -1,0 +1,16 @@
+{
+  "uuid": "04b4b782-025c-4ae2-aa2a-fb3e4222f785",
+  "name": "Agrawal's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Agrawal%27s_conjecture",
+  "summary": "In number theory, Agrawal's conjecture, due to Manindra Agrawal in 2002, forms the basis for the cyclotomic AKS test. Agrawal's conjecture states formally:\nLet \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n and \n  \n    \n      \n        r\n      \n    \n    {\\displaystyle r}\n  \n be two coprime positive integers. If \n\n  \n    \n      \n        (\n        X\n        −\n        1\n        \n          )\n          \n            n\n          \n        \n        ≡\n        \n          X\n          \n      ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "0d4cbc3f-678f-42b9-b33e-2b8c69dd7708",
+  "name": "Albertson conjecture",
+  "link": "https://en.wikipedia.org/wiki/Albertson_conjecture",
+  "summary": "In combinatorial mathematics, the Albertson conjecture is an unproven relationship between the crossing number and the chromatic number of a graph. It is named after Michael O. Albertson, a professor at Smith College, who stated it as a conjecture in 2007; it is one of his many conjectures in graph coloring theory. The conjecture states that, among all graphs requiring \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n colors, the complete graph \n  \n    \n      \n        \n          K\n",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Graph drawing and embedding",
+    "Unsolved problems",
+    "Graph theory"
+  ],
+  "authors": []
+}

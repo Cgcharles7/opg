@@ -1,0 +1,16 @@
+{
+  "uuid": "914de25f-cb88-4ba2-b439-950028bb2be5",
+  "name": "Bass–Quillen conjecture",
+  "link": "https://en.wikipedia.org/wiki/Bass%E2%80%93Quillen_conjecture",
+  "summary": "In mathematics, the Bass–Quillen conjecture relates vector bundles over a regular Noetherian ring A and over the polynomial ring \n  \n    \n      \n        A\n        [\n        \n          t\n          \n            1\n          \n        \n        ,\n        …\n        ,\n        \n          t\n          \n            n\n          \n        \n        ]\n      \n    \n    {\\displaystyle A[t_{1},\\dots ,t_{n}]}\n  \n. The conjecture is named for Hyman Bass and Daniel Quillen, who formulated the conjecture.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Algebraic geometry",
+    "Geometry"
+  ],
+  "authors": []
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "9843ab95-2d03-4df5-bc76-338d0968418e",
+  "name": "Andrews–Curtis conjecture",
+  "link": "https://en.wikipedia.org/wiki/Andrews%E2%80%93Curtis_conjecture",
+  "summary": "In mathematics, the Andrews–Curtis conjecture states that every balanced presentation (i.e. a presentation with the same number of generators and relations) of the trivial group can be transformed into a trivial presentation by a sequence of Nielsen transformations on the relators together with conjugations of relators, named after James J. Andrews and Morton L. Curtis who proposed it in 1965.  It is difficult to verify whether the conjecture holds for a given balanced presentation or not.\nIt is",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems",
+    "Group theory"
+  ],
+  "authors": []
+}

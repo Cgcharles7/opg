@@ -1,0 +1,16 @@
+{
+  "uuid": "d4b6522e-9841-4908-b679-95a80836872d",
+  "name": "Brouwer's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Brouwer%27s_conjecture",
+  "summary": "In the mathematical field of spectral graph theory, Brouwer's conjecture is a conjecture by Andries Brouwer on upper bounds for the intermediate sums of the eigenvalues of the Laplacian of a graph in term of its number of edges.\nThe conjecture states that if G is a simple undirected graph and L(G) its Laplacian matrix, then its eigenvalues λn(L(G)) ≤ λn−1(L(G)) ≤ ... ≤ λ1(L(G)) satisfy\n\n  \n    \n      \n        \n          ∑\n          \n            i\n            =\n            1\n          \n          ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Algebraic graph theory",
+    "Graph theory"
+  ],
+  "authors": []
+}
