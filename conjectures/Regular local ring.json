@@ -1,0 +1,11 @@
+{
+  "uuid": "cff86320-f5b8-4cf3-b586-5b31db77373b",
+  "name": "Regular local ring",
+  "link": "https://en.wikipedia.org/wiki/Regular_local_ring",
+  "summary": "In commutative algebra, a regular local ring is a Noetherian local ring having the property that the minimal number of generators of its maximal ideal is equal to its Krull dimension. In symbols, let \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n be any Noetherian local ring with unique maximal ideal \n  \n    \n      \n        \n          \n            m\n          \n        \n      \n    \n    {\\displaystyle {\\mathfrak {m}}}\n  \n, and suppose \n  \n    \n      \n        \n          a\n         ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

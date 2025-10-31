@@ -1,0 +1,11 @@
+{
+  "uuid": "0d03e305-b1a3-414d-836f-bed273ccf84c",
+  "name": "Ramsey theory",
+  "link": "https://en.wikipedia.org/wiki/Ramsey_theory",
+  "summary": "Ramsey theory, named after the British mathematician and philosopher Frank P. Ramsey, is a branch of the mathematical field of combinatorics that focuses on the appearance of order in a substructure given a structure of a known size. Problems in Ramsey theory typically ask a question of the form: \"how big must some structure be to guarantee that a particular property holds?\"",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

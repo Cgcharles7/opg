@@ -1,0 +1,11 @@
+{
+  "uuid": "dacff44f-2480-4202-b083-fae7f32a9e72",
+  "name": "Ramsey numbers",
+  "link": "https://en.wikipedia.org/wiki/Ramsey%27s_theorem",
+  "summary": "In combinatorics, Ramsey's theorem, in one of its graph-theoretic forms, states that one will find monochromatic cliques in any edge labelling (with colours) of a sufficiently large complete graph.\nAs the simplest example, consider two colours (say, blue and red). Let r and s be any two positive integers. Ramsey's theorem states that there exists a least positive integer R(r, s) for which every blue-red edge colouring of the complete graph on R(r, s) vertices contains a blue clique on r vertices",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

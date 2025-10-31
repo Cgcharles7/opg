@@ -1,0 +1,11 @@
+{
+  "uuid": "d968792e-75e1-49fe-9f02-927c1752dbfc",
+  "name": "Quadratic equation",
+  "link": "https://en.wikipedia.org/wiki/Quadratic_equation",
+  "summary": "In mathematics, a quadratic equation (from Latin  quadratus 'square') is an equation that can be rearranged in standard form as\n\n  \n    \n      \n        a\n        \n          x\n          \n            2\n          \n        \n        +\n        b\n        x\n        +\n        c\n        =\n        0\n        \n        ,\n      \n    \n    {\\displaystyle ax^{2}+bx+c=0\\,,}\n  \n\nwhere the variable ⁠\n  \n    \n      \n        x\n      \n    \n    {\\displaystyle x}\n  \n⁠ represents an unknown number, and a, b, and c represe",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "25aba95a-66b2-42b8-ae42-7a27a1542fe9",
+  "name": "Prime triplet",
+  "link": "https://en.wikipedia.org/wiki/Prime_triplet",
+  "summary": "In number theory, a prime triplet is a set of three prime numbers in which the smallest and largest of the three differ by 6. In particular, the sets must have the form (p, p + 2, p + 6) or (p, p + 4, p + 6). With the exceptions of (2, 3, 5) and (3, 5, 7), this is the closest possible grouping of three prime numbers, since one of every three sequential odd numbers is a multiple of three, and hence not prime (except for 3 itself).",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

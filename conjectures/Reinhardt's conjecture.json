@@ -1,0 +1,11 @@
+{
+  "uuid": "4cf223f1-0677-434e-bfb2-d80fe00d4c95",
+  "name": "Reinhardt's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Smoothed_octagon",
+  "summary": "The smoothed octagon is a region in the plane found by Karl Reinhardt in 1934 and conjectured by him to have the lowest maximum packing density of the plane of all centrally symmetric convex shapes. It was also independently discovered by Kurt Mahler in 1947. It is constructed by replacing the corners of a regular octagon with a section of a hyperbola that is tangent to the two sides adjacent to the corner and asymptotic to the sides adjacent to these.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

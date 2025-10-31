@@ -1,0 +1,11 @@
+{
+  "uuid": "2556a4a7-f7da-4a70-b6bd-edb2ac80e1bd",
+  "name": "Pompeiu problem",
+  "link": "https://en.wikipedia.org/wiki/Pompeiu_problem",
+  "summary": "In mathematics, the Pompeiu problem is a conjecture in integral geometry, named for Dimitrie Pompeiu, who posed the problem in 1929, \nas follows.  Suppose f is a nonzero continuous function defined on a Euclidean space, and  K is a simply connected Lipschitz domain, so that the integral of f vanishes on every congruent copy of K.  Then the domain is a ball.\nA special case is Schiffer's conjecture.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

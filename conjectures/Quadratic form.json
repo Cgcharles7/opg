@@ -1,0 +1,11 @@
+{
+  "uuid": "fde2d210-d903-4ad2-8a57-54889965ad0e",
+  "name": "Quadratic form",
+  "link": "https://en.wikipedia.org/wiki/Quadratic_form",
+  "summary": "In mathematics, a quadratic form is a polynomial with terms all of degree two (\"form\" is another name for a homogeneous polynomial). For example, \n\n  \n    \n      \n        4\n        \n          x\n          \n            2\n          \n        \n        +\n        2\n        x\n        y\n        −\n        3\n        \n          y\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle 4x^{2}+2xy-3y^{2}}\n  \n\nis a quadratic form in the variables x and y. The coefficients usually belong to ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

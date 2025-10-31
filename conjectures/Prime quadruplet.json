@@ -1,0 +1,11 @@
+{
+  "uuid": "45fb99a0-e33d-43e9-baed-bf1ef97b98c8",
+  "name": "Prime quadruplet",
+  "link": "https://en.wikipedia.org/wiki/Prime_quadruplet",
+  "summary": "In number theory, a prime quadruplet (sometimes called a prime quadruple) is a set of four prime numbers of the form {p, p + 2, p + 6, p + 8}. This represents the closest possible grouping of four primes larger than 3, and is the only prime constellation of length 4.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

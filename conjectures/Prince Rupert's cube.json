@@ -1,0 +1,11 @@
+{
+  "uuid": "12ef4558-4f79-4612-88ad-05ef38f0a03d",
+  "name": "Prince Rupert's cube",
+  "link": "https://en.wikipedia.org/wiki/Prince_Rupert%27s_cube",
+  "summary": "In geometry, Prince Rupert's cube is the largest cube that can pass through a hole cut through a unit cube without splitting it into separate pieces. Its side length is approximately 1.06, 6% larger than the side length 1 of the unit cube through which it passes. The problem of finding the largest square that lies entirely within a unit cube is closely related, and has the same solution.\nPrince Rupert's cube is named after Prince Rupert of the Rhine, who asked whether a cube could be passed thro",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

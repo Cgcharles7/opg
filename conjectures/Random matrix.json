@@ -1,0 +1,11 @@
+{
+  "uuid": "c23de43d-f13e-4db5-94e0-6293a389f71e",
+  "name": "Random matrix",
+  "link": "https://en.wikipedia.org/wiki/Random_matrix",
+  "summary": "In probability theory and mathematical physics, a random matrix is a matrix-valued random variable—that is, a matrix in which some or all of its entries are sampled randomly from a probability distribution. Random matrix theory (RMT) is the study of properties of random matrices, often as they become large. RMT provides techniques like mean-field theory, diagrammatic methods, the cavity method, or the replica method to compute quantities like traces, spectral densities, or scalar products betwee",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

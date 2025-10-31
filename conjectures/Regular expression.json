@@ -1,0 +1,11 @@
+{
+  "uuid": "1bab461a-1477-421c-bda3-5757c5cf139e",
+  "name": "Regular expression",
+  "link": "https://en.wikipedia.org/wiki/Regular_expression",
+  "summary": "A regular expression (shortened as regex or regexp), sometimes referred to as a rational expression, is a sequence of characters that specifies a match pattern in text. Usually such patterns are used by string-searching algorithms for \"find\" or \"find and replace\" operations on strings, or for input validation. Regular expression techniques are developed in theoretical computer science and formal language theory.\nThe concept of regular expressions began in the 1950s, when the American mathematici",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

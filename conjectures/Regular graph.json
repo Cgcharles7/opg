@@ -1,0 +1,11 @@
+{
+  "uuid": "381bf0ed-bb7a-4e3e-a5a1-d63b362e95eb",
+  "name": "Regular graph",
+  "link": "https://en.wikipedia.org/wiki/Regular_graph",
+  "summary": "In graph theory, a regular graph is a graph where each vertex has the same number of neighbors; i.e. every vertex has the same degree or valency. A regular directed graph must also satisfy the stronger condition that the indegree and outdegree of each internal vertex are equal to each other. A regular graph with vertices of degree k is called a k‑regular graph or regular graph of degree k.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

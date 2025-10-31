@@ -1,0 +1,11 @@
+{
+  "uuid": "db64ecc3-a67e-4a90-b7a6-f95c7a603a60",
+  "name": "Rota's basis conjecture",
+  "link": "https://en.wikipedia.org/wiki/Rota%27s_basis_conjecture",
+  "summary": "In linear algebra and matroid theory, Rota's basis conjecture is an unproven conjecture concerning rearrangements of bases, named after Gian-Carlo Rota. It states that, if X is either a vector space of dimension n or more generally a matroid of rank n, with n disjoint bases Bi, then it is possible to arrange the elements of these bases into an n × n matrix in such a way that the rows of the matrix are exactly the given bases and the columns of the matrix are also bases. That is, it should be pos",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}
