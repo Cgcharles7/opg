@@ -1,0 +1,11 @@
+{
+  "uuid": "8457903d-ea29-42b1-b677-2a19e6568d4e",
+  "name": "Characteristic (algebra)",
+  "link": "https://en.wikipedia.org/wiki/Characteristic_(algebra)",
+  "summary": "In mathematics, the characteristic of a ring R, often denoted char(R), is defined to be the smallest positive number of copies of the ring's multiplicative identity (1) that will sum to the additive identity (0). If no such number exists, the ring is said to have characteristic zero. \nThat is, char(R) is the smallest positive number n such that: \n\n  \n    \n      \n        \n          \n            \n              \n                1\n                +\n                ⋯\n                +\n               ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "56bf3216-eb97-4307-a58f-81b93f44efdd",
+  "name": "Combinatorial game theory",
+  "link": "https://en.wikipedia.org/wiki/Combinatorial_game_theory",
+  "summary": "Combinatorial game theory is a branch of mathematics and theoretical computer science that typically studies sequential games with perfect information. Research in this field has primarily focused on two-player games in which a position evolves through alternating moves, each governed by well-defined rules, with the aim of achieving a specific winning condition. Unlike economic game theory, combinatorial game theory generally avoids the study of games of chance or games involving imperfect infor",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

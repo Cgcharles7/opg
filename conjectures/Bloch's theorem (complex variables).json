@@ -1,0 +1,11 @@
+{
+  "uuid": "8097dd8a-bdb5-4c24-9cef-c7d43e7ce092",
+  "name": "Bloch's theorem (complex variables)",
+  "link": "https://en.wikipedia.org/wiki/Bloch%27s_theorem_(complex_analysis)",
+  "summary": "In complex analysis, a branch of mathematics, Bloch's theorem describes the behaviour of holomorphic functions defined on the unit disk. It gives a lower bound on the size of a disk in which an inverse to a holomorphic function exists. It is named after André Bloch.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

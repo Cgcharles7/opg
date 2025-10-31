@@ -1,0 +1,11 @@
+{
+  "uuid": "b89ca911-081a-47d6-b43c-83d6028a6261",
+  "name": "Chinese hypothesis",
+  "link": "https://en.wikipedia.org/wiki/Chinese_hypothesis",
+  "summary": "In number theory, the Chinese hypothesis is a disproven conjecture stating that an integer n is prime if and only if it satisfies the condition that \n  \n    \n      \n        \n          2\n          \n            n\n          \n        \n        −\n        2\n      \n    \n    {\\displaystyle 2^{n}-2}\n  \n is divisible by n—in other words, that an integer n is prime if and only if \n  \n    \n      \n        \n          2\n          \n            n\n          \n        \n        ≡\n        2\n        \n          mod\n    ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

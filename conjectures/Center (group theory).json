@@ -1,0 +1,11 @@
+{
+  "uuid": "89d1b876-de96-46d7-a0fe-5d42bbbfbe14",
+  "name": "Center (group theory)",
+  "link": "https://en.wikipedia.org/wiki/Center_(group_theory)",
+  "summary": "In abstract algebra, the center of a group G is the set of elements that commute with every element of G. It is denoted Z(G), from German Zentrum, meaning center. In set-builder notation,\n\nZ(G) = {z ∈ G | ∀g ∈ G, zg = gz}.\nThe center is a normal subgroup, \n  \n    \n      \n        Z\n        (\n        G\n        )\n        ◃\n        G\n      \n    \n    {\\displaystyle Z(G)\\triangleleft G}\n  \n, and also a characteristic subgroup, but is not necessarily fully characteristic. The quotient group, G / Z(G), ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

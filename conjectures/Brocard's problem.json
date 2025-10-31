@@ -1,0 +1,11 @@
+{
+  "uuid": "25739ef2-4878-4fc3-a50c-a1b329862018",
+  "name": "Brocard's problem",
+  "link": "https://en.wikipedia.org/wiki/Brocard%27s_problem",
+  "summary": "Brocard's problem is a problem in mathematics that seeks integer values of \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n such that \n  \n    \n      \n        n\n        !\n        +\n        1\n      \n    \n    {\\displaystyle n!+1}\n  \n is a perfect square, where \n  \n    \n      \n        n\n        !\n      \n    \n    {\\displaystyle n!}\n  \n is the factorial. Only three values of \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n are known — 4, 5, 7 — and it is not known whether",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

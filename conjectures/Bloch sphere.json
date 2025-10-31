@@ -1,0 +1,11 @@
+{
+  "uuid": "e832efa7-dffe-48c6-96c9-1a9c9da3a60c",
+  "name": "Bloch sphere",
+  "link": "https://en.wikipedia.org/wiki/Bloch_sphere",
+  "summary": "In quantum mechanics and computing, the Bloch sphere is a geometrical representation of the pure state space of a two-level quantum mechanical system (qubit), named after the physicist Felix Bloch.\nMathematically each quantum mechanical system is associated with a separable complex Hilbert space \n  \n    \n      \n        H\n      \n    \n    {\\displaystyle H}\n  \n. A pure state of a quantum system is represented by a non-zero vector \n  \n    \n      \n        ψ\n      \n    \n    {\\displaystyle \\psi }\n  \n i",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

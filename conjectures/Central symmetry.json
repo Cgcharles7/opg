@@ -1,0 +1,11 @@
+{
+  "uuid": "9bbfa2a1-fe11-4a4e-9a0f-389f37674be6",
+  "name": "Central symmetry",
+  "link": "https://en.wikipedia.org/wiki/Point_reflection",
+  "summary": "In geometry, a point reflection (also called a point inversion or central inversion) is a geometric transformation of affine space in which every point is reflected across a designated inversion center, which remains fixed. In Euclidean or pseudo-Euclidean spaces, a point reflection is an isometry (preserves distance). In the Euclidean plane, a point reflection is the same as a half-turn rotation (180° or π radians), while in three-dimensional Euclidean space a point reflection is an improper ro",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

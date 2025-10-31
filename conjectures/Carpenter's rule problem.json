@@ -1,0 +1,11 @@
+{
+  "uuid": "b51e234c-9cb7-43d9-941f-8b1e4827957e",
+  "name": "Carpenter's rule problem",
+  "link": "https://en.wikipedia.org/wiki/Carpenter%27s_rule_problem",
+  "summary": "The carpenter's rule problem is a discrete geometry problem, which can be stated in the following manner: Can a simple planar polygon be moved continuously to a position where all its vertices are in convex position, so that the edge lengths and simplicity are preserved along the way? A closely related problem is to show that any non-self-crossing polygonal chain can be straightened, again by a continuous transformation that preserves edge distances and avoids crossings.\nBoth problems were succe",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

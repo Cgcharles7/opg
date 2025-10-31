@@ -1,0 +1,11 @@
+{
+  "uuid": "abe3e4b9-2d75-4c0a-86d3-5b1c033c7b49",
+  "name": "Complete theory",
+  "link": "https://en.wikipedia.org/wiki/Complete_theory",
+  "summary": "In mathematical logic, a theory  is complete if it is consistent and for every closed formula in the theory's language, either that formula or its negation is provable. That is, for every sentence \n  \n    \n      \n        φ\n        ,\n      \n    \n    {\\displaystyle \\varphi ,}\n  \n the theory \n  \n    \n      \n        T\n      \n    \n    {\\displaystyle T}\n  \n contains the sentence or its negation but not both (that is, either \n  \n    \n      \n        T\n        ⊢\n        φ\n      \n    \n    {\\displaystyle T",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

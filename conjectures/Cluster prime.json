@@ -1,0 +1,11 @@
+{
+  "uuid": "e60c64fb-d78f-4063-9046-85d9d466fabd",
+  "name": "Cluster prime",
+  "link": "https://en.wikipedia.org/wiki/Cluster_prime",
+  "summary": "In number theory, a cluster prime is a prime number p such that every even positive integer k ≤ p − 3 can be written as the difference between two prime numbers not exceeding p (OEIS: A038134). For example, the number 23 is a cluster prime because 23 − 3 = 20, and every even integer from 2 to 20, inclusive, is the difference of at least one pair of prime numbers not exceeding 23:\n\n5 − 3 = 2\n7 − 3 = 4\n11 − 5 = 6\n11 − 3 = 8\n13 − 3 = 10\n17 − 5 = 12\n17 − 3 = 14\n19 − 3 = 16\n23 − 5 = 18\n23 − 3 = 20\nOn",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

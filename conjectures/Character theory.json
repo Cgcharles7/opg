@@ -1,0 +1,11 @@
+{
+  "uuid": "28226636-0bb8-48dc-bc58-feb074f91d63",
+  "name": "Character theory",
+  "link": "https://en.wikipedia.org/wiki/Character_theory",
+  "summary": "In mathematics, more specifically in group theory, the character of a group representation is a function on the group that associates to each group element the trace of the corresponding matrix. The character carries the essential information about the representation in a more condensed form. Georg Frobenius initially developed representation theory of finite groups entirely based on the characters, and without any explicit matrix realization of representations themselves. This is possible becau",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "5649bdfa-cad1-4b10-9ec3-c913c97235e3",
+  "name": "Cobordism hypothesis",
+  "link": "https://en.wikipedia.org/wiki/Cobordism_hypothesis",
+  "summary": "In mathematics, the cobordism hypothesis, due to John C. Baez and James Dolan, concerns the classification of extended topological quantum field theories (TQFTs). In 2008, Jacob Lurie outlined a proof of the cobordism hypothesis, though the details of his approach have yet to appear in the literature as of 2022. In 2021, Daniel Grady and Dmitri Pavlov claimed a complete proof of the cobordism hypothesis, as well as a generalization to bordisms with arbitrary geometric structures.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "b7afaead-5f3d-46a3-bfbf-3644a3d43513",
+  "name": "Cartesian product of graphs",
+  "link": "https://en.wikipedia.org/wiki/Cartesian_product_of_graphs",
+  "summary": "In graph theory, the Cartesian product G □ H  of graphs G and H is a graph such that:\n\nthe vertex set of G □ H is the Cartesian product V(G) × V(H); and\ntwo vertices (u,v) and (u' ,v' ) are adjacent in G □ H if and only if either\nu = u'  and v is adjacent to v' in H, or\nv = v'  and u is adjacent to u' in G.\nThe Cartesian product of graphs is sometimes called the box product of graphs [Harary 1969].\nThe operation is associative, as the graphs  (F □ G) □ H and F □ (G □ H) are naturally isomorphic.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

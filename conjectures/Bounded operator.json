@@ -1,0 +1,11 @@
+{
+  "uuid": "2ed58c69-5769-4748-8775-c01a64c0df20",
+  "name": "Bounded operator",
+  "link": "https://en.wikipedia.org/wiki/Bounded_operator",
+  "summary": "In functional analysis and operator theory, a bounded linear operator is a special kind of linear transformation that is particularly important in infinite dimensions. In finite dimensions, a linear transformation takes a bounded set to another bounded set (for example, a rectangle in the plane goes either to a parallelogram or bounded line segment when a linear transformation is applied). However, in infinite dimensions, linearity is not enough to ensure that bounded sets remain bounded: a boun",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

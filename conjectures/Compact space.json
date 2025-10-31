@@ -1,0 +1,11 @@
+{
+  "uuid": "bed12e39-a96e-444a-81e9-0925ade553e0",
+  "name": "Compact space",
+  "link": "https://en.wikipedia.org/wiki/Compact_space",
+  "summary": "In mathematics, specifically general topology, compactness is a property that seeks to generalize the notion of a closed and bounded subset of Euclidean space. The idea is that a compact space has no \"punctures\" or \"missing endpoints\", i.e., it includes all limiting values of points. For example, the open interval (0,1) would not be compact because it excludes the limiting values of 0 and 1, whereas the closed interval [0,1] would be compact. Similarly, the space of rational numbers \n  \n    \n   ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}
