@@ -1,0 +1,11 @@
+{
+  "uuid": "0877a7f2-4eb3-4ee5-bf70-83001de5083d",
+  "name": "Hall's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Hall%27s_conjecture",
+  "summary": "In mathematics, Hall's conjecture is an open question on the differences between perfect squares and perfect cubes. It asserts that a perfect square y2 and a perfect cube x3 that are not equal must lie a substantial distance apart. This question arose from consideration of the Mordell equation in the theory of integer points on elliptic curves.\nThe original version of Hall's conjecture, formulated by Marshall Hall, Jr. in 1970, says that there is a positive constant C such that for any integers ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "a8794471-526b-4215-b6d0-174dee58bc47",
+  "name": "Graph factorization",
+  "link": "https://en.wikipedia.org/wiki/Graph_factorization",
+  "summary": "In graph theory, a factor of a graph G is a spanning subgraph, i.e., a subgraph that has the same vertex set as G. A k-factor of a graph is a spanning k-regular subgraph, and a k-factorization partitions the edges of the graph into disjoint k-factors. A graph G is said to be k-factorable if it admits a k-factorization. In particular, a 1-factor is a perfect matching, and a 1-factorization of a k-regular graph is a proper edge coloring with k colors. A 2-factor is a collection of disjoint cycles ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

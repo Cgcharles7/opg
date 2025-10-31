@@ -1,0 +1,11 @@
+{
+  "uuid": "eff732ba-ac83-47ee-969b-5860055a856d",
+  "name": "Graceful labeling",
+  "link": "https://en.wikipedia.org/wiki/Graceful_labeling",
+  "summary": "In graph theory, a graceful labeling of a graph with m edges is a labeling of its vertices with some subset of the integers from 0 to m inclusive, such that no two vertices share a label, and each edge is uniquely identified by the absolute difference between its endpoints, such that this magnitude lies between 1 and m inclusive.  A graph which admits a graceful labeling is called a graceful graph.\nThe name \"graceful labeling\" is due to Solomon W. Golomb; this type of labeling was originally giv",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

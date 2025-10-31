@@ -1,0 +1,11 @@
+{
+  "uuid": "d1ec33ff-b7b8-481a-b5b3-462f90d1509d",
+  "name": "Graph minor",
+  "link": "https://en.wikipedia.org/wiki/Graph_minor",
+  "summary": "In graph theory, an undirected graph H is called a minor of the graph G if H can be formed from G by deleting edges, vertices and by contracting edges.\nThe theory of graph minors began with Wagner's theorem that a graph is planar if and only if its minors include neither the complete graph K5 nor the complete bipartite graph K3,3. The Robertson–Seymour theorem implies that an analogous forbidden minor characterization exists for every property of graphs that is preserved by deletions and edge co",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

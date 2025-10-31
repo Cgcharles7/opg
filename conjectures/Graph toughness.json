@@ -1,0 +1,11 @@
+{
+  "uuid": "a76cbba1-40fc-425b-8bf4-001184b87849",
+  "name": "Graph toughness",
+  "link": "https://en.wikipedia.org/wiki/Graph_toughness",
+  "summary": "In graph theory, toughness is a measure of the connectivity of a graph.  A graph G is said to be t-tough for a given real number t if, for every integer k > 1, G cannot be split into k different connected components by the removal of fewer than tk vertices. For instance, a graph is 1-tough if the number of components formed by removing a set of vertices is always at most as large as the number of removed vertices. The toughness of a graph is the maximum t for which it is t-tough; this is a finit",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "5be898cd-75ab-41b9-a07c-90ac526683e0",
+  "name": "Geodetic graph",
+  "link": "https://en.wikipedia.org/wiki/Geodetic_graph",
+  "summary": "In graph theory, a geodetic graph is an undirected graph such that there exists a unique (unweighted) shortest path between each two vertices.\nGeodetic graphs were introduced in 1962 by Øystein Ore, who observed that they generalize a property of trees (in which there exists a unique path between each two vertices regardless of distance), and asked for a characterization of them. Although these graphs can be recognized in polynomial time, \"more than sixty years later a full characterization is s",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

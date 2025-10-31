@@ -1,0 +1,11 @@
+{
+  "uuid": "8db9b2ad-0912-4d14-b8e1-23bda0629c4e",
+  "name": "Generalized taxicab number",
+  "link": "https://en.wikipedia.org/wiki/Generalized_taxicab_number",
+  "summary": "In number theory, the generalized taxicab number Taxicab(k, j, n) is the smallest number — if it exists — that can be expressed as the sum of j numbers to the kth positive power in n different ways. For k = 3 and j = 2, they coincide with the taxicab number.\n\n  \n    \n      \n        \n          \n            \n              \n                \n                  T\n                  a\n                  x\n                  i\n                  c\n                  a\n                  b\n                \n   ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

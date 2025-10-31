@@ -1,0 +1,11 @@
+{
+  "uuid": "d4be4d22-a2c5-4da5-9db1-b3a3cdf0ead8",
+  "name": "Hadwiger conjecture (combinatorial geometry)",
+  "link": "https://en.wikipedia.org/wiki/Hadwiger_conjecture_(combinatorial_geometry)",
+  "summary": "In combinatorial geometry, the Hadwiger conjecture states that any convex body in n-dimensional Euclidean space can be covered by 2n or fewer smaller bodies homothetic with the original body, and that furthermore, the upper bound of 2n is necessary if and only if the body is a parallelepiped. There also exists an equivalent formulation in terms of the number of floodlights needed to illuminate the body.\nThe Hadwiger conjecture is named after Hugo Hadwiger, who included it on a list of unsolved p",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

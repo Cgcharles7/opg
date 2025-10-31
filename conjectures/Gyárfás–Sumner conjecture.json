@@ -1,0 +1,11 @@
+{
+  "uuid": "286a56cb-ec20-4189-8630-de3981331c5b",
+  "name": "Gyárfás–Sumner conjecture",
+  "link": "https://en.wikipedia.org/wiki/Gy%C3%A1rf%C3%A1s%E2%80%93Sumner_conjecture",
+  "summary": "In graph theory, the Gyárfás–Sumner conjecture asks whether, for every tree \n  \n    \n      \n        T\n      \n    \n    {\\displaystyle T}\n  \n and complete graph \n  \n    \n      \n        K\n      \n    \n    {\\displaystyle K}\n  \n, the graphs with neither \n  \n    \n      \n        T\n      \n    \n    {\\displaystyle T}\n  \n nor \n  \n    \n      \n        K\n      \n    \n    {\\displaystyle K}\n  \n as induced subgraphs can be properly colored using only a constant number of colors. Equivalently, it asks whether the \n",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

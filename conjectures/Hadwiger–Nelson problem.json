@@ -1,0 +1,11 @@
+{
+  "uuid": "f79e5940-2e3e-4eab-af92-1a3220a19666",
+  "name": "Hadwiger–Nelson problem",
+  "link": "https://en.wikipedia.org/wiki/Hadwiger%E2%80%93Nelson_problem",
+  "summary": "In geometric graph theory, the Hadwiger–Nelson problem, named after Hugo Hadwiger and Edward Nelson, asks for the minimum number of colors required to color the plane such that no two points at distance 1 from each other have the same color. The answer is unknown, but has been narrowed down to one of the numbers 5, 6 or 7. The correct value may depend on the choice of axioms for set theory.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

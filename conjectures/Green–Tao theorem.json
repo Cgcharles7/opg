@@ -1,0 +1,11 @@
+{
+  "uuid": "97ad2e6b-2b00-4611-9847-54079179c47f",
+  "name": "Green–Tao theorem",
+  "link": "https://en.wikipedia.org/wiki/Green%E2%80%93Tao_theorem",
+  "summary": "In number theory, the Green–Tao theorem, proven by Ben Green and Terence Tao in 2004, states that the sequence of prime numbers contains arbitrarily long arithmetic progressions.  In other words, for every natural number \n  \n    \n      \n        k\n      \n    \n    {\\displaystyle k}\n  \n, there exist arithmetic progressions of primes with \n  \n    \n      \n        k\n      \n    \n    {\\displaystyle k}\n  \n terms. The proof is an extension of Szemerédi's theorem. The problem can be traced back to investig",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}
