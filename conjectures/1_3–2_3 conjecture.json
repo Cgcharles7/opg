@@ -1,0 +1,11 @@
+{
+  "uuid": "11aec08e-e61f-4c88-b9f8-884e62108c45",
+  "name": "1/3–2/3 conjecture",
+  "link": "https://en.wikipedia.org/wiki/1/3%E2%80%932/3_conjecture",
+  "summary": "In order theory, a branch of mathematics, the 1/3–2/3 conjecture states that, if one is comparison sorting a set of items then, no matter what comparisons may have already been performed, it is always possible to choose the next comparison in such a way that it will reduce the number of possible sorted orders by a factor of 2/3 or better. Equivalently, in every finite partially ordered set that is not totally ordered, there exists a pair of elements x and y with the property that at least 1/3 an",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}
