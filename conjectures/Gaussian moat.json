@@ -1,0 +1,16 @@
+{
+  "uuid": "d603fe23-d517-4cf7-a36f-360f480c5660",
+  "name": "Gaussian moat",
+  "link": "https://en.wikipedia.org/wiki/Gaussian_moat",
+  "summary": "In number theory, the Gaussian moat problem asks whether it is possible to find an infinite sequence of distinct Gaussian prime numbers such that the difference between consecutive numbers in the sequence is bounded. More colorfully, if one imagines the Gaussian primes to be stepping stones in a sea of complex numbers, the question is whether one can walk from the origin to infinity with steps of bounded size, without getting wet. The problem was first posed in 1962 by Basil Gordon (although it ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}

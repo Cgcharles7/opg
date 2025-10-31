@@ -1,0 +1,16 @@
+{
+  "uuid": "40b16ee7-127a-4f52-b84e-49823f9ad679",
+  "name": "Fibonacci prime",
+  "link": "https://en.wikipedia.org/wiki/Fibonacci_prime",
+  "summary": "A Fibonacci prime is a Fibonacci number that is prime, a type of integer sequence prime.\nThe first Fibonacci primes are (sequence A005478 in the OEIS):\n\n2, 3, 5, 13, 89, 233, 1597, 28657, 514229, 433494437, 2971215073, ....",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "09ff46ff-e9e6-4ca7-b865-09223a3431a7",
+  "name": "Erdős–Straus conjecture",
+  "link": "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Straus_conjecture",
+  "summary": "The Erdős–Straus conjecture is an unproven statement in number theory. The conjecture is that, for every integer \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n that is greater than or equal to 2, there exist positive integers \n  \n    \n      \n        x\n      \n    \n    {\\displaystyle x}\n  \n, \n  \n    \n      \n        y\n      \n    \n    {\\displaystyle y}\n  \n, and \n  \n    \n      \n        z\n      \n    \n    {\\displaystyle z}\n  \n for which \n  \n    \n      \n        \n          \n            4",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Diophantine equations",
+    "Number theory",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

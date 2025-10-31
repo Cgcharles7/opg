@@ -1,0 +1,16 @@
+{
+  "uuid": "a1ccf91a-8f90-4895-ad32-9c3d7e7036bf",
+  "name": "Euclidean space",
+  "link": "https://en.wikipedia.org/wiki/Euclidean_space",
+  "summary": "Euclidean space is the fundamental space of geometry, intended to represent physical space. Originally, in Euclid's Elements, it was the three-dimensional space of Euclidean geometry, but in modern mathematics there are Euclidean spaces of any positive integer dimension n, which are called Euclidean n-spaces when one wants to specify their dimension. For n equal to one or two, they are commonly called respectively Euclidean lines and Euclidean planes. The qualifier \"Euclidean\" is used to disting",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Differential geometry",
+    "Unsolved problems",
+    "Geometry"
+  ],
+  "authors": []
+}

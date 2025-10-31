@@ -1,0 +1,16 @@
+{
+  "uuid": "de8868d5-a14e-4eff-a63f-02610f5f27c2",
+  "name": "Euler's constant",
+  "link": "https://en.wikipedia.org/wiki/Euler%27s_constant",
+  "summary": "Euler's constant (sometimes called the Euler–Mascheroni constant) is a mathematical constant, usually denoted by the lowercase Greek letter gamma (γ), defined as the limiting difference between the harmonic series and the natural logarithm, denoted here by log:\n  \n    \n      \n        \n          \n            \n              \n                γ\n              \n              \n                \n                =\n                \n                  lim\n                  \n                    n\n            ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Diophantine approximation and transcendental number theory",
+    "Number theory",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

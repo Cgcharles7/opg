@@ -1,0 +1,16 @@
+{
+  "uuid": "48b71867-fa5d-42c5-b032-6f3ba38c7b23",
+  "name": "Degree diameter problem",
+  "link": "https://en.wikipedia.org/wiki/Degree_diameter_problem",
+  "summary": "In graph theory, the degree diameter problem is the problem of finding the largest possible graph G (in terms of the size of its vertex set V) of diameter k such that the largest degree of any of the vertices in G is at most d. The size of G is bounded above by the Moore bound; for 1 < k and 2 < d, only the Petersen graph, the Hoffman-Singleton graph, and possibly graphs (not yet proven to exist) of diameter k = 2 and degree d = 57 attain the Moore bound. In general, the largest degree-diameter ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Restriction of graph parameters",
+    "Unsolved problems",
+    "Graph theory"
+  ],
+  "authors": []
+}

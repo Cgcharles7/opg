@@ -1,0 +1,16 @@
+{
+  "uuid": "33d3be96-5f2d-45f5-ad60-d72a83071dd1",
+  "name": "Danzer set",
+  "link": "https://en.wikipedia.org/wiki/Danzer_set",
+  "summary": "In geometry, a Danzer set is a set of points that touches every convex body of unit volume. Ludwig Danzer asked whether it is possible for such a set to have bounded density. Several variations of this problem remain unsolved.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Euclidean geometry",
+    "Geometry"
+  ],
+  "authors": []
+}

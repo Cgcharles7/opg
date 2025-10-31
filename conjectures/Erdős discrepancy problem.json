@@ -1,0 +1,16 @@
+{
+  "uuid": "2251e5a6-44b9-461d-9b46-424b58c01660",
+  "name": "Erdős discrepancy problem",
+  "link": "https://en.wikipedia.org/wiki/Sign_sequence",
+  "summary": "In mathematics, a sign sequence, or ±1–sequence or bipolar sequence, is a sequence of numbers, each of which is either 1 or −1. One example is the sequence (1, −1, 1, −1, ...).\nSuch sequences are commonly studied in discrepancy theory.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Uncategorised",
+    "Problems solved since 1995",
+    "2010s"
+  ],
+  "authors": []
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "e88d18dd-fb8c-44bd-bdbc-ce6235672c45",
+  "name": "Euler's totient function",
+  "link": "https://en.wikipedia.org/wiki/Euler%27s_totient_function",
+  "summary": "In number theory, Euler's totient function counts the positive integers up to a given integer \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n that are relatively prime to \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n. It is written using the Greek letter phi as \n  \n    \n      \n        φ\n        (\n        n\n        )\n      \n    \n    {\\displaystyle \\varphi (n)}\n  \n or \n  \n    \n      \n        ϕ\n        (\n        n\n        )\n      \n    \n    {\\displaystyle \\phi (n)}\n",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "General"
+  ],
+  "authors": []
+}

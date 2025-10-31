@@ -1,0 +1,16 @@
+{
+  "uuid": "75fb4c51-c748-4993-b1c1-bc26fe2711f9",
+  "name": "Erdős–Graham problem",
+  "link": "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Graham_problem",
+  "summary": "In combinatorial number theory, the Erdős–Graham problem is the problem of proving that, if the set \n  \n    \n      \n        {\n        2\n        ,\n        3\n        ,\n        4\n        ,\n        …\n        }\n      \n    \n    {\\displaystyle \\{2,3,4,\\dots \\}}\n  \n of integers greater than one is partitioned into finitely many subsets, then one of the subsets can be used to form an Egyptian fraction representation of unity. That is, for every \n  \n    \n      \n        r\n        >\n        0\n      \n    \n  ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "21st century",
+    "Number theory",
+    "Problems solved since 1995"
+  ],
+  "authors": []
+}

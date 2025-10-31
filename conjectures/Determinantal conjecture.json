@@ -1,0 +1,15 @@
+{
+  "uuid": "94b7634b-a532-402b-9238-029993c356f7",
+  "name": "Determinantal conjecture",
+  "link": "https://en.wikipedia.org/wiki/Determinantal_conjecture",
+  "summary": "In mathematics, the determinantal conjecture of Marcus (1972) and de Oliveira (1982) asks whether the determinant of a sum A + B of two n-by-n normal complex matrices A and B lies in the convex hull of the n! points Πi (λ(A)i + λ(B)σ(i)), where the numbers λ(A)i and λ(B)i are the eigenvalues of A and B, and σ is an element of the symmetric group Sn.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "0717c208-bcbf-48fb-a8b5-a96daa9f6e11",
+  "name": "Eilenberg–Ganea conjecture",
+  "link": "https://en.wikipedia.org/wiki/Eilenberg%E2%80%93Ganea_conjecture",
+  "summary": "The Eilenberg–Ganea conjecture is a claim in algebraic topology.  It was formulated by Samuel Eilenberg and Tudor Ganea in 1957, in a short, but influential paper.  It states that if a group G has cohomological dimension 2, then it has a 2-dimensional Eilenberg–MacLane space \n  \n    \n      \n        K\n        (\n        G\n        ,\n        1\n        )\n      \n    \n    {\\displaystyle K(G,1)}\n  \n.  For n different from 2, a group G of cohomological dimension n has an n-dimensional Eilenberg–MacLane s",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

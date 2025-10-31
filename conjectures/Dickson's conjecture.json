@@ -1,0 +1,16 @@
+{
+  "uuid": "18f03c3a-0b28-478c-9780-db6afc74a74c",
+  "name": "Dickson's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Dickson%27s_conjecture",
+  "summary": "In number theory, a branch of mathematics, Dickson's conjecture is the conjecture stated by Dickson (1904) that for a finite set of linear forms \n  \n    \n      \n        \n          a\n          \n            1\n          \n        \n        +\n        \n          b\n          \n            1\n          \n        \n        n\n        ,\n        \n          a\n          \n            2\n          \n        \n        +\n        \n          b\n          \n            2\n          \n        \n        n\n        ,\n        …\n     ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}

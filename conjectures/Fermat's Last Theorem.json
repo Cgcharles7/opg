@@ -1,0 +1,18 @@
+{
+  "uuid": "3ee474ee-a4aa-46de-9d7b-91f9a86ae2f8",
+  "name": "Fermat's Last Theorem",
+  "link": "https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem",
+  "summary": "In number theory, Fermat's Last Theorem (sometimes called Fermat's conjecture, especially in older texts) states that no three positive integers a, b, and c satisfy the equation an + bn = cn for any integer value of n greater than 2. The cases n = 1 and n = 2 have been known since antiquity to have infinitely many solutions.\nThe proposition was first stated as a theorem by Pierre de Fermat around 1637 in the margin of a copy of Arithmetica. Fermat added that he had a proof that was too large to ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Problems solved since 1995",
+    "Further reading",
+    "Number theory",
+    "20th century",
+    "Books discussing problems solved since 1995"
+  ],
+  "authors": []
+}
