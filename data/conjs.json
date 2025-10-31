@@ -1,4 +1,4 @@
-[
+
 [
 {"id":"1","categories":"Graph Theory, Basic G.T., Cycles","title":"Chords of longest cycles","difficulty":"3","authors":"Thomassen","description":"Conjecture If is a 3-connected graph, every longest cycle in has a chord.","kwds":"chord, connectivity, cycle","cntr":"0","head":"","is_open":"1","refs":"","prev_conjs":""},
 {"id":"2","categories":"Graph Theory ","title":"Do any three longest paths in a connected graph have a vertex in common?","difficulty":"2","authors":"Gallai","description":"Conjecture Do any three longest paths in a connected graph have a vertex in common?","kwds":"","cntr":"0","head":"","is_open":"1","refs":"","prev_conjs":""},
@@ -423,4 +423,4 @@
 {"id":"421","categories":"Graph Theory, Coloring, Nowhere-zero flows","title":"Jaeger's modular orientation conjecture","difficulty":"3","authors":"Jaeger","description":"Conjecture Every - edge-connected graph can be oriented so that (mod ) for every vertex .","kwds":"nowhere-zero flow, orientation","cntr":"0","head":"","is_open":"1","refs":"","prev_conjs":""},
 {"id":"422","categories":"Graph Theory, Coloring, Nowhere-zero flows","title":"5-flow conjecture","difficulty":"4","authors":"Tutte","description":"Conjecture Every bridgeless graph has a nowhere-zero 5-flow.","kwds":"cubic, nowhere-zero flow","cntr":"0","head":"","is_open":"1","refs":"","prev_conjs":""}
 ]
-]
+
