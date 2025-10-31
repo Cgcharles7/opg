@@ -1,0 +1,11 @@
+{
+  "uuid": "69ab404a-881b-4eed-8b2a-7246d24319ba",
+  "name": "Endomorphism",
+  "link": "https://en.wikipedia.org/wiki/Endomorphism",
+  "summary": "In abstract algebra, an endomorphism is a homomorphism from a mathematical object to itself. More generally in category theory, an endomorphism is a morphism from a category of objects to itself. An endomorphism that is also an isomorphism is an automorphism. For example, an endomorphism of a vector space V is a linear map f: V → V, and an endomorphism of a group G is a group homomorphism f: G → G. \n\nIn general, we can talk about endomorphisms in any category. In the category of sets, endomorphi",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "cc371e86-d90d-4d6f-a22c-7229680ed7f8",
+  "name": "Domination number",
+  "link": "https://en.wikipedia.org/wiki/Dominating_set",
+  "summary": "In graph theory, a dominating set for a graph G is a subset D of its vertices, such that any vertex of G is in D, or has a neighbor in D. The domination number γ(G) is the number of vertices in a smallest dominating set for G.\nThe dominating set problem concerns testing whether γ(G) ≤ K for a given graph G and input K; it is a classical NP-complete decision problem in computational complexity theory. Therefore it is believed that there may be no efficient algorithm that can compute γ(G) for all ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

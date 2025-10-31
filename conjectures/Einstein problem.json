@@ -1,0 +1,11 @@
+{
+  "uuid": "3f7dbffa-d89f-4b06-8887-69484024d4e7",
+  "name": "Einstein problem",
+  "link": "https://en.wikipedia.org/wiki/Einstein_problem",
+  "summary": "In plane discrete geometry, the einstein problem asks about the existence of a single prototile that by itself forms an aperiodic set of prototiles; that is, a shape that can tessellate space but only in a nonperiodic way. Such a shape is called an einstein, a word play on ein Stein, German for \"one stone\".\nSeveral variants of the problem, depending on the particular definitions of nonperiodicity and the specifications of what sets may qualify as tiles and what types of matching rules are permit",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "332926f8-9582-48cb-b339-867ca2e81101",
+  "name": "Erdős–Faber–Lovász conjecture",
+  "link": "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Faber%E2%80%93Lov%C3%A1sz_conjecture",
+  "summary": "In graph theory, the Erdős–Faber–Lovász conjecture is a problem about graph coloring, named after Paul Erdős, Vance Faber, and László Lovász, who formulated it in 1972.  It says:\n\nIf k complete graphs, each having exactly k vertices, have the property that every pair of complete graphs has at most one shared vertex, then the union of the graphs can be properly colored with k colors.\nThe conjecture for all sufficiently large values of k was proved by Dong Yeap Kang, Tom Kelly, Daniela Kühn, Abhis",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

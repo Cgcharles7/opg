@@ -1,0 +1,11 @@
+{
+  "uuid": "d077b247-ebd2-4cc5-a9c4-79dba2d685d9",
+  "name": "Dodecahedral conjecture",
+  "link": "https://en.wikipedia.org/wiki/Dodecahedral_conjecture",
+  "summary": "The dodecahedral conjecture in geometry is intimately related to sphere packing. \nLászló Fejes Tóth, a 20th-century Hungarian geometer, considered the Voronoi decomposition of any given packing of unit spheres. He conjectured in 1943 that the minimal volume of any cell in the resulting Voronoi decomposition was at least as large as the volume of a regular dodecahedron circumscribed to a unit sphere.\nThomas Callister Hales and Sean McLaughlin proved the conjecture in 1998, following the same stra",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

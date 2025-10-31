@@ -1,0 +1,11 @@
+{
+  "uuid": "898e4748-629a-4a9c-a1a8-e1c858c1a0cd",
+  "name": "Diophantine approximation",
+  "link": "https://en.wikipedia.org/wiki/Diophantine_approximation",
+  "summary": "In number theory, the study of Diophantine approximation deals with the approximation of real numbers by rational numbers.  It is named after Diophantus of Alexandria.\nThe first problem was to know how well a real number can be approximated by rational numbers. For this problem, a rational number p/q is a \"good\" approximation of a real number α if the absolute value of the difference between p/q and α may not decrease if p/q is replaced by another rational number with a smaller denominator. This",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}
