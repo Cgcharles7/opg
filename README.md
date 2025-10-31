@@ -62,7 +62,7 @@ To contribute:
 2. Make your changes
 3. Submit a pull request describing your contribution
 
-## 🧩 Structure
+## Structure
 
 Each conjecture is stored as a JSON or Markdown file with fields like:
 
@@ -79,7 +79,7 @@ Each conjecture is stored as a JSON or Markdown file with fields like:
   "is_open": true,
   "head": "Graph Theory",
   "prev_conjs": []
-}
+}```
 
 
 # Licensing & Attribution
