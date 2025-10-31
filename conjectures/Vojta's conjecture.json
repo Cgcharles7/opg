@@ -1,0 +1,16 @@
+{
+  "uuid": "f0cecd2f-ae4b-4b41-abdd-b874cc939552",
+  "name": "Vojta's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Vojta%27s_conjecture",
+  "summary": "In mathematics, Vojta's conjecture is a conjecture introduced by Paul Vojta (1987) about heights of points on algebraic varieties over number fields. The conjecture was motivated by an analogy between diophantine approximation and Nevanlinna theory (value distribution theory) in complex analysis. It implies many other conjectures in Diophantine approximation, Diophantine equations, arithmetic geometry, and mathematical logic.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Arithmetic geometry"
+  ],
+  "authors": []
+}

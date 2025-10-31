@@ -1,0 +1,15 @@
+{
+  "uuid": "50628c28-f4d2-4004-a729-4bd55526b625",
+  "name": "Robertson–Seymour theorem",
+  "link": "https://en.wikipedia.org/wiki/Robertson%E2%80%93Seymour_theorem",
+  "summary": "In graph theory, the Robertson–Seymour theorem (also called the graph minors theorem) states that the undirected graphs, partially ordered by the graph minor relationship, form a well-quasi-ordering. Equivalently, every family of graphs that is closed under taking minors can be defined by a finite set of forbidden minors, in the same way that Wagner's theorem characterizes the planar graphs as being the graphs that do not have the complete graph \n  \n    \n      \n        \n          K\n          \n  ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Problems solved since 1995",
+    "Graph theory"
+  ],
+  "authors": []
+}

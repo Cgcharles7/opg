@@ -1,0 +1,16 @@
+{
+  "uuid": "4ee1d83d-20d1-4f52-97d1-ab098d9e2b8c",
+  "name": "Selberg class",
+  "link": "https://en.wikipedia.org/wiki/Selberg_class",
+  "summary": "In mathematics, the Selberg class is an axiomatic definition of a class of L-functions.  The members of the class are Dirichlet series which obey four axioms that seem to capture the essential properties satisfied by most functions that are commonly called L-functions or zeta functions.  Although the exact nature of the class is conjectural, the hope is that the definition of the class will lead to a classification of its contents and an elucidation of its properties, including insight into thei",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Analytic number theory"
+  ],
+  "authors": []
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "160460c7-11dc-4902-9192-9e5dcaab0670",
+  "name": "Unknotting problem",
+  "link": "https://en.wikipedia.org/wiki/Unknotting_problem",
+  "summary": "In mathematics, the unknotting problem is the problem of algorithmically recognizing the unknot, given some representation of a knot, e.g., a knot diagram. There are several types of unknotting algorithms.  A major unresolved challenge is to determine if the problem admits a polynomial time algorithm; that is, whether the problem lies in the complexity class P.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Topology",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

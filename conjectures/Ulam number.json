@@ -1,0 +1,16 @@
+{
+  "uuid": "deab7ed1-d7e5-4813-bf5b-c380862d096d",
+  "name": "Ulam number",
+  "link": "https://en.wikipedia.org/wiki/Ulam_number",
+  "summary": "In mathematics, the Ulam numbers comprise an integer sequence devised by and named after Stanisław Ulam, who introduced it in 1964.  The standard Ulam sequence (the (1, 2)-Ulam  sequence) starts with U1 = 1 and U2 = 2.  Then for n > 2, Un is defined to be the smallest integer that is the sum of two distinct earlier terms in exactly one way and larger than all earlier terms.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Additive number theory"
+  ],
+  "authors": []
+}

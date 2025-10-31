@@ -1,0 +1,16 @@
+{
+  "uuid": "4a3efda0-8b1d-4653-8b6c-ca11f238a8c4",
+  "name": "Skewes's number",
+  "link": "https://en.wikipedia.org/wiki/Skewes%27s_number",
+  "summary": "In number theory, Skewes's number is the smallest natural number \n  \n    \n      \n        x\n      \n    \n    {\\displaystyle x}\n  \n for which the prime-counting function \n  \n    \n      \n        π\n        (\n        x\n        )\n      \n    \n    {\\displaystyle \\pi (x)}\n  \n exceeds the logarithmic integral function \n  \n    \n      \n        li\n        ⁡\n        (\n        x\n        )\n        .\n      \n    \n    {\\displaystyle \\operatorname {li} (x).}\n  \n  It is named for the South African mathematician Stanl",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}

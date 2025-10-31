@@ -1,0 +1,15 @@
+{
+  "uuid": "9e8e5390-e354-421f-8dc5-bb0b3019a568",
+  "name": "Von Neumann algebra",
+  "link": "https://en.wikipedia.org/wiki/Von_Neumann_algebra",
+  "summary": "In mathematics, a von Neumann algebra or W*-algebra is a *-algebra of bounded operators on a Hilbert space that is closed in the weak operator topology and contains the identity operator. It is a special type of C*-algebra.\n\nVon Neumann algebras were originally introduced by John von Neumann, motivated by his study of single operators, group representations, ergodic theory and quantum mechanics. His double commutant theorem shows that the analytic definition is equivalent to a purely algebraic d",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

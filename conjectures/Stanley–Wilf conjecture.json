@@ -1,0 +1,15 @@
+{
+  "uuid": "a863960e-5928-4c87-8479-c68c6aee2788",
+  "name": "Stanley–Wilf conjecture",
+  "link": "https://en.wikipedia.org/wiki/Stanley%E2%80%93Wilf_conjecture",
+  "summary": "The Stanley–Wilf conjecture, formulated independently by Richard P. Stanley and Herbert Wilf in the late 1980s, states that the growth rate of every proper permutation class is singly exponential. It was proved by Adam Marcus and Gábor Tardos (2004) and is no longer a conjecture.  Marcus and Tardos actually proved a different conjecture, due to Zoltán Füredi and Péter Hajnal (1992), which had been shown to imply the Stanley–Wilf conjecture by Klazar (2000).",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Combinatorics",
+    "Problems solved since 1995"
+  ],
+  "authors": []
+}

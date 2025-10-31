@@ -1,0 +1,16 @@
+{
+  "uuid": "972fe747-b6fc-48b6-9c18-344735b8a074",
+  "name": "Skolem problem",
+  "link": "https://en.wikipedia.org/wiki/Skolem_problem",
+  "summary": "In mathematics, the Skolem problem is the problem of determining whether the values of a constant-recursive sequence include the number zero. The problem can be formulated for recurrences over different types of numbers, including integers, rational numbers, and algebraic numbers. It is not known whether there exists an algorithm that can solve this problem.\nA linear recurrence relation expresses the values of a sequence of numbers as a linear combination of earlier values; for instance, the Fib",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Additive number theory"
+  ],
+  "authors": []
+}

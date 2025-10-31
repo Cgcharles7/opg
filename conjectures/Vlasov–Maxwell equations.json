@@ -1,0 +1,15 @@
+{
+  "uuid": "3c6c8929-d90b-4884-a2c0-04a9fcf70a43",
+  "name": "Vlasov–Maxwell equations",
+  "link": "https://en.wikipedia.org/wiki/Vlasov_equation",
+  "summary": "In plasma physics, the Vlasov equation is a differential equation describing time evolution of the distribution function of collisionless plasma consisting of charged particles with long-range interaction, such as the Coulomb interaction. The equation was first suggested for the description of plasma by Anatoly Vlasov in 1938 and later discussed by him in detail in a monograph. The Vlasov equation, combined with Landau kinetic equation describe collisional plasma.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Analysis"
+  ],
+  "authors": []
+}

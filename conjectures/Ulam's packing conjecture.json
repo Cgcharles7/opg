@@ -1,0 +1,16 @@
+{
+  "uuid": "2c27bc11-130c-4a69-b78f-aa2bbfc7f0c2",
+  "name": "Ulam's packing conjecture",
+  "link": "https://en.wikipedia.org/wiki/Ulam%27s_packing_conjecture",
+  "summary": "Ulam's packing conjecture, named for Stanisław Ulam, is a conjecture about the highest possible packing density of identical convex solids in three-dimensional Euclidean space. The conjecture says that the optimal density for packing congruent spheres is smaller than that for any other convex body. That is, according to the conjecture, the ball is the convex solid which forces the largest fraction of space to remain empty in its optimal packing structure. This conjecture is therefore related to ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Geometry",
+    "Covering and packing"
+  ],
+  "authors": []
+}

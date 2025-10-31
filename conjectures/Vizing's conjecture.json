@@ -1,0 +1,16 @@
+{
+  "uuid": "c77e70e3-1517-44a1-83cd-34f781ea27ba",
+  "name": "Vizing's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Vizing%27s_conjecture",
+  "summary": "In graph theory, Vizing's conjecture concerns a relation between the domination number and the cartesian product of graphs. \nThis conjecture was first stated by Vadim G. Vizing (1968), and states that, if γ(G) denotes the minimum number of vertices in a dominating set for the graph G, then\n\n  \n    \n      \n        γ\n        (\n        G\n        \n        ◻\n        \n        H\n        )\n        ≥\n        γ\n        (\n        G\n        )\n        γ\n        (\n        H\n        )\n        .\n        \n      ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Subgraphs",
+    "Unsolved problems",
+    "Graph theory"
+  ],
+  "authors": []
+}

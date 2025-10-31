@@ -1,0 +1,16 @@
+{
+  "uuid": "faf00c73-c585-4642-ba9f-aba5f805c7f9",
+  "name": "Sidorenko's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Sidorenko%27s_conjecture",
+  "summary": "Sidorenko's conjecture is a major conjecture in the field of extremal graph theory, posed by Alexander Sidorenko in 1986. Roughly speaking, the conjecture states that for any bipartite graph \n  \n    \n      \n        H\n      \n    \n    {\\displaystyle H}\n  \n and graph \n  \n    \n      \n        G\n      \n    \n    {\\displaystyle G}\n  \n on \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n vertices with average degree \n  \n    \n      \n        p\n        n\n      \n    \n    {\\displaystyle pn}\n  \n,",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Miscellaneous graph theory",
+    "Unsolved problems",
+    "Graph theory"
+  ],
+  "authors": []
+}

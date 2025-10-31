@@ -1,0 +1,16 @@
+{
+  "uuid": "5ed3ab19-1974-4e7b-95ca-ceceffb472f9",
+  "name": "Sphere packing",
+  "link": "https://en.wikipedia.org/wiki/Sphere_packing",
+  "summary": "In geometry, a sphere packing is an arrangement of non-overlapping spheres within a containing space. The spheres considered are usually all of identical size, and the space is usually three-dimensional Euclidean space. However, sphere packing problems can be generalised to consider unequal spheres, spaces of other dimensions (where the problem becomes circle packing in two dimensions, or hypersphere packing in higher dimensions) or to non-Euclidean spaces such as hyperbolic space.\nA typical sph",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Geometry",
+    "Covering and packing"
+  ],
+  "authors": []
+}

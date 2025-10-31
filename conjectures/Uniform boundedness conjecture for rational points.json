@@ -1,0 +1,15 @@
+{
+  "uuid": "43b6b77c-59ce-42af-8a25-0144a7ea2712",
+  "name": "Uniform boundedness conjecture for rational points",
+  "link": "https://en.wikipedia.org/wiki/Uniform_boundedness_conjecture_for_rational_points",
+  "summary": "In arithmetic geometry, the uniform boundedness conjecture for rational points asserts that for a given number field \n  \n    \n      \n        K\n      \n    \n    {\\displaystyle K}\n  \n and a positive integer \n  \n    \n      \n        g\n        ≥\n        2\n      \n    \n    {\\displaystyle g\\geq 2}\n  \n, there exists a number \n  \n    \n      \n        N\n        (\n        K\n        ,\n        g\n        )\n      \n    \n    {\\displaystyle N(K,g)}\n  \n depending only on \n  \n    \n      \n        K\n      \n    \n    {\\di",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "8643d6a2-db76-4d23-a7cc-bba5238eb980",
+  "name": "Rudin's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Rudin%27s_conjecture",
+  "summary": "Rudin's conjecture is a mathematical conjecture in additive combinatorics and elementary number theory about an upper bound for the number of squares in finite arithmetic progressions. The conjecture, which has applications in the theory of trigonometric series, was first stated by Walter Rudin in his 1960 paper Trigonometric series with gaps.\nFor positive integers \n  \n    \n      \n        N\n        ,\n        q\n        ,\n        a\n      \n    \n    {\\displaystyle N,q,a}\n  \n define the expression \n ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Combinatorics",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

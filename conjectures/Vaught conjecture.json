@@ -1,0 +1,15 @@
+{
+  "uuid": "d7082644-8344-41ca-99bf-5fed3196938b",
+  "name": "Vaught conjecture",
+  "link": "https://en.wikipedia.org/wiki/Vaught_conjecture",
+  "summary": "The Vaught conjecture is a conjecture in the mathematical field of model theory originally proposed by Robert Lawson Vaught in 1961.  It states that the  number of countable models of a first-order complete theory in a countable language is finite or ℵ0 or 2ℵ0.  Morley showed that the number of countable models is finite or ℵ0 or ℵ1 or 2ℵ0, which solves the conjecture except for the case of ℵ1 models when the continuum hypothesis fails. For this remaining case,  Robin Knight (2002, 2007) has ann",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Model theory and formal languages"
+  ],
+  "authors": []
+}

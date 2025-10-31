@@ -1,0 +1,15 @@
+{
+  "uuid": "813c85a0-42e0-47c1-b826-9e97c6ea0b9c",
+  "name": "Singular cardinals hypothesis",
+  "link": "https://en.wikipedia.org/wiki/Singular_cardinals_hypothesis",
+  "summary": "In set theory, the singular cardinals hypothesis (SCH) arose from the question of whether the least cardinal number for which the generalized continuum hypothesis (GCH) might fail could be a singular cardinal.\nAccording to Mitchell (1992), the singular cardinals hypothesis is:\n\nIf κ is any singular strong limit cardinal, then 2κ = κ+.\nHere, κ+ denotes the successor cardinal of κ.\nSince SCH is a consequence of GCH, which is known to be consistent with ZFC, SCH is consistent with ZFC.  The negatio",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Set theory",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "1962c209-53ea-46f0-a7ff-f4efb644fd7b",
+  "name": "Sierpiński number",
+  "link": "https://en.wikipedia.org/wiki/Sierpi%C5%84ski_number",
+  "summary": "In number theory, a Sierpiński number is an odd natural number k such that \n  \n    \n      \n        k\n        ×\n        \n          2\n          \n            n\n          \n        \n        +\n        1\n      \n    \n    {\\displaystyle k\\times 2^{n}+1}\n  \n is composite for all natural numbers n. In 1960, Wacław Sierpiński proved that there are infinitely many odd integers k which have this property.\nIn other words, when k is a Sierpiński number, all members of the following set are composite:\n\n  \n    \n ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}

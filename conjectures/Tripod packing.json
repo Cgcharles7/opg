@@ -1,0 +1,16 @@
+{
+  "uuid": "8eb8851d-d9b3-4ce4-b39c-69cb332f545e",
+  "name": "Tripod packing",
+  "link": "https://en.wikipedia.org/wiki/Tripod_packing",
+  "summary": "In combinatorics, tripod packing is a problem of finding many disjoint tripods in a three-dimensional grid, where a tripod is an infinite polycube, the union of the grid cubes along three positive axis-aligned rays with a shared apex.\nSeveral problems of tiling and packing tripods and related shapes were formulated in 1967 by Sherman K. Stein. Stein originally called the tripods of this problem \"semicrosses\", and they were also called Stein corners by Solomon W. Golomb. A collection of disjoint ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Discrete geometry",
+    "Unsolved problems",
+    "Geometry"
+  ],
+  "authors": []
+}
