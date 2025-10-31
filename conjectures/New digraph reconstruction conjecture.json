@@ -1,0 +1,11 @@
+{
+  "uuid": "ee109d79-3e97-42a4-a1ff-621586b2223b",
+  "name": "New digraph reconstruction conjecture",
+  "link": "https://en.wikipedia.org/wiki/New_digraph_reconstruction_conjecture",
+  "summary": "The reconstruction conjecture of Stanisław Ulam is one of the best-known open problems in graph theory. Using the terminology of Frank Harary it can be stated as follows: If G and H are two graphs on at least three vertices and ƒ is a bijection from V(G) to V(H) such that G\\{v} and H\\{ƒ(v)} are isomorphic for all vertices v in V(G), then G and H are isomorphic.\nIn 1964 Harary extended the reconstruction conjecture to directed graphs on at least five vertices as the so-called digraph reconstructi",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

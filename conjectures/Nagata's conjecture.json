@@ -1,0 +1,11 @@
+{
+  "uuid": "b18c5b6c-2238-4ca1-90d0-7c7dcb028b8a",
+  "name": "Nagata's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Nagata%27s_conjecture",
+  "summary": "In algebra, Nagata's conjecture states that Nagata's automorphism of the polynomial ring k[x,y,z] is wild. The conjecture was proposed by Nagata (1972) and proved by Ualbai U. Umirbaev and Ivan P. Shestakov (2004).\nNagata's automorphism is given by\n\n  \n    \n      \n        ϕ\n        (\n        x\n        ,\n        y\n        ,\n        z\n        )\n        =\n        (\n        x\n        −\n        2\n        Δ\n        y\n        −\n        \n          Δ\n          \n            2\n          \n        \n        z",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

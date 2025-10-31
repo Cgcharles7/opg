@@ -1,0 +1,11 @@
+{
+  "uuid": "d6b5c30f-c1e8-463d-9370-8e53d47adcd6",
+  "name": "Nil ideal",
+  "link": "https://en.wikipedia.org/wiki/Nil_ideal",
+  "summary": "In mathematics, more specifically ring theory, a left, right or two-sided ideal of a ring is said to be a nil ideal if all of its elements are nilpotent, i.e for each \n  \n    \n      \n        a\n        ∈\n        I\n      \n    \n    {\\displaystyle a\\in I}\n  \n exists natural number n for which \n  \n    \n      \n        \n          a\n          \n            n\n          \n        \n        =\n        0.\n      \n    \n    {\\displaystyle a^{n}=0.}\n  \n If all elements of a ring is nilpotent (this is possible only ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

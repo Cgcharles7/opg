@@ -1,0 +1,11 @@
+{
+  "uuid": "b45ddab4-422d-4a73-a2c0-1029da5ae98d",
+  "name": "Minimal surface",
+  "link": "https://en.wikipedia.org/wiki/Minimal_surface",
+  "summary": "In mathematics, a minimal surface is a surface that locally minimizes its area. This is equivalent to having zero mean curvature (see definitions below).\nThe term \"minimal surface\" is used because these surfaces originally arose as surfaces that minimized total surface area subject to some constraint. Physical models of area-minimizing minimal surfaces can be made by dipping a wire frame into a soap solution, forming a soap film, which is a minimal surface whose boundary is the wire frame. Howev",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

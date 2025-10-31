@@ -1,0 +1,11 @@
+{
+  "uuid": "f8ff0398-b2b4-436d-8744-baeaf0215968",
+  "name": "Moser's worm problem",
+  "link": "https://en.wikipedia.org/wiki/Moser%27s_worm_problem",
+  "summary": "Moser's worm problem (also known as mother worm's blanket problem) is an unsolved problem in geometry formulated by the Austrian-Canadian mathematician Leo Moser in 1966. The problem asks for the region of smallest area that can accommodate every plane curve of length 1.  Here \"accommodate\" means that the curve may be rotated and translated to fit inside the region. In some variations of the problem, the region is restricted to be convex.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

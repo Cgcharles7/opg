@@ -1,0 +1,11 @@
+{
+  "uuid": "8b6dd146-8770-4584-96b1-83c3eba4f686",
+  "name": "Morphism of algebraic varieties",
+  "link": "https://en.wikipedia.org/wiki/Morphism_of_algebraic_varieties",
+  "summary": "In algebraic geometry, a morphism between algebraic varieties is a function between the varieties that is given locally by polynomials. It is also called a regular map. A morphism from an algebraic variety to the affine line is also called a regular function.\nA regular map whose inverse is also regular is called biregular, and the biregular maps are the isomorphisms of algebraic varieties. Because regular and biregular are very restrictive conditions – there are no non-constant regular functions",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

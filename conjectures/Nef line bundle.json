@@ -1,0 +1,11 @@
+{
+  "uuid": "ed6cf76c-951d-4652-884d-f6d8736f170b",
+  "name": "Nef line bundle",
+  "link": "https://en.wikipedia.org/wiki/Nef_line_bundle",
+  "summary": "In algebraic geometry, a line bundle on a projective variety is nef if it has nonnegative degree on every curve in the variety. The classes of nef line bundles are described by a convex cone, and the possible contractions of the variety correspond to certain faces of the nef cone. In view of the correspondence between line bundles and divisors (built from codimension-1 subvarieties), there is an equivalent notion of a nef divisor.",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

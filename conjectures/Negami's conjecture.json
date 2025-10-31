@@ -1,0 +1,11 @@
+{
+  "uuid": "cbfabea5-08af-46f9-9701-6bb412e527c3",
+  "name": "Negami's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Planar_cover",
+  "summary": "In graph theory, a planar cover of a finite graph G is a finite covering graph of G that is itself a planar graph. Every graph that can be embedded into the projective plane has a planar cover; an unsolved conjecture of  Seiya Negami states that these are the only graphs with planar covers.\nThe existence of a planar cover is a minor-closed graph property, and so can be characterized by finitely many forbidden minors, but the exact set of forbidden minors is not known. For the same reason, there ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "1ee0d971-96e5-49ce-b492-3741c8b3413c",
+  "name": "Multiplicity (mathematics)",
+  "link": "https://en.wikipedia.org/wiki/Multiplicity_(mathematics)",
+  "summary": "In mathematics, the multiplicity of a member of a multiset is the number of times it appears in the multiset.  For example, the number of times a given polynomial has a root at a given point is the multiplicity of that root.\nThe notion of multiplicity is important to be able to count correctly without specifying exceptions (for example, double roots counted twice).  Hence the expression, \"counted with multiplicity\".\nIf multiplicity is ignored, this may be emphasized by counting the number of dis",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "uuid": "a21f659d-4502-4fdd-8536-4ed1291e49a1",
+  "name": "Nd game",
+  "link": "https://en.wikipedia.org/wiki/Nd_game",
+  "summary": "A nd game (or nk game) is a generalization of the combinatorial game tic-tac-toe to higher dimensions. It is a game played on a nd hypercube with 2 players. If one player creates a line of length n of their symbol (X or O) they win the game. However, if all nd spaces are filled then the game is a draw. Tic-tac-toe is the game where n equals 3 and d equals 2 (3, 2). Qubic is the (4, 3) game. The (n > 0, 0) or (1, 1) games are trivially won by the first player as there is only one space (n0 = 1 an",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}

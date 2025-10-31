@@ -1,0 +1,11 @@
+{
+  "uuid": "870fd74c-d6be-4ff3-94ad-306630c9c25c",
+  "name": "Moore graph",
+  "link": "https://en.wikipedia.org/wiki/Moore_graph",
+  "summary": "In graph theory, a Moore graph is a regular graph whose girth (the shortest cycle length) is more than twice its diameter (the distance between the farthest two vertices). If the degree of such a graph is d and its diameter is k, its girth must equal 2k + 1. This is true, for a graph of degree d and diameter k, if and only if its number of vertices (its order) equals\n\n  \n    \n      \n        1\n        +\n        d\n        \n          ∑\n          \n            i\n            =\n            0\n          ",
+  "subject": null,
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": []
+}
