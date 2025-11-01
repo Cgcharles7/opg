@@ -1,0 +1,16 @@
+{
+  "uuid": "911d8fb8-4298-4a99-bd16-3d8b3443a58d",
+  "name": "Erdős–Ulam problem",
+  "link": "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Ulam_problem",
+  "summary": "In mathematics, the Erdős–Ulam problem asks whether the plane contains a dense set of points whose Euclidean distances are all rational numbers. It is named after Paul Erdős and Stanislaw Ulam.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Arithmetic geometry"
+  ],
+  "authors": []
+}

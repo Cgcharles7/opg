@@ -1,0 +1,16 @@
+{
+  "uuid": "8f2724c5-dff9-4c4f-8c6e-5820faebc1f7",
+  "name": "Hamiltonian decomposition",
+  "link": "https://en.wikipedia.org/wiki/Hamiltonian_decomposition",
+  "summary": "In graph theory, a branch of mathematics, a Hamiltonian decomposition of a given graph is a partition of the edges of the graph into Hamiltonian cycles. Hamiltonian decompositions have been studied both for undirected graphs and for directed graphs. \nIn the undirected case a Hamiltonian decomposition can also be described as a 2-factorization of the graph such that each factor is connected.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Subgraphs",
+    "Unsolved problems",
+    "Graph theory"
+  ],
+  "authors": []
+}

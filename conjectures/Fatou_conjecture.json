@@ -1,0 +1,15 @@
+{
+  "uuid": "e29964d5-faf6-4501-8e5a-9c9539b74ad1",
+  "name": "Fatou conjecture",
+  "link": "https://en.wikipedia.org/wiki/Fatou_conjecture",
+  "summary": "In mathematics, the Fatou conjecture, named after Pierre Fatou, states that a quadratic family of maps from the complex plane to itself is hyperbolic for an open dense set of parameters.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Dynamical systems",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

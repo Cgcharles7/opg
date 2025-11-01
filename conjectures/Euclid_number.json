@@ -1,0 +1,16 @@
+{
+  "uuid": "cc807fdc-04e1-4fef-a1e5-10edb2d3c3d9",
+  "name": "Euclid number",
+  "link": "https://en.wikipedia.org/wiki/Euclid_number",
+  "summary": "In mathematics, Euclid numbers are integers of the form En = pn # + 1, where pn # is the nth primorial (the product of the first n prime numbers). They are named after the ancient Greek mathematician Euclid, in connection with Euclid's theorem that there are infinitely many prime numbers.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}

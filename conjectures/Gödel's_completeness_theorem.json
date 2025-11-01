@@ -1,0 +1,15 @@
+{
+  "uuid": "e80a55fd-d4bd-46df-84ba-e89dab0dc41d",
+  "name": "Gödel's completeness theorem",
+  "link": "https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem",
+  "summary": "Gödel's completeness theorem is a fundamental theorem in mathematical logic that establishes a correspondence between semantic truth and syntactic provability in first-order logic.\nThe completeness theorem applies to any first-order theory: If T is such a theory, and φ is a sentence (in the same language) and every model of T is a model of φ, then there is a (first-order) proof of φ using the statements of T as axioms. One sometimes says this as \"anything true in all models is provable\". (This d",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Set theory",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

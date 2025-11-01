@@ -1,0 +1,15 @@
+{
+  "uuid": "871dede5-6d7d-4d96-b756-d6098837fa59",
+  "name": "Hadamard matrix",
+  "link": "https://en.wikipedia.org/wiki/Hadamard_matrix",
+  "summary": "In mathematics, an Hadamard matrix, named after the French mathematician Jacques Hadamard, is a square matrix whose entries are either +1 or −1 and whose rows are mutually orthogonal. In geometric terms, this means that each pair of rows in a Hadamard matrix represents two perpendicular vectors, while in combinatorial terms, it means that each pair of rows has matching entries in exactly half of their columns and mismatched entries in the remaining columns. It is a consequence of this definition",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

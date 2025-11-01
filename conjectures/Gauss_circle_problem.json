@@ -1,0 +1,16 @@
+{
+  "uuid": "45405eb7-7be9-4d92-805f-9aa218298538",
+  "name": "Gauss circle problem",
+  "link": "https://en.wikipedia.org/wiki/Gauss_circle_problem",
+  "summary": "In mathematics, the Gauss circle problem is the problem of determining how many integer lattice points there are in a circle centered at the origin and with radius \n  \n    \n      \n        r\n      \n    \n    {\\displaystyle r}\n  \n.  This number is approximated by the area of the circle, so the real problem is to accurately bound the error term describing how the number of points differs from the area.\nThe first progress on a solution was made by Carl Friedrich Gauss, hence its name.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "General"
+  ],
+  "authors": []
+}

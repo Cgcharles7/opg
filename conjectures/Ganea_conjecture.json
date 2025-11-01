@@ -1,0 +1,17 @@
+{
+  "uuid": "0f5dda6a-cb73-4062-9cf0-4661ab0a7877",
+  "name": "Ganea conjecture",
+  "link": "https://en.wikipedia.org/wiki/Ganea_conjecture",
+  "summary": "Ganea's conjecture is a now disproved claim in algebraic topology.  It states that\n\n  \n    \n      \n        cat\n        ⁡\n        (\n        X\n        ×\n        \n          S\n          \n            n\n          \n        \n        )\n        =\n        cat\n        ⁡\n        (\n        X\n        )\n        +\n        1\n      \n    \n    {\\displaystyle \\operatorname {cat} (X\\times S^{n})=\\operatorname {cat} (X)+1}\n  \n\nfor all \n  \n    \n      \n        n\n        >\n        0\n      \n    \n    {\\displaystyle n>0}\n  \n",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Topology",
+    "Algebra",
+    "Unsolved problems",
+    "Problems solved since 1995"
+  ],
+  "authors": []
+}

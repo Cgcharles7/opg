@@ -1,0 +1,16 @@
+{
+  "uuid": "60faf67d-f86b-48cc-a8c6-7980abe7997d",
+  "name": "Falconer's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Falconer%27s_conjecture",
+  "summary": "In geometric measure theory, Falconer's conjecture, named after Kenneth Falconer, is an unsolved problem concerning the sets of Euclidean distances between points in compact \n  \n    \n      \n        d\n      \n    \n    {\\displaystyle d}\n  \n-dimensional spaces. Intuitively, it states that a set of points that is large in its Hausdorff dimension must determine a set of distances that is large in measure. More precisely, if \n  \n    \n      \n        S\n      \n    \n    {\\displaystyle S}\n  \n is a compact s",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Euclidean geometry",
+    "Geometry"
+  ],
+  "authors": []
+}

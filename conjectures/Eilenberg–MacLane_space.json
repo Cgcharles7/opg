@@ -1,0 +1,15 @@
+{
+  "uuid": "f5f79081-fd0f-4abf-8c23-11d46dd4029d",
+  "name": "Eilenberg–MacLane space",
+  "link": "https://en.wikipedia.org/wiki/Eilenberg%E2%80%93MacLane_space",
+  "summary": "In mathematics, specifically algebraic topology, an Eilenberg–MacLane space is a topological space with a single nontrivial homotopy group.\nLet G be a group and n a positive integer. A connected topological space X is called an Eilenberg–MacLane space of type \n  \n    \n      \n        K\n        (\n        G\n        ,\n        n\n        )\n      \n    \n    {\\displaystyle K(G,n)}\n  \n, if it has n-th homotopy group \n  \n    \n      \n        \n          π\n          \n            n\n          \n        \n        ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

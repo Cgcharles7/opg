@@ -1,0 +1,16 @@
+{
+  "uuid": "10fcdb10-4251-441f-bfae-e7de23f6b9bb",
+  "name": "Feit–Thompson conjecture",
+  "link": "https://en.wikipedia.org/wiki/Feit%E2%80%93Thompson_conjecture",
+  "summary": "In mathematics, the Feit–Thompson conjecture is a  conjecture in number theory, suggested by  Walter Feit and John G. Thompson (1962). The conjecture states that there are no distinct prime numbers p and q such that\n\n  \n    \n      \n        \n          \n            \n              \n                p\n                \n                  q\n                \n              \n              −\n              1\n            \n            \n              p\n              −\n              1\n            \n          \n   ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}

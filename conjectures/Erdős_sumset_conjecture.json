@@ -1,0 +1,15 @@
+{
+  "uuid": "5072162d-622d-4fd7-a0aa-1349f131fd5d",
+  "name": "Erdős sumset conjecture",
+  "link": "https://en.wikipedia.org/wiki/Erd%C5%91s_sumset_conjecture",
+  "summary": "In additive combinatorics, the Erdős sumset conjecture is a conjecture which states that if a subset \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n of the natural numbers \n  \n    \n      \n        \n          N\n        \n      \n    \n    {\\displaystyle \\mathbb {N} }\n  \n has a positive upper density then there are two infinite subsets \n  \n    \n      \n        B\n      \n    \n    {\\displaystyle B}\n  \n and \n  \n    \n      \n        C\n      \n    \n    {\\displaystyle C}\n  \n of \n  \n    \n      \n ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Combinatorics",
+    "Problems solved since 1995"
+  ],
+  "authors": []
+}
