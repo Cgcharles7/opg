@@ -13,25 +13,6 @@ async function loadData() {
   return results;
 }
 
-async function getCounter(uuid) {
-  const res = await fetch(`http://localhost:3000/counters/${uuid}`);
-  if (!res.ok) return { id: uuid, count: 0 }; // fallback
-  return res.json();
-}
-
-async function incrementCounter(uuid) {
-  const counter = await getCounter(uuid);
-  const newCount = (counter.count || 0) + 1;
-
-  await fetch(`http://localhost:3000/counters/${uuid}`, {
-    method: 'PATCH',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ count: newCount })
-  });
-
-  return newCount;
-}
-
 // Build a hierarchical tree structure from comma-separated categories
 function buildCategoryTree(conjs) {
   const tree = {};
@@ -102,14 +83,13 @@ function buildMenu(tree, parent) {
   });
 }
 
-async function showConjecture(c) {
+function showConjecture(c) {
   const content = document.getElementById('content');
   const link = c.link || '#';
-  const count = await incrementCounter(c.uuid);
 
   content.innerHTML = `
     <h2>${c.name}</h2>
-    <p><b>Views:</b> ${count}</p>
+//    <p><b>Views:</b> ${c.count}</p>
     <p>${c.summary}</p>
     <p><b>Keywords:</b> ${c.kwds}</p>
     <p><a href="${link}" target="_blank" rel="noopener noreferrer">${c.name}</a></p>
