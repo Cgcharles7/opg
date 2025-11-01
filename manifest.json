@@ -1,5 +1,5 @@
 [
-	"conjectures/1_3-2_3_conjecture.json",
+	"1_3-2_3_conjecture.json",
 	"conjectures/3-sphere.json",
 	"conjectures/Abelian_extension.json",
 	"conjectures/Abundance_conjecture.json",
@@ -453,4 +453,5 @@
 	"conjectures/Zilber-Pink_conjecture.json",
 	"conjectures/Zimmer's_conjecture.json"
 	]
+
 
