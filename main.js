@@ -78,7 +78,7 @@ function buildMenu(tree, parent) {
 
 function showConjecture(c) {
   const content = document.getElementById('content');
-  console.log(c.name);
+  const link = c.link || '#';
   content.innerHTML = `
     <h2>${c.name}</h2>
     <p><b>Author(s):</b> ${c.authors}</p>
