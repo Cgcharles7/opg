@@ -8,6 +8,7 @@ async function loadConjectures() {
     const response = await fetch(`conjectures/${file}`);
     const data = await response.json();
     conjectures.push(data);
+    console.log("data = " + data);
   }
 
   console.log(conjectures);
