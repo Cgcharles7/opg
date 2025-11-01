@@ -1,0 +1,16 @@
+{
+  "uuid": "b04e7191-ec81-4cb1-bb57-4cffb25ace4b",
+  "name": "Dirichlet L-function",
+  "link": "https://en.wikipedia.org/wiki/Dirichlet_L-function",
+  "summary": "In mathematics, a Dirichlet L-series is a function of the form\n\n  \n    \n      \n        L\n        (\n        s\n        ,\n        χ\n        )\n        =\n        \n          ∑\n          \n            n\n            =\n            1\n          \n          \n            ∞\n          \n        \n        \n          \n            \n              χ\n              (\n              n\n              )\n            \n            \n              n\n              \n                s\n              \n            \n          \n        \n ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Analytic number theory"
+  ],
+  "authors": []
+}

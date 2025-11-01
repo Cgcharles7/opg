@@ -1,0 +1,16 @@
+{
+  "uuid": "2fd5d98b-556b-44f2-9400-1ec8c0034525",
+  "name": "Demazure conjecture",
+  "link": "https://en.wikipedia.org/wiki/Demazure_conjecture",
+  "summary": "In mathematics, the Demazure conjecture is a conjecture about representations of algebraic groups over the integers made by Demazure (1974, p. 83). The conjecture implies that many of the results of his paper can be extended from complex algebraic groups to algebraic groups over fields of other characteristics or over the integers. V. Lakshmibai, C. Musili, and C. S. Seshadri (1979) showed that Demazure's conjecture (for classical groups) follows from their work on standard monomial theory, and ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems",
+    "Representation theory"
+  ],
+  "authors": []
+}

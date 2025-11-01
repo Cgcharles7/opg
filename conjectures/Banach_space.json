@@ -1,0 +1,15 @@
+{
+  "uuid": "c418ebc6-3d11-4b92-a16d-58348b3288c6",
+  "name": "Banach space",
+  "link": "https://en.wikipedia.org/wiki/Banach_space",
+  "summary": "In mathematics, more specifically in functional analysis, a Banach space (, Polish pronunciation: [ˈba.nax]) is a complete normed vector space. Thus, a Banach space is a vector space with a metric that allows the computation of vector length and distance between vectors and is complete in the sense that a Cauchy sequence of vectors always converges to a well-defined limit that is within the space.\nBanach spaces are named after the Polish mathematician Stefan Banach, who introduced this concept a",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Analysis"
+  ],
+  "authors": []
+}

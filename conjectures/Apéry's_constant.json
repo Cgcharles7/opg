@@ -1,0 +1,16 @@
+{
+  "uuid": "e9826293-d542-491b-a8d5-ca0cd4fe156c",
+  "name": "Apéry's constant",
+  "link": "https://en.wikipedia.org/wiki/Ap%C3%A9ry%27s_constant",
+  "summary": "Apéry's constant is a mathematical constant, defined as the infinite sum of the reciprocals of the cubes of the positive integers. In symbols,\n\n  \n    \n      \n        \n          \n            \n              \n                ζ\n                (\n                3\n                )\n              \n              \n                \n                =\n                \n                  ∑\n                  \n                    n\n                    =\n                    1\n                  \n               ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Diophantine approximation and transcendental number theory",
+    "Number theory",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "5ae67f4e-0027-4093-856a-6d9f8f5dcdcd",
+  "name": "Crouzeix's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Crouzeix%27s_conjecture",
+  "summary": "Crouzeix's conjecture is an unsolved problem in matrix analysis. It was proposed by Michel Crouzeix in 2004, and it can be stated as follows:\n\n  \n    \n      \n        ‖\n        f\n        (\n        A\n        )\n        ‖\n        ≤\n        2\n        \n          sup\n          \n            z\n            ∈\n            W\n            (\n            A\n            )\n          \n        \n        \n          |\n        \n        f\n        (\n        z\n        )\n        \n          |\n        \n        ,\n      \n    \n  ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

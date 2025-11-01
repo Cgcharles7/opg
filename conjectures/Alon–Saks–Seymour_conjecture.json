@@ -1,0 +1,15 @@
+{
+  "uuid": "a8b718c1-b703-4418-be7f-725cfd606c53",
+  "name": "Alon–Saks–Seymour conjecture",
+  "link": "https://en.wikipedia.org/wiki/Graham%E2%80%93Pollak_theorem",
+  "summary": "In graph theory, the Graham–Pollak theorem states that the edges of an \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n-vertex complete graph cannot be partitioned into fewer than \n  \n    \n      \n        n\n        −\n        1\n      \n    \n    {\\displaystyle n-1}\n  \n complete bipartite graphs. It was first published by Ronald Graham and Henry O. Pollak in two papers in 1971 and 1972 (crediting Hans Witsenhausen for a key lemma), in connection with an application to telephone switchi",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Problems solved since 1995",
+    "Graph theory"
+  ],
+  "authors": []
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "f7de91a8-6ae4-4eb0-810b-fbccc25af0e6",
+  "name": "Dissection into orthoschemes",
+  "link": "https://en.wikipedia.org/wiki/Dissection_into_orthoschemes",
+  "summary": "In geometry, it is an unsolved conjecture of Hugo Hadwiger that every simplex can be dissected into orthoschemes, using a number of orthoschemes bounded by a function of the dimension of the simplex. If true, then more generally every convex polytope could be dissected into orthoschemes.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Euclidean geometry",
+    "Geometry"
+  ],
+  "authors": []
+}

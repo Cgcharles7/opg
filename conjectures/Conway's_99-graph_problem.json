@@ -1,0 +1,16 @@
+{
+  "uuid": "872f155a-8dab-4df4-8229-fdc28465aa77",
+  "name": "Conway's 99-graph problem",
+  "link": "https://en.wikipedia.org/wiki/Conway%27s_99-graph_problem",
+  "summary": "In graph theory, Conway's 99-graph problem is an unsolved problem asking whether there exists an undirected graph with 99 vertices, in which each two adjacent vertices have exactly one common neighbor, and in which each two non-adjacent vertices have exactly two common neighbors. Equivalently, every edge should be part of a unique triangle and every non-adjacent pair should be one of the two diagonals of a unique 4-cycle. John Horton Conway offered a $1000 prize for its solution.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Restriction of graph parameters",
+    "Unsolved problems",
+    "Graph theory"
+  ],
+  "authors": []
+}

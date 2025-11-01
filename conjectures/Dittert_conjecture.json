@@ -1,0 +1,15 @@
+{
+  "uuid": "632c0037-3e3e-4927-9e75-65588cd6e0ef",
+  "name": "Dittert conjecture",
+  "link": "https://en.wikipedia.org/wiki/Dittert_conjecture",
+  "summary": "The Dittert conjecture, or Dittert–Hajek conjecture, is a mathematical hypothesis in combinatorics concerning the maximum achieved by a particular function \n  \n    \n      \n        ϕ\n      \n    \n    {\\displaystyle \\phi }\n  \n of matrices with real, nonnegative entries satisfying a summation condition. The conjecture is due to Eric Dittert and (independently) Bruce Hajek.\nLet \n  \n    \n      \n        A\n        =\n        [\n        \n          a\n          \n            i\n            j\n          \n       ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Combinatorics",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

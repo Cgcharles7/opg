@@ -1,0 +1,15 @@
+{
+  "uuid": "8340cc3c-f429-4eb1-af68-a6b7a59a6731",
+  "name": "Cameron–Erdős conjecture",
+  "link": "https://en.wikipedia.org/wiki/Cameron%E2%80%93Erd%C5%91s_conjecture",
+  "summary": "In combinatorics, the Cameron–Erdős conjecture (now a theorem) is the statement that the number of sum-free sets contained in \n  \n    \n      \n        [\n        N\n        ]\n        =\n        {\n        1\n        ,\n        …\n        ,\n        N\n        }\n      \n    \n    {\\displaystyle [N]=\\{1,\\ldots ,N\\}}\n  \n is \n  \n    \n      \n        O\n        \n          \n            (\n          \n        \n        \n          \n            2\n            \n              N\n              \n                /\n             ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Combinatorics",
+    "Problems solved since 1995"
+  ],
+  "authors": []
+}

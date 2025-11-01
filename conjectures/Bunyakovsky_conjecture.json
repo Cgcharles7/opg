@@ -1,0 +1,16 @@
+{
+  "uuid": "ad05720f-4f7c-4b89-971f-e926b7b53401",
+  "name": "Bunyakovsky conjecture",
+  "link": "https://en.wikipedia.org/wiki/Bunyakovsky_conjecture",
+  "summary": "The Bunyakovsky conjecture (or Bouniakowsky conjecture) gives a criterion for a polynomial \n  \n    \n      \n        f\n        (\n        x\n        )\n      \n    \n    {\\displaystyle f(x)}\n  \n in one variable with integer coefficients to give infinitely many prime values in the sequence\n  \n    \n      \n        f\n        (\n        1\n        )\n        ,\n        f\n        (\n        2\n        )\n        ,\n        f\n        (\n        3\n        )\n        ,\n        …\n        .\n      \n    \n    {\\displaystyle f",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}

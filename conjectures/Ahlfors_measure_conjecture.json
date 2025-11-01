@@ -1,0 +1,15 @@
+{
+  "uuid": "13510bc1-3b71-4b8c-969a-81e3bd97c0ca",
+  "name": "Ahlfors measure conjecture",
+  "link": "https://en.wikipedia.org/wiki/Ahlfors_measure_conjecture",
+  "summary": "In mathematics, the Ahlfors conjecture, now a theorem, states that the limit set of a finitely generated Kleinian group is either the whole Riemann sphere, or has measure zero. \nThe conjecture was introduced by Lars Ahlfors, who proved it in the case that the Kleinian group has a fundamental domain with a finite number of sides. Richard Canary proved the Ahlfors conjecture for topologically tame groups, by showing that a topologically tame Kleinian group is geometrically tame, so the Ahlfors con",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Problems solved since 1995",
+    "Analysis"
+  ],
+  "authors": []
+}

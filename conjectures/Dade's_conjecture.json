@@ -1,0 +1,16 @@
+{
+  "uuid": "15bfbd99-9f82-454b-868a-221452a21491",
+  "name": "Dade's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Dade%27s_conjecture",
+  "summary": "In finite group theory, Dade's conjecture is a conjecture relating the numbers of characters of blocks of a finite group to the numbers of characters of blocks of local subgroups, introduced by Everett C. Dade.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems",
+    "Representation theory"
+  ],
+  "authors": []
+}

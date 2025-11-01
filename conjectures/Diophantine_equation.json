@@ -1,0 +1,16 @@
+{
+  "uuid": "9d3314b5-f9dc-44e3-b624-8485c048a680",
+  "name": "Diophantine equation",
+  "link": "https://en.wikipedia.org/wiki/Diophantine_equation",
+  "summary": "In mathematics, a Diophantine equation is a polynomial equation with integer coefficients, for which only integer solutions are of interest. A linear Diophantine equation equates the sum of two or more unknowns, with coefficients, to a constant.  An exponential Diophantine equation is one in which unknowns can appear in exponents.\nDiophantine problems have fewer equations than unknowns and involve finding integers that solve all equations simultaneously. Because such systems of equations define ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Diophantine equations",
+    "Number theory",
+    "Unsolved problems"
+  ],
+  "authors": []
+}
