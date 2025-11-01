@@ -86,7 +86,8 @@ function showConjecture(c) {
     <p><b>Count:</b> ${c.count}</p>
     <p>${c.summary}</p>
     <p><b>Keywords:</b> ${c.kwds}</p>
-    <a href="{c.link}">{c.name}</a>
+    <p><a href="${link}" target="_blank" rel="noopener noreferrer">${c.name}</a></p>
+
   `;
 }
 
