@@ -80,7 +80,7 @@
 	"conjectures/Dedekind number.json", 
 	"conjectures/Dedekind zeta function.json", 
 	"conjectures/Degree diameter problem.json", 
-	"conjectures/Dehn invariant.json""
+	"conjectures/Dehn invariant.json"
 	"conjectures/Deligne conjecture.json", 
 	"conjectures/Deligne's conjecture on 1-motives.json", 
 	"conjectures/Deligne's conjecture on Hochschild cohomology.json", 
@@ -454,4 +454,5 @@
 	"conjectures/Zimmer's conjecture.json",
 	"conjectures/n"
 	]
+
 
