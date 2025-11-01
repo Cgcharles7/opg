@@ -29,7 +29,7 @@ function buildCategoryTree(conjs) {
   const tree = {};
 
   conjs.forEach(c => {
-    const cats = c.kwds.split(',').map(x => x.trim()).filter(Boolean);
+    const cats = c.kwds.toString().split(',').map(x => x.trim()).filter(Boolean);
     console.log(cats);
     let node = tree;
 
