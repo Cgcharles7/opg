@@ -1,458 +1,456 @@
-[
-	"conjectures/1 3–2 3 conjecture.json",
+["
+	"conjectures/1_3–2_3_conjecture.json",
 	"conjectures/3-sphere.json",
-	"conjectures/Abelian extension.json",
-	"conjectures/Abundance conjecture.json",
-	"conjectures/Agoh–Giuga conjecture.json",
-	"conjectures/Agrawal's conjecture.json",
-	"conjectures/Ahlfors measure conjecture.json",
-	"conjectures/Albertson conjecture.json",
-	"conjectures/Alon–Saks–Seymour conjecture.json",
-	"conjectures/Alspach's conjecture.json",
-	"conjectures/Andrews–Curtis conjecture.json",
-	"conjectures/André–Oort conjecture.json",
-	"conjectures/Apéry's constant.json",
-	"conjectures/Arnold–Givental conjecture.json",
-	"conjectures/Arthur's conjectures.json",
-	"conjectures/Artin's conjecture on primitive roots.json",
-	"conjectures/Atiyah conjecture on configurations.json",
-	"conjectures/Atiyah conjecture.json",
-	"conjectures/Babai's problem.json",
-	"conjectures/Banach space.json",
-	"conjectures/Barnette's conjecture.json",
-	"conjectures/Bass conjecture.json",
-	"conjectures/Bass–Quillen conjecture.json",
-	"conjectures/Baum–Connes conjecture.json",
-	"conjectures/Beal's conjecture.json",
-	"conjectures/Bellman's lost-in-a-forest problem.json",
-	"conjectures/Berge knot.json",
-	"conjectures/Bernoulli number.json",
-	"conjectures/Bernstein's problem.json",
-	"conjectures/Berry–Robbins problem.json",
-	"conjectures/Bing–Borsuk conjecture.json",
-	"conjectures/Birch and Swinnerton-Dyer conjecture.json",
-	"conjectures/Birch–Tate conjecture.json",
-	"conjectures/Blankenship–Oporowski conjecture.json",
-	"conjectures/Bloch–Kato conjecture.json",
-	"conjectures/Bogomolov conjecture.json",
-	"conjectures/Bombieri–Lang conjecture.json",
-	"conjectures/Boolean Pythagorean triples problem.json",
-	"conjectures/Borel conjecture.json",
-	"conjectures/Borromean rings.json",
-	"conjectures/Brennan conjecture.json",
-	"conjectures/Brocard's conjecture.json",
-	"conjectures/Brocard's problem.json",
-	"conjectures/Brouwer's conjecture.json",
-	"conjectures/Brumer–Stark conjecture.json",
-	"conjectures/Bunyakovsky conjecture.json",
-	"conjectures/Burnside problem.json",
-	"conjectures/Burr–Erdős conjecture.json",
-	"conjectures/Böttcher–Wenzel conjecture.json",
-	"conjectures/Büchi's problem.json",
-	"conjectures/CW complex.json",
-	"conjectures/Cameron–Erdős conjecture.json",
-	"conjectures/Carathéodory conjecture.json",
-	"conjectures/Carlitz–Wan conjecture.json",
-	"conjectures/Carmichael's totient function conjecture.json",
-	"conjectures/Carpenter's rule problem.json",
-	"conjectures/Cartan–Hadamard conjecture.json",
-	"conjectures/Casas-Alvero conjecture.json",
-	"conjectures/Catalan's Mersenne conjecture.json",
-	"conjectures/Catalan's constant.json",
-	"conjectures/Cereceda's conjecture.json",
-	"conjectures/Chern's conjecture (affine geometry).json",
-	"conjectures/Chern's conjecture for hypersurfaces in spheres.json",
+	"conjectures/Abelian_extension.json",
+	"conjectures/Abundance_conjecture.json",
+	"conjectures/Agoh–Giuga_conjecture.json",
+	"conjectures/Agrawal's_conjecture.json",
+	"conjectures/Ahlfors_measure_conjecture.json",
+	"conjectures/Albertson_conjecture.json",
+	"conjectures/Alon–Saks–Seymour_conjecture.json",
+	"conjectures/Alspach's_conjecture.json",
+	"conjectures/Andrews–Curtis_conjecture.json",
+	"conjectures/André–Oort_conjecture.json",
+	"conjectures/Apéry's_constant.json",
+	"conjectures/Arnold–Givental_conjecture.json",
+	"conjectures/Arthur's_conjectures.json",
+	"conjectures/Artin's_conjecture_on_primitive_roots.json",
+	"conjectures/Atiyah_conjecture_on_configurations.json",
+	"conjectures/Atiyah_conjecture.json",
+	"conjectures/Babai's_problem.json",
+	"conjectures/Banach_space.json",
+	"conjectures/Barnette's_conjecture.json",
+	"conjectures/Bass_conjecture.json",
+	"conjectures/Bass–Quillen_conjecture.json",
+	"conjectures/Baum–Connes_conjecture.json",
+	"conjectures/Beal's_conjecture.json",
+	"conjectures/Bellman's_lost-in-a-forest_problem.json",
+	"conjectures/Berge_knot.json",
+	"conjectures/Bernoulli_number.json",
+	"conjectures/Bernstein's_problem.json",
+	"conjectures/Berry–Robbins_problem.json",
+	"conjectures/Bing–Borsuk_conjecture.json",
+	"conjectures/Birch_and_Swinnerton-Dyer_conjecture.json",
+	"conjectures/Birch–Tate_conjecture.json",
+	"conjectures/Blankenship–Oporowski_conjecture.json",
+	"conjectures/Bloch–Kato_conjecture.json",
+	"conjectures/Bogomolov_conjecture.json",
+	"conjectures/Bombieri–Lang_conjecture.json",
+	"conjectures/Boolean_Pythagorean_triples_problem.json",
+	"conjectures/Borel_conjecture.json",
+	"conjectures/Borromean_rings.json",
+	"conjectures/Brennan_conjecture.json",
+	"conjectures/Brocard's_conjecture.json",
+	"conjectures/Brocard's_problem.json",
+	"conjectures/Brouwer's_conjecture.json",
+	"conjectures/Brumer–Stark_conjecture.json",
+	"conjectures/Bunyakovsky_conjecture.json",
+	"conjectures/Burnside_problem.json",
+	"conjectures/Burr–Erdős_conjecture.json",
+	"conjectures/Böttcher–Wenzel_conjecture.json",
+	"conjectures/Büchi's_problem.json",
+	"conjectures/CW_complex.json",
+	"conjectures/Cameron–Erdős_conjecture.json",
+	"conjectures/Carathéodory_conjecture.json",
+	"conjectures/Carlitz–Wan_conjecture.json",
+	"conjectures/Carmichael's_totient_function_conjecture.json",
+	"conjectures/Carpenter's_rule_problem.json",
+	"conjectures/Cartan–Hadamard_conjecture.json",
+	"conjectures/Casas-Alvero_conjecture.json",
+	"conjectures/Catalan's_Mersenne_conjecture.json",
+	"conjectures/Catalan's_constant.json",
+	"conjectures/Cereceda's_conjecture.json",
+	"conjectures/Chern's_conjecture_(affine_geometry).json",
+	"conjectures/Chern's_conjecture_for_hypersurfaces_in_spheres.json",
 	"conjectures/Chess.json",
-	"conjectures/Class number problem.json",
-	"conjectures/Cobordism hypothesis.json",
-	"conjectures/Collatz conjecture.json",
-	"conjectures/Congruent number problem.json",
-	"conjectures/Congruent number.json",
-	"conjectures/Connelly’s blooming conjecture.json",
-	"conjectures/Connes embedding problem.json",
-	"conjectures/Conway knot.json",
-	"conjectures/Conway's 99-graph problem.json",
-	"conjectures/Conway's thrackle conjecture.json",
-	"conjectures/Crouzeix's conjecture.json",
-	"conjectures/Dade's conjecture.json",
-	"conjectures/Danzer set.json", 
-	"conjectures/De Bruijn–Newman constant.json", 
-	"conjectures/Dedekind number.json", 
-	"conjectures/Dedekind zeta function.json", 
-	"conjectures/Degree diameter problem.json", 
-	"conjectures/Dehn invariant.json"
-	"conjectures/Deligne conjecture.json", 
-	"conjectures/Deligne's conjecture on 1-motives.json", 
-	"conjectures/Deligne's conjecture on Hochschild cohomology.json", 
-	"conjectures/Demazure conjecture.json", 
-	"conjectures/Determinant.json", 
-	"conjectures/Determinantal conjecture.json", 
-	"conjectures/Dickson's conjecture.json", 
-	"conjectures/Diophantine equation.json", 
-	"conjectures/Dirichlet L-function.json", 
-	"conjectures/Dissection into orthoschemes.json", 
-	"conjectures/Dittert conjecture.json", 
-	"conjectures/Dixmier conjecture.json", 
-	"conjectures/Dniester.json", 
-	"conjectures/Dodecahedral conjecture.json", 
-	"conjectures/Donaldson–Thomas theory.json", 
-	"conjectures/Double bubble conjecture.json", 
-	"conjectures/Duffin–Schaeffer theorem.json", 
-	"conjectures/Earth–Moon problem.json", 
-	"conjectures/Eden's conjecture.json", 
-	"conjectures/Ehrenpreis conjecture.json", 
-	"conjectures/Ehrhart's volume conjecture.json", 
-	"conjectures/Eilenberg–Ganea conjecture.json", 
-	"conjectures/Eilenberg–MacLane space.json", 
-	"conjectures/Einstein problem.json", 
-	"conjectures/Elliott–Halberstam conjecture.json", 
-	"conjectures/Ending lamination theorem.json", 
-	"conjectures/Erdős conjecture on arithmetic progressions.json", 
-	"conjectures/Erdős discrepancy problem.json", 
-	"conjectures/Erdős distinct distances problem.json", 
-	"conjectures/Erdős sumset conjecture.json", 
-	"conjectures/Erdős–Faber–Lovász conjecture.json", 
-	"conjectures/Erdős–Graham problem.json", 
-	"conjectures/Erdős–Gyárfás conjecture.json", 
-	"conjectures/Erdős–Hajnal conjecture.json", 
-	"conjectures/Erdős–Menger conjecture.json", 
-	"conjectures/Erdős–Moser equation.json", 
-	"conjectures/Erdős–Stewart conjecture.json", 
-	"conjectures/Erdős–Straus conjecture.json", 
-	"conjectures/Erdős–Turán conjecture on additive bases.json", 
-	"conjectures/Erdős–Ulam problem.json", 
-	"conjectures/Erlagol.json", 
-	"conjectures/Euclid number.json", 
-	"conjectures/Euclidean space.json", 
-	"conjectures/Euclid–Mullin sequence.json", 
-	"conjectures/Euler characteristic.json", 
-	"conjectures/Euler's constant.json", 
-	"conjectures/Euler's totient function.json", 
-	"conjectures/Falconer's conjecture.json", 
-	"conjectures/Fano variety.json", 
-	"conjectures/Farrell–Jones conjecture.json", 
-	"conjectures/Fatou conjecture.json", 
-	"conjectures/Feit–Thompson conjecture.json", 
-	"conjectures/Fermat number.json", 
-	"conjectures/Fermat's Last Theorem.json", 
-	"conjectures/Fermat–Catalan conjecture.json", 
-	"conjectures/Fibonacci prime.json", 
-	"conjectures/Finite lattice representation problem.json", 
-	"conjectures/Fontaine–Mazur conjecture.json", 
-	"conjectures/Fortunate number.json", 
-	"conjectures/Fröberg conjecture.json", 
-	"conjectures/Fuglede's conjecture.json", 
-	"conjectures/Fujita conjecture.json", 
-	"conjectures/GNRS conjecture.json", 
-	"conjectures/Galois cohomology.json", 
-	"conjectures/Galois group.json", 
-	"conjectures/Ganea conjecture.json", 
-	"conjectures/Gan–Gross–Prasad conjecture.json", 
-	"conjectures/Gauss circle problem.json", 
-	"conjectures/Gaussian correlation inequality.json", 
-	"conjectures/Gaussian moat.json", 
-	"conjectures/Gaussian prime number.json", 
-	"conjectures/General elephant.json", 
-	"conjectures/Generalized Riemann hypothesis.json", 
-	"conjectures/Generalized star height problem.json", 
-	"conjectures/Geometrization conjecture.json", 
-	"conjectures/Geometry.json", 
-	"conjectures/Gilbert–Pollack conjecture on the Steiner ratio of the Euclidean plane.json", 
-	"conjectures/Gilbreath's conjecture.json", 
-	"conjectures/Gillies' conjecture.json", 
-	"conjectures/Giuga number.json", 
-	"conjectures/Goldbach conjecture.json", 
-	"conjectures/Goldbach's conjecture.json", 
-	"conjectures/Goldbach's weak conjecture.json", 
-	"conjectures/Goldberg–Seymour conjecture.json", 
-	"conjectures/Goncharov conjecture.json", 
-	"conjectures/Goodman's conjecture.json", 
-	"conjectures/Goormaghtigh conjecture.json", 
-	"conjectures/Gradient conjecture.json", 
-	"conjectures/Graham's pebbling conjecture.json", 
-	"conjectures/Grand Riemann hypothesis.json", 
-	"conjectures/Green's conjecture.json", 
-	"conjectures/Greenberg's conjectures.json", 
-	"conjectures/Green–Tao theorem.json", 
-	"conjectures/Grimm's conjecture.json", 
-	"conjectures/Gromov–Witten invariant.json", 
-	"conjectures/Grothendieck–Katz p-curvature conjecture.json", 
-	"conjectures/Grundy's game.json", 
-	"conjectures/Gyárfás–Sumner conjecture.json", 
-	"conjectures/Gérard Laumon.json", 
-	"conjectures/Gödel's completeness theorem.json", 
-	"conjectures/Hadamard conjecture.json", 
-	"conjectures/Hadamard manifold.json", 
-	"conjectures/Hadamard matrix.json", 
-	"conjectures/Hadamard's maximal determinant problem.json", 
-	"conjectures/Hadwiger–Nelson problem.json", 
-	"conjectures/Hales–Jewett theorem.json", 
-	"conjectures/Hall's conjecture.json", 
-	"conjectures/Halperin conjecture.json", 
-	"conjectures/Hamiltonian decomposition.json", 
-	"conjectures/Hanna Neumann conjecture.json", 
-	"conjectures/Harborth's conjecture.json", 
-	"conjectures/Hardy–Littlewood zeta function conjectures.json", 
-	"conjectures/Hartmanis–Stearns conjecture.json", 
-	"conjectures/Hausdorff dimension.json", 
-	"conjectures/Hedetniemi's conjecture.json", 
-	"conjectures/Heilbronn triangle problem.json", 
-	"conjectures/Henson graph.json", 
-	"conjectures/Hermite constant.json", 
-	"conjectures/Hermite's problem.json", 
-	"conjectures/Herzog–Schönheim conjecture.json", 
-	"conjectures/Hilbert's fifteenth problem.json", 
-	"conjectures/Hilbert's sixteenth problem.json", 
-	"conjectures/Hilbert's tenth problem.json", 
-	"conjectures/Hilbert–Arnold problem.json", 
-	"conjectures/Hilbert–Pólya conjecture.json", 
-	"conjectures/Hilbert–Smith conjecture.json", 
-	"conjectures/Hirsch conjecture.json", 
-	"conjectures/Hodge conjecture.json", 
-	"conjectures/Homological conjectures in commutative algebra.json", 
-	"conjectures/Honeycomb theorem.json", 
-	"conjectures/Hopf conjecture.json", 
-	"conjectures/Hsiang–Lawson's conjecture.json", 
-	"conjectures/Ibragimov–Iosifescu conjecture for φ-mixing sequences.json", 
-	"conjectures/Imre Z. Ruzsa.json", 
-	"conjectures/Inscribed square problem.json", 
-	"conjectures/Invariant subspace problem.json", 
-	"conjectures/Isomorphism problem of Coxeter groups.json", 
-	"conjectures/Isomorphism.json", 
-	"conjectures/Jacobian conjecture.json", 
-	"conjectures/Jacobson radical.json", 
-	"conjectures/Jacobson's conjecture.json", 
-	"conjectures/Jean-Marc Fontaine.json", 
-	"conjectures/Jean-Pierre Wintenberger.json", 
-	"conjectures/Jordan curve.json", 
-	"conjectures/Kadison–Singer problem.json", 
-	"conjectures/Kahn–Kalai conjecture.json", 
-	"conjectures/Kakeya conjecture.json", 
-	"conjectures/Kaplansky's conjectures.json", 
-	"conjectures/Kaplan–Yorke conjecture.json", 
-	"conjectures/Kato's conjecture.json", 
-	"conjectures/Kauffman–Harary conjecture.json", 
-	"conjectures/Kazhdan–Lusztig polynomial.json", 
-	"conjectures/Kelmans–Seymour conjecture.json", 
-	"conjectures/Kemnitz's conjecture.json", 
-	"conjectures/Kepler conjecture.json", 
-	"conjectures/Khinchin's constant.json", 
-	"conjectures/Kirillov's conjecture.json", 
-	"conjectures/Kleene star.json", 
-	"conjectures/Kobon triangle problem.json", 
-	"conjectures/Kouchnirenko's conjecture.json", 
-	"conjectures/Kronecker coefficient.json", 
-	"conjectures/Kronecker–Weber theorem.json", 
-	"conjectures/Kummer–Vandiver conjecture.json", 
-	"conjectures/Kusner conjecture.json", 
-	"conjectures/Köthe conjecture.json", 
-	"conjectures/Lafforgue's theorem.json", 
-	"conjectures/Lagrangian submanifold.json", 
-	"conjectures/Lambda g conjecture.json", 
-	"conjectures/Landau's constants.json", 
-	"conjectures/Landau's problems.json", 
-	"conjectures/Lander, Parkin, and Selfridge conjecture.json", 
-	"conjectures/Lange's conjecture.json", 
-	"conjectures/Langlands–Shelstad fundamental lemma.json", 
-	"conjectures/Laplace operator.json", 
-	"conjectures/Laplace–Beltrami operator.json", 
-	"conjectures/Latin squares.json", 
-	"conjectures/Lebesgue measure.json", 
-	"conjectures/Lebesgue's universal covering problem.json", 
-	"conjectures/Legendre's conjecture.json", 
-	"conjectures/Lehmer's conjecture.json", 
-	"conjectures/Lehmer's totient problem.json", 
-	"conjectures/Leinster group.json", 
-	"conjectures/Lemoine's conjecture.json", 
-	"conjectures/Lenstra–Pomerance–Wagstaff conjecture.json", 
-	"conjectures/Leopoldt's conjecture.json", 
-	"conjectures/Lie group.json", 
-	"conjectures/Lindelöf hypothesis.json", 
-	"conjectures/Linnik's theorem.json", 
-	"conjectures/Littlewood conjecture.json", 
-	"conjectures/Lovász conjecture.json", 
-	"conjectures/Lucas–Wieferich prime.json", 
-	"conjectures/Lyapunov dimension.json", 
-	"conjectures/Lyapunov exponent.json", 
-	"conjectures/Lyapunov function.json", 
-	"conjectures/Lychrel number.json", 
-	"conjectures/MLC conjecture.json", 
-	"conjectures/Maass wave form.json", 
-	"conjectures/Magic square of squares.json", 
-	"conjectures/Mahler's 3 2 problem.json", 
-	"conjectures/Mandelbrot set.json", 
-	"conjectures/Manin conjecture.json", 
-	"conjectures/Map folding.json", 
-	"conjectures/Markov number.json", 
-	"conjectures/Maulik–Nekrasov–Okounkov–Pandharipande conjecture.json", 
-	"conjectures/Maximal rank conjecture.json", 
-	"conjectures/McKay conjecture.json", 
-	"conjectures/McMullen problem.json", 
-	"conjectures/Mersenne number.json", 
-	"conjectures/Mersenne prime.json", 
-	"conjectures/Minimum overlap problem.json", 
-	"conjectures/Minkowski dimension.json", 
-	"conjectures/Modularity theorem.json", 
-	"conjectures/Monomial conjecture.json", 
-	"conjectures/Montgomery's pair correlation conjecture.json", 
-	"conjectures/Moore graph.json", 
-	"conjectures/Moser's worm problem.json", 
-	"conjectures/Nagata's conjecture on curves.json", 
-	"conjectures/Nagata's conjecture.json", 
-	"conjectures/Nagata–Biran conjecture.json", 
-	"conjectures/Nakai conjecture.json", 
-	"conjectures/Navier–Stokes existence and smoothness.json", 
-	"conjectures/Nearby Lagrangian conjecture.json", 
-	"conjectures/Negami's conjecture.json", 
-	"conjectures/Newman's conjecture.json", 
-	"conjectures/Newman–Shanks–Williams prime.json", 
-	"conjectures/Nielsen transformation.json", 
-	"conjectures/Nikiel's conjecture.json", 
-	"conjectures/Nirenberg–Treves conjecture.json", 
-	"conjectures/No-three-in-line problem.json", 
-	"conjectures/Noetherian ring.json", 
-	"conjectures/Normal scalar curvature conjecture.json", 
-	"conjectures/Novikov conjecture.json", 
-	"conjectures/Oberwolfach problem.json", 
-	"conjectures/Opaque forest problem.json", 
-	"conjectures/Orchard-planting problem.json", 
-	"conjectures/Osserman conjecture.json", 
-	"conjectures/Osserman manifold.json", 
-	"conjectures/PCF theory.json", 
-	"conjectures/Painlevé conjecture.json", 
-	"conjectures/Parshin's conjecture.json", 
-	"conjectures/Pascal's triangle.json", 
-	"conjectures/Pentagonal tiling.json", 
-	"conjectures/Petersen graph.json", 
-	"conjectures/Picard group.json", 
-	"conjectures/Pierce–Birkhoff conjecture.json", 
-	"conjectures/Pierpont prime.json", 
-	"conjectures/Pillai's conjecture.json", 
-	"conjectures/Poincaré conjecture.json", 
-	"conjectures/Polignac's conjecture.json", 
-	"conjectures/Pollock's conjectures.json", 
-	"conjectures/Pompeiu problem.json", 
-	"conjectures/Pontryagin class.json", 
-	"conjectures/Preda Mihăilescu.json", 
-	"conjectures/Problems in Latin squares.json", 
-	"conjectures/Problems in loop theory and quasigroup theory.json", 
-	"conjectures/Pólya conjecture.json", 
-	"conjectures/Quadrisecant.json", 
-	"conjectures/Quillen–Lichtenbaum conjecture.json", 
-	"conjectures/Ramanujan–Petersson conjecture.json", 
-	"conjectures/Ramsey numbers.json", 
-	"conjectures/Ravenel's conjectures.json", 
-	"conjectures/Recamán's sequence.json", 
-	"conjectures/Reinhardt cardinal.json", 
-	"conjectures/Reinhardt's conjecture.json", 
-	"conjectures/Rendezvous problem.json", 
-	"conjectures/Resolution of singularities.json", 
-	"conjectures/Riemann hypothesis.json", 
-	"conjectures/Riemann zeta function.json", 
-	"conjectures/Riesel number.json", 
-	"conjectures/Road coloring conjecture.json", 
-	"conjectures/Robertson–Seymour theorem.json", 
-	"conjectures/Rota's basis conjecture.json", 
-	"conjectures/Rudin's conjecture.json", 
-	"conjectures/Ryser's conjecture.json", 
-	"conjectures/Sato–Tate conjecture.json", 
-	"conjectures/Schanuel's conjecture.json", 
-	"conjectures/Scheinerman's conjecture.json", 
-	"conjectures/Schinzel's hypothesis H.json", 
-	"conjectures/Scholz conjecture.json", 
-	"conjectures/Schubert calculus.json", 
-	"conjectures/Section conjecture.json", 
-	"conjectures/Selberg class.json", 
-	"conjectures/Selberg's 1 4 conjecture.json", 
-	"conjectures/Sendov's conjecture.json", 
-	"conjectures/Serre spectral sequence.json", 
-	"conjectures/Serre's modularity conjecture.json", 
-	"conjectures/Seshadri constant.json", 
-	"conjectures/Shimura variety.json", 
-	"conjectures/Sidorenko's conjecture.json", 
-	"conjectures/Siegel zero.json", 
-	"conjectures/Sierpiński number.json", 
-	"conjectures/Singmaster's conjecture.json", 
-	"conjectures/Singular cardinal.json", 
-	"conjectures/Singular cardinals hypothesis.json", 
-	"conjectures/Skewes's number.json", 
-	"conjectures/Skolem problem.json", 
-	"conjectures/Sphere packing.json", 
-	"conjectures/Spherical space form conjecture.json", 
-	"conjectures/Square packing in a square.json", 
-	"conjectures/Standard conjectures.json", 
-	"conjectures/Stanley–Wilf conjecture.json", 
-	"conjectures/Stark conjectures.json", 
-	"conjectures/Strong perfect graph conjecture.json", 
-	"conjectures/Sudoku.json", 
-	"conjectures/Suita conjecture.json", 
-	"conjectures/Sumner's conjecture.json", 
-	"conjectures/Surface subgroup conjecture.json", 
-	"conjectures/Suslin tree.json", 
-	"conjectures/Szemerédi's theorem.json", 
-	"conjectures/Szpiro's conjecture.json", 
-	"conjectures/Szymanski's conjecture.json", 
-	"conjectures/Tameness conjecture.json", 
-	"conjectures/Tammes problem.json", 
-	"conjectures/Tarski's exponential function problem.json", 
-	"conjectures/Tate conjecture.json", 
-	"conjectures/Thomson problem.json", 
-	"conjectures/Tic-tac-toe variants.json", 
-	"conjectures/Toeplitz' conjecture.json", 
-	"conjectures/Toida's conjecture.json", 
-	"conjectures/Torsion conjecture.json", 
-	"conjectures/Tripod packing.json", 
-	"conjectures/Tunnell's theorem.json", 
-	"conjectures/Turán's brick factory problem.json", 
-	"conjectures/Tuza's conjecture.json", 
-	"conjectures/Twin prime conjecture.json", 
-	"conjectures/Twin prime.json", 
-	"conjectures/Ulam number.json", 
-	"conjectures/Ulam's packing conjecture.json", 
-	"conjectures/Umbral moonshine.json", 
-	"conjectures/Uniform boundedness conjecture for rational points.json", 
-	"conjectures/Universal point set.json", 
-	"conjectures/Unknot.json", 
-	"conjectures/Unknotting problem.json", 
-	"conjectures/Van der Waerden number.json", 
-	"conjectures/Vaught conjecture.json", 
-	"conjectures/Vinogradov's mean-value theorem.json", 
-	"conjectures/Virasoro algebra.json", 
-	"conjectures/Virasoro conjecture.json", 
-	"conjectures/Virtual Haken conjecture.json", 
-	"conjectures/Vizing's conjecture.json", 
-	"conjectures/Vlasov–Maxwell equations.json", 
-	"conjectures/Vojta's conjecture.json", 
-	"conjectures/Volume conjecture.json", 
-	"conjectures/Von Neumann algebra.json", 
-	"conjectures/Voronoi diagram.json", 
-	"conjectures/Wagstaff prime.json", 
-	"conjectures/Wall–Sun–Sun prime.json", 
-	"conjectures/Waring's problem.json", 
-	"conjectures/Weaire–Phelan structure.json", 
-	"conjectures/Weibel's conjecture.json", 
-	"conjectures/Weinstein conjecture.json", 
-	"conjectures/Weyl algebra.json", 
-	"conjectures/Whitehead conjecture.json", 
-	"conjectures/Wieferich prime.json", 
-	"conjectures/Wild problem.json", 
-	"conjectures/Williamson conjecture.json", 
-	"conjectures/Willmore conjecture.json", 
-	"conjectures/Wilson prime.json", 
-	"conjectures/Wolstenholme prime.json", 
-	"conjectures/Wolstenholme's theorem.json", 
-	"conjectures/Woodall's conjecture.json", 
-	"conjectures/Woodin cardinal.json", 
-	"conjectures/Yang–Mills existence and mass gap.json", 
-	"conjectures/Yau's conjecture on the first eigenvalue.json", 
-	"conjectures/Yau's conjecture.json", 
-	"conjectures/Zarankiewicz problem.json", 
-	"conjectures/Zariski–Lipman conjecture.json", 
-	"conjectures/Zeeman conjecture.json", 
-	"conjectures/Zermelo-Frankel set theory.json", 
-	"conjectures/Zilber–Pink conjecture.json", 
-	"conjectures/Zimmer's conjecture.json",
+	"conjectures/Class_number_problem.json",
+	"conjectures/Cobordism_hypothesis.json",
+	"conjectures/Collatz_conjecture.json",
+	"conjectures/Congruent_number_problem.json",
+	"conjectures/Congruent_number.json",
+	"conjectures/Connelly’s_blooming_conjecture.json",
+	"conjectures/Connes_embedding_problem.json",
+	"conjectures/Conway_knot.json",
+	"conjectures/Conway's_99-graph_problem.json",
+	"conjectures/Conway's_thrackle_conjecture.json",
+	"conjectures/Crouzeix's_conjecture.json",
+	"conjectures/Dade's_conjecture.json",
+	"conjectures/Danzer_set.json",_
+	"conjectures/De_Bruijn–Newman_constant.json",_
+	"conjectures/Dedekind_number.json",_
+	"conjectures/Dedekind_zeta_function.json",_
+	"conjectures/Degree_diameter_problem.json",_
+	"conjectures/Dehn_invariant.json""
+	"conjectures/Deligne_conjecture.json",_
+	"conjectures/Deligne's_conjecture_on_1-motives.json",_
+	"conjectures/Deligne's_conjecture_on_Hochschild_cohomology.json",_
+	"conjectures/Demazure_conjecture.json",_
+	"conjectures/Determinant.json",_
+	"conjectures/Determinantal_conjecture.json",_
+	"conjectures/Dickson's_conjecture.json",_
+	"conjectures/Diophantine_equation.json",_
+	"conjectures/Dirichlet_L-function.json",_
+	"conjectures/Dissection_into_orthoschemes.json",_
+	"conjectures/Dittert_conjecture.json",_
+	"conjectures/Dixmier_conjecture.json",_
+	"conjectures/Dniester.json",_
+	"conjectures/Dodecahedral_conjecture.json",_
+	"conjectures/Donaldson–Thomas_theory.json",_
+	"conjectures/Double_bubble_conjecture.json",_
+	"conjectures/Duffin–Schaeffer_theorem.json",_
+	"conjectures/Earth–Moon_problem.json",_
+	"conjectures/Eden's_conjecture.json",_
+	"conjectures/Ehrenpreis_conjecture.json",_
+	"conjectures/Ehrhart's_volume_conjecture.json",_
+	"conjectures/Eilenberg–Ganea_conjecture.json",_
+	"conjectures/Eilenberg–MacLane_space.json",_
+	"conjectures/Einstein_problem.json",_
+	"conjectures/Elliott–Halberstam_conjecture.json",_
+	"conjectures/Ending_lamination_theorem.json",_
+	"conjectures/Erdős_conjecture_on_arithmetic_progressions.json",_
+	"conjectures/Erdős_discrepancy_problem.json",_
+	"conjectures/Erdős_distinct_distances_problem.json",_
+	"conjectures/Erdős_sumset_conjecture.json",_
+	"conjectures/Erdős–Faber–Lovász_conjecture.json",_
+	"conjectures/Erdős–Graham_problem.json",_
+	"conjectures/Erdős–Gyárfás_conjecture.json",_
+	"conjectures/Erdős–Hajnal_conjecture.json",_
+	"conjectures/Erdős–Menger_conjecture.json",_
+	"conjectures/Erdős–Moser_equation.json",_
+	"conjectures/Erdős–Stewart_conjecture.json",_
+	"conjectures/Erdős–Straus_conjecture.json",_
+	"conjectures/Erdős–Turán_conjecture_on_additive_bases.json",_
+	"conjectures/Erdős–Ulam_problem.json",_
+	"conjectures/Erlagol.json",_
+	"conjectures/Euclid_number.json",_
+	"conjectures/Euclidean_space.json",_
+	"conjectures/Euclid–Mullin_sequence.json",_
+	"conjectures/Euler_characteristic.json",_
+	"conjectures/Euler's_constant.json",_
+	"conjectures/Euler's_totient_function.json",_
+	"conjectures/Falconer's_conjecture.json",_
+	"conjectures/Fano_variety.json",_
+	"conjectures/Farrell–Jones_conjecture.json",_
+	"conjectures/Fatou_conjecture.json",_
+	"conjectures/Feit–Thompson_conjecture.json",_
+	"conjectures/Fermat_number.json",_
+	"conjectures/Fermat's_Last_Theorem.json",_
+	"conjectures/Fermat–Catalan_conjecture.json",_
+	"conjectures/Fibonacci_prime.json",_
+	"conjectures/Finite_lattice_representation_problem.json",_
+	"conjectures/Fontaine–Mazur_conjecture.json",_
+	"conjectures/Fortunate_number.json",_
+	"conjectures/Fröberg_conjecture.json",_
+	"conjectures/Fuglede's_conjecture.json",_
+	"conjectures/Fujita_conjecture.json",_
+	"conjectures/GNRS_conjecture.json",_
+	"conjectures/Galois_cohomology.json",_
+	"conjectures/Galois_group.json",_
+	"conjectures/Ganea_conjecture.json",_
+	"conjectures/Gan–Gross–Prasad_conjecture.json",_
+	"conjectures/Gauss_circle_problem.json",_
+	"conjectures/Gaussian_correlation_inequality.json",_
+	"conjectures/Gaussian_moat.json",_
+	"conjectures/Gaussian_prime_number.json",_
+	"conjectures/General_elephant.json",_
+	"conjectures/Generalized_Riemann_hypothesis.json",_
+	"conjectures/Generalized_star_height_problem.json",_
+	"conjectures/Geometrization_conjecture.json",_
+	"conjectures/Geometry.json",_
+	"conjectures/Gilbert–Pollack_conjecture_on_the_Steiner_ratio_of_the_Euclidean_plane.json",_
+	"conjectures/Gilbreath's_conjecture.json",_
+	"conjectures/Gillies'_conjecture.json",_
+	"conjectures/Giuga_number.json",_
+	"conjectures/Goldbach_conjecture.json",_
+	"conjectures/Goldbach's_conjecture.json",_
+	"conjectures/Goldbach's_weak_conjecture.json",_
+	"conjectures/Goldberg–Seymour_conjecture.json",_
+	"conjectures/Goncharov_conjecture.json",_
+	"conjectures/Goodman's_conjecture.json",_
+	"conjectures/Goormaghtigh_conjecture.json",_
+	"conjectures/Gradient_conjecture.json",_
+	"conjectures/Graham's_pebbling_conjecture.json",_
+	"conjectures/Grand_Riemann_hypothesis.json",_
+	"conjectures/Green's_conjecture.json",_
+	"conjectures/Greenberg's_conjectures.json",_
+	"conjectures/Green–Tao_theorem.json",_
+	"conjectures/Grimm's_conjecture.json",_
+	"conjectures/Gromov–Witten_invariant.json",_
+	"conjectures/Grothendieck–Katz_p-curvature_conjecture.json",_
+	"conjectures/Grundy's_game.json",_
+	"conjectures/Gyárfás–Sumner_conjecture.json",_
+	"conjectures/Gérard_Laumon.json",_
+	"conjectures/Gödel's_completeness_theorem.json",_
+	"conjectures/Hadamard_conjecture.json",_
+	"conjectures/Hadamard_manifold.json",_
+	"conjectures/Hadamard_matrix.json",_
+	"conjectures/Hadamard's_maximal_determinant_problem.json",_
+	"conjectures/Hadwiger–Nelson_problem.json",_
+	"conjectures/Hales–Jewett_theorem.json",_
+	"conjectures/Hall's_conjecture.json",_
+	"conjectures/Halperin_conjecture.json",_
+	"conjectures/Hamiltonian_decomposition.json",_
+	"conjectures/Hanna_Neumann_conjecture.json",_
+	"conjectures/Harborth's_conjecture.json",_
+	"conjectures/Hardy–Littlewood_zeta_function_conjectures.json",_
+	"conjectures/Hartmanis–Stearns_conjecture.json",_
+	"conjectures/Hausdorff_dimension.json",_
+	"conjectures/Hedetniemi's_conjecture.json",_
+	"conjectures/Heilbronn_triangle_problem.json",_
+	"conjectures/Henson_graph.json",_
+	"conjectures/Hermite_constant.json",_
+	"conjectures/Hermite's_problem.json",_
+	"conjectures/Herzog–Schönheim_conjecture.json",_
+	"conjectures/Hilbert's_fifteenth_problem.json",_
+	"conjectures/Hilbert's_sixteenth_problem.json",_
+	"conjectures/Hilbert's_tenth_problem.json",_
+	"conjectures/Hilbert–Arnold_problem.json",_
+	"conjectures/Hilbert–Pólya_conjecture.json",_
+	"conjectures/Hilbert–Smith_conjecture.json",_
+	"conjectures/Hirsch_conjecture.json",_
+	"conjectures/Hodge_conjecture.json",_
+	"conjectures/Homological_conjectures_in_commutative_algebra.json",_
+	"conjectures/Honeycomb_theorem.json",_
+	"conjectures/Hopf_conjecture.json",_
+	"conjectures/Hsiang–Lawson's_conjecture.json",_
+	"conjectures/Ibragimov–Iosifescu_conjecture_for_φ-mixing_sequences.json",_
+	"conjectures/Imre_Z._Ruzsa.json",_
+	"conjectures/Inscribed_square_problem.json",_
+	"conjectures/Invariant_subspace_problem.json",_
+	"conjectures/Isomorphism_problem_of_Coxeter_groups.json",_
+	"conjectures/Isomorphism.json",_
+	"conjectures/Jacobian_conjecture.json",_
+	"conjectures/Jacobson_radical.json",_
+	"conjectures/Jacobson's_conjecture.json",_
+	"conjectures/Jean-Marc_Fontaine.json",_
+	"conjectures/Jean-Pierre_Wintenberger.json",_
+	"conjectures/Jordan_curve.json",_
+	"conjectures/Kadison–Singer_problem.json",_
+	"conjectures/Kahn–Kalai_conjecture.json",_
+	"conjectures/Kakeya_conjecture.json",_
+	"conjectures/Kaplansky's_conjectures.json",_
+	"conjectures/Kaplan–Yorke_conjecture.json",_
+	"conjectures/Kato's_conjecture.json",_
+	"conjectures/Kauffman–Harary_conjecture.json",_
+	"conjectures/Kazhdan–Lusztig_polynomial.json",_
+	"conjectures/Kelmans–Seymour_conjecture.json",_
+	"conjectures/Kemnitz's_conjecture.json",_
+	"conjectures/Kepler_conjecture.json",_
+	"conjectures/Khinchin's_constant.json",_
+	"conjectures/Kirillov's_conjecture.json",_
+	"conjectures/Kleene_star.json",_
+	"conjectures/Kobon_triangle_problem.json",_
+	"conjectures/Kouchnirenko's_conjecture.json",_
+	"conjectures/Kronecker_coefficient.json",_
+	"conjectures/Kronecker–Weber_theorem.json",_
+	"conjectures/Kummer–Vandiver_conjecture.json",_
+	"conjectures/Kusner_conjecture.json",_
+	"conjectures/Köthe_conjecture.json",_
+	"conjectures/Lafforgue's_theorem.json",_
+	"conjectures/Lagrangian_submanifold.json",_
+	"conjectures/Lambda_g_conjecture.json",_
+	"conjectures/Landau's_constants.json",_
+	"conjectures/Landau's_problems.json",_
+	"conjectures/Lander,_Parkin,_and_Selfridge_conjecture.json",_
+	"conjectures/Lange's_conjecture.json",_
+	"conjectures/Langlands–Shelstad_fundamental_lemma.json",_
+	"conjectures/Laplace_operator.json",_
+	"conjectures/Laplace–Beltrami_operator.json",_
+	"conjectures/Latin_squares.json",_
+	"conjectures/Lebesgue_measure.json",_
+	"conjectures/Lebesgue's_universal_covering_problem.json",_
+	"conjectures/Legendre's_conjecture.json",_
+	"conjectures/Lehmer's_conjecture.json",_
+	"conjectures/Lehmer's_totient_problem.json",_
+	"conjectures/Leinster_group.json",_
+	"conjectures/Lemoine's_conjecture.json",_
+	"conjectures/Lenstra–Pomerance–Wagstaff_conjecture.json",_
+	"conjectures/Leopoldt's_conjecture.json",_
+	"conjectures/Lie_group.json",_
+	"conjectures/Lindelöf_hypothesis.json",_
+	"conjectures/Linnik's_theorem.json",_
+	"conjectures/Littlewood_conjecture.json",_
+	"conjectures/Lovász_conjecture.json",_
+	"conjectures/Lucas–Wieferich_prime.json",_
+	"conjectures/Lyapunov_dimension.json",_
+	"conjectures/Lyapunov_exponent.json",_
+	"conjectures/Lyapunov_function.json",_
+	"conjectures/Lychrel_number.json",_
+	"conjectures/MLC_conjecture.json",_
+	"conjectures/Maass_wave_form.json",_
+	"conjectures/Magic_square_of_squares.json",_
+	"conjectures/Mahler's_3_2_problem.json",_
+	"conjectures/Mandelbrot_set.json",_
+	"conjectures/Manin_conjecture.json",_
+	"conjectures/Map_folding.json",_
+	"conjectures/Markov_number.json",_
+	"conjectures/Maulik–Nekrasov–Okounkov–Pandharipande_conjecture.json",_
+	"conjectures/Maximal_rank_conjecture.json",_
+	"conjectures/McKay_conjecture.json",_
+	"conjectures/McMullen_problem.json",_
+	"conjectures/Mersenne_number.json",_
+	"conjectures/Mersenne_prime.json",_
+	"conjectures/Minimum_overlap_problem.json",_
+	"conjectures/Minkowski_dimension.json",_
+	"conjectures/Modularity_theorem.json",_
+	"conjectures/Monomial_conjecture.json",_
+	"conjectures/Montgomery's_pair_correlation_conjecture.json",_
+	"conjectures/Moore_graph.json",_
+	"conjectures/Moser's_worm_problem.json",_
+	"conjectures/Nagata's_conjecture_on_curves.json",_
+	"conjectures/Nagata's_conjecture.json",_
+	"conjectures/Nagata–Biran_conjecture.json",_
+	"conjectures/Nakai_conjecture.json",_
+	"conjectures/Navier–Stokes_existence_and_smoothness.json",_
+	"conjectures/Nearby_Lagrangian_conjecture.json",_
+	"conjectures/Negami's_conjecture.json",_
+	"conjectures/Newman's_conjecture.json",_
+	"conjectures/Newman–Shanks–Williams_prime.json",_
+	"conjectures/Nielsen_transformation.json",_
+	"conjectures/Nikiel's_conjecture.json",_
+	"conjectures/Nirenberg–Treves_conjecture.json",_
+	"conjectures/No-three-in-line_problem.json",_
+	"conjectures/Noetherian_ring.json",_
+	"conjectures/Normal_scalar_curvature_conjecture.json",_
+	"conjectures/Novikov_conjecture.json",_
+	"conjectures/Oberwolfach_problem.json",_
+	"conjectures/Opaque_forest_problem.json",_
+	"conjectures/Orchard-planting_problem.json",_
+	"conjectures/Osserman_conjecture.json",_
+	"conjectures/Osserman_manifold.json",_
+	"conjectures/PCF_theory.json",_
+	"conjectures/Painlevé_conjecture.json",_
+	"conjectures/Parshin's_conjecture.json",_
+	"conjectures/Pascal's_triangle.json",_
+	"conjectures/Pentagonal_tiling.json",_
+	"conjectures/Petersen_graph.json",_
+	"conjectures/Picard_group.json",_
+	"conjectures/Pierce–Birkhoff_conjecture.json",_
+	"conjectures/Pierpont_prime.json",_
+	"conjectures/Pillai's_conjecture.json",_
+	"conjectures/Poincaré_conjecture.json",_
+	"conjectures/Polignac's_conjecture.json",_
+	"conjectures/Pollock's_conjectures.json",_
+	"conjectures/Pompeiu_problem.json",_
+	"conjectures/Pontryagin_class.json",_
+	"conjectures/Preda_Mihăilescu.json",_
+	"conjectures/Problems_in_Latin_squares.json",_
+	"conjectures/Problems_in_loop_theory_and_quasigroup_theory.json",_
+	"conjectures/Pólya_conjecture.json",_
+	"conjectures/Quadrisecant.json",_
+	"conjectures/Quillen–Lichtenbaum_conjecture.json",_
+	"conjectures/Ramanujan–Petersson_conjecture.json",_
+	"conjectures/Ramsey_numbers.json",_
+	"conjectures/Ravenel's_conjectures.json",_
+	"conjectures/Recamán's_sequence.json",_
+	"conjectures/Reinhardt_cardinal.json",_
+	"conjectures/Reinhardt's_conjecture.json",_
+	"conjectures/Rendezvous_problem.json",_
+	"conjectures/Resolution_of_singularities.json",_
+	"conjectures/Riemann_hypothesis.json",_
+	"conjectures/Riemann_zeta_function.json",_
+	"conjectures/Riesel_number.json",_
+	"conjectures/Road_coloring_conjecture.json",_
+	"conjectures/Robertson–Seymour_theorem.json",_
+	"conjectures/Rota's_basis_conjecture.json",_
+	"conjectures/Rudin's_conjecture.json",_
+	"conjectures/Ryser's_conjecture.json",_
+	"conjectures/Sato–Tate_conjecture.json",_
+	"conjectures/Schanuel's_conjecture.json",_
+	"conjectures/Scheinerman's_conjecture.json",_
+	"conjectures/Schinzel's_hypothesis_H.json",_
+	"conjectures/Scholz_conjecture.json",_
+	"conjectures/Schubert_calculus.json",_
+	"conjectures/Section_conjecture.json",_
+	"conjectures/Selberg_class.json",_
+	"conjectures/Selberg's_1_4_conjecture.json",_
+	"conjectures/Sendov's_conjecture.json",_
+	"conjectures/Serre_spectral_sequence.json",_
+	"conjectures/Serre's_modularity_conjecture.json",_
+	"conjectures/Seshadri_constant.json",_
+	"conjectures/Shimura_variety.json",_
+	"conjectures/Sidorenko's_conjecture.json",_
+	"conjectures/Siegel_zero.json",_
+	"conjectures/Sierpiński_number.json",_
+	"conjectures/Singmaster's_conjecture.json",_
+	"conjectures/Singular_cardinal.json",_
+	"conjectures/Singular_cardinals_hypothesis.json",_
+	"conjectures/Skewes's_number.json",_
+	"conjectures/Skolem_problem.json",_
+	"conjectures/Sphere_packing.json",_
+	"conjectures/Spherical_space_form_conjecture.json",_
+	"conjectures/Square_packing_in_a_square.json",_
+	"conjectures/Standard_conjectures.json",_
+	"conjectures/Stanley–Wilf_conjecture.json",_
+	"conjectures/Stark_conjectures.json",_
+	"conjectures/Strong_perfect_graph_conjecture.json",_
+	"conjectures/Sudoku.json",_
+	"conjectures/Suita_conjecture.json",_
+	"conjectures/Sumner's_conjecture.json",_
+	"conjectures/Surface_subgroup_conjecture.json",_
+	"conjectures/Suslin_tree.json",_
+	"conjectures/Szemerédi's_theorem.json",_
+	"conjectures/Szpiro's_conjecture.json",_
+	"conjectures/Szymanski's_conjecture.json",_
+	"conjectures/Tameness_conjecture.json",_
+	"conjectures/Tammes_problem.json",_
+	"conjectures/Tarski's_exponential_function_problem.json",_
+	"conjectures/Tate_conjecture.json",_
+	"conjectures/Thomson_problem.json",_
+	"conjectures/Tic-tac-toe_variants.json",_
+	"conjectures/Toeplitz'_conjecture.json",_
+	"conjectures/Toida's_conjecture.json",_
+	"conjectures/Torsion_conjecture.json",_
+	"conjectures/Tripod_packing.json",_
+	"conjectures/Tunnell's_theorem.json",_
+	"conjectures/Turán's_brick_factory_problem.json",_
+	"conjectures/Tuza's_conjecture.json",_
+	"conjectures/Twin_prime_conjecture.json",_
+	"conjectures/Twin_prime.json",_
+	"conjectures/Ulam_number.json",_
+	"conjectures/Ulam's_packing_conjecture.json",_
+	"conjectures/Umbral_moonshine.json",_
+	"conjectures/Uniform_boundedness_conjecture_for_rational_points.json",_
+	"conjectures/Universal_point_set.json",_
+	"conjectures/Unknot.json",_
+	"conjectures/Unknotting_problem.json",_
+	"conjectures/Van_der_Waerden_number.json",_
+	"conjectures/Vaught_conjecture.json",_
+	"conjectures/Vinogradov's_mean-value_theorem.json",_
+	"conjectures/Virasoro_algebra.json",_
+	"conjectures/Virasoro_conjecture.json",_
+	"conjectures/Virtual_Haken_conjecture.json",_
+	"conjectures/Vizing's_conjecture.json",_
+	"conjectures/Vlasov–Maxwell_equations.json",_
+	"conjectures/Vojta's_conjecture.json",_
+	"conjectures/Volume_conjecture.json",_
+	"conjectures/Von_Neumann_algebra.json",_
+	"conjectures/Voronoi_diagram.json",_
+	"conjectures/Wagstaff_prime.json",_
+	"conjectures/Wall–Sun–Sun_prime.json",_
+	"conjectures/Waring's_problem.json",_
+	"conjectures/Weaire–Phelan_structure.json",_
+	"conjectures/Weibel's_conjecture.json",_
+	"conjectures/Weinstein_conjecture.json",_
+	"conjectures/Weyl_algebra.json",_
+	"conjectures/Whitehead_conjecture.json",_
+	"conjectures/Wieferich_prime.json",_
+	"conjectures/Wild_problem.json",_
+	"conjectures/Williamson_conjecture.json",_
+	"conjectures/Willmore_conjecture.json",_
+	"conjectures/Wilson_prime.json",_
+	"conjectures/Wolstenholme_prime.json",_
+	"conjectures/Wolstenholme's_theorem.json",_
+	"conjectures/Woodall's_conjecture.json",_
+	"conjectures/Woodin_cardinal.json",_
+	"conjectures/Yang–Mills_existence_and_mass_gap.json",_
+	"conjectures/Yau's_conjecture_on_the_first_eigenvalue.json",_
+	"conjectures/Yau's_conjecture.json",_
+	"conjectures/Zarankiewicz_problem.json",_
+	"conjectures/Zariski–Lipman_conjecture.json",_
+	"conjectures/Zeeman_conjecture.json",_
+	"conjectures/Zermelo-Frankel_set_theory.json",_
+	"conjectures/Zilber–Pink_conjecture.json",_
+	"conjectures/Zimmer's_conjecture.json",
 	"conjectures/n"
 	]
-
-
