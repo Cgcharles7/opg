@@ -221,8 +221,6 @@
 	"Jacobian_conjecture.json",
 	"Jacobson_radical.json",
 	"Jacobson's_conjecture.json",
-	"Jean-Marc_Fontaine.json",
-	"Jean-Pierre_Wintenberger.json",
 	"Jordan_curve.json",
 	"Kadison-Singer_problem.json",
 	"Kahn-Kalai_conjecture.json",
@@ -452,5 +450,6 @@
 	"Zilber-Pink_conjecture.json",
 	"Zimmer's_conjecture.json"
 ]
+
 
 
