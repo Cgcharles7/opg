@@ -5,7 +5,7 @@ async function loadConjectures() {
   const conjectures = [];
 
   for (const file of files) {
-    const response = await fetch(`conjectures/${file}`);
+    const response = await fetch('conjectures/${file}');
     const data = await response.json();
     conjectures.push(data);
     console.log("data = " + data);
