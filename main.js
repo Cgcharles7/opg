@@ -27,10 +27,8 @@ function buildCategoryTree(conjs) {
     cats.forEach(cat => {
       if (!node[cat]) node[cat] = { __items: [] };
       node = node[cat];
-      alert("cat = " + cat);
     });
     
-
     node.__items.push(c);
   });
 
@@ -83,6 +81,7 @@ function buildMenu(tree, parent) {
 
 function showConjecture(c) {
   const content = document.getElementById('content');
+  console.log(c.title);
   content.innerHTML = `
     <h2>${c.title}</h2>
     <p><b>Author(s):</b> ${c.authors}</p>
