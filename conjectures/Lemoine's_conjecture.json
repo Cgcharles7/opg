@@ -1,0 +1,16 @@
+{
+  "uuid": "be2406b9-f7e1-49af-b90d-ae79123ccad4",
+  "name": "Lemoine's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Lemoine%27s_conjecture",
+  "summary": "In number theory, Lemoine's conjecture, named after Émile Lemoine, also known as Levy's conjecture, after Hyman Levy, states that all odd integers greater than 5 can be represented as the sum of an odd prime number and an even semiprime.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Additive number theory"
+  ],
+  "authors": []
+}

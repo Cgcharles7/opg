@@ -1,0 +1,15 @@
+{
+  "uuid": "55822c08-1035-425e-9250-50310d4d919b",
+  "name": "Map folding",
+  "link": "https://en.wikipedia.org/wiki/Map_folding",
+  "summary": "In the mathematics of paper folding, map folding and stamp folding are two problems of counting the number of ways that a piece of paper can be folded. In the stamp folding problem, the paper is a strip of stamps with creases between them, and the folds must lie on the creases. In the map folding problem, the paper is a map, divided by creases into rectangles, and the folds must again lie only along these creases.\nLucas (1891) credits the invention of the stamp folding problem to Émile Lemoine. ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Combinatorics",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

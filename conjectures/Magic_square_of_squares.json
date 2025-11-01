@@ -1,0 +1,16 @@
+{
+  "uuid": "76823cd3-3674-4c5a-ad49-aec60d9ea53d",
+  "name": "Magic square of squares",
+  "link": "https://en.wikipedia.org/wiki/Magic_square_of_squares",
+  "summary": "The magic square of squares is an unsolved problem in mathematics which asks whether it is possible to construct a three-by-three magic square, the elements of which are all square numbers. The problem was first posed anonymously by Martin LaBar in 1984, before being included in Richard Guy's Unsolved problems in number theory (2nd edition) in 1994.\nThe problem has been a popular choice for recreational mathematicians following two articles Martin Gardner published in Quantum Magazine on the pro",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "General"
+  ],
+  "authors": []
+}

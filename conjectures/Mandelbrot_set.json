@@ -1,0 +1,15 @@
+{
+  "uuid": "bb640c41-8632-40ea-b458-666cdd5d4001",
+  "name": "Mandelbrot set",
+  "link": "https://en.wikipedia.org/wiki/Mandelbrot_set",
+  "summary": "The Mandelbrot set () is a two-dimensional set that is defined in the complex plane as the complex numbers \n  \n    \n      \n        c\n      \n    \n    {\\displaystyle c}\n  \n for which the function \n  \n    \n      \n        \n          f\n          \n            c\n          \n        \n        (\n        z\n        )\n        =\n        \n          z\n          \n            2\n          \n        \n        +\n        c\n      \n    \n    {\\displaystyle f_{c}(z)=z^{2}+c}\n  \n does not diverge to infinity when iterated st",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Dynamical systems",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

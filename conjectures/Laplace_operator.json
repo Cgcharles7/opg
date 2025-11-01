@@ -1,0 +1,16 @@
+{
+  "uuid": "1c0fca60-d247-41b1-8c27-813f3ef1699c",
+  "name": "Laplace operator",
+  "link": "https://en.wikipedia.org/wiki/Laplace_operator",
+  "summary": "In mathematics, the Laplace operator or Laplacian is a differential operator given by the divergence of the gradient of a scalar function on Euclidean space. It is usually denoted by the symbols ⁠\n  \n    \n      \n        ∇\n        ⋅\n        ∇\n      \n    \n    {\\displaystyle \\nabla \\cdot \\nabla }\n  \n⁠, \n  \n    \n      \n        \n          ∇\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle \\nabla ^{2}}\n  \n (where \n  \n    \n      \n        ∇\n      \n    \n    {\\displaystyle \\nabl",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Analytic number theory"
+  ],
+  "authors": []
+}

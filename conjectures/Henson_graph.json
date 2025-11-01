@@ -1,0 +1,15 @@
+{
+  "uuid": "350a440c-c3d3-4af7-b480-eab161108a2e",
+  "name": "Henson graph",
+  "link": "https://en.wikipedia.org/wiki/Henson_graph",
+  "summary": "In graph theory, the Henson graph Gi is an undirected infinite graph, the unique countable homogeneous graph that does not contain an i-vertex clique but that does contain all Ki-free finite graphs as induced subgraphs. For instance, G3 is a triangle-free graph that contains all finite triangle-free graphs.\nThese graphs are named after C. Ward Henson, who published a construction for them (for all i ≥ 3) in 1971. The first of these graphs, G3, is also called the homogeneous triangle-free graph o",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Model theory and formal languages"
+  ],
+  "authors": []
+}

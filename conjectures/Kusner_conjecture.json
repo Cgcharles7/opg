@@ -1,0 +1,16 @@
+{
+  "uuid": "70250d6a-0651-4354-af86-4bef120cb0ea",
+  "name": "Kusner conjecture",
+  "link": "https://en.wikipedia.org/wiki/Equilateral_dimension",
+  "summary": "In mathematics, the equilateral dimension of a metric space is the maximum size of any subset of the space whose points are all at equal distances to each other. Equilateral dimension has also been called \"metric dimension\", but the term \"metric dimension\" also has many other inequivalent usages. The equilateral dimension of \n  \n    \n      \n        d\n      \n    \n    {\\displaystyle d}\n  \n-dimensional Euclidean space is \n  \n    \n      \n        d\n        +\n        1\n      \n    \n    {\\displaystyle d",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Discrete geometry",
+    "Unsolved problems",
+    "Geometry"
+  ],
+  "authors": []
+}

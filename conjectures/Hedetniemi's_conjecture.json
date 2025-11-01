@@ -1,0 +1,15 @@
+{
+  "uuid": "93ea1d10-0317-49b8-bf47-d52c685550b7",
+  "name": "Hedetniemi's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Hedetniemi%27s_conjecture",
+  "summary": "In graph theory, Hedetniemi's conjecture, formulated by Stephen T. Hedetniemi in 1966, concerns the connection between graph coloring and the tensor product of graphs. This conjecture states that\n\n  \n    \n      \n        χ\n        (\n        G\n        ×\n        H\n        )\n        =\n        min\n        {\n        χ\n        (\n        G\n        )\n        ,\n        χ\n        (\n        H\n        )\n        }\n        .\n      \n    \n    {\\displaystyle \\chi (G\\times H)=\\min\\{\\chi (G),\\chi (H)\\}.}\n  \n\nHere \n",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Problems solved since 1995",
+    "Graph theory"
+  ],
+  "authors": []
+}

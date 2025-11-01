@@ -1,0 +1,15 @@
+{
+  "uuid": "9fb49819-6351-443a-a26d-a7853fb44e36",
+  "name": "Lyapunov dimension",
+  "link": "https://en.wikipedia.org/wiki/Lyapunov_dimension",
+  "summary": "In the mathematics of dynamical systems, the concept of Lyapunov dimension was suggested by Kaplan and Yorke for estimating the Hausdorff dimension of attractors. \nFurther the concept has been developed and rigorously justified in a number of papers, and nowadays various different approaches to the definition of Lyapunov dimension are used. Remark that the attractors with noninteger Hausdorff dimension are called strange attractors. Since the direct numerical computation of the Hausdorff dimensi",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Dynamical systems",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "41332aca-7f78-4926-8564-1ceea29e5172",
+  "name": "Jacobson's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Jacobson%27s_conjecture",
+  "summary": "In abstract algebra, Jacobson's conjecture is an open problem in ring theory concerning the intersection of powers of the Jacobson radical of a Noetherian ring.\nIt has only been proven for special types of Noetherian rings, so far. Examples exist to show that the conjecture can fail when the ring is not Noetherian on a side, so it is absolutely necessary for the ring to be two-sided Noetherian.\nThe conjecture is named for the algebraist Nathan Jacobson who posed the first version of the conjectu",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

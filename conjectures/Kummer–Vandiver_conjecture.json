@@ -1,0 +1,16 @@
+{
+  "uuid": "1edd28b3-a372-4f84-9797-1c056e956a1b",
+  "name": "Kummer–Vandiver conjecture",
+  "link": "https://en.wikipedia.org/wiki/Kummer%E2%80%93Vandiver_conjecture",
+  "summary": "In mathematics, the Kummer–Vandiver conjecture, or Vandiver conjecture, states that a prime p does not divide the class number hK of the maximal real subfield \n  \n    \n      \n        K\n        =\n        \n          Q\n        \n        (\n        \n          ζ\n          \n            p\n          \n        \n        \n          )\n          \n            +\n          \n        \n      \n    \n    {\\displaystyle K=\\mathbb {Q} (\\zeta _{p})^{+}}\n  \n of the p-th cyclotomic field. \nThe conjecture was first made by Er",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebraic number theory",
+    "Number theory",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

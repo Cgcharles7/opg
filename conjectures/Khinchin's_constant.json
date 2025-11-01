@@ -1,0 +1,16 @@
+{
+  "uuid": "7d1bda4e-69d3-4487-8008-1bf246a2dd76",
+  "name": "Khinchin's constant",
+  "link": "https://en.wikipedia.org/wiki/Khinchin%27s_constant",
+  "summary": "In number theory, Khinchin's constant is a mathematical constant related to the simple continued fraction expansions of many real numbers. In particular Aleksandr Yakovlevich Khinchin proved that for almost all real numbers x, the coefficients ai of the continued fraction expansion of x have a finite geometric mean that is independent of the value of x. It is known as Khinchin's constant and denoted by K0.\nThat is, for\n\n  \n    \n      \n        x\n        =\n        \n          a\n          \n         ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Diophantine approximation and transcendental number theory",
+    "Number theory",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

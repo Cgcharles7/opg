@@ -1,0 +1,16 @@
+{
+  "uuid": "cc4144a3-9239-448c-bd7a-e32747e1908d",
+  "name": "Hausdorff dimension",
+  "link": "https://en.wikipedia.org/wiki/Hausdorff_dimension",
+  "summary": "In mathematics, Hausdorff dimension is a measure of roughness, or more specifically, fractal dimension, that was introduced in 1918 by mathematician Felix Hausdorff. For instance, the Hausdorff dimension of a single point is zero, of a line segment is 1, of a square is 2, and of a cube is 3. That is, for sets of points that define a smooth shape or a shape that has a small number of corners—the shapes of traditional geometry and science—the Hausdorff dimension is an integer agreeing with the usu",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Euclidean geometry",
+    "Geometry"
+  ],
+  "authors": []
+}

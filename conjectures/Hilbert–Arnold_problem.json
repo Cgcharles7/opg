@@ -1,0 +1,15 @@
+{
+  "uuid": "5369afe7-f0f6-4429-b5b8-7ed03cf89eb4",
+  "name": "Hilbert–Arnold problem",
+  "link": "https://en.wikipedia.org/wiki/Hilbert%E2%80%93Arnold_problem",
+  "summary": "In mathematics, particularly in dynamical systems, the Hilbert–Arnold problem is an unsolved problem concerning the estimation of limit cycles of the dynamics of a flow on a sphere, and whether the number of such cycles can be bounded. A flow on a sphere means that you can imagine that the velocities of particles are prescribed, and a limit cycle is a limit of those velocities, like the Gulf Stream on the globe. The problem asks whether in a generic family of smooth vector fields, smoothly param",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Dynamical systems",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

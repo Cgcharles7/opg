@@ -1,0 +1,15 @@
+{
+  "uuid": "b14cc387-72d2-43ef-9e0e-7baa59ffe2bc",
+  "name": "Kadison–Singer problem",
+  "link": "https://en.wikipedia.org/wiki/Kadison%E2%80%93Singer_problem",
+  "summary": "In mathematics, the Kadison–Singer problem, posed in 1959, was a problem in functional analysis about whether certain extensions of certain linear functionals on certain C*-algebras were unique. The uniqueness was proved in 2013.\nThe statement arose from work on the foundations of quantum mechanics done by Paul Dirac in the 1940s and was formalized in 1959 by Richard Kadison and Isadore Singer. The problem was subsequently shown to be equivalent to numerous open problems in pure mathematics, app",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Problems solved since 1995",
+    "Analysis"
+  ],
+  "authors": []
+}

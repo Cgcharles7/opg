@@ -1,0 +1,15 @@
+{
+  "uuid": "5513ae82-6fca-4398-8c04-9ac33d06a00a",
+  "name": "Lehmer's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Lehmer%27s_conjecture",
+  "summary": "Lehmer's conjecture, also known as the Lehmer's Mahler measure problem, is a problem in number theory raised by Derrick Henry Lehmer.  The conjecture asserts that there is an absolute constant \n  \n    \n      \n        μ\n        >\n        1\n      \n    \n    {\\displaystyle \\mu >1}\n  \n such that every polynomial with integer coefficients \n  \n    \n      \n        P\n        (\n        x\n        )\n        ∈\n        \n          Z\n        \n        [\n        x\n        ]\n      \n    \n    {\\displaystyle P(x)\\in ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Analysis"
+  ],
+  "authors": []
+}
