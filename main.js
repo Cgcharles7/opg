@@ -10,6 +10,8 @@ async function loadConjectures() {
     conjectures.push(data);
   }
 
+  console.log(conjectures);
+
   buildTree(conjectures);
 }
 
