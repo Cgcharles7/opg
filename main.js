@@ -33,14 +33,17 @@ function buildCategoryTree(conjs) {
 }
 
 function buildMenu(tree, parent) {
-  Object.keys(tree).forEach(cat => {
-    if (cat === "__items") return;
+  // Sort category names alphabetically (ignore __items)
+  const categories = Object.keys(tree)
+    .filter(k => k !== "__items")
+    .sort((a, b) => a.localeCompare(b));
 
+  categories.forEach(cat => {
     const div = document.createElement('div');
     div.classList.add('menu-item');
     div.textContent = cat;
 
-    // Add toggle functionality
+    // Toggle submenu visibility on click
     div.onclick = (e) => {
       e.stopPropagation();
       const next = div.nextElementSibling;
@@ -51,18 +54,22 @@ function buildMenu(tree, parent) {
 
     parent.appendChild(div);
 
-    // Submenu container
+    // Create submenu container
     const submenu = document.createElement('div');
     submenu.classList.add('submenu');
     submenu.style.display = 'none';
     submenu.style.paddingLeft = '15px';
     parent.appendChild(submenu);
 
-    // Recursively build children
+    // Recursively build child categories
     buildMenu(tree[cat], submenu);
 
-    // Add conjectures under this branch
-    const conjs = tree[cat].__items || [];
+    // Sort conjectures alphabetically by name
+    const conjs = (tree[cat].__items || []).sort((a, b) => 
+      a.name.localeCompare(b.name)
+    );
+
+    // Add conjecture leaves
     conjs.forEach(c => {
       const leaf = document.createElement('div');
       leaf.classList.add('menu-leaf');
@@ -75,6 +82,7 @@ function buildMenu(tree, parent) {
     });
   });
 }
+
 
 function showConjecture(c) {
   const content = document.getElementById('content');
