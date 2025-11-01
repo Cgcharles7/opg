@@ -1,80 +1,80 @@
 ["
-	"conjectures/1 3–2 3 conjecture.json","
-	"conjectures/3-sphere.json","
-	"conjectures/Abelian extension.json","
-	"conjectures/Abundance conjecture.json","
-	"conjectures/Agoh–Giuga conjecture.json","
-	"conjectures/Agrawal's conjecture.json","
-	"conjectures/Ahlfors measure conjecture.json","
-	"conjectures/Albertson conjecture.json","
-	"conjectures/Alon–Saks–Seymour conjecture.json","
-	"conjectures/Alspach's conjecture.json","
-	"conjectures/Andrews–Curtis conjecture.json","
-	"conjectures/André–Oort conjecture.json","
-	"conjectures/Apéry's constant.json","
-	"conjectures/Arnold–Givental conjecture.json","
-	"conjectures/Arthur's conjectures.json","
-	"conjectures/Artin's conjecture on primitive roots.json","
-	"conjectures/Atiyah conjecture on configurations.json","
-	"conjectures/Atiyah conjecture.json","
-	"conjectures/Babai's problem.json","
-	"conjectures/Banach space.json","
-	"conjectures/Barnette's conjecture.json","
-	"conjectures/Bass conjecture.json","
-	"conjectures/Bass–Quillen conjecture.json","
-	"conjectures/Baum–Connes conjecture.json","
-	"conjectures/Beal's conjecture.json","
-	"conjectures/Bellman's lost-in-a-forest problem.json","
-	"conjectures/Berge knot.json","
-	"conjectures/Bernoulli number.json","
-	"conjectures/Bernstein's problem.json","
-	"conjectures/Berry–Robbins problem.json","
-	"conjectures/Bing–Borsuk conjecture.json","
-	"conjectures/Birch and Swinnerton-Dyer conjecture.json","
-	"conjectures/Birch–Tate conjecture.json","
-	"conjectures/Blankenship–Oporowski conjecture.json","
-	"conjectures/Bloch–Kato conjecture.json","
-	"conjectures/Bogomolov conjecture.json","
-	"conjectures/Bombieri–Lang conjecture.json","
-	"conjectures/Boolean Pythagorean triples problem.json","
-	"conjectures/Borel conjecture.json","
-	"conjectures/Borromean rings.json","
-	"conjectures/Brennan conjecture.json","
-	"conjectures/Brocard's conjecture.json","
-	"conjectures/Brocard's problem.json","
-	"conjectures/Brouwer's conjecture.json","
-	"conjectures/Brumer–Stark conjecture.json","
-	"conjectures/Bunyakovsky conjecture.json","
-	"conjectures/Burnside problem.json","
-	"conjectures/Burr–Erdős conjecture.json","
-	"conjectures/Böttcher–Wenzel conjecture.json","
-	"conjectures/Büchi's problem.json","
-	"conjectures/CW complex.json","
-	"conjectures/Cameron–Erdős conjecture.json","
-	"conjectures/Carathéodory conjecture.json","
-	"conjectures/Carlitz–Wan conjecture.json","
-	"conjectures/Carmichael's totient function conjecture.json","
-	"conjectures/Carpenter's rule problem.json","
-	"conjectures/Cartan–Hadamard conjecture.json","
-	"conjectures/Casas-Alvero conjecture.json","
-	"conjectures/Catalan's Mersenne conjecture.json","
-	"conjectures/Catalan's constant.json","
-	"conjectures/Cereceda's conjecture.json","
-	"conjectures/Chern's conjecture (affine geometry).json","
-	"conjectures/Chern's conjecture for hypersurfaces in spheres.json","
-	"conjectures/Chess.json","
-	"conjectures/Class number problem.json","
-	"conjectures/Cobordism hypothesis.json","
-	"conjectures/Collatz conjecture.json","
-	"conjectures/Congruent number problem.json","
-	"conjectures/Congruent number.json","
-	"conjectures/Connelly’s blooming conjecture.json","
-	"conjectures/Connes embedding problem.json","
-	"conjectures/Conway knot.json","
-	"conjectures/Conway's 99-graph problem.json","
-	"conjectures/Conway's thrackle conjecture.json","
-	"conjectures/Crouzeix's conjecture.json","
-	"conjectures/Dade's conjecture.json","
+	"conjectures/1 3–2 3 conjecture.json",
+	"conjectures/3-sphere.json",
+	"conjectures/Abelian extension.json",
+	"conjectures/Abundance conjecture.json",
+	"conjectures/Agoh–Giuga conjecture.json",
+	"conjectures/Agrawal's conjecture.json",
+	"conjectures/Ahlfors measure conjecture.json",
+	"conjectures/Albertson conjecture.json",
+	"conjectures/Alon–Saks–Seymour conjecture.json",
+	"conjectures/Alspach's conjecture.json",
+	"conjectures/Andrews–Curtis conjecture.json",
+	"conjectures/André–Oort conjecture.json",
+	"conjectures/Apéry's constant.json",
+	"conjectures/Arnold–Givental conjecture.json",
+	"conjectures/Arthur's conjectures.json",
+	"conjectures/Artin's conjecture on primitive roots.json",
+	"conjectures/Atiyah conjecture on configurations.json",
+	"conjectures/Atiyah conjecture.json",
+	"conjectures/Babai's problem.json",
+	"conjectures/Banach space.json",
+	"conjectures/Barnette's conjecture.json",
+	"conjectures/Bass conjecture.json",
+	"conjectures/Bass–Quillen conjecture.json",
+	"conjectures/Baum–Connes conjecture.json",
+	"conjectures/Beal's conjecture.json",
+	"conjectures/Bellman's lost-in-a-forest problem.json",
+	"conjectures/Berge knot.json",
+	"conjectures/Bernoulli number.json",
+	"conjectures/Bernstein's problem.json",
+	"conjectures/Berry–Robbins problem.json",
+	"conjectures/Bing–Borsuk conjecture.json",
+	"conjectures/Birch and Swinnerton-Dyer conjecture.json",
+	"conjectures/Birch–Tate conjecture.json",
+	"conjectures/Blankenship–Oporowski conjecture.json",
+	"conjectures/Bloch–Kato conjecture.json",
+	"conjectures/Bogomolov conjecture.json",
+	"conjectures/Bombieri–Lang conjecture.json",
+	"conjectures/Boolean Pythagorean triples problem.json",
+	"conjectures/Borel conjecture.json",
+	"conjectures/Borromean rings.json",
+	"conjectures/Brennan conjecture.json",
+	"conjectures/Brocard's conjecture.json",
+	"conjectures/Brocard's problem.json",
+	"conjectures/Brouwer's conjecture.json",
+	"conjectures/Brumer–Stark conjecture.json",
+	"conjectures/Bunyakovsky conjecture.json",
+	"conjectures/Burnside problem.json",
+	"conjectures/Burr–Erdős conjecture.json",
+	"conjectures/Böttcher–Wenzel conjecture.json",
+	"conjectures/Büchi's problem.json",
+	"conjectures/CW complex.json",
+	"conjectures/Cameron–Erdős conjecture.json",
+	"conjectures/Carathéodory conjecture.json",
+	"conjectures/Carlitz–Wan conjecture.json",
+	"conjectures/Carmichael's totient function conjecture.json",
+	"conjectures/Carpenter's rule problem.json",
+	"conjectures/Cartan–Hadamard conjecture.json",
+	"conjectures/Casas-Alvero conjecture.json",
+	"conjectures/Catalan's Mersenne conjecture.json",
+	"conjectures/Catalan's constant.json",
+	"conjectures/Cereceda's conjecture.json",
+	"conjectures/Chern's conjecture (affine geometry).json",
+	"conjectures/Chern's conjecture for hypersurfaces in spheres.json",
+	"conjectures/Chess.json",
+	"conjectures/Class number problem.json",
+	"conjectures/Cobordism hypothesis.json",
+	"conjectures/Collatz conjecture.json",
+	"conjectures/Congruent number problem.json",
+	"conjectures/Congruent number.json",
+	"conjectures/Connelly’s blooming conjecture.json",
+	"conjectures/Connes embedding problem.json",
+	"conjectures/Conway knot.json",
+	"conjectures/Conway's 99-graph problem.json",
+	"conjectures/Conway's thrackle conjecture.json",
+	"conjectures/Crouzeix's conjecture.json",
+	"conjectures/Dade's conjecture.json",
 	"conjectures/Danzer set.json", 
 	"conjectures/De Bruijn–Newman constant.json", 
 	"conjectures/Dedekind number.json", 
