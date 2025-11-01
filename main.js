@@ -13,8 +13,6 @@ async function loadData() {
   return results;
 }
 
-
-
 // Build a hierarchical tree structure from comma-separated categories
 function buildCategoryTree(conjs) {
   const tree = {};
@@ -69,7 +67,7 @@ function buildMenu(tree, parent) {
     conjs.forEach(c => {
       const leaf = document.createElement('div');
       leaf.classList.add('menu-leaf');
-      leaf.textContent = c.title;
+      leaf.textContent = c.name;
       leaf.onclick = (e) => {
         e.stopPropagation();
         showConjecture(c);
@@ -81,9 +79,9 @@ function buildMenu(tree, parent) {
 
 function showConjecture(c) {
   const content = document.getElementById('content');
-  console.log(c.title);
+  console.log(c.name);
   content.innerHTML = `
-    <h2>${c.title}</h2>
+    <h2>${c.name}</h2>
     <p><b>Author(s):</b> ${c.authors}</p>
     <p><b>Difficulty:</b> ${c.difficulty || 'N/A'}</p>
     <p>${c.description}</p>
