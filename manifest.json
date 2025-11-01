@@ -248,7 +248,7 @@
 	"Lambda_g_conjecture.json",
 	"Landau's_constants.json",
 	"Landau's_problems.json",
-	"Lander,Parkin,and_Selfridge_conjecture.json",
+	"Lander_Parkin_and_Selfridge_conjecture.json",
 	"Lange's_conjecture.json",
 	"Langlands-Shelstad_fundamental_lemma.json",
 	"Laplace_operator.json",
@@ -450,6 +450,7 @@
 	"Zilber-Pink_conjecture.json",
 	"Zimmer's_conjecture.json"
 ]
+
 
 
 
