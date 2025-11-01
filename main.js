@@ -16,7 +16,7 @@ async function loadData() {
 (async () => {
   const conjs = await loadData();  // now defined
   const tree = buildCategoryTree(conjs);
-console.log(JSON.stringify(tree, null, 2));
+alert(JSON.stringify(tree, null, 2));
   
 
   const menu = document.getElementById('menu');
