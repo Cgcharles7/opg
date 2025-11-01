@@ -89,7 +89,6 @@ function showConjecture(c) {
 
   content.innerHTML = `
     <h2>${c.name}</h2>
-//    <p><b>Views:</b> ${c.count}</p>
     <p>${c.summary}</p>
     <p><b>Keywords:</b> ${c.kwds}</p>
     <p><a href="${link}" target="_blank" rel="noopener noreferrer">${c.name}</a></p>
