@@ -1,3 +1,4 @@
+// Load all conjectures listed in manifest.json
 async function loadConjectures() {
   const manifestResponse = await fetch('manifest.json');
   const files = await manifestResponse.json();
@@ -13,61 +14,98 @@ async function loadConjectures() {
 
   console.log(conjectures);
 
-  buildTree(conjectures);
+  buildCategoryTree(conjectures);
 }
+
+(async () => {
+  const conjs = await loadData();  // now defined
+  const tree = buildCategoryTree(conjs);
+
+  const menu = document.getElementById('menu');
+  menu.innerHTML = '';
+  buildMenu(tree, menu);
+})();
+
 
 // Build the category tree dynamically
-function buildTree(conjectures) {
-  const treeContainer = document.getElementById('tree');
-  treeContainer.innerHTML = '';
+function buildCategoryTree(conjs) {
+  const tree = {};
 
-  const categories = {};
+  conjs.forEach(c => {
+    const cats = c.categories.split(',').map(x => x.trim()).filter(Boolean);
+    let node = tree;
 
-  // Group conjectures by category
-  conjectures.forEach(c => {
-    (c.categories || []).forEach(cat => {
-      if (!categories[cat]) categories[cat] = [];
-      categories[cat].push(c);
+    cats.forEach(cat => {
+      if (!node[cat]) node[cat] = { __items: [] };
+      node = node[cat];
     });
+
+    node.__items.push(c);
   });
 
-  // Build HTML
-  for (const cat in categories) {
-    const catDiv = document.createElement('div');
-    catDiv.className = 'category';
-    catDiv.innerHTML = `<strong>${cat}</strong>`;
-    
-    const list = document.createElement('ul');
-
-    categories[cat].forEach(c => {
-      const item = document.createElement('li');
-      const link = document.createElement('a');
-      link.href = '#';
-      link.textContent = c.title;
-      link.addEventListener('click', () => displayConjecture(c));
-      item.appendChild(link);
-      list.appendChild(item);
-    });
-
-    catDiv.appendChild(list);
-    treeContainer.appendChild(catDiv);
-  }
+  return tree;
 }
 
-// Display a conjecture when clicked
-function displayConjecture(c) {
+function buildMenu(tree, parent) {
+  Object.keys(tree).forEach(cat => {
+    if (cat === "__items") return;
+
+    const div = document.createElement('div');
+    div.classList.add('menu-item');
+    div.textContent = cat;
+
+    // Add toggle functionality
+    div.onclick = (e) => {
+      e.stopPropagation();
+      const next = div.nextElementSibling;
+      if (next && next.classList.contains('submenu')) {
+        next.style.display = next.style.display === 'none' ? 'block' : 'none';
+      }
+    };
+
+    parent.appendChild(div);
+
+    // Submenu container
+    const submenu = document.createElement('div');
+    submenu.classList.add('submenu');
+    submenu.style.display = 'none';
+    submenu.style.paddingLeft = '15px';
+    parent.appendChild(submenu);
+
+    // Recursively build children
+    buildMenu(tree[cat], submenu);
+
+    // Add conjectures under this branch
+    const conjs = tree[cat].__items || [];
+    conjs.forEach(c => {
+      const leaf = document.createElement('div');
+      leaf.classList.add('menu-leaf');
+      leaf.textContent = c.title;
+      leaf.onclick = (e) => {
+        e.stopPropagation();
+        showConjecture(c);
+      };
+      submenu.appendChild(leaf);
+    });
+  });
+}
+
+function showConjecture(c) {
   const content = document.getElementById('content');
   content.innerHTML = `
     <h2>${c.title}</h2>
-    <p><strong>Authors:</strong> ${c.authors ? c.authors.join(', ') : 'Unknown'}</p>
-    <p><strong>Categories:</strong> ${(c.categories || []).join(', ')}</p>
-    <p><strong>Difficulty:</strong> ${c.difficulty ?? '—'}</p>
+    <p><b>Author(s):</b> ${c.authors}</p>
+    <p><b>Difficulty:</b> ${c.difficulty || 'N/A'}</p>
     <p>${c.description}</p>
-    <p><strong>References:</strong></p>
-    <ul>${(c.refs || []).map(r => `<li><a href="${r}" target="_blank">${r}</a></li>`).join('')}</ul>
+    <p><b>Keywords:</b> ${c.kwds}</p>
   `;
-
-  if (window.MathJax) MathJax.typesetPromise();
 }
 
-document.addEventListener('DOMContentLoaded', loadConjectures);
+(async () => {
+  const conjs = await loadData();
+  const tree = buildCategoryTree(conjs);
+
+  const menu = document.getElementById('menu');
+  menu.innerHTML = '';
+  buildMenu(tree, menu);
+})();
