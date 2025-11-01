@@ -28,6 +28,7 @@ function buildCategoryTree(conjs) {
       if (!node[cat]) node[cat] = { __items: [] };
       node = node[cat];
     });
+    alert("cats = " + cats);
 
     node.__items.push(c);
   });
