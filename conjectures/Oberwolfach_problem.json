@@ -1,0 +1,16 @@
+{
+  "uuid": "b8e5bc43-a627-4975-8661-454433dc9312",
+  "name": "Oberwolfach problem",
+  "link": "https://en.wikipedia.org/wiki/Oberwolfach_problem",
+  "summary": "In mathematics, the Oberwolfach problem is an open problem that may be formulated either as a problem of scheduling seating assignments for diners,\nor more abstractly as a problem in graph theory, on the edge cycle covers of complete graphs. It is named after the Oberwolfach Research Institute for Mathematics, where the problem was posed in 1967 by Gerhard Ringel. It is known to be true for all sufficiently large complete graphs.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Subgraphs",
+    "Unsolved problems",
+    "Graph theory"
+  ],
+  "authors": []
+}

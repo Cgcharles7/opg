@@ -1,0 +1,16 @@
+{
+  "uuid": "48968dae-89df-4281-8cf0-8c145e442c58",
+  "name": "Ryser's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Ryser%27s_conjecture",
+  "summary": "In graph theory, Ryser's conjecture is a conjecture relating the maximum matching size and the minimum transversal size in hypergraphs.\nThis conjecture first appeared in 1971 in the Ph.D. thesis of J. R. Henderson, whose advisor was Herbert John Ryser.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Miscellaneous graph theory",
+    "Unsolved problems",
+    "Graph theory"
+  ],
+  "authors": []
+}

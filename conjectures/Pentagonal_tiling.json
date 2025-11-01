@@ -1,0 +1,16 @@
+{
+  "uuid": "7cf7432d-6b89-41b5-a15f-5c1d969c91f8",
+  "name": "Pentagonal tiling",
+  "link": "https://en.wikipedia.org/wiki/Pentagonal_tiling",
+  "summary": "In geometry, a pentagonal tiling is a tiling of the plane where each individual piece is in the shape of a pentagon.\nA regular pentagonal tiling on the Euclidean plane is impossible because the internal angle of a regular pentagon, 108°, is not a divisor of 360°, the angle measure of a whole turn. However, regular pentagons can tile the hyperbolic plane with four pentagons around each  vertex (or more) and sphere with three pentagons; the latter produces a tiling that is topologically equivalent",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "21st century",
+    "Problems solved since 1995",
+    "Geometry"
+  ],
+  "authors": []
+}

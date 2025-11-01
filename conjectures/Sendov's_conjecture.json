@@ -1,0 +1,15 @@
+{
+  "uuid": "3a0b7111-bd0c-4a86-abde-4c53b9411c9a",
+  "name": "Sendov's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Sendov%27s_conjecture",
+  "summary": "In mathematics, Sendov's conjecture, sometimes also called Ilieff's conjecture, concerns the relationship between the locations of roots and critical points of a polynomial function of a complex variable.  It is named after Blagovest Sendov.\nThe conjecture states that for a polynomial\n\n  \n    \n      \n        f\n        (\n        z\n        )\n        =\n        (\n        z\n        −\n        \n          r\n          \n            1\n          \n        \n        )\n        ⋯\n        (\n        z\n        −\n  ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Analysis"
+  ],
+  "authors": []
+}

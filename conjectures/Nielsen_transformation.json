@@ -1,0 +1,16 @@
+{
+  "uuid": "2bcd5bef-b731-447c-8eb8-422263e21632",
+  "name": "Nielsen transformation",
+  "link": "https://en.wikipedia.org/wiki/Nielsen_transformation",
+  "summary": "In mathematics, especially in the area of modern algebra known as combinatorial group theory, Nielsen transformations are certain automorphisms of a free group which are a non-commutative analogue of row reduction and one of the main tools used in studying free groups (Fine, Rosenberger & Stille 1995).\nGiven a finite basis of a free group \n  \n    \n      \n        \n          F\n          \n            n\n          \n        \n      \n    \n    {\\displaystyle F_{n}}\n  \n, the corresponding set of elementar",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems",
+    "Group theory"
+  ],
+  "authors": []
+}

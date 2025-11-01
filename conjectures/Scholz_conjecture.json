@@ -1,0 +1,16 @@
+{
+  "uuid": "77a8627a-d785-4dc2-b00d-622ce40622fa",
+  "name": "Scholz conjecture",
+  "link": "https://en.wikipedia.org/wiki/Scholz_conjecture",
+  "summary": "In mathematics, the Scholz conjecture is a conjecture on the length of certain addition chains.\nIt is sometimes also called the Scholz–Brauer conjecture or the Brauer–Scholz conjecture, after Arnold Scholz, who formulated it in 1937, and Alfred Brauer, who studied it soon afterward and proved a weaker bound.\nNeill Clift has announced an example showing that the bound of the conjecture is not always tight.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "General"
+  ],
+  "authors": []
+}

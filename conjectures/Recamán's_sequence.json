@@ -1,0 +1,16 @@
+{
+  "uuid": "c3923796-f66c-4a33-a920-9438124f1408",
+  "name": "Recamán's sequence",
+  "link": "https://en.wikipedia.org/wiki/Recam%C3%A1n%27s_sequence",
+  "summary": "In mathematics and computer science, Recamán's sequence is a well known sequence defined by a recurrence relation. Because its elements are related to the previous elements in a straightforward way, they are often defined using recursion.\n\nIt takes its name after its inventor Bernardo Recamán Santos, a Colombian mathematician.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Additive number theory"
+  ],
+  "authors": []
+}

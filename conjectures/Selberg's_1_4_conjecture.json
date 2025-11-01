@@ -1,0 +1,16 @@
+{
+  "uuid": "5aabcac7-6b42-4d8b-bc79-a5909d004da0",
+  "name": "Selberg's 1/4 conjecture",
+  "link": "https://en.wikipedia.org/wiki/Selberg%27s_1/4_conjecture",
+  "summary": "In mathematics, Selberg's conjecture, also known as Selberg's eigenvalue conjecture, conjectured by Selberg (1965, p. 13), states that the eigenvalues of the Laplace operator on Maass wave forms of congruence subgroups are at least 1/4. Selberg showed that the eigenvalues are at least 3/16. Subsequent works improved the bound, and the best bound currently known is 975/4096≈0.238..., due to Kim & Sarnak (2003).\nThe generalized Ramanujan conjecture for the general linear group implies Selberg's co",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Analytic number theory"
+  ],
+  "authors": []
+}

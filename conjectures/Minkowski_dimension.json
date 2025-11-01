@@ -1,0 +1,16 @@
+{
+  "uuid": "fca617ae-714e-42a8-9d54-41bdd6ac99fc",
+  "name": "Minkowski dimension",
+  "link": "https://en.wikipedia.org/wiki/Minkowski%E2%80%93Bouligand_dimension",
+  "summary": "In fractal geometry, the Minkowski–Bouligand dimension, also known as Minkowski dimension or box-counting dimension, is a way of determining the fractal dimension of a bounded set \n  \n    \n      \n        S\n      \n    \n    {\\textstyle S}\n  \n in a Euclidean space \n  \n    \n      \n        \n          \n            R\n          \n          \n            n\n          \n        \n      \n    \n    {\\textstyle \\mathbb {R} ^{n}}\n  \n, or more generally in a metric space \n  \n    \n      \n        (\n        X\n        ,",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Euclidean geometry",
+    "Geometry"
+  ],
+  "authors": []
+}

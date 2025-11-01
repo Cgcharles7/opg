@@ -1,0 +1,16 @@
+{
+  "uuid": "555b57bd-3ccb-4676-a484-d4dfc166eb55",
+  "name": "Polignac's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Polignac%27s_conjecture",
+  "summary": "In number theory, Polignac's conjecture was made by Alphonse de Polignac in 1849 and states:\n\nFor any positive even number n, there are infinitely many prime gaps of size n. In other words: There are infinitely many cases of two consecutive prime numbers with difference n.\nFormally, the conjecture may be stated as follows: for any even k,\n\n  \n    \n      \n        \n        \n          lim\n          \n            n\n            →\n            ∞\n          \n        \n        inf\n        \n          g\n     ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}
