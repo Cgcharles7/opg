@@ -1,20 +1,16 @@
 // Load all conjectures listed in manifest.json
-async function loadConjectures() {
+async function loadData() {
   const manifestResponse = await fetch('manifest.json');
   const files = await manifestResponse.json();
 
-  const conjectures = [];
-
+  const results = [];
   for (const file of files) {
-    const response = await fetch(`conjectures/${file}`);
-    const data = await response.json();
-    conjectures.push(data);
-    console.log("data = " + data);
+    const res = await fetch(`conjectures/${file}`);
+    const data = await res.json();
+    results.push(data);
   }
 
-  console.log(conjectures);
-
-  buildCategoryTree(conjectures);
+  return results;
 }
 
 (async () => {
