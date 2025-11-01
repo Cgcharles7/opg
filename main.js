@@ -13,17 +13,6 @@ async function loadData() {
   return results;
 }
 
-(async () => {
-  const conjs = await loadData();  // now defined
-  const tree = buildCategoryTree(conjs);
-alert(JSON.stringify(tree, null, 2));
-  
-
-  const menu = document.getElementById('menu');
-  menu.innerHTML = '';
-  buildMenu(tree, menu);
-})();
-
 
 
 // Build a hierarchical tree structure from comma-separated categories
@@ -104,7 +93,8 @@ function showConjecture(c) {
 (async () => {
   const conjs = await loadData();
   const tree = buildCategoryTree(conjs);
-
+  alert("tree = " + tree);
+  
   const menu = document.getElementById('menu');
   menu.innerHTML = '';
   buildMenu(tree, menu);
