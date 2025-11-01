@@ -1,0 +1,16 @@
+{
+  "uuid": "4f86529d-2ff4-4b8a-a97b-3862ffe688b0",
+  "name": "Tammes problem",
+  "link": "https://en.wikipedia.org/wiki/Tammes_problem",
+  "summary": "In geometry, the Tammes problem is a problem in packing a given number of points on the surface of a sphere such that the minimum distance between points is maximized.  It is named after the Dutch botanist Pieter Merkus Lambertus Tammes (the nephew of pioneering botanist Jantina Tammes) who posed the problem in his 1930 doctoral dissertation on the distribution of pores on pollen grains.\n\nIt can be viewed as a particular special case of the generalized Thomson problem of minimizing the total Cou",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Geometry",
+    "Covering and packing"
+  ],
+  "authors": []
+}

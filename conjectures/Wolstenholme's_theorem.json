@@ -1,0 +1,16 @@
+{
+  "uuid": "5e9ca14c-fc81-4328-98b2-ec0165b0dd73",
+  "name": "Wolstenholme's theorem",
+  "link": "https://en.wikipedia.org/wiki/Wolstenholme%27s_theorem",
+  "summary": "In mathematics, Wolstenholme's theorem states that for a prime number p ≥ 5, the congruence\n\n  \n    \n      \n        \n          \n            \n              (\n            \n            \n              \n                2\n                p\n                −\n                1\n              \n              \n                p\n                −\n                1\n              \n            \n            \n              )\n            \n          \n        \n        ≡\n        1\n        \n          \n          (\n    ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}

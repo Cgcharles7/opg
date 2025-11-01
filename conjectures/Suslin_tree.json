@@ -1,0 +1,15 @@
+{
+  "uuid": "6ee54141-5c11-4c32-a75c-b75c66d7c310",
+  "name": "Suslin tree",
+  "link": "https://en.wikipedia.org/wiki/Suslin_tree",
+  "summary": "In mathematics, a Suslin tree is a tree of height ω1 such that\nevery branch and every antichain is countable. They are named after Mikhail Yakovlevich Suslin.\nEvery Suslin tree is an Aronszajn tree.\nThe existence of a Suslin tree is independent of ZFC, and is equivalent to the existence of a Suslin line (shown by Kurepa (1935)) or a Suslin algebra. The diamond principle, a consequence of V=L,  implies that there is a Suslin tree, and Martin's axiom MA(ℵ1) implies that there are no Suslin trees.\n",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Set theory",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

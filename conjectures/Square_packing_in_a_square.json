@@ -1,0 +1,16 @@
+{
+  "uuid": "48e648b0-57ae-4b4b-b17d-745c0181b27f",
+  "name": "Square packing in a square",
+  "link": "https://en.wikipedia.org/wiki/Square_packing",
+  "summary": "Square packing is a packing problem where the objective is to determine how many congruent squares can be packed into some larger shape, often a square or circle.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Geometry",
+    "Covering and packing"
+  ],
+  "authors": []
+}

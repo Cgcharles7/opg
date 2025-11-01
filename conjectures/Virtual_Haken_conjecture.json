@@ -1,0 +1,15 @@
+{
+  "uuid": "4a962172-d6d7-4c75-ae16-981bcccd1fa1",
+  "name": "Virtual Haken conjecture",
+  "link": "https://en.wikipedia.org/wiki/Virtually_Haken_conjecture",
+  "summary": "In topology, an area of mathematics, the virtually Haken conjecture states that every compact, orientable, irreducible three-dimensional manifold with infinite fundamental group is virtually Haken. That is, it has a finite cover (a covering space with a finite-to-one covering map) that is a Haken manifold.\nAfter the proof of the geometrization conjecture by Perelman, the conjecture was only open for hyperbolic 3-manifolds.\nThe conjecture is usually attributed to Friedhelm Waldhausen in a paper f",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Topology",
+    "Problems solved since 1995"
+  ],
+  "authors": []
+}

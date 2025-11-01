@@ -1,0 +1,16 @@
+{
+  "uuid": "04e2a0fd-2752-47ec-bfbc-e17df3196a0b",
+  "name": "Tunnell's theorem",
+  "link": "https://en.wikipedia.org/wiki/Tunnell%27s_theorem",
+  "summary": "In number theory, Tunnell's theorem gives a partial resolution to the congruent number problem, and under the Birch and Swinnerton-Dyer conjecture, a full resolution.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Diophantine equations",
+    "Number theory",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

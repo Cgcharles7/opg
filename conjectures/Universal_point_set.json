@@ -1,0 +1,16 @@
+{
+  "uuid": "94450139-98f5-4257-9f61-4547ed082a00",
+  "name": "Universal point set",
+  "link": "https://en.wikipedia.org/wiki/Universal_point_set",
+  "summary": "In graph drawing, a universal point set of order n is a set S of points in the Euclidean plane with the property that every n-vertex planar graph has a straight-line drawing in which the vertices are all placed at points of S.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Graph drawing and embedding",
+    "Unsolved problems",
+    "Graph theory"
+  ],
+  "authors": []
+}

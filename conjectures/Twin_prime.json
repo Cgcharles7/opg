@@ -1,0 +1,16 @@
+{
+  "uuid": "cd563765-c7e4-4bc9-aba8-62d45e201734",
+  "name": "Twin prime",
+  "link": "https://en.wikipedia.org/wiki/Twin_prime",
+  "summary": "A twin prime is a prime number that is either 2 less or 2 more than another prime number—for example, either member of the twin prime pair  (17, 19)  or (41, 43). In other words, a twin prime is a prime that has a prime gap of two. Sometimes the term twin prime is used for a pair of twin primes; an alternative name for this is prime twin or prime pair.\nTwin primes become increasingly rare as one examines larger ranges, in keeping with the general tendency of gaps between adjacent primes to becom",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}

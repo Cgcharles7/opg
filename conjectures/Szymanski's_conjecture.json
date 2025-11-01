@@ -1,0 +1,16 @@
+{
+  "uuid": "1bdff66c-6822-440a-a203-5b34f0b59530",
+  "name": "Szymanski's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Szymanski%27s_conjecture",
+  "summary": "In mathematics, Szymanski's conjecture, named after Ted H. Szymanski (1989), states that every permutation on the n-dimensional doubly directed hypercube graph can be routed with edge-disjoint paths. That is, if the permutation σ matches each vertex v to another vertex σ(v), then for each v there exists a path in the hypercube graph from v to σ(v) such that no two paths for two different vertices u and v use the same edge in the same direction.\nThrough computer experiments it has been verified t",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Subgraphs",
+    "Unsolved problems",
+    "Graph theory"
+  ],
+  "authors": []
+}

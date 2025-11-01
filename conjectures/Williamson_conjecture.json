@@ -1,0 +1,15 @@
+{
+  "uuid": "0ba48cee-6c29-48d9-84f3-692cb84d7ce1",
+  "name": "Williamson conjecture",
+  "link": "https://en.wikipedia.org/wiki/Williamson_conjecture",
+  "summary": "In combinatorial mathematics, specifically in combinatorial design theory and combinatorial matrix theory, the Williamson conjecture is that Williamson matrices of order \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n exist for all positive integers \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n.\nFour symmetric and circulant matrices \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n, \n  \n    \n      \n        B\n      \n    \n    {\\displaystyle B}\n  \n, \n",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

@@ -1,0 +1,16 @@
+{
+  "uuid": "d4123a73-853b-4f45-aeba-9416084c2304",
+  "name": "Willmore conjecture",
+  "link": "https://en.wikipedia.org/wiki/Willmore_conjecture",
+  "summary": "In differential geometry, the Willmore conjecture is a lower bound on the Willmore energy of a torus. It is named after the English mathematician Tom Willmore, who conjectured it in 1965. A proof by Fernando Codá Marques and André Neves was announced in 2012 and published in 2014.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "21st century",
+    "Problems solved since 1995",
+    "Geometry"
+  ],
+  "authors": []
+}

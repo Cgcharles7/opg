@@ -1,0 +1,15 @@
+{
+  "uuid": "c1180504-c09d-4327-92a1-abf2857da9fc",
+  "name": "Wild problem",
+  "link": "https://en.wikipedia.org/wiki/Wild_problem",
+  "summary": "In the mathematical areas of linear algebra and representation theory, a problem is wild if it contains the problem of classifying pairs of square matrices up to simultaneous similarity. Examples of wild problems are classifying indecomposable representations of any quiver that is neither a Dynkin quiver (i.e. the underlying undirected graph of the quiver is a (finite) Dynkin diagram) nor a Euclidean quiver (i.e., the underlying undirected graph of the quiver is an affine Dynkin diagram).\nNecess",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebra",
+    "Unsolved problems"
+  ],
+  "authors": []
+}

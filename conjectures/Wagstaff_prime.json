@@ -1,0 +1,16 @@
+{
+  "uuid": "ef0e02c3-9625-4e4f-8cf3-6dd3e1fc7ece",
+  "name": "Wagstaff prime",
+  "link": "https://en.wikipedia.org/wiki/Wagstaff_prime",
+  "summary": "In number theory, a Wagstaff prime is a prime number of the form\n\n  \n    \n      \n        \n          \n            \n              \n                2\n                \n                  p\n                \n              \n              +\n              1\n            \n            3\n          \n        \n      \n    \n    {\\displaystyle {{2^{p}+1} \\over 3}}\n  \n\nwhere p is an odd prime. Wagstaff primes are named after the mathematician Samuel S. Wagstaff Jr.; the prime pages credit François Morain for naming ",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": []
+}

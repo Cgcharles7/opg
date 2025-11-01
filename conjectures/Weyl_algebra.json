@@ -1,0 +1,16 @@
+{
+  "uuid": "0f8ce59f-2a87-4d82-9e9e-7a1234681bba",
+  "name": "Weyl algebra",
+  "link": "https://en.wikipedia.org/wiki/Weyl_algebra",
+  "summary": "In abstract algebra, the Weyl algebras are abstracted from the ring of differential operators with polynomial coefficients. They are named after Hermann Weyl, who introduced them to study the Heisenberg uncertainty principle in quantum mechanics. \nIn the simplest case, these are differential operators. Let \n  \n    \n      \n        F\n      \n    \n    {\\displaystyle F}\n  \n be a field, and let \n  \n    \n      \n        F\n        [\n        x\n        ]\n      \n    \n    {\\displaystyle F[x]}\n  \n be the ring",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Unsolved problems",
+    "Algebraic geometry",
+    "Geometry"
+  ],
+  "authors": []
+}
