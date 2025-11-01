@@ -23,20 +23,13 @@ async function loadData() {
 })();
 
 
-// ----------------------------
-// menu.js
-// ----------------------------
 
-// Build a hierarchical tree structure from categories (string or array)
+// Build a hierarchical tree structure from comma-separated categories
 function buildCategoryTree(conjs) {
   const tree = {};
 
   conjs.forEach(c => {
-    // Normalize categories
-    const cats = Array.isArray(c.categories)
-      ? c.categories
-      : (c.categories || '').split(',').map(x => x.trim()).filter(Boolean);
-
+    const cats = c.categories.split(',').map(x => x.trim()).filter(Boolean);
     let node = tree;
 
     cats.forEach(cat => {
@@ -50,7 +43,6 @@ function buildCategoryTree(conjs) {
   return tree;
 }
 
-// Recursively build the collapsible category menu
 function buildMenu(tree, parent) {
   Object.keys(tree).forEach(cat => {
     if (cat === "__items") return;
@@ -59,7 +51,7 @@ function buildMenu(tree, parent) {
     div.classList.add('menu-item');
     div.textContent = cat;
 
-    // Toggle submenu visibility
+    // Add toggle functionality
     div.onclick = (e) => {
       e.stopPropagation();
       const next = div.nextElementSibling;
@@ -70,7 +62,7 @@ function buildMenu(tree, parent) {
 
     parent.appendChild(div);
 
-    // Create submenu
+    // Submenu container
     const submenu = document.createElement('div');
     submenu.classList.add('submenu');
     submenu.style.display = 'none';
@@ -80,7 +72,7 @@ function buildMenu(tree, parent) {
     // Recursively build children
     buildMenu(tree[cat], submenu);
 
-    // Add conjecture links under this branch
+    // Add conjectures under this branch
     const conjs = tree[cat].__items || [];
     conjs.forEach(c => {
       const leaf = document.createElement('div');
@@ -95,36 +87,22 @@ function buildMenu(tree, parent) {
   });
 }
 
-// Display conjecture details in the content area
 function showConjecture(c) {
   const content = document.getElementById('content');
   content.innerHTML = `
     <h2>${c.title}</h2>
-    <p><strong>Author(s):</strong> ${Array.isArray(c.authors) ? c.authors.join(', ') : c.authors || 'Unknown'}</p>
-    <p><strong>Categories:</strong> ${Array.isArray(c.categories) ? c.categories.join(', ') : c.categories}</p>
-    <p><strong>Difficulty:</strong> ${c.difficulty ?? 'N/A'}</p>
-    <p>${c.description || ''}</p>
-    <p><strong>Keywords:</strong> ${Array.isArray(c.kwds) ? c.kwds.join(', ') : c.kwds || ''}</p>
+    <p><b>Author(s):</b> ${c.authors}</p>
+    <p><b>Difficulty:</b> ${c.difficulty || 'N/A'}</p>
+    <p>${c.description}</p>
+    <p><b>Keywords:</b> ${c.kwds}</p>
   `;
-
-  // Support MathJax rendering if available
-  if (window.MathJax) MathJax.typesetPromise();
 }
 
-// Initialize the menu once DOM is ready
-document.addEventListener('DOMContentLoaded', () => {
-  if (!window.conjectures || !Array.isArray(window.conjectures)) {
-    console.error("No conjectures found in memory (expected window.conjectures).");
-    return;
-  }
+(async () => {
+  const conjs = await loadData();
+  const tree = buildCategoryTree(conjs);
 
   const menu = document.getElementById('menu');
-  if (!menu) {
-    console.error("Menu element not found in the DOM.");
-    return;
-  }
-
-  const tree = buildCategoryTree(window.conjectures);
   menu.innerHTML = '';
   buildMenu(tree, menu);
-});
+})();
