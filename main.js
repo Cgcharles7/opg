@@ -19,7 +19,6 @@ function buildCategoryTree(conjs) {
 
   conjs.forEach(c => {
     const cats = c.kwds.toString().split(',').map(x => x.trim()).filter(Boolean);
-    console.log(cats);
     let node = tree;
 
     cats.forEach(cat => {
@@ -94,7 +93,6 @@ function showConjecture(c) {
 (async () => {
   const conjs = await loadData();
   const tree = buildCategoryTree(conjs);
-  alert("tree = " + tree);
   
   const menu = document.getElementById('menu');
   menu.innerHTML = '';
