@@ -27,8 +27,9 @@ function buildCategoryTree(conjs) {
     cats.forEach(cat => {
       if (!node[cat]) node[cat] = { __items: [] };
       node = node[cat];
+      alert("cat = " + cat);
     });
-    alert("cats = " + cats);
+    
 
     node.__items.push(c);
   });
