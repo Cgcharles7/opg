@@ -13,13 +13,11 @@ async function loadData() {
   return results;
 }
 
-// Build a hierarchical tree structure from comma-separated categories
 function buildCategoryTree(conjs) {
   const tree = {};
-  const childCats = new Set(); // track which categories appear as children
 
-  // First pass: build hierarchy structure
   conjs.forEach(c => {
+    // Normalize keywords
     const cats = Array.isArray(c.kwds)
       ? c.kwds.map(x => x.trim()).filter(Boolean)
       : c.kwds.toString().split(',').map(x => x.trim()).filter(Boolean);
@@ -30,24 +28,19 @@ function buildCategoryTree(conjs) {
       return;
     }
 
+    // Follow the order given in the JSON
     let node = tree;
     cats.forEach((cat, idx) => {
       if (!node[cat]) node[cat] = { __items: [] };
+
+      // Only push the conjecture at the deepest level
       if (idx === cats.length - 1) {
         node[cat].__items.push(c);
       } else {
         node = node[cat];
-        childCats.add(cats[idx + 1]); // mark next one as a child
       }
     });
   });
-
-  // Second pass: remove any top-level nodes that also appear as children
-  for (const cat of Object.keys(tree)) {
-    if (childCats.has(cat)) {
-      delete tree[cat];
-    }
-  }
 
   return tree;
 }
