@@ -32,18 +32,22 @@ function buildCategoryTree(conjs) {
   return tree;
 }
 
-function buildMenu(tree, parent) {
-  // Sort category names alphabetically (ignore __items)
-  const categories = Object.keys(tree)
-    .filter(k => k !== "__items")
-    .sort((a, b) => a.localeCompare(b));
+function inferType(name) {
+  const lower = name.toLowerCase();
+  if (lower.includes('theorem')) return 'theorem';
+  if (lower.includes('conjecture') || lower.includes('problem')) return 'conjecture';
+  return 'definition';
+}
 
-  categories.forEach(cat => {
+function buildMenu(tree, parent) {
+  Object.keys(tree).sort().forEach(cat => {
+    if (cat === "__items") return;
+
     const div = document.createElement('div');
     div.classList.add('menu-item');
     div.textContent = cat;
 
-    // Toggle submenu visibility on click
+    // Toggle open/close
     div.onclick = (e) => {
       e.stopPropagation();
       const next = div.nextElementSibling;
@@ -54,31 +58,48 @@ function buildMenu(tree, parent) {
 
     parent.appendChild(div);
 
-    // Create submenu container
     const submenu = document.createElement('div');
     submenu.classList.add('submenu');
     submenu.style.display = 'none';
     submenu.style.paddingLeft = '15px';
     parent.appendChild(submenu);
 
-    // Recursively build child categories
+    // Recursively build child branches
     buildMenu(tree[cat], submenu);
 
-    // Sort conjectures alphabetically by name
-    const conjs = (tree[cat].__items || []).sort((a, b) => 
-      a.name.localeCompare(b.name)
-    );
+    // --- Group items by inferred type ---
+    const conjs = tree[cat].__items || [];
+    const groups = { definition: [], theorem: [], conjecture: [] };
 
-    // Add conjecture leaves
     conjs.forEach(c => {
-      const leaf = document.createElement('div');
-      leaf.classList.add('menu-leaf');
-      leaf.textContent = c.name;
-      leaf.onclick = (e) => {
-        e.stopPropagation();
-        showConjecture(c);
-      };
-      submenu.appendChild(leaf);
+      const t = inferType(c.name || c.title);
+      groups[t].push(c);
+    });
+
+    Object.entries(groups).forEach(([type, items]) => {
+      if (items.length === 0) return;
+
+      const typeHeader = document.createElement('div');
+      typeHeader.textContent = type.charAt(0).toUpperCase() + type.slice(1) + 's';
+      typeHeader.classList.add('menu-subtype');
+      typeHeader.style.fontStyle = 'italic';
+      typeHeader.style.marginTop = '5px';
+      submenu.appendChild(typeHeader);
+
+      const typeList = document.createElement('div');
+      typeList.style.paddingLeft = '10px';
+      submenu.appendChild(typeList);
+
+      items.forEach(c => {
+        const leaf = document.createElement('div');
+        leaf.classList.add('menu-leaf');
+        leaf.textContent = c.name || c.title;
+        leaf.onclick = (e) => {
+          e.stopPropagation();
+          showConjecture(c);
+        };
+        typeList.appendChild(leaf);
+      });
     });
   });
 }
