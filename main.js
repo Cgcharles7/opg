@@ -16,18 +16,38 @@ async function loadData() {
 // Build a hierarchical tree structure from comma-separated categories
 function buildCategoryTree(conjs) {
   const tree = {};
+  const childCats = new Set(); // track which categories appear as children
 
+  // First pass: build hierarchy structure
   conjs.forEach(c => {
-    const cats = c.kwds.toString().split(',').map(x => x.trim()).filter(Boolean);
-    let node = tree;
+    const cats = Array.isArray(c.kwds)
+      ? c.kwds.map(x => x.trim()).filter(Boolean)
+      : c.kwds.toString().split(',').map(x => x.trim()).filter(Boolean);
 
-    cats.forEach(cat => {
+    if (cats.length === 0) {
+      if (!tree["Uncategorized"]) tree["Uncategorized"] = { __items: [] };
+      tree["Uncategorized"].__items.push(c);
+      return;
+    }
+
+    let node = tree;
+    cats.forEach((cat, idx) => {
       if (!node[cat]) node[cat] = { __items: [] };
-      node = node[cat];
+      if (idx === cats.length - 1) {
+        node[cat].__items.push(c);
+      } else {
+        node = node[cat];
+        childCats.add(cats[idx + 1]); // mark next one as a child
+      }
     });
-    
-    node.__items.push(c);
   });
+
+  // Second pass: remove any top-level nodes that also appear as children
+  for (const cat of Object.keys(tree)) {
+    if (childCats.has(cat)) {
+      delete tree[cat];
+    }
+  }
 
   return tree;
 }
