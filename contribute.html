@@ -1,0 +1,38 @@
+<h1>Contributing Conjectures</h1>
+
+<p>
+You can add new conjectures by creating a JSON file in the <code>conjectures/</code> folder
+and adding its filename to <code>manifest.json</code>.
+Each conjecture should follow this format:
+</p>
+
+<pre><code>{
+  "uuid": "unique-id",
+  "name": "Riemann Hypothesis",
+  "link": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+  "summary": "States that all nontrivial zeros of the zeta function ...",
+  "authors": ["Bernhard Riemann"],
+  "kwds": ["Analysis", "Number Theory"],
+  "type": "conjecture"
+}
+</code></pre>
+
+<p>
+The order of keywords determines the hierarchical placement:
+e.g. <code>["Algebra", "Group Theory"]</code> appears under
+<em>Algebra → Group Theory</em>.
+</p>
+
+<p>
+After adding your JSON file, update <code>manifest.json</code> with its filename:
+</p>
+
+<pre><code>[
+  "riemann_hypothesis.json",
+  "twin_prime_conjecture.json"
+]
+</code></pre>
+
+<p>
+Then open <code>index.html</code> in your browser — your conjecture should appear.
+</p>
