@@ -1,27 +1,24 @@
-# Open Problem Garden — Revived
+# A User-Driven Collection of Open Research Problems
 
 A collaborative archive and exploration of open mathematical problems.  
-Inspired by the original *Open Problem Garden*, this project aims to preserve, modernize, and extend its vision through open, community-driven development.
+There has been a lot of talk on social media, message boards and across the internet looking for open research problems. Wikipedia originated such a collection. This project is based on content taken from Wikipedia, but housed in GitHib to have a community-driven approach.
 
 ---
 
 ## About This Project
 
-The Open Problem Garden has long served as a valuable reference for mathematicians, students, and researchers exploring conjectures across diverse mathematical fields.  
-Over time, however, the original site became vulnerable and inactive, leaving much of its content at risk.
+Having a space for mathematicians, students, and researchers to access and explore conjectures across diverse mathematical fields is an interest that has been expressed across social media, message boards, and the internet in general. 
 
-This repository seeks to **revitalize that spirit**, creating a safe, public, and collaborative space where open problems can live, grow, and connect.
+This repository seeks to answer this interest by creating a safe, public, and collaborative space where open problems can live, grow, and connect.
 
 ---
 
 ## Project Goals
 
-1. **Preserve** the original conjectures and their metadata in a clean, structured format (`.json` / `.csv`)
+1. **Collect** conjectures and their metadata are stored them in a structured format (`.json`)
 2. **Provide Access** through static, interactive web pages (via GitHub Pages)
-3. **Encourage Collaboration** by allowing anyone to improve definitions, structure, or data
+3. **Encourage Collaboration** by allowing anyone to improve definitions, structure, additional references, additional conjectures
 4. **Explore Connections** among conjectures using modern data science tools
-
-Beyond preservation, one goal is to extend the original *Open Problem Garden* into a **living mathematical ecosystem**.
 
 ---
 
@@ -29,8 +26,6 @@ Beyond preservation, one goal is to extend the original *Open Problem Garden* in
 
 This repository is a work in progress, and it can evolve in many directions:
 
-### Definitions & Backgrounds
-Build a shared *Definitions* section to help new readers understand each conjecture and its context.
 
 ### Algorithmic Exploration
 Integrate computational tools that reveal structure and relationships among problems:
@@ -95,7 +90,7 @@ Each conjecture is stored as a JSON or Markdown file with fields like:
   "refs": ["Some relevant paper or arXiv link"],
   "kwds": ["chord", "cycle", "connectivity"],
   "is_open": true,
-  "head": "G is a 3-connected graph",
+  "head": "G is a 3-connected graph", 
   "prev_conjs": [],
   "cntr": 0
 }```
@@ -116,10 +111,7 @@ cntr: Popularity counter tracking engagement over time
 
 # Licensing & Attribution
 
-The original Open Problem Garden made its content publicly accessible but did not specify a license.
-This project therefore operates under a good-faith fair-use preservation model for educational and research purposes.
-
-If the original creators or maintainers wish to clarify licensing or ownership, this repository will comply and coordinate accordingly.
+The Wikipedia articles are under a Creative Commons liscense. Because this information originates from Wikipedia, we will also be running a Creative Commons lisense. 
 
 All new contributions here are released under
 Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0).
