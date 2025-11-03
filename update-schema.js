@@ -35,4 +35,4 @@ for (const file of files) {
   }
 }
 
-console.log(`✅ Updated ${updated} of ${files.length} JSON files.`);
+console.log(`Updated ${updated} of ${files.length} JSON files.`);
