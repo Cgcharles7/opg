@@ -2,8 +2,7 @@
   "uuid": "66d23105-d82d-4737-9fee-f34e9534e07e",
   "name": "Brocard's conjecture",
   "link": "https://en.wikipedia.org/wiki/Brocard%27s_conjecture",
-  "summary": "The Brocard's conjecture in number theory states that, for any n ≥ 2, there exist at least four prime numbers between (pn)2 and (pn+1)2, where pn is the nth prime number.[1] The theory bears Henri Brocard's name. This supposition is generally accepted to be accurate [2]. However, as of 2025, it has not been proven. Given that pn+1 − pn ≥ 2[3], Legendre's conjecture that there is a prime between consecutive integer squares means that there are at least two primes between prime squares for pn ≥ 3.
-",
+  "summary": "The Brocard's conjecture in number theory states that, for any n ≥ 2, there exist at least four prime numbers between (pn)2 and (pn+1)2, where pn is the nth prime number.[1] The theory bears Henri Brocard's name. This supposition is generally accepted to be accurate [2]. However, as of 2025, it has not been proven. Given that pn+1 − pn ≥ 2[3], Legendre's conjecture that there is a prime between consecutive integer squares means that there are at least two primes between prime squares for pn ≥ 3.",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -25,3 +24,4 @@
   ]
 
 }
+
