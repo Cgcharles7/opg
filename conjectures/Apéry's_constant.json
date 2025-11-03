@@ -1,25 +1,27 @@
 {
-  "uuid": "e9826293-d542-491b-a8d5-ca0cd4fe156c",
-  "name": "Apéry's constant",
-  "link": "https://en.wikipedia.org/wiki/Ap%C3%A9ry%27s_constant",  
-  "summary": "Apéry's constant is a constant in mathematics that can be described as the infinite sum of the positive integers' cubes' reciprocals. If $\gamma$ is the Reimann zeta function, then $\gamma(3) = \Sum_{n=1^\infinity} \frac{1/3}$ in symbols. ", 
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Diophantine approximation and transcendental number theory",
-    "Number theory",
-    "Unsolved problems"
-  ],
-  "authors": ["Roger Apéry"],
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "Charles Glover",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
+    "uuid": "e9826293-d542-491b-a8d5-ca0cd4fe156c",
+    "name": "Apéry's constant",
+    "link": "https://en.wikipedia.org/wiki/Ap%C3%A9ry%27s_constant",
+    "summary": "Apéry's constant is a constant in mathematics that can be described as the infinite sum of the positive integers' cubes' reciprocals. If $\\gamma$ is the Reimann zeta function, then $\\gamma(3) = \\Sum_{n=1^\\infinity} \frac{1/3}$ in symbols. ",
+    "head": null,
+    "count": 0,
+    "previous_conjectures": [],
+    "references": [],
+    "kwds": [
+        "Diophantine approximation and transcendental number theory",
+        "Number theory",
+        "Unsolved problems"
+    ],
+    "authors": [
+        "Roger Apéry"
+    ],
+    "status": "active",
+    "history": [
+        {
+            "action": "created",
+            "user": "Charles Glover",
+            "timestamp": "2025-11-02T14:12Z",
+            "note": "Initial submission"
+        }
+    ]
 }
