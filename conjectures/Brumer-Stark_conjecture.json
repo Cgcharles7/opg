@@ -2,8 +2,8 @@
   "uuid": "0e5bfd64-0a2e-43ba-a5a8-6a47fe01755e",
   "name": "Brumer–Stark conjecture",
   "link": "https://en.wikipedia.org/wiki/Brumer%E2%80%93Stark_conjecture",
-  "summary": "The Brumer–Stark conjecture is a conjecture in algebraic number theory giving a rough generalization of both the analytic class number formula for Dedekind zeta functions, and also of Stickelberger's theorem about the factorization of Gauss sums. It is named after Armand Brumer and Harold Stark.\nIt arises as a special case (abelian and first-order) of Stark's conjecture, when the place that splits completely in the extension is finite.  There are very few cases where the conjecture is known to b",
-  "head": null,
+  "summary": "The Brumer–Stark conjecture is a conjecture in algebraic number theory that connects the special values of L-functions to the structure of ideal class groups. It states that a certain element called the Stickelberger element annihilates the relevant class group of an abelian extension of number fields. The conjecture is a key part of Stark's conjectures and has a deep connection to Hilbert's twelfth problem, which is the goal of constructing class fields explicitly. ",
+  "head": "\\(H/F\\) is a finite abelian extension of number fields (with \\(F\\) totally real and \\(H\\) a CM field), \\(S\\) and \\(T\\) are disjoint finite sets of places of \\(F\\) (containing all infinite places and ramified finite places) satisfying certain standard conditions, and \\(\\Theta _{H/F,S,T}\\) is the associated Stickelberger element in the rational group ring \\(\\mathbb{Q}[Gal(H/F)]\\), ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +12,15 @@
     "Number theory",
     "Unsolved problems"
   ],
-  "authors": []
+  "authors": ["Armand Brumer", "Harold Stark."], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
+
