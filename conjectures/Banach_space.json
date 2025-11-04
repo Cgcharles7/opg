@@ -11,6 +11,17 @@
     "Unsolved problems",
     "Analysis"
   ],
-  "authors": []
+  "authors": [], 
+    "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 
 }
+
