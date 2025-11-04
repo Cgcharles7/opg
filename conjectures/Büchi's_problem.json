@@ -4,7 +4,7 @@
   "link": "https://en.wikipedia.org/wiki/B%C3%BCchi%27s_problem",
   "summary": "Büchi's problem is an open problem in number theory that asks if there is a positive integer \\(M\\) such that any sequence of \\(M\\) or more integer squares with a constant second difference of 2 must be squares of consecutive integers, specifically \\((x+n)^{2}\\) for some integer \\(x\\) and \\(n=1,2,...,M\\). In other words, it investigates if sequences of squares are restricted to the pattern of consecutive integers, or if other sequences can exist indefinitely. A positive answer implies that an infinite sequence of consecutive squares is impossible, and a negative answer would mean such sequences can exist. ",
   "head": "a sequence of \\(M\\) or more integers has the property that the second difference of their squares is a constant sequence of \\(2\\)",
-  "tail: "There exists an integer \\(x\\) such that \\(n_{i}=x+i\\) for all \\(1\\le i\\le M\\)", 
+  "tail": "There exists an integer \\(x\\) such that \\(n_{i}=x+i\\) for all \\(1\\le i\\le M\\)", 
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -25,3 +25,4 @@
   ]
 
 }
+
