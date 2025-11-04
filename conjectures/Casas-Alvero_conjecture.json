@@ -4,7 +4,7 @@
   "link": "https://en.wikipedia.org/wiki/Casas-Alvero_conjecture",
   "summary": "The Casas-Alvero conjecture is an open problem in mathematics concerning univariate polynomials over a field of characteristic zero. It states: If a polynomial \\(f\\) of degree \\(d\\ge 1\\) has at least one common root with each of its first \\(d-1\\) derivatives, then \\(f\\) must be a power of a linear polynomial (i.e., it has only one distinct root of multiplicity \\(d\\)). ",
   "head": "a univariate polynomial \\(P(x)\\) of degree \\(d\\) has a non-trivial common factor (i.e., a common root) with each of its first \\(d-1\\) derivatives \\(P^{\\prime }(x),P^{\\prime \\prime }(x),\\dots ,P^{(d-1)}(x)\\)", 
-  "tail": "\\(P(x)\\) is a power of a linear polynomial, meaning it has only one distinct root (of multiplicity \\(d\\)). "
+  "tail": "\\(P(x)\\) is a power of a linear polynomial, meaning it has only one distinct root (of multiplicity \\(d\\)). ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -23,4 +23,5 @@
     }
   ]
 }
+
 
