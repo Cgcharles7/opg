@@ -2,15 +2,25 @@
   "uuid": "9fb3f223-8094-4412-8709-05e8b4feb138",
   "name": "Deligne conjecture",
   "link": "https://en.wikipedia.org/wiki/Pierre_Deligne",
-  "summary": "Pierre René, Viscount Deligne (French: [dəliɲ]; born 3 October 1944) is a Belgian mathematician. He is best known for work on the Weil conjectures, leading to a complete proof in 1973. He is the winner of the 2013 Abel Prize, 2008 Wolf Prize, 1988 Crafoord Prize, and 1978 Fields Medal.",
-  "head": null,
+  "summary": "Deligne's conjecture is a central idea in mathematics that has two main forms: one relating the special values of L-functions to the determinant of period matrices for motives, and another that states the Hochschild cochain complex of an associative algebra has the structure of an algebra over the little disks operad. While originally a conjecture, both forms have been proven and are considered theorems. ",
+  "head": "An L-function of a motive is \"critical\" and evaluated at a special integer value.", 
+  "tail": "\\(Q\\): This special value is equal, up to a rational multiple, to the determinant of a specific period matrix (which relates de Rham and Betti cohomology).",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
   "kwds": [
-    "Unsolved problems",
     "Algebraic geometry",
     "Geometry"
   ],
-  "authors": []
+  "authors": ["Viscount Deligne", "James E. McClure", "Jeffrey H. Smith", "Maxim Kontsevich", "Yan Soibelman"], 
+  "status": "solved",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
