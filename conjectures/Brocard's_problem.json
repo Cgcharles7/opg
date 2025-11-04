@@ -2,8 +2,8 @@
   "uuid": "fe9a46f6-1efe-4d01-a5fa-4d3529273586",
   "name": "Brocard's problem",
   "link": "https://en.wikipedia.org/wiki/Brocard%27s_problem",
-  "summary": "Brocard's problem is a problem in mathematics that seeks integer values of \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n such that \n  \n    \n      \n        n\n        !\n        +\n        1\n      \n    \n    {\\displaystyle n!+1}\n  \n is a perfect square, where \n  \n    \n      \n        n\n        !\n      \n    \n    {\\displaystyle n!}\n  \n is the factorial. Only three values of \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n are known — 4, 5, 7 — and it is not known whether",
-  "head": null,
+  "summary": "Brocard's problem is an unsolved number theory problem that asks for all integer solutions to the equation \(n!+1=m^{2}\). It was independently posed by Henri Brocard in 1876 and Srinivasa Ramanujan in 1913. The only known solutions are the pairs \((n,m)=(4,5)\), \((5,11)\), and \((7,71)\). It is unknown if any other solutions exist. ",
+  "head": "\\(n\\) and \\(m\\) are positive integers that satisfy the equation \\(n!+1=m^{2}\\)",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +12,14 @@
     "Number theory",
     "Unsolved problems"
   ],
-  "authors": []
+  "authors": ["Henri Brocard", "Srinivasa Ramanujan"], 
+"status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
