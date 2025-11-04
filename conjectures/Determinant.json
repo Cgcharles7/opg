@@ -2,7 +2,7 @@
   "uuid": "9be77924-656c-424c-84d6-44614827cc51",
   "name": "Determinant",
   "link": "https://en.wikipedia.org/wiki/Determinant",
-  "summary": "A determinant is a scalar value that can be calculated from the entries of a square matrix. It indicates how much a linear transformation represented by the matrix scales space, and a determinant of zero means the matrix is "singular" (not invertible). Determinants are useful for solving systems of linear equations and are geometrically equivalent to the signed volume of the parallelepiped formed by the matrix's column or row vectors. ",
+  "summary": "A determinant is a scalar value that can be calculated from the entries of a square matrix. It indicates how much a linear transformation represented by the matrix scales space, and a determinant of zero means the matrix is \"singular\" (not invertible). Determinants are useful for solving systems of linear equations and are geometrically equivalent to the signed volume of the parallelepiped formed by the matrix's column or row vectors. ",
   "head": null,
   "tail" : null, 
   "count": 0,
@@ -24,3 +24,4 @@
   ]
 
 }
+
