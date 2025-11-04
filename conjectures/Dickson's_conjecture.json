@@ -2,8 +2,9 @@
   "uuid": "57eadefd-d2d3-44a6-8226-80a4f0c4c2ff",
   "name": "Dickson's conjecture",
   "link": "https://en.wikipedia.org/wiki/Dickson%27s_conjecture",
-  "summary": "In number theory, a branch of mathematics, Dickson's conjecture is the conjecture stated by Dickson (1904) that for a finite set of linear forms \n  \n    \n      \n        \n          a\n          \n            1\n          \n        \n        +\n        \n          b\n          \n            1\n          \n        \n        n\n        ,\n        \n          a\n          \n            2\n          \n        \n        +\n        \n          b\n          \n            2\n          \n        \n        n\n        ,\n        …\n     ",
-  "head": null,
+  "summary": "Dickson's conjecture is a number theory conjecture that states that if a set of linear polynomials (\\(a_{1}n+b_{1},a_{2}n+b_{2},\\dots ,a_{k}n+b_{k}\\)) does not have a \"local obstacle\" (a congruence condition that prevents them from all being prime for some \\(n\\)), then there are infinitely many integers \\(n\\) for which all of the polynomials evaluate to prime numbers. A simple example of a local obstacle is the set of linear forms \\(n\\), \\(n+2\\), and \\(n+4\\), because one of these numbers must be divisible by 3, and therefore cannot all be prime. ",
+  "head":  "A finite set of linear forms \\(a_{1}n+b_{1}\\), \\(a_{2}n+b_{2}\\), ..., \\(a_{k}n+b_{k}\\) (with integer coefficients \\(a_{i}\\ge 1\\)) has no congruence condition preventing all forms from being simultaneously prime for some integer \\(n\\)." 
+  "tail":  "There exist infinitely many positive integers \\(n\\) for which all the forms \\(a_{1}n+b_{1}\\), \\(a_{2}n+b_{2}\\), ..., \\(a_{k}n+b_{k}\\) produce prime numbers. ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,14 @@
     "Unsolved problems",
     "Prime numbers"
   ],
-  "authors": []
+  "authors": ["Leonard Eugene Dickson"], 
+"status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
