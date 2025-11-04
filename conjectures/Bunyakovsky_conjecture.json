@@ -2,8 +2,8 @@
   "uuid": "ad05720f-4f7c-4b89-971f-e926b7b53401",
   "name": "Bunyakovsky conjecture",
   "link": "https://en.wikipedia.org/wiki/Bunyakovsky_conjecture",
-  "summary": "The Bunyakovsky conjecture (or Bouniakowsky conjecture) gives a criterion for a polynomial \n  \n    \n      \n        f\n        (\n        x\n        )\n      \n    \n    {\\displaystyle f(x)}\n  \n in one variable with integer coefficients to give infinitely many prime values in the sequence\n  \n    \n      \n        f\n        (\n        1\n        )\n        ,\n        f\n        (\n        2\n        )\n        ,\n        f\n        (\n        3\n        )\n        ,\n        …\n        .\n      \n    \n    {\\displaystyle f",
-  "head": null,
+  "summary": "The Bunyakovsky conjecture is a proposal in number theory that states a polynomial with integer coefficients will produce infinitely many prime numbers if it meets three conditions: the leading coefficient is positive, the polynomial is irreducible over the rationals, and there is no common factor greater than 1 for all values of the polynomial as the input varies. In simpler terms, the conjecture is a generalization of Dirichlet's theorem on arithmetic progressions to polynomials of higher degree. ",
+  "head": "\\(f(x)\\) is a non-constant polynomial with integer coefficients that satisfies the following three conditions: The leading coefficient of \\(f(x)\\) is positive.\\(f(x)\\) is irreducible over the integers (it cannot be factored into two non-constant polynomials with integer coefficients).The values \\(f(n)\\) for positive integers \\(n\\) have no common prime factor greater than 1 (equivalently, the greatest common divisor of all values \\(f(n)\\) for \\(n\\in \\mathbb{Z}^{+}\\) is 1). ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +12,14 @@
     "Unsolved problems",
     "Prime numbers"
   ],
-  "authors": []
+  "authors": ["Viktor Bunyakovsky."],
+"status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
