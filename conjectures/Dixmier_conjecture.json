@@ -4,7 +4,7 @@
   "link": "https://en.wikipedia.org/wiki/Dixmier_conjecture",
   "summary": "The Dixmier conjecture, proposed by Jacques Dixmier in 1968, is the hypothesis that every endomorphism of the first Weyl algebra \\(A_{1}\\) (over a field of characteristic zero) is an automorphism. In simpler terms, it suggests that any function that maps the algebra to itself and respects its structure can be \"undone\" by another such function, meaning every homomorphism is also a bijection. The conjecture was proven to be equivalent to the Jacobian conjecture in 2005/2007, and there have been significant advances and proofs for the first Weyl algebra case. ",
   "head": "a map \\(\\phi :A_{1}\\rightarrow A_{1}\\) is an algebra endomorphism",
-  "tail": "it is an automorphism (i.e., invertible)."
+  "tail": "it is an automorphism (i.e., invertible).",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -24,3 +24,4 @@
     }
   ]
 }
+
