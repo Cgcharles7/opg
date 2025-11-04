@@ -3,7 +3,7 @@
   "name": "Bogomolov conjecture",
   "link": "https://en.wikipedia.org/wiki/Bogomolov_conjecture",
   "summary": "The Bogomolov conjecture is a statement in number theory about the distribution of \"small height\" points on algebraic varieties, such as curves or abelian varieties. It essentially states that if a subvariety is not a \"special\" (or torsion) subvariety, then it cannot contain a Zariski-dense set of points with small height. The conjecture has two main versions: one for curves and one for higher-dimensional varieties, and both have been proven in many cases. ",
-  "head": null,
+  "head": "Let \\(X\\) be an irreducible subvariety of an abelian variety \\(A\\) over a number field (or function field), and assume that \\(X\\) contains a Zariski-dense set of points with canonical height zero (or, more generally, \"small height\"). ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -23,3 +23,4 @@
     }
   ]
 }
+
