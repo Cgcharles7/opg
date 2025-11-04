@@ -4,7 +4,7 @@
   "link": "https://en.wikipedia.org/wiki/Dittert_conjecture",
   "summary": "The Dittert conjecture, also known as the Dittert–Hajek conjecture, is a mathematical hypothesis in combinatorics that states that a specific function, \\(<<!nav>>\\phi (X)=\\prod r_{i}+\\prod c_{j}-per(X)<<!/nav>>\\), is uniquely maximized when the matrix \\(X\\) is the matrix \\(J_{n}\\), where all entries are equal to \\(1/n\\). This conjecture concerns \\(n\times n\\) matrices with non-negative entries whose entries sum to \\(n\\), with \\(r_{i}\\) being the row sums, \\(c_{j}\\) being the column sums, and \\(per(X)\\) being the permanent of the matrix. ",
   "head":  "\\(A\\) is a matrix belonging to the defined set \\(K_{n}\\) (non-negative, entries sum to \\(n\\)).",
-  "tail":  "\\(\\phi (A)\\) is maximized uniquely when \\(A=J_{n}\\).", 
+  "tail":  "\\(\\phi (A)\\) is maximized uniquely when \\(A=J_{n}\\).",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -24,3 +24,4 @@
   ]
 
 }
+
