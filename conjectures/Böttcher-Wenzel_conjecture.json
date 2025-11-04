@@ -12,7 +12,7 @@
     "Uncategorised",
     "Problems solved since 1995"
   ],
-  "authors": ["Albrecht Böttcher", "David Wenzel", "Lu Zhiqin", "Seak-Weng Vong" "Xiaoqing Jin", "Koenraad M. R. Audenaert"], 
+  "authors": ["Albrecht Böttcher", "David Wenzel", "Lu Zhiqin", "Seak-Weng Vong", "Xiaoqing Jin", "Koenraad M. R. Audenaert"], 
   "status": "solved",  
   "history": [
     {
@@ -23,4 +23,5 @@
     }
   ]
 }
+
 
