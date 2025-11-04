@@ -2,14 +2,23 @@
   "uuid": "bee7cf51-16b2-45e0-af58-58e6d1e39e95",
   "name": "Alspach's conjecture",
   "link": "https://en.wikipedia.org/wiki/Alspach%27s_conjecture",
-  "summary": "Alspach's conjecture is a mathematical theorem that characterizes the disjoint cycle covers of complete graphs with prescribed cycle lengths. It is named after Brian Alspach, who posed it as a research problem in 1981. A proof was published by Darryn Bryant, Daniel Horsley, and William Pettersson (2014).",
+  "summary": "A mathematical theorem known as Alspach's conjecture describes the disjoint cycle covers of complete graphs with certain cycle lengths. It bears Brian Alspach's name, who first proposed it as a research question in 1981. Darryn Bryant, Daniel Horsley, and William Pettersson (2014) published a proof.",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
-  "references": [],
+  "references": [  "Aigner, Martin; Ziegler, Günter M. (2018), Proofs from THE BOOK (6th ed.), Springer, pp. 79–80, doi:10.1007/978-3-662-57265-8, ISBN 978-3-662-57265-8", "Graham, R. L.; Pollak, H. O. (1971), \"On the addressing problem for loop switching\", The Bell System Technical Journal, 50 (8): 2495–2519, doi:10.1002/j.1538-7305.1971.tb02618.x, MR 0289210", "Graham, R. L.; Pollak, H. O. (1972), \"On embedding graphs in squashed cubes\", Graph theory and applications (Proc. Conf., Western Michigan Univ., Kalamazoo, Mich., 1972; dedicated to the memory of J. W. T. Youngs), Lecture Notes in Mathematics, vol. 303, pp. 99–110, MR 0332576],"],
   "kwds": [
     "Problems solved since 1995",
     "Graph theory"
   ],
-  "authors": []
+  "authors": ["Brian Alspach"], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
