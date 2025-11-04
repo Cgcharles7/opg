@@ -2,8 +2,9 @@
   "uuid": "632c0037-3e3e-4927-9e75-65588cd6e0ef",
   "name": "Dittert conjecture",
   "link": "https://en.wikipedia.org/wiki/Dittert_conjecture",
-  "summary": "The Dittert conjecture, or Dittert–Hajek conjecture, is a mathematical hypothesis in combinatorics concerning the maximum achieved by a particular function \n  \n    \n      \n        ϕ\n      \n    \n    {\\displaystyle \\phi }\n  \n of matrices with real, nonnegative entries satisfying a summation condition. The conjecture is due to Eric Dittert and (independently) Bruce Hajek.\nLet \n  \n    \n      \n        A\n        =\n        [\n        \n          a\n          \n            i\n            j\n          \n       ",
-  "head": null,
+  "summary": "The Dittert conjecture, also known as the Dittert–Hajek conjecture, is a mathematical hypothesis in combinatorics that states that a specific function, \\(<<!nav>>\\phi (X)=\\prod r_{i}+\\prod c_{j}-per(X)<<!/nav>>\\), is uniquely maximized when the matrix \\(X\\) is the matrix \\(J_{n}\\), where all entries are equal to \\(1/n\\). This conjecture concerns \\(n\times n\\) matrices with non-negative entries whose entries sum to \\(n\\), with \\(r_{i}\\) being the row sums, \\(c_{j}\\) being the column sums, and \\(per(X)\\) being the permanent of the matrix. ",
+  "head":  "\\(A\\) is a matrix belonging to the defined set \\(K_{n}\\) (non-negative, entries sum to \\(n\\)).",
+  "tail":  "\\(\\phi (A)\\) is maximized uniquely when \\(A=J_{n}\\).", 
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -11,5 +12,15 @@
     "Combinatorics",
     "Unsolved problems"
   ],
-  "authors": []
+  "authors": [], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
