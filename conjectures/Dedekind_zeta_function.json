@@ -2,8 +2,9 @@
   "uuid": "a27c8672-2b32-4f0d-8445-24345a395e32",
   "name": "Dedekind zeta function",
   "link": "https://en.wikipedia.org/wiki/Dedekind_zeta_function",
-  "summary": "In mathematics, the Dedekind zeta function of an algebraic number field K, generally denoted ζK(s), is a generalization of the Riemann zeta function (which is obtained in the case where K is the field of rational numbers Q). It can be defined as a Dirichlet series, it has an Euler product expansion, it satisfies a functional equation, it has an analytic continuation to a meromorphic function on the complex plane C with only a simple pole at s = 1, and its values encode arithmetic data of K. The ",
+  "summary": "A Dedekind zeta function is a generalization of the Riemann zeta function to algebraic number fields, encoding information about the primes and ideals within that field. It is defined as a Dirichlet series that sums the absolute norms of all integral ideals in a number field, and it can be extended to a meromorphic function on the complex plane with a single pole at \\(s=1\\)",
   "head": null,
+  "tail": null,
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -13,5 +14,15 @@
     "Unsolved problems",
     "Analytic number theory"
   ],
-  "authors": []
+  "authors": [], 
+  "status": "definition",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
