@@ -3,7 +3,7 @@
   "name": "Dickson's conjecture",
   "link": "https://en.wikipedia.org/wiki/Dickson%27s_conjecture",
   "summary": "Dickson's conjecture is a number theory conjecture that states that if a set of linear polynomials (\\(a_{1}n+b_{1},a_{2}n+b_{2},\\dots ,a_{k}n+b_{k}\\)) does not have a \"local obstacle\" (a congruence condition that prevents them from all being prime for some \\(n\\)), then there are infinitely many integers \\(n\\) for which all of the polynomials evaluate to prime numbers. A simple example of a local obstacle is the set of linear forms \\(n\\), \\(n+2\\), and \\(n+4\\), because one of these numbers must be divisible by 3, and therefore cannot all be prime. ",
-  "head":  "A finite set of linear forms \\(a_{1}n+b_{1}\\), \\(a_{2}n+b_{2}\\), ..., \\(a_{k}n+b_{k}\\) (with integer coefficients \\(a_{i}\\ge 1\\)) has no congruence condition preventing all forms from being simultaneously prime for some integer \\(n\\)." 
+  "head":  "A finite set of linear forms \\(a_{1}n+b_{1}\\), \\(a_{2}n+b_{2}\\), ..., \\(a_{k}n+b_{k}\\) (with integer coefficients \\(a_{i}\\ge 1\\)) has no congruence condition preventing all forms from being simultaneously prime for some integer \\(n\\).",
   "tail":  "There exist infinitely many positive integers \\(n\\) for which all the forms \\(a_{1}n+b_{1}\\), \\(a_{2}n+b_{2}\\), ..., \\(a_{k}n+b_{k}\\) produce prime numbers. ",
   "count": 0,
   "previous_conjectures": [],
@@ -24,3 +24,4 @@
     }
   ]
 }
+
