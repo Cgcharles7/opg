@@ -2,8 +2,9 @@
   "uuid": "0d158e46-c369-4c73-8331-383f3105c0d3",
   "name": "Earth–Moon problem",
   "link": "https://en.wikipedia.org/wiki/Earth%E2%80%93Moon_problem",
-  "summary": "The Earth–Moon problem is an unsolved problem on graph coloring in mathematics. It is an extension of the planar map coloring problem (solved by the four color theorem), and was posed by Gerhard Ringel in 1959. An intuitive form of the problem asks how many colors are needed to color political maps of the Earth and Moon, in a hypothetical future where each Earth country has a Moon colony which must be given the same color. In mathematical terms, it seeks the chromatic number of biplanar graphs. ",
-  "head": null,
+  "summary": "The Earth–Moon problem is an unsolved question in graph theory about the minimum number of colors needed to color maps of Earth and a moon, such that each country on Earth has a colony on the moon and both the country and its colony are the same color. The problem is a variation of the planar map coloring problem and seeks the chromatic number for a specific type of graph called a biplanar graph. While it is known that 12 colors are sufficient, the exact minimum is unknown, and it is known that at least 9 colors are required. ",
+  "head": "any two regions (countries or their corresponding colonies) share a border on either the Earth map or the Moon map", 
+  "tail": "they must be assigned different colors, and each country and its Moon colony must use the same color. The question is how many colors are needed to guarantee this can be done for any possible map configuration? ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,15 @@
     "Unsolved problems",
     "Graph theory"
   ],
-  "authors": []
+  "authors": [], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
+
