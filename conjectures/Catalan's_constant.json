@@ -2,8 +2,9 @@
   "uuid": "9623a5ec-498f-47f5-9b28-ebc1f9cabaaa",
   "name": "Catalan's constant",
   "link": "https://en.wikipedia.org/wiki/Catalan%27s_constant",
-  "summary": "In mathematics, Catalan's constant G, is the alternating sum of the reciprocals of the odd square numbers, being defined by:\n\n  \n    \n      \n        G\n        =\n        β\n        (\n        2\n        )\n        =\n        \n          ∑\n          \n            n\n            =\n            0\n          \n          \n            ∞\n          \n        \n        \n          \n            \n              (\n              −\n              1\n              \n                )\n                \n                  n\n        ",
+  "summary": "Catalan's constant, denoted by \\(G\\), is a mathematical constant defined by the infinite series \\(1-\\frac{1}{3^{2}}+\\frac{1}{5^{2}}-\\frac{1}{7^{2}}+\\dots \\). Its approximate value is \\(0.9159659...\\) and it appears in various areas of mathematics, including geometry, number theory, and combinatorics. The constant is named after the mathematician Eugène Charles Catalan and it is not yet known if it is a rational number. ",
   "head": null,
+  "tail": null, 
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,15 @@
     "Number theory",
     "Unsolved problems"
   ],
-  "authors": []
+  "authors": ["Eugène Charles Catalan"], 
+  "status": "definition",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
