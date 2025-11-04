@@ -2,7 +2,7 @@
   "uuid": "e52ea212-d4e9-4d6a-914d-4f1d0ec98998",
   "name": "Berry–Robbins problem",
   "link": "https://en.wikipedia.org/wiki/Berry%E2%80%93Robbins_problem",
-  "summary": "In mathematics, the Berry–Robbins problem asks whether there is a continuous map from configurations of n points in R3 to the flag manifold U(n)/Tn that is compatible with the action of the symmetric group on n points. It was posed by Berry and Robbins in 1997, and solved positively by Atiyah in 2000.",
+  "summary": "The Berry–Robbins problem is a question in mathematics about whether a continuous map exists between two specific mathematical spaces—the configuration space of \\(n\\) points in 3D space and the flag manifold \\(U(n)/T^{n}\\)—that respects the symmetries of the spaces. This problem arose from an attempt by Berry and Robbins to generalize their work on the spin-statistics theorem for \\(n\\) particles and was solved positively by Michael Atiyah, who proved the existence of such a map. ",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -12,5 +12,16 @@
     "Uncategorised",
     "Problems solved since 1995"
   ],
-  "authors": []
+  "authors": ["Michael Berry", "Herbert Robbins", "Michael Atiyah"],
+    "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
+
