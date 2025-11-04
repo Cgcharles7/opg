@@ -2,8 +2,9 @@
   "uuid": "ce738d65-21e5-4652-92be-7fef2ad647fe",
   "name": "Ending lamination theorem",
   "link": "https://en.wikipedia.org/wiki/Ending_lamination_theorem",
-  "summary": "In hyperbolic geometry, the ending lamination theorem, originally conjectured by William Thurston (1982) as the eleventh problem out of his twenty-four questions, states that hyperbolic 3-manifolds with finitely generated fundamental groups are determined by their topology together with certain \"end invariants\", which are geodesic laminations on some surfaces in the boundary of the manifold.\nThe ending lamination theorem is a generalization of the Mostow rigidity theorem to hyperbolic manifolds ",
-  "head": null,
+  "summary": "The Ending Lamination Theorem is a fundamental result in the study of hyperbolic 3-manifolds that proves a unique relationship between the geometric structure of a manifold's ends and their corresponding \"ending laminations\". Specifically, it states that a complete hyperbolic 3-manifold is uniquely determined by the ending laminations of its ends (if the ends are geometrically finite or tame). It establishes that for each end, there is a unique lamination on the boundary surface, which is determined by the limiting behavior of certain sequences of geodesics from the manifold's interior. ",
+  "head": "You have two complete hyperbolic 3-manifolds (\\(M_{1}\\) and \\(M_{2}\\)) that are topologically equivalent (homeomorphic) and have the same end invariants (conformal structures for geometrically finite ends, and ending laminations for geometrically infinite ends).", 
+  "tail": "The two manifolds are isometric (geometrically identical). ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,15 @@
     "Problems solved since 1995",
     "Geometry"
   ],
-  "authors": []
+  "authors": ["William Thurston", "Jeffrey Brock", "Richard D. Canary", "Yair N. Minsky"], 
+  "status": "solved",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
