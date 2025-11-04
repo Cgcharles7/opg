@@ -4,7 +4,7 @@
   "link": "https://en.wikipedia.org/wiki/Chern%27s_conjecture_(affine_geometry)",
   "summary": "Chern's conjecture (affine geometry) states that the Euler characteristic of a compact affine manifold must be zero. This unsolved problem, proposed by S.S. Chern in 1955, asserts a fundamental property of certain types of manifolds that have a \"flat\" geometric structure. While the conjecture has been proven for many specific cases, such as complete affine manifolds, it remains unproven in its general form. ",
   "head": "A manifold \\(M\\) is compact and has an affine structure.", 
-  "tail": "The Euler characteristic of \\(M\\), denoted \\(\\chi (M)\\), is equal to zero." ,
+  "tail": "The Euler characteristic of \\(M\\), denoted \\(\\chi (M)\\), is equal to zero.",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -23,3 +23,4 @@
       "note": "Initial submission"
     }
 }
+
