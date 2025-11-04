@@ -4,7 +4,7 @@
   "link": "https://en.wikipedia.org/wiki/Determinantal_conjecture",
   "summary": "The determinantal conjecture, also known as the Marcus-de Oliveira conjecture, states that the determinant of the sum of two \\(n\\times n\\) normal complex matrices, \\(A\\) and \\(B\\), must lie within the convex hull of a specific set of \\(n!\\) points. These points are formed by multiplying together the eigenvalues of \\(A\\) and \\(B\\) in all possible permutations. This conjecture is a significant open problem in matrix analysis. ",
   "head": "A and B are two \\(n\times n\\) normal complex matrices with eigenvalues \\(\\sigma (A)=\\{a_{1},\\dots ,a_{n}\\}\\) and \\(\\sigma (B)=\\{b_{1},\\dots ,b_{n}\\}\\) respectively.", 
-  "tail": "the determinant of their sum, \\(\\det (A+B)\\), lies within the convex hull of the \\(n!\\) points given by the products \\(\\prod _{i=1}^{n}(a_{i}+b_{\\sigma (i)})\\) for all permutations \\(\\sigma \\) in the symmetric group \\(S_{n}\\). ,"
+  "tail": "the determinant of their sum, \\(\\det (A+B)\\), lies within the convex hull of the \\(n!\\) points given by the products \\(\\prod _{i=1}^{n}(a_{i}+b_{\\sigma (i)})\\) for all permutations \\(\\sigma \\) in the symmetric group \\(S_{n}\\).",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -24,3 +24,4 @@
   ]
 
 }
+
