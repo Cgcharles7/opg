@@ -2,8 +2,9 @@
   "uuid": "1af34dd4-11cf-4c62-aa02-8d0bedc745bf",
   "name": "Degree diameter problem",
   "link": "https://en.wikipedia.org/wiki/Degree_diameter_problem",
-  "summary": "In graph theory, the degree diameter problem is the problem of finding the largest possible graph G (in terms of the size of its vertex set V) of diameter k such that the largest degree of any of the vertices in G is at most d. The size of G is bounded above by the Moore bound; for 1 < k and 2 < d, only the Petersen graph, the Hoffman-Singleton graph, and possibly graphs (not yet proven to exist) of diameter k = 2 and degree d = 57 attain the Moore bound. In general, the largest degree-diameter ",
-  "head": null,
+  "summary": "The degree-diameter problem is a graph theory problem that seeks the maximum number of vertices (\\(n\\)) for a graph with a given maximum degree (\\(\\Delta \\)) and diameter (\\(k\\)). The problem is a key issue in network design, as the degree relates to the number of connections a node has, and the diameter indicates the maximum path length between any two nodes. ",
+  "head": "a graph \\(G\\) has a maximum degree \\(d\\) and a diameter \\(k\\)",
+  "tail": "number of vertices in \\(G\\) is at most the Moore bound \\(M(d,k)\\)",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,14 @@
     "Unsolved problems",
     "Graph theory"
   ],
-  "authors": []
+  "authors": [], 
+"status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
