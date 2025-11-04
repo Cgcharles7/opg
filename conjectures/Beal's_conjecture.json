@@ -2,7 +2,7 @@
   "uuid": "6d4ea029-a267-48d1-9466-8770a26a6449",
   "name": "Beal's conjecture",
   "link": "https://en.wikipedia.org/wiki/Beal_conjecture",
-  "summary": "The Beal conjecture is the following conjecture in number theory:\n\nIf\n\n  \n    \n      \n        \n          A\n          \n            x\n          \n        \n        +\n        \n          B\n          \n            y\n          \n        \n        =\n        \n          C\n          \n            z\n          \n        \n      \n    \n    {\\displaystyle A^{x}+B^{y}=C^{z}}\n  \n,\nwhere A, B, C, x, y, and z are positive integers with x, y, z > 2, then A, B, and C have a common prime factor.\nEquivalently,\n\nThe equation \n",
+  "summary": "The Beal conjecture is a number theory conjecture that states that in the equation \\(A^{x}+B^{y}=C^{z}\\), if \\(A,B,C,x,y,\\) and \\(z\\) are all positive integers greater than 2, then \\(A,B,\\) and \\(C\\) must share a common prime factor. It was proposed by Andrew Beal in 1993 and is a generalization of Fermat's Last Theorem. The conjecture is currently unsolved, and a $1 million prize is offered for a proof or a counterexample. ",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -12,5 +12,16 @@
     "Number theory",
     "Unsolved problems"
   ],
-  "authors": []
+  "authors": ["Andrew Beal"], 
+    "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
+
 }
