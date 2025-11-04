@@ -2,8 +2,8 @@
   "uuid": "05e63578-4458-42db-b99c-9ec25a9b8b6e",
   "name": "Böttcher–Wenzel conjecture",
   "link": null,
-  "summary": "",
-  "head": null,
+  "summary": "The Böttcher–Wenzel conjecture is a mathematical statement that the square of the Frobenius norm of the commutator of two real matrices (\\(||XY-YX||_{F}^{2}\\)) is less than or equal to twice the product of their individual Frobenius norms squared (\\(2||X||_{F}^{2}||Y||_{F}^{2}\\)). This inequality, proposed by Böttcher and Wenzel in 2005, has been proven for general matrices and has applications in areas like quantum physics. ",
+  "head": "\\(X\\) and \\(Y\\) are any two real \\(n\\times n\\) square matrices",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +12,15 @@
     "Uncategorised",
     "Problems solved since 1995"
   ],
-  "authors": []
+  "authors": ["Albrecht Böttcher", "David Wenzel", "Lu Zhiqin", "Seak-Weng Vong" "Xiaoqing Jin", "Koenraad M. R. Audenaert"], 
+  "status": "solved",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
+
