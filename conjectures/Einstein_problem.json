@@ -2,8 +2,9 @@
   "uuid": "55acb91e-bc4f-4b0b-90c8-006c97767995",
   "name": "Einstein problem",
   "link": "https://en.wikipedia.org/wiki/Einstein_problem",
-  "summary": "In plane discrete geometry, the einstein problem asks about the existence of a single prototile that by itself forms an aperiodic set of prototiles; that is, a shape that can tessellate space but only in a nonperiodic way. Such a shape is called an einstein, a word play on ein Stein, German for \"one stone\".\nSeveral variants of the problem, depending on the particular definitions of nonperiodicity and the specifications of what sets may qualify as tiles and what types of matching rules are permit",
+  "summary": "The term \"Einstein problem\" most commonly refers to either the \"Einstein tile problem,\" a mathematical question about finding a single shape (an \"einstein\") that can tile a plane without creating a repeating pattern, or the \"Einstein's riddle,\" a classic logic puzzle about five houses and their inhabitants' unique characteristics. The former is a genuine mathematical challenge, while the latter is a well-known brain teaser, despite its name being a misattribution. ",
   "head": null,
+  "tail": null,
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,15 @@
     "Problems solved since 1995",
     "Geometry"
   ],
-  "authors": []
+  "authors": ["David Smith"],
+  "status": "solved",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
