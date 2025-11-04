@@ -2,8 +2,9 @@
   "uuid": "ed6d387a-34f0-4919-9664-974454ae81b4",
   "name": "Conway's thrackle conjecture",
   "link": "https://en.wikipedia.org/wiki/Thrackle",
-  "summary": "A thrackle is an embedding of a graph in the plane in which each edge is a Jordan arc and every pair of edges meet exactly once.  Edges may either meet at a common endpoint, or, if they have no endpoints in common, at a point in their interiors.  In the latter case, they must cross at their intersection point: the intersection must be transverse.\nA special case of thrackles, the linear thrackles, restrict the edges to be drawn as straight line segments. One method for constructing a linear thrac",
-  "head": null,
+  "summary": "Conway's thrackle conjecture is a still-unsolved problem in graph theory that states any thrackle, a drawing of a graph where every pair of edges meets exactly once (either at a shared vertex or a proper crossing), can have no more edges than vertices. If true, this would imply that thrackleable graphs are relatively simple, with each connected component containing at most one cycle. ",
+  "head": "A graph \\(G\\) has a drawing in the plane that is a thrackle (meaning every pair of edges meets exactly once, either at a common endpoint or a proper crossing).",
+  "tail": "The number of edges of \\(G\\) is less than or equal to the number of its vertices (\\(|E(G)|\\le |V(G)|\\)). ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,15 @@
     "Unsolved problems",
     "Graph theory"
   ],
-  "authors": []
+  "authors": ["John Horton Conway"], 
+"status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]  
+
 }
