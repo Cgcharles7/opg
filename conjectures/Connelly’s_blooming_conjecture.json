@@ -2,8 +2,9 @@
   "uuid": "24c2939d-f93f-4b35-b0b7-47f035e780a3",
   "name": "Connelly’s blooming conjecture",
   "link": "https://en.wikipedia.org/wiki/Blooming_(geometry)",
-  "summary": "In the geometry of convex polyhedra, blooming or continuous blooming is a continuous three-dimensional motion of the surface of the polyhedron, cut to form a polyhedral net, from the polyhedron into a flat and non-self-overlapping placement of the net in a plane. As in rigid origami, the polygons of the net must remain individually flat throughout the motion, and are not allowed to intersect or cross through each other. A blooming, reversed to go from the flat net to a polyhedron, can be thought",
-  "head": null,
+  "summary": "An early work on blooming by Biedl, Lubiw, and Sun from 1999 showed that some nets for non-convex but topologically spherical polyhedra have no blooming. The question of whether every convex polyhedron admits a net with a blooming was posed by Robert Connelly, and came to be known as Connelly's blooming conjecture.",
+  "head":  "A given shape is a net (a surface cut along edges and laid flat without overlap) of a convex polyhedron.", 
+  "tail":  "The net has a blooming (a continuous, non-self-intersecting three-dimensional motion that transforms it from the flat state in a plane back into the original polyhedron). ", 
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,14 @@
     "Euclidean geometry",
     "Geometry"
   ],
-  "authors": []
+  "authors": ["Robert Connelly"], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+
 }
