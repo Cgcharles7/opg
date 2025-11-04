@@ -2,7 +2,7 @@
   "uuid": "7a9be7d8-6829-4473-a45a-98c2350e54e5",
   "name": "Barnette's conjecture",
   "link": "https://en.wikipedia.org/wiki/Barnette%27s_conjecture",
-  "summary": "Barnette's conjecture is an unsolved problem in graph theory, a branch of mathematics, concerning Hamiltonian cycles in graphs. It is named after David W. Barnette, a professor emeritus at the University of California, Davis; it states that every bipartite polyhedral graph with three edges per vertex has a Hamiltonian cycle.",
+  "summary": "Barnette's conjecture is a statement in graph theory that every cubic, 3-connected, bipartite, planar graph is Hamiltonian. A graph is a network of points (vertices) and lines (edges), and this conjecture proposes that any graph with these specific properties will always contain a Hamiltonian cycle—a cycle that visits every vertex exactly once. The conjecture is still unsolved, though it has been verified for a large number of vertices through computational checks. ",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -12,5 +12,15 @@
     "Unsolved problems",
     "Graph theory"
   ],
-  "authors": []
+  "authors": ["David W. Barnette"], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
