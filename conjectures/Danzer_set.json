@@ -2,8 +2,9 @@
   "uuid": "cba7e805-f7b1-4cdb-8ee2-e45fd070af9c",
   "name": "Danzer set",
   "link": "https://en.wikipedia.org/wiki/Danzer_set",
-  "summary": "In geometry, a Danzer set is a set of points that touches every convex body of unit volume. Ludwig Danzer asked whether it is possible for such a set to have bounded density. Several variations of this problem remain unsolved.",
+  "summary": "A Danzer set is a set of points in n-dimensional space that intersects every convex body with a volume of one. The existence of discrete Danzer sets with finite density is an open question in mathematics, posed by the geometer Ludwig Danzer. The whole space is a Danzer set, but Danzer asked if a discrete set (one with only a finite number of points in any bounded area) could also be a Danzer set. ",
   "head": null,
+  "tail": null, 
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,14 @@
     "Euclidean geometry",
     "Geometry"
   ],
-  "authors": []
+  "authors": ["Ludwig Danzer"], 
+"status": "definition",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
