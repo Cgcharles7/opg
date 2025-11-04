@@ -2,7 +2,7 @@
   "uuid": "55aa6832-4d20-4289-9a96-5af4d797fcee",
   "name": "Atiyah conjecture",
   "link": "https://en.wikipedia.org/wiki/Atiyah_conjecture",
-  "summary": "Michael Atiyah introduced the {\\displaystyle l^{2}}-cohomology of manifolds with a discrete countable group's free co-compact action in 1976. This includes the universal cover of a compact manifold and the basic group's action through deck transformations. Atiyah calculated multiple examples, all of which proved to be rational numbers, and defined {\\displaystyle l^{2}}-Betti numbers as von Neumann dimensions of the resulting {\\displaystyle l^{2}}-cohomology groups. Thus, he inquired as to whether {\\displaystyle l^{2}}-Betti numbers may be irrational.<br><br>Since then, a number of scholars have posed more specific queries regarding the values of {\\displaystyle l^{2}}-Betti numbers, which are collectively known as the "Atiyah conjecture."",
+  "summary": "Michael Atiyah introduced the {\\displaystyle l^{2}}-cohomology of manifolds with a discrete countable group's free co-compact action in 1976. This includes the universal cover of a compact manifold and the basic group's action through deck transformations. Atiyah calculated multiple examples, all of which proved to be rational numbers, and defined {\\displaystyle l^{2}}-Betti numbers as von Neumann dimensions of the resulting {\\displaystyle l^{2}}-cohomology groups. Thus, he inquired as to whether {\\displaystyle l^{2}}-Betti numbers may be irrational.<br><br>Since then, a number of scholars have posed more specific queries regarding the values of {\\displaystyle l^{2}}-Betti numbers, which are collectively known as the \"Atiyah conjecture.\"",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -27,3 +27,4 @@
 
 
 }
+
