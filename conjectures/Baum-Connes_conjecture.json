@@ -2,7 +2,7 @@
   "uuid": "88f52ad9-09a3-488d-aafc-0f161123d7c3",
   "name": "Baum–Connes conjecture",
   "link": "https://en.wikipedia.org/wiki/Baum%E2%80%93Connes_conjecture",
-  "summary": "In mathematics, specifically in operator K-theory, the Baum–Connes conjecture suggests a link between the K-theory of the  reduced C*-algebra of a group and the K-homology of the classifying space of proper actions of that group. The conjecture sets up a correspondence between different areas of mathematics, with the K-homology of the classifying space being related to geometry, differential operator theory, and homotopy theory, while the K-theory of the group's reduced C*-algebra is a purely an",
+  "summary": "The Baum–Connes conjecture proposes that an \"assembly map\" between the topological K-theory of a group's classifying space and the K-theory of its reduced C*-algebra is an isomorphism. This conjecture connects different areas of mathematics, such as geometry, topology, and operator algebra, and its truth has significant implications, including potentially proving older conjectures like the Novikov conjecture. The conjecture is known to be true for large classes of groups, such as amenable and hyperbolic groups, but it is not known if it holds for all discrete groups.",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -11,5 +11,16 @@
     "Topology",
     "Unsolved problems"
   ],
-  "authors": []
+  "authors": ["Paul Baum", "Alain Connes"], 
+    "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
+
