@@ -12,7 +12,7 @@
     "Algebraic geometry",
     "Geometry"
   ],
-  "authors": ["Hyman Bass", "Daniel Quillen"]. 
+  "authors": ["Hyman Bass", "Daniel Quillen"], 
     "status": "active",  
   "history": [
     {
@@ -24,4 +24,5 @@
   ]
 
 }
+
 
