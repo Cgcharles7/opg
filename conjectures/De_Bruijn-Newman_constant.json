@@ -2,8 +2,9 @@
   "uuid": "6798f237-9ad5-4b0e-b673-606b7461b9dd",
   "name": "De Bruijn–Newman constant",
   "link": "https://en.wikipedia.org/wiki/De_Bruijn%E2%80%93Newman_constant",
-  "summary": "The de Bruijn–Newman constant, denoted by \n  \n    \n      \n        Λ\n      \n    \n    {\\displaystyle \\Lambda }\n  \n and named after Nicolaas Govert de Bruijn and Charles Michael Newman, is a mathematical constant defined via the zeros of a certain function \n  \n    \n      \n        H\n        (\n        λ\n        ,\n        z\n        )\n      \n    \n    {\\displaystyle H(\\lambda ,z)}\n  \n, where \n  \n    \n      \n        λ\n      \n    \n    {\\displaystyle \\lambda }\n  \n is a real parameter and \n  \n    \n      \n  ",
+  "summary": "The De Bruijn–Newman constant (\\(\\Lambda \\)) is a mathematical constant related to the zeros of a specific function \\(H(\\lambda ,z)\\), which is connected to the Riemann zeta function. It defines the threshold for when all zeros of the function \\(H\\) are real. A key implication is that the Riemann hypothesis—a major unsolved problem in mathematics—is equivalent to the statement that \\(\\Lambda \\le 0\\). ",
   "head": null,
+  "tail": null, 
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,15 @@
     "Unsolved problems",
     "Analytic number theory"
   ],
-  "authors": []
+  "authors": ["Nicolaas Govert de Bruijn", "Charles Michael Newman", "Terence Tao", "Brad Rodgers"], 
+  "status": "definition",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
+
