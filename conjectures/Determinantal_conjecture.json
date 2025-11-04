@@ -2,8 +2,9 @@
   "uuid": "d3115989-7806-4422-b3a1-f0acbb91b172",
   "name": "Determinantal conjecture",
   "link": "https://en.wikipedia.org/wiki/Determinantal_conjecture",
-  "summary": "In mathematics, the determinantal conjecture of Marcus (1972) and de Oliveira (1982) asks whether the determinant of a sum A + B of two n-by-n normal complex matrices A and B lies in the convex hull of the n! points Πi (λ(A)i + λ(B)σ(i)), where the numbers λ(A)i and λ(B)i are the eigenvalues of A and B, and σ is an element of the symmetric group Sn.",
-  "head": null,
+  "summary": "The determinantal conjecture, also known as the Marcus-de Oliveira conjecture, states that the determinant of the sum of two \\(n\\times n\\) normal complex matrices, \\(A\\) and \\(B\\), must lie within the convex hull of a specific set of \\(n!\\) points. These points are formed by multiplying together the eigenvalues of \\(A\\) and \\(B\\) in all possible permutations. This conjecture is a significant open problem in matrix analysis. ",
+  "head": "A and B are two \\(n\times n\\) normal complex matrices with eigenvalues \\(\\sigma (A)=\\{a_{1},\\dots ,a_{n}\\}\\) and \\(\\sigma (B)=\\{b_{1},\\dots ,b_{n}\\}\\) respectively.", 
+  "tail": "the determinant of their sum, \\(\\det (A+B)\\), lies within the convex hull of the \\(n!\\) points given by the products \\(\\prod _{i=1}^{n}(a_{i}+b_{\\sigma (i)})\\) for all permutations \\(\\sigma \\) in the symmetric group \\(S_{n}\\). ,"
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -11,5 +12,15 @@
     "Algebra",
     "Unsolved problems"
   ],
-  "authors": []
+  "authors": ["Marvin Marcus", "G. N. de Oliveira", "Miroslav Fiedler"], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
