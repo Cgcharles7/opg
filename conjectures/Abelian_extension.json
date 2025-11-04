@@ -1,16 +1,28 @@
-{
+
+    {
   "uuid": "69fc0040-d65d-4942-84be-be02ea71eedf",
   "name": "Abelian extension",
   "link": "https://en.wikipedia.org/wiki/Abelian_extension",
-  "summary": "In abstract algebra, an abelian extension is a Galois extension whose Galois group is abelian. When the Galois group is also cyclic, the extension is also called a cyclic extension. Going in the other direction, a Galois extension is called solvable if its Galois group is solvable, i.e., if the group can be decomposed into a series of normal extensions of an abelian group. Every finite extension of a finite field is a cyclic extension.",
+  "summary": "An abelian extension in abstract algebra is a Galois extension with an abelian Galois group. The extension is also known as a cyclic extension when the Galois group is cyclic as well. Conversely, if a Galois extension's Galois group is solvable—that is, if the group can be broken down into a number of normal extensions of an abelian group—it is said to be solvable. A cyclic extension is any finite extension of a finite field.",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
   "references": [],
   "kwds": [
+    "Abstract Algebra", 
     "Algebraic number theory",
     "Number theory",
     "Unsolved problems"
   ],
-  "authors": []
+  "authors": [],
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
