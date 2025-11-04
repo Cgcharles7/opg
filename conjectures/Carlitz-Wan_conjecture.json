@@ -4,7 +4,7 @@
   "link": "https://en.wikipedia.org/wiki/Carlitz%E2%80%93Wan_conjecture",
   "summary": "The Carlitz–Wan conjecture is a theorem in finite field theory that states there are no exceptional polynomials of degree \\(d\\) over a finite field \\(F_{q}\\) if the greatest common divisor of \\(d\\) and \\(q-1\\) is greater than 1 (i.e., \\(\\text{gcd}(d,q-1)>1\\)). In simpler terms, it provides conditions under which a polynomial cannot be \"exceptional,\" which is a polynomial that acts as a permutation on infinitely many finite field extensions of \\(F_{q}\\). This conjecture was originally proposed by Leonard Carlitz in 1966, generalized by Daqing Wan in 1993, and proven by Hendrik Lenstra in 1995. ",
   "head":  "a polynomial is a \"permutation polynomial\" (meaning it shuffles the elements of the finite field \\(F_{q}\\))",
-  "tail": "its degree \\(n\\) and the value \\(q-1\\) must be \"coprime\" (their greatest common divisor is 1)"
+  "tail": "its degree \\(n\\) and the value \\(q-1\\) must be \"coprime\" (their greatest common divisor is 1)",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -23,5 +23,6 @@
     }
   ]
 }
+
 
 
