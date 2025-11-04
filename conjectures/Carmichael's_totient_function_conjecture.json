@@ -2,8 +2,9 @@
   "uuid": "8ef4316f-bb58-4658-b7cc-525e07931b09",
   "name": "Carmichael's totient function conjecture",
   "link": "https://en.wikipedia.org/wiki/Carmichael%27s_totient_function_conjecture",
-  "summary": "In mathematics, Carmichael's totient function conjecture concerns the multiplicity of values of Euler's totient function φ(n),  which counts the number of integers less than and coprime to n. It states that, for every n there is at least one other integer m ≠ n such that φ(m) = φ(n).\nRobert Carmichael first stated this conjecture in 1907, but as a theorem rather than as a conjecture. However, his proof was faulty, and in 1922, he retracted his claim and stated the conjecture as an open problem.",
-  "head": null,
+  "summary": "Carmichael's totient function conjecture states that for any positive integer \\(n\\), there is at least one other integer \\(m\ne n\\) such that the value of Euler's totient function \\(\\phi (n)\\) is equal to \\(\\phi (m)\\). In simpler terms, this conjecture asserts that no value of the totient function can be unique to a single number. For example, \\(\\phi (4)=2\\) and \\(\\phi (6)=2\\), showing that the totient value 2 is not unique to 4. The conjecture is named after Robert D. Carmichael, who initially claimed a faulty proof in 1907 before restating it as an open problem in 1922. ",
+  "head": "there is an integer \\(n\\) for which the equation \\(\\phi (x)=n\\) has a solution", 
+  "tail": "there are at least two distinct solutions \\(x\\) (except for \\(n=1\\), for which the solutions are \\(x=1,2\\)). "
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,13 @@
     "Unsolved problems",
     "General"
   ],
-  "authors": []
+  "authors": ["Robert D. Carmichael"], 
+"status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
 }
