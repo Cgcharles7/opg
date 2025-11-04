@@ -4,7 +4,7 @@
   "link": "https://en.wikipedia.org/wiki/Carmichael%27s_totient_function_conjecture",
   "summary": "Carmichael's totient function conjecture states that for any positive integer \\(n\\), there is at least one other integer \\(m\ne n\\) such that the value of Euler's totient function \\(\\phi (n)\\) is equal to \\(\\phi (m)\\). In simpler terms, this conjecture asserts that no value of the totient function can be unique to a single number. For example, \\(\\phi (4)=2\\) and \\(\\phi (6)=2\\), showing that the totient value 2 is not unique to 4. The conjecture is named after Robert D. Carmichael, who initially claimed a faulty proof in 1907 before restating it as an open problem in 1922. ",
   "head": "there is an integer \\(n\\) for which the equation \\(\\phi (x)=n\\) has a solution", 
-  "tail": "there are at least two distinct solutions \\(x\\) (except for \\(n=1\\), for which the solutions are \\(x=1,2\\)). "
+  "tail": "there are at least two distinct solutions \\(x\\) (except for \\(n=1\\), for which the solutions are \\(x=1,2\\)). ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -24,4 +24,5 @@
     }
   ]
 }
+
 
