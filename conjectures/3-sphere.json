@@ -2,7 +2,7 @@
   "uuid": "df27f9ea-5928-4d92-9a1e-fd538b54bd5c",
   "name": "3-sphere",
   "link": "https://en.wikipedia.org/wiki/3-sphere",
-  "summary": "In mathematics, a hypersphere or 3-sphere is a 4-dimensional analogue of a sphere, and is the 3-dimensional n-sphere. In 4-dimensional Euclidean space, it is the set of points equidistant from a fixed central point. The interior of a 3-sphere is a 4-ball.\nIt is called a 3-sphere because topologically, the surface itself is 3-dimensional, even though it is curved into the 4th dimension. For example, when traveling on a 3-sphere, you can go north and south, east and west, or along a 3rd set of car",
+  "summary": "In mathematics, the 3-dimensional n-sphere, also known as a hypersphere or 3-sphere, is the 4-dimensional counterpart of a sphere. It is the collection of points that are equally spaced from a given central point in 4-dimensional Euclidean space. A 4-ball is the interior of a 3-sphere.<br><br>Despite being curled into the fourth dimension, the surface itself is topologically three-dimensional, hence the name \"three-sphere.\" On a 3-sphere, for instance, you can move east and west, north and south, or along a third set of cardinal directions. Accordingly, a 3-sphere is an illustration of a 3-manifold.",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -11,5 +11,15 @@
     "Topology",
     "Unsolved problems"
   ],
-  "authors": []
+  "authors": [], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
