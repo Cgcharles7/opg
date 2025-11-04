@@ -2,8 +2,9 @@
   "uuid": "705f9227-fea4-4a7e-ad54-862f79804287",
   "name": "Erdős–Hajnal conjecture",
   "link": "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Hajnal_conjecture",
-  "summary": "In graph theory, a branch of mathematics, the Erdős–Hajnal conjecture states that families of graphs defined by forbidden induced subgraphs have either large cliques or large independent sets. It is named for Paul Erdős and András Hajnal, who first posed it as an open problem in a paper from 1977.\nMore precisely, for an arbitrary undirected graph \n  \n    \n      \n        H\n      \n    \n    {\\displaystyle H}\n  \n, let \n  \n    \n      \n        \n          \n            \n              F\n            \n    ",
-  "head": null,
+  "summary": "The Erdős–Hajnal conjecture states that for any graph \\(H\\), there exists a constant \\(c>0\\) such that every graph \\(G\\) that does not contain \\(H\\) as an induced subgraph has either a clique or a stable set (independent set) of size at least \\(|V(G)|^{c}\\). In simpler terms, forbidding a specific graph pattern as an induced subgraph guarantees the existence of a very large clique or stable set, which is a polynomial-sized substructure. This is a major open problem in graph theory, though it has been proven for some specific graphs \\(H\\), such as the 5-cycle. ",
+  "head": "a graph has a minimum degree of at least three (\\(p\\))", 
+  "tail": "it contains a simple cycle whose length is a power of two (\\(q\\)). ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,15 @@
     "Unsolved problems",
     "Graph theory"
   ],
-  "authors": []
+  "authors": ["Paul Erdős", "András Hajnal"], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
+
