@@ -2,8 +2,9 @@
   "uuid": "0f1e9aad-39a0-4d6b-b307-80904a57ec4f",
   "name": "Erdős–Gyárfás conjecture",
   "link": "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Gy%C3%A1rf%C3%A1s_conjecture",
-  "summary": "In graph theory, the unproven Erdős–Gyárfás conjecture, made in 1995 by mathematician Paul Erdős and his collaborator András Gyárfás, states that every graph with minimum degree 3 contains a simple cycle whose length is a power of two. Erdős offered a prize of $100 for proving the conjecture, or $50 for a counterexample; it is one of many conjectures of Erdős.\nIf the conjecture is false, a counterexample would take the form of a graph with minimum degree three having no power-of-two cycles. It i",
-  "head": null,
+  "summary": "The Erdős–Gyárfás conjecture states that every graph with a minimum degree of at least three must contain a cycle whose length is a power of two (\\(2^{m}\\)). Proposed in 1995 by Paul Erdős and András Gyárfás, it is an unsolved problem in graph theory. The conjecture is still actively researched, and progress has been made on specific classes of graphs, such as those that are \"P10-free\" (without an induced path of length 10). ",
+  "head": "a graph has a minimum degree of at least three (\\(p\\))",
+  "tail": "it contains a simple cycle whose length is a power of two (\\(q\\))",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,15 @@
     "Unsolved problems",
     "Graph theory"
   ],
-  "authors": []
+  "authors": ["Paul Erdős", "András Gyárfás"], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
+
