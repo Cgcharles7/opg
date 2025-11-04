@@ -2,7 +2,7 @@
   "uuid": "867b6644-0de1-48b9-9983-e4b2fe66ff6d",
   "name": "Bellman's lost-in-a-forest problem",
   "link": "https://en.wikipedia.org/wiki/Bellman%27s_lost-in-a-forest_problem",
-  "summary": "Bellman's lost-in-a-forest problem is an unsolved minimization problem in geometry, originating in 1955 by the American applied mathematician Richard E. Bellman.  The problem is often stated as follows: \"A hiker is lost in a forest whose shape and dimensions are precisely known to him. What is the best path for him to follow to escape from the forest?\" It is usually assumed that the hiker does not know the starting point or direction he is facing. The best path is taken to be the one that minimi",
+  "summary": "The Bellman \"lost in a forest\" problem is an unsolved geometric problem about finding the shortest path to guarantee escaping a region of a known shape when your starting position and orientation are unknown. The \"best\" path is the one with the shortest maximum distance in the worst-case scenario, meaning it guarantees escape no matter where you are inside the forest or which way you are facing. Solutions have been found for shapes like circles and squares, but the problem remains difficult for more complex shapes. ",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -12,5 +12,15 @@
     "Euclidean geometry",
     "Geometry"
   ],
-  "authors": []
+  "authors": [" Richard E. Bellman"], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
