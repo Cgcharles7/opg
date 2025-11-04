@@ -2,7 +2,7 @@
   "uuid": "fe9a46f6-1efe-4d01-a5fa-4d3529273586",
   "name": "Brocard's problem",
   "link": "https://en.wikipedia.org/wiki/Brocard%27s_problem",
-  "summary": "Brocard's problem is an unsolved number theory problem that asks for all integer solutions to the equation \(n!+1=m^{2}\). It was independently posed by Henri Brocard in 1876 and Srinivasa Ramanujan in 1913. The only known solutions are the pairs \((n,m)=(4,5)\), \((5,11)\), and \((7,71)\). It is unknown if any other solutions exist. ",
+  "summary": "Brocard's problem is an unsolved number theory problem that asks for all integer solutions to the equation \\(n!+1=m^{2}\\). It was independently posed by Henri Brocard in 1876 and Srinivasa Ramanujan in 1913. The only known solutions are the pairs \\((n,m)=(4,5)\\), \\((5,11)\\), and \\((7,71)\\). It is unknown if any other solutions exist. ",
   "head": "\\(n\\) and \\(m\\) are positive integers that satisfy the equation \\(n!+1=m^{2}\\)",
   "count": 0,
   "previous_conjectures": [],
@@ -23,3 +23,4 @@
     }
   ]
 }
+
