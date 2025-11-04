@@ -3,7 +3,7 @@
   "name": "Bloch–Kato conjecture",
   "link": "https://en.wikipedia.org/wiki/Norm_residue_isomorphism_theorem",
   "summary": "The Bloch–Kato conjecture is a central conjecture in algebraic number theory that connects the analytic properties of an L-function to the arithmetic properties of a related Galois representation. It predicts that the order of vanishing of the L-function at a specific point is equal to the rank of the related Bloch–Kato Selmer group. This conjecture is a far-reaching generalization of the Birch and Swinnerton-Dyer conjecture for elliptic curves. ",
-  "head":  "\\(V\\) is a geometric \\(p\\)-adic Galois representation of the absolute Galois group of a number field \\(K\\) (satisfying certain conditions, such as purity)" ,
+  "head":  "\\(V\\) is a geometric \\(p\\)-adic Galois representation of the absolute Galois group of a number field \\(K\\) (satisfying certain conditions, such as purity)",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -25,4 +25,5 @@
     }
   ]
 }
+
 
