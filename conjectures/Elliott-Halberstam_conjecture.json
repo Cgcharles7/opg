@@ -2,8 +2,9 @@
   "uuid": "482ee8fd-9767-4b74-8823-919e4e228ddc",
   "name": "Elliott–Halberstam conjecture",
   "link": "https://en.wikipedia.org/wiki/Elliott%E2%80%93Halberstam_conjecture",
-  "summary": "In number theory, the Elliott–Halberstam conjecture is a conjecture about the distribution of prime numbers in arithmetic progressions. It has many applications in sieve theory. It is named for Peter D. T. A. Elliott and Heini Halberstam, who stated a specific version of the conjecture in 1968.\nOne version of the conjecture is as follows, and stating it requires some notation.  Let \n  \n    \n      \n        π\n        (\n        x\n        )\n      \n    \n    {\\displaystyle \\pi (x)}\n  \n, the prime-coun",
-  "head": null,
+  "summary": "The Elliott–Halberstam conjecture is a number theory statement about the distribution of prime numbers in arithmetic progressions. It posits that primes are \"well-distributed\" into these progressions, with the error term in the prime-counting function being smaller than what is predicted by the Generalized Riemann Hypothesis (GRH) for certain sums over moduli. A key consequence of this conjecture is that it implies the existence of infinitely many twin primes, i.e., prime pairs with a difference of 2. ",
+  "head": "The Elliott–Halberstam conjecture is true.", 
+  "tail": "The gaps between prime numbers are small. Specifically, it can be used to show that there are infinitely many pairs of prime numbers \\((p,q)\\) such that \\(q-p\\) is small."
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,16 @@
     "Unsolved problems",
     "Prime numbers"
   ],
-  "authors": []
+  "authors": ["Peter D. T. A. Elliott", "Heini Halberstam"], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
+
+
