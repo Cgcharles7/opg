@@ -2,7 +2,7 @@
   "uuid": "ac0b6f97-3c39-43aa-898c-2dab0193777c",
   "name": "Bing–Borsuk conjecture",
   "link": "https://en.wikipedia.org/wiki/Bing%E2%80%93Borsuk_conjecture",
-  "summary": "In mathematics, the Bing–Borsuk conjecture states that every \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n-dimensional homogeneous absolute neighborhood retract space is a topological manifold. The conjecture has been proved for dimensions 1 and 2, and it is known that the 3-dimensional version of the conjecture implies the Poincaré conjecture.",
+  "summary": "The Bing–Borsuk conjecture states that every \\(n\\)-dimensional homogeneous absolute neighborhood retract (ANR) is a topological \\(n\\)-manifold. This is a conjecture in topology about characterization of manifolds, which posits that certain spaces are manifolds if they are homogeneous and belong to a specific class of spaces called ANRs. While true for lower dimensions, it has been shown to be false in higher dimensions, but remains open for dimensions 3, 4, and 5. ",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -11,5 +11,16 @@
     "Topology",
     "Unsolved problems"
   ],
-  "authors": []
+  "authors": ["R. H. Bing", "Karol Borsuk"], 
+    "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
+
