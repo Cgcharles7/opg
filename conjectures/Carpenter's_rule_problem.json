@@ -2,8 +2,9 @@
   "uuid": "85742401-6d7d-42f9-ab43-c4796e85bf57",
   "name": "Carpenter's rule problem",
   "link": "https://en.wikipedia.org/wiki/Carpenter%27s_rule_problem",
-  "summary": "The carpenter's rule problem is a discrete geometry problem, which can be stated in the following manner: Can a simple planar polygon be moved continuously to a position where all its vertices are in convex position, so that the edge lengths and simplicity are preserved along the way? A closely related problem is to show that any non-self-crossing polygonal chain can be straightened, again by a continuous transformation that preserves edge distances and avoids crossings.\nBoth problems were succe",
-  "head": null,
+  "summary": "The Carpenter's Rule problem refers to two main geometric problems: whether a polygonal chain can be continuously and smoothly \"straightened\" without self-intersection, and finding the minimum length into which a chain of hinged segments can be folded (the \"folding problem\"). The \"straightening\" problem has been solved, proving any open polygonal chain can be flattened. The \"folding\" problem, which is NP-complete, asks if a ruler can be folded into a given length.",
+  "head": "a collection of non-intersecting polygonal arcs and simple polygons in the plane has rigid edges and hinged vertices (a linkage)",  
+  "tail": "then there exists a continuous motion (an expansive motion) of the linkage that preserves edge lengths, avoids self-intersections, and results in all arcs becoming straight and all polygons becoming convex.", 
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,14 @@
     "Problems solved since 1995",
     "Geometry"
   ],
-  "authors": []
+  "authors": ["John Hopcroft", "D. Joseph", "George Whitesides", "Robert Connelly", "Erik Demaine", "Günter Rote", "John Pardon"], 
+  "status": "solved",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+
 }
