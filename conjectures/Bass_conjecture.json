@@ -2,7 +2,7 @@
   "uuid": "7cb3356a-642e-4d77-9406-8edb6b932aa2",
   "name": "Bass conjecture",
   "link": "https://en.wikipedia.org/wiki/Bass_conjecture",
-  "summary": "In mathematics, especially algebraic geometry, the Bass conjecture says that certain algebraic K-groups are supposed to be finitely generated. The conjecture was proposed by Hyman Bass.",
+  "summary": "The Bass conjecture in algebraic geometry states that for a smooth, finite-type scheme \\(X\\) over a finite field \\(k\\), the algebraic \\(K\\)-theory groups \\(K_{n}(X)\\) for \\(n\\ge 0\\) are finitely generated. Proposed by Hyman Bass, this is a fundamental conjecture in algebraic \\(K\\)-theory, and related versions exist, such as the Bass-Quillen conjecture, which is a different but related statement about module theory over local rings." ,
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -12,5 +12,15 @@
     "Algebraic geometry",
     "Geometry"
   ],
-  "authors": []
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+  "authors": ["Hyman Bass"],
+
 }
