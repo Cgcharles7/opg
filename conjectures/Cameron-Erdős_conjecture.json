@@ -2,8 +2,9 @@
   "uuid": "8340cc3c-f429-4eb1-af68-a6b7a59a6731",
   "name": "Cameron–Erdős conjecture",
   "link": "https://en.wikipedia.org/wiki/Cameron%E2%80%93Erd%C5%91s_conjecture",
-  "summary": "In combinatorics, the Cameron–Erdős conjecture (now a theorem) is the statement that the number of sum-free sets contained in \n  \n    \n      \n        [\n        N\n        ]\n        =\n        {\n        1\n        ,\n        …\n        ,\n        N\n        }\n      \n    \n    {\\displaystyle [N]=\\{1,\\ldots ,N\\}}\n  \n is \n  \n    \n      \n        O\n        \n          \n            (\n          \n        \n        \n          \n            2\n            \n              N\n              \n                /\n             ",
-  "head": null,
+  "summary": "The Cameron–Erdős conjecture is a now-proven statement in combinatorics that the number of sum-free subsets of the integers \\(\\{1,2,\\dots ,n\\}\\) is asymptotically \\(c\\cdot 2^{n/2}\\), where \\(c\\) is a constant that depends on whether \\(n\\) is even or odd. A set is sum-free if no element in the set can be expressed as the sum of two other elements in the set (i.e., there is no \\(x,y,z\\) in the set such that \\(x+y=z\\)). The conjecture was posed by Peter Cameron and Paul Erdős in 1988 and proved independently by Ben Green and Alexander Sapozhenko in 2003. ",
+  "head": "a set \\(A\\) is a sum-free subset of the integers \\(\\{1,\\dots ,n\\}\\) (meaning there are no elements \\(x,y,z\\in A\\) such that \\(x+y=z\\)) ",
+  "tail": "the number of such possible sets \\(A\\) is asymptotically \\(C\\cdot 2^{n/2}\\), where \\(C\\) is a constant that depends on the parity of \\(n\\).",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -11,5 +12,14 @@
     "Combinatorics",
     "Problems solved since 1995"
   ],
-  "authors": []
+  "authors": ["Peter Cameron", "Paul Erdős", "Ben Green", "Alexander Sapozhenko"], 
+  "status": "solved",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
 }
+
