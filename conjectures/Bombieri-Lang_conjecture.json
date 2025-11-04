@@ -2,8 +2,8 @@
   "uuid": "5fab8282-f680-4b10-b7e4-9d45451a0553",
   "name": "Bombieri–Lang conjecture",
   "link": "https://en.wikipedia.org/wiki/Bombieri%E2%80%93Lang_conjecture",
-  "summary": "In arithmetic geometry, the Bombieri–Lang conjecture is an unsolved problem conjectured by Enrico Bombieri and Serge Lang about the Zariski density of the set of rational points of an algebraic variety of general type.",
-  "head": null,
+  "summary": "The Bombieri–Lang conjecture is a fundamental conjecture in algebraic geometry that states that for a \"variety of general type\" (a high-dimensional generalization of curves with genus \\(g\\ge 2\\)), the set of rational points is not \"Zariski-dense\". Instead, the rational points are contained in a proper closed subset, which means there are a finite number of rational points or they lie on a smaller subvariety. The conjecture is a generalization of Faltings's theorem, which proved the same result for curves.",
+  "head": "a positive-dimensional projective variety \\(X\\) over a number field \\(K\\) is of general type",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +12,15 @@
     "Unsolved problems",
     "Arithmetic geometry"
   ],
-  "authors": []
+  "authors": ["Enrico Bombieri", "Serge Lang"], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
+
