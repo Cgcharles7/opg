@@ -2,7 +2,7 @@
   "uuid": "3e1501c5-2023-4ec8-82f1-1721cdaece11",
   "name": "Arthur's conjectures",
   "link": "https://en.wikipedia.org/wiki/Arthur%27s_conjectures",
-  "summary": "In mathematics, the Arthur conjectures refer to a set of conjectures proposed by James Arthur in 1989. These conjectures pertain to the properties of automorphic representations of reductive groups over adele rings and the unitary representations of reductive groups over local fields. Arthur’s work, which was motivated by the Arthur–Selberg trace formula, suggests a framework for understanding complex relationships in these areas.\nArthur's conjectures have implications for other mathematical the",
+  "summary": "Arthur's conjectures are a set of mathematical conjectures proposed by James Arthur that predict the existence and properties of certain unitary representations of reductive groups over local fields, particularly those that appear in the spectral decomposition of automorphic forms. They provide a framework for understanding the complex relationships between these representations, often parametrized by the Langlands dual group. The conjectures are deeply connected to the Arthur-Selberg trace formula and have significant implications for other areas of mathematics, such as the generalized Ramanujan conjectures. ",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -12,5 +12,16 @@
     "Unsolved problems",
     "Representation theory"
   ],
-  "authors": []
+  "authors": ["James Arthur"], 
+    "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
+
 }
