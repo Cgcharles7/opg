@@ -2,7 +2,7 @@
   "uuid": "f8b364c7-d951-43ba-9f92-c404d3ed57bb",
   "name": "Agrawal's conjecture",
   "link": "https://en.wikipedia.org/wiki/Agrawal%27s_conjecture",
-  "summary": "In number theory, Agrawal's conjecture, due to Manindra Agrawal in 2002, forms the basis for the cyclotomic AKS test. Agrawal's conjecture states formally:\nLet \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n and \n  \n    \n      \n        r\n      \n    \n    {\\displaystyle r}\n  \n be two coprime positive integers. If \n\n  \n    \n      \n        (\n        X\n        −\n        1\n        \n          )\n          \n            n\n          \n        \n        ≡\n        \n          X\n          \n      ",
+  "summary": "The cyclotomic AKS test in number theory is based on Agrawal's conjecture, which was proposed by Manindra Agrawal in 2002 [1]. Formally, Agrawal's conjecture says:<br><br>Assume two coprime positive integers, {\\displaystyle n} and {\\displaystyle r}. Either {\\displaystyle n} is prime or {\\displaystyle n^{2}\\equiv 1{\\pmod {r}}} if {\\displaystyle (X-1)^{n}\\equiv X^{n}-1{\\pmod {n,\\,X^{r}-1}}\\,}",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -12,5 +12,14 @@
     "Unsolved problems",
     "Prime numbers"
   ],
-  "authors": []
+  "authors": ["Manindra Agrawal"], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
