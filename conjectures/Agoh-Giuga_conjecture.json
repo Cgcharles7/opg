@@ -2,7 +2,7 @@
   "uuid": "14e70887-60c5-44c7-aea5-4e49393a08a6",
   "name": "Agoh–Giuga conjecture",
   "link": "https://en.wikipedia.org/wiki/Agoh%E2%80%93Giuga_conjecture",
-  "summary": "In number theory the Agoh–Giuga conjecture on the Bernoulli numbers Bk postulates that p is a prime number if and only if \n\n  \n    \n      \n        p\n        \n          B\n          \n            p\n            −\n            1\n          \n        \n        ≡\n        −\n        1\n        \n          \n          (\n          mod\n          \n          p\n          )\n        \n        .\n      \n    \n    {\\displaystyle pB_{p-1}\\equiv -1{\\pmod {p}}.}\n  \n\nIt is named after Takashi Agoh and Giuseppe Giuga.",
+  "summary": "The Agoh–Giuga conjecture on the Bernoulli numbers in number theory If and only if {\\displaystyle pB_{p-1}\\equiv -1{\\pmod {p}}, then Bk assumes that p is a prime number. It bears the names of Giuseppe Giuga and Takashi Agoh.",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -12,5 +12,15 @@
     "Unsolved problems",
     "Prime numbers"
   ],
-  "authors": []
+  "authors": ["Giuseppe Giuga","Takashi Agoh"], 
+    "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
