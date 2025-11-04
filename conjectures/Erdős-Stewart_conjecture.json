@@ -2,8 +2,9 @@
   "uuid": "6b4d87cf-e67e-47f8-8bad-39416f6d3b12",
   "name": "Erdős–Stewart conjecture",
   "link": null,
-  "summary": "",
-  "head": null,
+  "summary": "The Erdős–Stewart conjecture, solved by Florian Luca in 2001, concerned the Diophantine equation \\(n!+1=p^{a}q^{b}\\), where \\(p\\) and \\(q\\) are consecutive primes. The conjecture stated that the equation \\(n!+1=p^{a}q^{b}\\) has only finitely many solutions in positive integers \\(n,p,q,a,b\\) where \\(p\\) and \\(q\\) are consecutive primes. ",
+  "head": "\\(n!+1=p^{k}\\cdot m\\) where \\(p\\) is a prime number, \\(k\\) and \\(m\\) are positive integers, and the greatest prime factor of \\(m\\) is less than or equal to a certain bound related to \\(p\\)", 
+  "tail": "there are only a finite number of integer solutions \\((n,p,k,m)\\). ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,15 @@
     "Uncategorised",
     "Problems solved since 1995"
   ],
-  "authors": []
+  "authors": ["Paul Erdős", "Cameron L. Stewart", "Florian Luca"], 
+  "status": "solved",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
+
