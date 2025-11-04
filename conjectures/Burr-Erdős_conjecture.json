@@ -2,7 +2,7 @@
   "uuid": "15b96b81-bfaa-40e2-a9d5-aa65e7f61289",
   "name": "Burr–Erdős conjecture",
   "link": "https://en.wikipedia.org/wiki/Burr%E2%80%93Erd%C5%91s_conjecture",
-  "summary": "The Burr–Erdős conjecture states that for any family of graphs that are "sparse" (specifically, for any fixed \\(d\\), the family of \\(d\\)-degenerate graphs), the Ramsey number of any graph in the family grows linearly with the number of vertices. It was proposed by Stefan Burr and Paul Erdős in 1973 and proved in 2015 by Choongbum Lee. A graph is called \\(d\\)-degenerate if every subgraph has a vertex of degree at most \\(d\\).",
+  "summary": "The Burr–Erdős conjecture states that for any family of graphs that are \"sparse\" (specifically, for any fixed \\(d\\), the family of \\(d\\)-degenerate graphs), the Ramsey number of any graph in the family grows linearly with the number of vertices. It was proposed by Stefan Burr and Paul Erdős in 1973 and proved in 2015 by Choongbum Lee. A graph is called \\(d\\)-degenerate if every subgraph has a vertex of degree at most \\(d\\).",
   "head": "a graph \\(G\\) on \\(n\\) vertices is \\(p\\)-degenerate (meaning every subgraph has a vertex of degree at most \\(p\\) for a fixed constant \\(p\\)), ",
   "count": 0,
   "previous_conjectures": [],
@@ -22,4 +22,5 @@
     }
   ]
 }
+
 
