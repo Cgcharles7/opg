@@ -4,7 +4,7 @@
   "link": "https://en.wikipedia.org/wiki/Elliott%E2%80%93Halberstam_conjecture",
   "summary": "The Elliott–Halberstam conjecture is a number theory statement about the distribution of prime numbers in arithmetic progressions. It posits that primes are \"well-distributed\" into these progressions, with the error term in the prime-counting function being smaller than what is predicted by the Generalized Riemann Hypothesis (GRH) for certain sums over moduli. A key consequence of this conjecture is that it implies the existence of infinitely many twin primes, i.e., prime pairs with a difference of 2. ",
   "head": "The Elliott–Halberstam conjecture is true.", 
-  "tail": "The gaps between prime numbers are small. Specifically, it can be used to show that there are infinitely many pairs of prime numbers \\((p,q)\\) such that \\(q-p\\) is small."
+  "tail": "The gaps between prime numbers are small. Specifically, it can be used to show that there are infinitely many pairs of prime numbers \\((p,q)\\) such that \\(q-p\\) is small.", 
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -24,5 +24,6 @@
     }
   ]
 }
+
 
 
