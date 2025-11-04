@@ -2,15 +2,26 @@
   "uuid": "2193fdc6-ad6d-4c39-89ab-3e65966b943c",
   "name": "Bernoulli number",
   "link": "https://en.wikipedia.org/wiki/Bernoulli_number",
-  "summary": "In mathematics, the Bernoulli numbers Bn are a sequence of rational numbers which occur frequently in analysis. The Bernoulli numbers appear in (and can be defined by) the Taylor series expansions of the tangent and hyperbolic tangent functions, in Faulhaber's formula for the sum of m-th powers of the first n positive integers, in the Euler–Maclaurin formula, and in expressions for certain values of the Riemann zeta function.\nThe values of the first 20 Bernoulli numbers are given in the adjacent",
+  "summary": "A Bernoulli number is a term in a sequence of rational numbers that appears frequently in mathematics, especially in calculus and number theory. These numbers are used in formulas for sums of integer powers, such as calculating \\(1^{m}+2^{m}+\\dots +n^{m}\\), and they also arise in series expansions for functions like the tangent. A notable pattern is that all Bernoulli numbers with an odd index are zero, except for the first one (\\(B_{1}\\)), while the even-indexed numbers (\\(B_{2},B_{4},B_{6},\\dots \\)) alternate in sign. ",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
   "references": [],
   "kwds": [
     "Number theory",
+    "Calculus",
     "Unsolved problems",
     "Prime numbers"
   ],
-  "authors": []
+  "authors": ["Jacob Bernoulli"], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
