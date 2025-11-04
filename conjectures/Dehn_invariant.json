@@ -2,15 +2,25 @@
   "uuid": "5de922b3-6dd9-44b1-b677-5126f6b3b925",
   "name": "Dehn invariant",
   "link": "https://en.wikipedia.org/wiki/Dehn_invariant",
-  "summary": "In geometry, the Dehn invariant is a value used to determine whether one polyhedron can be cut into pieces and reassembled (\"dissected\") into another, and whether a polyhedron or its dissections can tile space. It is named after Max Dehn, who used it to solve Hilbert's third problem by proving that certain polyhedra with equal volume cannot be dissected into each other.\nTwo polyhedra have a dissection into polyhedral pieces that can be reassembled into either one, if and only if their volumes an",
+  "summary": "The Dehn invariant is a mathematical value assigned to a polyhedron that determines if it can be cut and reassembled into another polyhedron. Two polyhedra are \"scissors-congruent\" (can be dissected into each other) if and only if they have the same volume and the same Dehn invariant. Named after Max Dehn, it was used to prove that not all polyhedra with the same volume can be dissected into one another, thus solving Hilbert's third problem. ",
   "head": null,
+  "tail": null, 
   "count": 0,
   "previous_conjectures": [],
   "references": [],
   "kwds": [
-    "Unsolved problems",
     "Algebraic geometry",
     "Geometry"
   ],
-  "authors": []
+  "authors": ["Max Dehn"], 
+  "status": "definition",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
