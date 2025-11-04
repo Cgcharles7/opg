@@ -3,7 +3,7 @@
   "name": "Birch–Tate conjecture",
   "link": "https://en.wikipedia.org/wiki/Birch%E2%80%93Tate_conjecture",
   "summary": "The Birch–Tate conjecture is a proposal in algebraic K-theory that relates the value of the Dedekind zeta-function of a totally real number field to the order of its K2-group. It states that the order of the algebraic K2-group of the ring of integers for a totally real number field is equal to the absolute value of the zeta-function evaluated at \\(-1\\), potentially with a power of two adjustment. This conjecture has been confirmed for certain cases but remains an open problem in mathematics. ",
-  "head": ["The order (number of elements) of the algebraic K-group \\(K_{2}(\\mathcal{O}_{F})\\) of the ring of integers \\(\\mathcal{O}_{F}\\) of a totally real number field \\(F\\) is a certain value.", "The value of the Dedekind zeta function \\(\\zeta _{F}(s)\\) of the field \\(F\\) at \\(s=-1\\) is related to the order of the \\(K_{2}\\) group by a specific formula involving a power of 2 and some other factors. ",
+  "head": ["The order (number of elements) of the algebraic K-group \\(K_{2}(\\mathcal{O}_{F})\\) of the ring of integers \\(\\mathcal{O}_{F}\\) of a totally real number field \\(F\\) is a certain value.", "The value of the Dedekind zeta function \\(\\zeta _{F}(s)\\) of the field \\(F\\) at \\(s=-1\\) is related to the order of the \\(K_{2}\\) group by a specific formula involving a power of 2 and some other factors. "],
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -23,4 +23,5 @@
   ]
 
 }
+
 
