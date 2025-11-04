@@ -2,8 +2,8 @@
   "uuid": "15b96b81-bfaa-40e2-a9d5-aa65e7f61289",
   "name": "Burr–Erdős conjecture",
   "link": "https://en.wikipedia.org/wiki/Burr%E2%80%93Erd%C5%91s_conjecture",
-  "summary": "In mathematics, the Burr–Erdős conjecture was a problem concerning the Ramsey number of sparse graphs. The conjecture is named after Stefan Burr and Paul Erdős, and is one of many conjectures named after Erdős; it states that the Ramsey number of graphs in any sparse family of graphs should grow linearly in the number of vertices of the graph.\nThe conjecture was proven by Choongbum Lee. Thus it is now a theorem.",
-  "head": null,
+  "summary": "The Burr–Erdős conjecture states that for any family of graphs that are "sparse" (specifically, for any fixed \\(d\\), the family of \\(d\\)-degenerate graphs), the Ramsey number of any graph in the family grows linearly with the number of vertices. It was proposed by Stefan Burr and Paul Erdős in 1973 and proved in 2015 by Choongbum Lee. A graph is called \\(d\\)-degenerate if every subgraph has a vertex of degree at most \\(d\\).",
+  "head": "a graph \\(G\\) on \\(n\\) vertices is \\(p\\)-degenerate (meaning every subgraph has a vertex of degree at most \\(p\\) for a fixed constant \\(p\\)), ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -11,5 +11,15 @@
     "Ramsey theory",
     "Problems solved since 1995"
   ],
-  "authors": []
+  "authors": ["Stefan Burr", "Paul Erdős", "Choongbum Lee"], 
+    "status": "solved",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
+
