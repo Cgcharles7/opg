@@ -2,8 +2,9 @@
   "uuid": "9be77924-656c-424c-84d6-44614827cc51",
   "name": "Determinant",
   "link": "https://en.wikipedia.org/wiki/Determinant",
-  "summary": "In mathematics, the determinant is a scalar-valued function of the entries of a square matrix. The determinant of a matrix A is commonly denoted det(A), det A, or |A|. Its value characterizes some properties of the matrix and the linear map represented, on a given basis, by the matrix. In particular, the determinant is nonzero if and only if the matrix is invertible and the corresponding linear map is an isomorphism. However, if the determinant is zero, the matrix is referred to as singular, mea",
+  "summary": "A determinant is a scalar value that can be calculated from the entries of a square matrix. It indicates how much a linear transformation represented by the matrix scales space, and a determinant of zero means the matrix is "singular" (not invertible). Determinants are useful for solving systems of linear equations and are geometrically equivalent to the signed volume of the parallelepiped formed by the matrix's column or row vectors. ",
   "head": null,
+  "tail" : null, 
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,4 +13,14 @@
     "Unsolved problems"
   ],
   "authors": []
+  "status": "definition",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
