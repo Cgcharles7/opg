@@ -2,8 +2,9 @@
   "uuid": "2fd5d98b-556b-44f2-9400-1ec8c0034525",
   "name": "Demazure conjecture",
   "link": "https://en.wikipedia.org/wiki/Demazure_conjecture",
-  "summary": "In mathematics, the Demazure conjecture is a conjecture about representations of algebraic groups over the integers made by Demazure (1974, p. 83). The conjecture implies that many of the results of his paper can be extended from complex algebraic groups to algebraic groups over fields of other characteristics or over the integers. V. Lakshmibai, C. Musili, and C. S. Seshadri (1979) showed that Demazure's conjecture (for classical groups) follows from their work on standard monomial theory, and ",
-  "head": null,
+  "summary": "The Demazure conjecture, which was posed in 1974 and is now a proven theorem, is a result in representation theory concerning representations of algebraic groups. It implies that certain formulas for representations, particularly the Demazure character formula, can be extended from complex groups to other fields and over the integers. The work was extended to all reductive algebraic groups by other mathematicians. ",
+  "head": "\\(P\\) (the field is of characteristic zero)", 
+  "tail": "\\(Q\\) (the results, such as the vanishing of higher cohomology groups for line bundles on Schubert varieties and the character formula, hold for fields of arbitrary characteristic or over the integers).",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,15 @@
     "Unsolved problems",
     "Representation theory"
   ],
-  "authors": []
+  "authors": ["Michel Demazure", "V. Lakshmibai", "C. Musili", "C. S. Seshadri", "Peter Littelmann"],
+  "status": "solved",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
