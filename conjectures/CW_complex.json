@@ -2,14 +2,21 @@
   "uuid": "439a37b7-9904-423e-a02e-66fc42ceb6b5",
   "name": "CW complex",
   "link": "https://en.wikipedia.org/wiki/CW_complex",
-  "summary": "In mathematics, and specifically in topology, a CW complex (also cellular complex or cell complex) is a topological space that is built by gluing together topological balls (so-called cells) of different dimensions in specific ways. The notion generalizes both manifolds and simplicial complexes and has particular significance for algebraic topology. It was initially introduced by J. H. C. Whitehead to meet the needs of homotopy theory.\nCW complexes have better categorical properties than simplic",
+  "summary": "A CW complex is a topological space built by \"gluing\" together cells of different dimensions in a specific way. The \"C\" stands for \"cell,\" and the \"W\" stands for \"weak,\" referring to the topology, which is the weakest that makes all the \"cells\" continuous. This construction method makes CW complexes especially useful for studying properties of spaces through homotopy theory because they are constructed inductively from simpler pieces. ",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
   "references": [],
   "kwds": [
     "Topology",
-    "Unsolved problems"
   ],
   "authors": []
+"status": "definition",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
 }
