@@ -2,8 +2,9 @@
   "uuid": "188886e5-31f6-40e6-b9c0-28c414082726",
   "name": "Ehrenpreis conjecture",
   "link": "https://en.wikipedia.org/wiki/Ehrenpreis_conjecture",
-  "summary": "In mathematics, the Ehrenpreis conjecture of Leon Ehrenpreis states that for any K greater than 1, any two closed Riemann surfaces of genus at least 2 have finite-degree covers which are K-quasiconformal: that is, the covers are arbitrarily close in the Teichmüller metric.\nA proof was announced by Jeremy Kahn and Vladimir Markovic in January 2011, using their proof of the Surface subgroup conjecture  and a newly developed \"good pants homology\" theory.  In June 2012, Kahn and Markovic were given ",
-  "head": null,
+  "summary": "The Ehrenpreis conjecture, proven by Jeremy Kahn and Vladimir Markovic, states that any two closed Riemann surfaces of genus at least 2 have finite-degree covers that are geometrically close, meaning there exists a diffeomorphism between them with small distortion. This was a long-standing problem in mathematics that establishes a strong connection between any two such surfaces by showing their finite covers can be made arbitrarily close in their geometric properties. ",
+  "head": "\\(S\\) and \\(T\\) are any two closed Riemann surfaces of genus at least 2", 
+  "tail": "for any \\(K>1\\), one can find finite-degree covers \\(S^{\\prime }\\) and \\(T^{\\prime }\\) of \\(S\\) and \\(T\\) respectively, such that there exists a \\(K\\)-quasiconformal map between \\(S^{\\prime }\\) and \\(T^{\\prime }\\). ", 
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -11,5 +12,14 @@
     "Topology",
     "Problems solved since 1995"
   ],
-  "authors": []
+  "authors": ["Leon Ehrenpreis", "Jeremy Kahn", "Vladimir Markovic"], 
+"status": "solved",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
