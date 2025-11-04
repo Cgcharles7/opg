@@ -2,15 +2,24 @@
   "uuid": "f7de91a8-6ae4-4eb0-810b-fbccc25af0e6",
   "name": "Dissection into orthoschemes",
   "link": "https://en.wikipedia.org/wiki/Dissection_into_orthoschemes",
-  "summary": "In geometry, it is an unsolved conjecture of Hugo Hadwiger that every simplex can be dissected into orthoschemes, using a number of orthoschemes bounded by a function of the dimension of the simplex. If true, then more generally every convex polytope could be dissected into orthoschemes.",
+  "summary": "Dissection into orthoschemes refers to the mathematical concept of cutting a geometric shape, such as a simplex, into smaller pieces called orthoschemes. An orthoscheme is a specific type of tetrahedron with right dihedral angles at two opposite vertices. The most famous problem in this area is the conjecture that every simplex can be dissected into a finite number of orthoschemes. ",
   "head": null,
+  "tail": null,
   "count": 0,
   "previous_conjectures": [],
   "references": [],
   "kwds": [
-    "Unsolved problems",
     "Euclidean geometry",
     "Geometry"
   ],
-  "authors": []
+  "authors": [], 
+  "status": "definition",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
