@@ -2,8 +2,9 @@
   "uuid": "8412e82b-24d1-4e74-8659-e19666f1980f",
   "name": "Carathéodory conjecture",
   "link": "https://en.wikipedia.org/wiki/Carath%C3%A9odory_conjecture",
-  "summary": "In differential geometry, the Carathéodory conjecture is a mathematical conjecture attributed to Constantin Carathéodory by Hans Ludwig Hamburger in a session of the Berlin Mathematical Society in 1924. Carathéodory never committed the conjecture to writing, but did publish a paper on a related subject. In  John Edensor Littlewood mentions the conjecture and Hamburger's contribution as an example of a mathematical claim that is easy to state but difficult to prove. Dirk Struik describes in  the ",
-  "head": null,
+  "summary": "The Carathéodory conjecture, proposed by Constantin Carathéodory in 1923, states that any sufficiently smooth, closed, and convex surface in 3D Euclidean space must have at least two umbilic points. An umbilic point is a location on a surface where the curvature is the same in all directions, meaning the principal curvatures are equal. The conjecture has been the subject of much research and is considered a fundamental problem in differential geometry, though it has not yet been fully proven for all smooth surfaces. ",
+  "head": "A surface is a closed, convex, and sufficiently smooth surface in three-dimensional Euclidean space.", 
+  "tail": "The surface has at least two umbilic points (points where the principal curvatures are equal, meaning the surface curves equally in all directions). ", 
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -14,5 +15,14 @@
     "Differential geometry",
     "Geometry"
   ],
-  "authors": []
+  "authors": ["Constantin Carathéodory"],
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+
 }
