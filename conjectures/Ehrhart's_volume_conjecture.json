@@ -2,8 +2,9 @@
   "uuid": "ff5da4be-c6f8-452d-a44b-67e81999704d",
   "name": "Ehrhart's volume conjecture",
   "link": "https://en.wikipedia.org/wiki/Ehrhart%27s_volume_conjecture",
-  "summary": "In the geometry of numbers, Ehrhart's volume conjecture gives an upper bound on the volume of a convex body containing only one lattice point in its interior.  It is a kind of converse to Minkowski's theorem, which guarantees that a centrally symmetric convex body \n  \n    \n      \n        K\n      \n    \n    {\\displaystyle K}\n  \n must contain a lattice point as soon as its volume exceeds \n  \n    \n      \n        \n          2\n          \n            n\n          \n        \n      \n    \n    {\\displaystyle",
-  "head": null,
+  "summary": "Ehrhart's volume conjecture states that for an \\(n\\)-dimensional convex body with its barycenter at the origin, the volume must be less than or equal to a specific upper bound, \\((n+1)^{n}/n!\\), if it contains only one lattice point in its interior. This conjecture is a converse to Minkowski's Theorem, which provides a bound for centrally symmetric bodies. The conjecture has been disproven for high dimensions but remains open for some cases, with proofs existing for special cases like duals of Fano polytopes. ",
+  "head": "a convex body \\(K\\subset \\mathbb{R}^{n}\\) has its barycenter at the origin and contains only the origin as an interior lattice point", 
+  "tail": "its volume is less than or equal to \\(\\frac{(n+1)^{n}}{n!}\\), and equality holds if and only if \\(K\\) is unimodularly equivalent to the \\(n\\)-dimensional standard simplex scaled by a factor of \\((n+1)\\).",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,14 @@
     "Euclidean geometry",
     "Geometry"
   ],
-  "authors": []
+  "authors": [],
+"status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
