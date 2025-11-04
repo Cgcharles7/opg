@@ -2,8 +2,9 @@
   "uuid": "5ae67f4e-0027-4093-856a-6d9f8f5dcdcd",
   "name": "Crouzeix's conjecture",
   "link": "https://en.wikipedia.org/wiki/Crouzeix%27s_conjecture",
-  "summary": "Crouzeix's conjecture is an unsolved problem in matrix analysis. It was proposed by Michel Crouzeix in 2004, and it can be stated as follows:\n\n  \n    \n      \n        ‖\n        f\n        (\n        A\n        )\n        ‖\n        ≤\n        2\n        \n          sup\n          \n            z\n            ∈\n            W\n            (\n            A\n            )\n          \n        \n        \n          |\n        \n        f\n        (\n        z\n        )\n        \n          |\n        \n        ,\n      \n    \n  ",
-  "head": null,
+  "summary": "Crouzeix's conjecture is an unsolved problem in matrix analysis that states for any square matrix \\(A\\) and any polynomial \\(p\\), the norm of the matrix \\(p(A)\\) is less than or equal to 2 times the maximum value of \\(|p(z)|\\) on the matrix's numerical range \\(W(A)\\). This inequality is written as \\(||p(A)||\le 2\\sup _{z\\in W(A)}|p(z)|\\). ",
+  "head": \\(A\\) is any square complex matrix and \\(p\\) is any complex polynomial", 
+  "tail": "the following inequality holds:\\(\\|p(A)\\|\\le 2\\sup _{z\\in W(A)}|p(z)|\\)",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -11,5 +12,14 @@
     "Algebra",
     "Unsolved problems"
   ],
-  "authors": []
+  "authors": ["Michel Crouzeix"], 
+"status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
