@@ -2,7 +2,7 @@
   "uuid": "7ab02e75-732d-476c-a789-c4eef05307f7",
   "name": "Albertson conjecture",
   "link": "https://en.wikipedia.org/wiki/Albertson_conjecture",
-  "summary": "In combinatorial mathematics, the Albertson conjecture is an unproven relationship between the crossing number and the chromatic number of a graph. It is named after Michael O. Albertson, a professor at Smith College, who stated it as a conjecture in 2007; it is one of his many conjectures in graph coloring theory. The conjecture states that, among all graphs requiring \n  \n    \n      \n        n\n      \n    \n    {\\displaystyle n}\n  \n colors, the complete graph \n  \n    \n      \n        \n          K\n",
+  "summary": "The Albertson conjecture is an unsubstantiated connection between a graph's chromatic number and crossing number in combinatorial mathematics. It is named after Smith College professor Michael O. Albertson, who made it a hypothesis in 2007;[1] it is one of his many graph coloring theory conjectures.[2] According to the conjecture, the complete graph {\\displaystyle K_{n}} has the shortest crossing number out of all the graphs that require {\\displaystyle n} colors. The conjecture states that a graph may have fewer colors than {\\displaystyle n} if it can be constructed with fewer crossings than {\\displaystyle K_{n}}.",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -12,5 +12,15 @@
     "Unsolved problems",
     "Graph theory"
   ],
-  "authors": []
+  "authors": ["Michael O. Albertson"],
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
