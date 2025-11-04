@@ -2,15 +2,24 @@
   "uuid": "6f604773-9f3a-4e66-83b8-63ff8b6bd89f",
   "name": "Cartan–Hadamard conjecture",
   "link": "https://en.wikipedia.org/wiki/Cartan%E2%80%93Hadamard_conjecture",
-  "summary": "In mathematics, the Cartan–Hadamard conjecture is a fundamental problem in Riemannian geometry and geometric measure theory which states that the classical isoperimetric inequality may be generalized to spaces of nonpositive sectional curvature, known as Cartan–Hadamard manifolds. The conjecture, which  is named after French mathematicians Élie Cartan and Jacques Hadamard, may be traced back to work of André Weil in 1926.",
-  "head": null,
+  "summary": "The Cartan–Hadamard conjecture is a problem in Riemannian geometry that generalizes the isoperimetric inequality to spaces with nonpositive sectional curvature (known as Cartan–Hadamard manifolds). It states that on these manifolds, the inequality should hold with the same Euclidean optimal constant as in Euclidean space, and any set achieving equality must be isometric to a Euclidean ball. The conjecture was proven in all dimensions in 2019 by Joel Spruck and Mohammad Ghomi, building on earlier proofs for specific low dimensions. ",
+  "head": "A domain \\(\\Omega \\) with fixed volume exists within an \\(n\\)-dimensional Cartan-Hadamard manifold \\(M\\) (a complete, simply connected Riemannian manifold with nonpositive sectional curvature).",
+  "tail": "The boundary of \\(\\Omega \\) has the least possible boundary volume (perimeter) if and only if \\(\\Omega \\) is a round \\(n\\)-ball (geodesic ball) that is isometric to a ball of the same volume in Euclidean space (\\(\\mathbb{R}^{n}\\)). ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
   "kwds": [
     "Differential geometry",
-    "Unsolved problems",
     "Geometry"
   ],
-  "authors": []
+  "authors": ["Élie Cartan", "Jacques Hadamard", "Joel Spruck", "Mohammad Ghomi"], 
+  "status": "solved",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
 }
+
