@@ -2,8 +2,9 @@
   "uuid": "61828858-3e9b-4267-9704-645c76e91767",
   "name": "Donaldson–Thomas theory",
   "link": "https://en.wikipedia.org/wiki/Donaldson%E2%80%93Thomas_theory",
-  "summary": "In mathematics, specifically algebraic geometry, Donaldson–Thomas theory is the theory of Donaldson–Thomas invariants.   Given a compact moduli space of sheaves on a Calabi–Yau threefold, its Donaldson–Thomas invariant is the virtual number of its points, i.e., the integral of the cohomology class 1 against the virtual fundamental class.  The Donaldson–Thomas invariant is a holomorphic analogue of the Casson invariant.  The invariants were introduced by Simon Donaldson and Richard Thomas (1998).",
-  "head": null,
+  "summary": "Donaldson–Thomas theory is a mathematical theory concerning invariants that count sheaves on a type of space called a Calabi–Yau threefold. These invariants are a \"virtual count\" of points in a moduli space and are closely related to string theory and other areas of mathematics. They provide a way to count objects like curves and sheaves in a stable and consistent manner. ",
+  "head": "There is a compact moduli space of stable sheaves (or other objects in a Calabi-Yau 3-fold category)."
+  "tail": "A virtual number (the Donaldson-Thomas invariant) can be calculated for this space, which provides a count of certain curves or BPS states." ,
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,15 @@
     "Algebraic geometry",
     "Geometry"
   ],
-  "authors": []
+  "authors": ["Simon Donaldson", "Richard Thomas"], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
+
