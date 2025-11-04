@@ -2,8 +2,9 @@
   "uuid": "8cc50b0c-d6c2-427a-afdc-26cbfe195a7a",
   "name": "Connes embedding problem",
   "link": "https://en.wikipedia.org/wiki/Connes_embedding_problem",
-  "summary": "Connes' embedding problem, formulated by Alain Connes in the 1970s, is a major problem in von Neumann algebra theory. During that time, the problem was reformulated in several different areas of mathematics. Dan Voiculescu developing his free entropy theory found that Connes' embedding problem is related to the existence of microstates. Some results of von Neumann algebra theory can be obtained assuming positive solution to the problem. The problem is connected to some basic questions in quantum",
-  "head": null,
+  "summary": "The Connes Embedding Problem (CEP) is a fundamental question in mathematics that asked if every tracial von Neumann algebra could be approximated by finite-dimensional matrix algebras. In simpler terms, it questioned if complex, infinite-dimensional systems could be faithfully represented by simpler, finite systems. While it remained a central open problem for decades, the problem was proven to have a negative solution as a corollary of a 2020 result in quantum complexity theory called MIP*=RE. ",
+  "head": "The Connes Embedding Problem has a positive answer (i.e., all tracial von Neumann algebras can be approximated by finite-dimensional matrices).", 
+  "tall": "A certain related decision problem in logic is decidable, or a certain set of quantum correlations is equal to another set of correlations (Tsirelson's problem) or the Halting Problem would be decidable. ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -11,5 +12,13 @@
     "Algebra",
     "Unsolved problems"
   ],
-  "authors": []
+  "authors": ["Alain Connes", "Thomas Vidick"], 
+"status": "disproven",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
 }
