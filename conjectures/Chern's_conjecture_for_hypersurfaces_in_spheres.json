@@ -2,8 +2,9 @@
   "uuid": "0f83fd62-6884-419d-a0a2-5f13607a007c",
   "name": "Chern's conjecture for hypersurfaces in spheres",
   "link": "https://en.wikipedia.org/wiki/Chern%27s_conjecture_for_hypersurfaces_in_spheres",
-  "summary": "Chern's conjecture for hypersurfaces in spheres, unsolved as of 2018, is a conjecture proposed by Chern in the field of differential geometry. It originates from the Chern's unanswered question:\n\nConsider closed minimal submanifolds \n  \n    \n      \n        \n          M\n          \n            n\n          \n        \n      \n    \n    {\\displaystyle M^{n}}\n  \n immersed in the unit sphere \n  \n    \n      \n        \n          S\n          \n            n\n            +\n            m\n          \n        \n     ",
-  "head": null,
+  "summary": "Chern's conjecture for hypersurfaces in spheres proposes that a compact, minimal hypersurface in a sphere with constant scalar curvature must be \"isoparametric\" or have a constant norm of its second fundamental form. The conjecture has several versions: the standard version states the possible values of the scalar curvature are a discrete set, a refined version states the hypersurface must be isoparametric, and a stronger version provides more precise conditions on the squared norm of the second fundamental form. The conjecture has been the subject of much research, with many mathematicians proving partial results for specific cases. ",
+  "head": "\\(M\\) has constant scalar curvature",
+  "tail": "the possible values of the scalar curvature of \\(M\\) form a discrete set.",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,13 @@
     "Unsolved problems",
     "Geometry"
   ],
-  "authors": []
+  "authors": ["S.S. Chern"],
+"status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
 }
