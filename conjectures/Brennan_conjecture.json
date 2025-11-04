@@ -2,8 +2,8 @@
   "uuid": "75e5ae2b-fd6c-40b1-9052-37bd289ad418",
   "name": "Brennan conjecture",
   "link": "https://en.wikipedia.org/wiki/Brennan_conjecture",
-  "summary": "In mathematics, specifically complex analysis, the Brennan conjecture is a conjecture estimating (under specified conditions) the integral powers of the moduli of the derivatives of conformal maps into the open unit disk. The conjecture was formulated by James E. Brennan in 1978.\nLet W be a simply connected open subset of \n  \n    \n      \n        \n          C\n        \n      \n    \n    {\\displaystyle \\mathbb {C} }\n  \n with at least two boundary points in the extended complex plane. Let \n  \n    \n   ",
-  "head": null,
+  "summary": "The Brennan conjecture is a hypothesis in complex analysis about the integral of the derivative of a conformal map. It states that for a conformal map from a simply connected planar domain to the unit disk, the integral of the absolute value of the derivative raised to a power \\(p\\) is finite, specifically for \\(p\\) between \\(4/3\\) and \\(4\\). While Brennan proved it holds for \\(4/3<p<3+\\delta \\) for some \\(\\delta >0\\), the conjecture remains unproven for the full range of \\(4/3<p<4\\). ",
+  "head":  "\\(W\\) is a simply connected open subset of the complex plane with at least two boundary points, and \\(f\\) is a conformal map of \\(W\\) onto the open unit disk \\(\\mathbb{D}\\)", 
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -11,5 +11,15 @@
     "Unsolved problems",
     "Analysis"
   ],
-  "authors": []
+  "authors": ["James E. Brennan"], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
