@@ -1,0 +1,26 @@
+{
+  "uuid": "2b46c904-8926-42af-8d9b-4902dca7ed92",
+  "name": "Catalan's Mersenne conjecture",
+  "link": "https://en.wikipedia.org/wiki/Double_Mersenne_number",
+  "summary": "The conjecture related to Catalan-Mersenne numbers is that the sequence of recursively defined Mersenne numbers starting from \\(M_{2}=3\\) produces primes \"up to a certain limit\", with the next term in the sequence after \\(M_{127}\\) expected to be composite. ",
+  "head": "a number is a Catalan-Mersenne number", 
+  "tail": "it is prime only for a finite number of terms in the sequence (likely only the first four terms: 3, 7, 127, and \\(2^{127}-1\\). ",
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Number theory",
+    "Unsolved problems",
+    "Prime numbers"
+  ],
+  "authors": ["Eugène Charles Catalan"], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+
+}
