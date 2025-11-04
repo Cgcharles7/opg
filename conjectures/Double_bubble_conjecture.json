@@ -3,7 +3,7 @@
   "name": "Double bubble conjecture",
   "link": "https://en.wikipedia.org/wiki/Double_bubble_theorem",
   "summary": "The Double Bubble Conjecture states that the configuration of two soap bubbles that encloses two given volumes with the minimum possible surface area is the \"standard double bubble\"—three spherical caps meeting at 120-degree angles along a single circle. This was proven in 2000 by Michael Hutchings, Frank Morgan, Manuel Ritoré, and Antonio Ros for any two volumes in 3D space (\\(R^{3}\\))",
-  "head": "a set of surfaces encloses and separates two given volumes in three-dimensional Euclidean space (\\(\\mathbb{R}^{3}\\))", 
+  "head": "a set of surfaces encloses and separates two given volumes in three-dimensional Euclidean space (\\(\\mathbb{R}^{3}\\))",
   "tail": "the configuration that minimizes the total surface area is the standard double bubble (consisting of three spherical caps meeting at 120-degree angles along a common circle). ",
   "count": 0,
   "previous_conjectures": [],
@@ -14,7 +14,7 @@
     "Geometry"
   ],
   "authors": ["Michael Hutchings", "Frank Morgan", "Manuel Ritoré", "Antonio Ros"], 
-  "status": "solved",  
+  "status": "solved", 
   "history": [
     {
       "action": "created",
@@ -25,3 +25,4 @@
   ]
 
 }
+
