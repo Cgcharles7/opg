@@ -2,8 +2,9 @@
   "uuid": "5072162d-622d-4fd7-a0aa-1349f131fd5d",
   "name": "Erdős sumset conjecture",
   "link": "https://en.wikipedia.org/wiki/Erd%C5%91s_sumset_conjecture",
-  "summary": "In additive combinatorics, the Erdős sumset conjecture is a conjecture which states that if a subset \n  \n    \n      \n        A\n      \n    \n    {\\displaystyle A}\n  \n of the natural numbers \n  \n    \n      \n        \n          N\n        \n      \n    \n    {\\displaystyle \\mathbb {N} }\n  \n has a positive upper density then there are two infinite subsets \n  \n    \n      \n        B\n      \n    \n    {\\displaystyle B}\n  \n and \n  \n    \n      \n        C\n      \n    \n    {\\displaystyle C}\n  \n of \n  \n    \n      \n ",
-  "head": null,
+  "summary": "The Erdős sumset conjecture is a mathematical statement that predicts that any subset of natural numbers with a positive density must contain the sumset \\(B+C\\) for two infinite sets \\(B\\) and \\(C\\). This conjecture was posed by Paul Erdős and was proven in 2019 by Joel Moreira, Florian Richter, and Donald Robertson using techniques from ergodic theory.  ",
+  "head": "A subset \\(A\\) of the natural numbers has a positive upper density (or positive lower density in some formulations).",
+  "tail": "There exist two infinite subsets \\(B\\) and \\(C\\) of the natural numbers such that their sumset \\(B+C\\) is a subset of \\(A\\) (\\(B+C\\subseteq A\\)).",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -11,5 +12,14 @@
     "Combinatorics",
     "Problems solved since 1995"
   ],
-  "authors": []
+  "authors": ["Paul Erdős", "Joel Moreira", "Florian Richter", "Donald Robertson"], 
+"status": "solved",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
