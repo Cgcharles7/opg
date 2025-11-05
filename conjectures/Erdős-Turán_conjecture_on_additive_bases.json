@@ -2,8 +2,9 @@
   "uuid": "cc70c22a-0c3e-4a72-b354-d4fb670a762d",
   "name": "Erdős–Turán conjecture on additive bases",
   "link": "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Tur%C3%A1n_conjecture_on_additive_bases",
-  "summary": "The Erdős–Turán conjecture is an old unsolved problem in additive number theory (not to be confused with Erdős conjecture on arithmetic progressions) posed by Paul Erdős and Pál Turán in 1941. \nIt concerns additive bases, subsets of natural numbers with the property that every natural number can be represented as the sum of a bounded number of elements from the basis. Roughly, it states that the number of representations of this type cannot also be bounded.",
-  "head": null,
+  "summary": "The Erdős–Turán conjecture states that if a set of integers \\(A\\) is an additive basis of order 2 (meaning every natural number can be written as the sum of at most two elements from \\(A\\)), then the number of ways each integer can be represented as a sum of two elements from \\(A\\) must be unbounded. In other words, there must be integers that can be written as a sum of two elements from \\(A\\) in arbitrarily many ways. ",
+  "head": "A set \\(A\\) of non-negative integers is an asymptotic additive base of order 2 (meaning every sufficiently large integer \\(N\\) can be represented as a sum \\(a+b\\) with \\(a,b\\in A\\) at least once).",
+  "tail": "The number of representations of \\(N\\) as \\(a+b\\) with \\(a,b\\in A\\) (often denoted as \\(R_{A}(N)\\)) is unbounded as \\(N\\rightarrow \\infty \\) (i.e., \\(\\limsup _{N\\rightarrow \\infty }R_{A}(N)=\\infty \\)). ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,6 @@
     "Unsolved problems",
     "Additive number theory"
   ],
-  "authors": []
+  "authors": ["Paul Erdős","Pál Turán"], 
 }
+
