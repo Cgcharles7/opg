@@ -2,8 +2,9 @@
   "uuid": "9816399b-8ed2-4620-ad69-be17f6d6d101",
   "name": "Euclid–Mullin sequence",
   "link": "https://en.wikipedia.org/wiki/Euclid%E2%80%93Mullin_sequence",
-  "summary": "The Euclid–Mullin sequence is an infinite sequence of distinct prime numbers, in which each element is the least prime factor of one plus the product of all earlier elements. They are named after the ancient Greek mathematician Euclid, because their definition relies on an idea in Euclid's proof that there are infinitely many primes, and after Albert A. Mullin, who asked about the sequence in 1963.\nThe first 51 elements of the sequence are\n\n2, 3, 7, 43, 13, 53, 5, 6221671, 38709183810571, 139, 2",
+  "summary": "A Euclid–Mullin sequence is a sequence of distinct prime numbers where each term is the smallest prime factor of 1 plus the product of all previous terms. The sequence is based on Euclid's proof of the infinitude of primes and is a constructive way to generate an infinite sequence of primes, but it is not known if every prime number will eventually appear in the sequence. ",
   "head": null,
+  "tail": null, 
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,15 @@
     "Unsolved problems",
     "Prime numbers"
   ],
-  "authors": []
+  "authors": [], 
+  "status": "definition",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
+
