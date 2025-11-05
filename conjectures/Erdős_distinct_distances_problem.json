@@ -3,7 +3,7 @@
   "name": "Erdős distinct distances problem",
   "link": "https://en.wikipedia.org/wiki/Erd%C5%91s_distinct_distances_problem",
   "summary": "The Erdős distinct distances problem asks for the minimum number of distinct distances determined by \\(n\\) points in a plane. Posed by Paul Erdős in 1946, the problem has two main questions: how to arrange points to minimize the number of distances and what is the smallest guaranteed number of distinct distances for any set of \\(n\\) points. The most widely accepted answer for the plane is that the minimum number of distinct distances grows roughly as \\(n/\\log n\\). ",
-  "head": "If \\(P\\) is a set of \\(n\\) points in the Euclidean plane (where \\(n\\) is a large enough integer)". ,
+  "head": "If \\(P\\) is a set of \\(n\\) points in the Euclidean plane (where \\(n\\) is a large enough integer).",
   "then": ", then the number of distinct distances determined by the pairs of points in \\(P\\) is at least \\(C\\frac{n}{\\sqrt{\\log n}}\\) for some absolute constant \\(C>0\\).", 
   "count": 0,
   "previous_conjectures": [],
@@ -25,3 +25,4 @@
   ]
 
 }
+
