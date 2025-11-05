@@ -2,15 +2,26 @@
   "uuid": "5f246473-4317-414a-8744-59775ff08705",
   "name": "Euler characteristic",
   "link": "https://en.wikipedia.org/wiki/Euler_characteristic",
-  "summary": "In mathematics, and more specifically in algebraic topology and polyhedral combinatorics, the Euler characteristic (or Euler number, or Euler–Poincaré characteristic) is a topological invariant, a number that describes a topological space's shape or structure regardless of the way it is bent. It is commonly denoted by \n  \n    \n      \n        χ\n      \n    \n    {\\displaystyle \\chi }\n  \n (Greek lower-case letter chi).\nThe Euler characteristic was originally defined for polyhedra and used to prove v",
+  "summary": "The Euler characteristic is a number calculated by subtracting the number of edges from the number of vertices and adding the number of faces in a polyhedron or a 2D shape (\\(V-E+F\\)). It is a topological invariant, meaning it remains the same for shapes that can be deformed into one another without tearing or gluing. For example, the Euler characteristic for a simple convex polyhedron like a cube is \\(2\\), while for a simple polygon, it is \\(1\\).  ",
   "head": null,
+  "tail": null,
   "count": 0,
   "previous_conjectures": [],
   "references": [],
   "kwds": [
     "Differential geometry",
-    "Unsolved problems",
+    "Topology",
     "Geometry"
   ],
-  "authors": []
+  "authors": [], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
