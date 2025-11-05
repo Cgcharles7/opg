@@ -2,8 +2,9 @@
   "uuid": "fbfdf747-b989-4387-b035-2a8abd6f2c87",
   "name": "Fermat's Last Theorem",
   "link": "https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem",
-  "summary": "In number theory, Fermat's Last Theorem (sometimes called Fermat's conjecture, especially in older texts) states that no three positive integers a, b, and c satisfy the equation an + bn = cn for any integer value of n greater than 2. The cases n = 1 and n = 2 have been known since antiquity to have infinitely many solutions.\nThe proposition was first stated as a theorem by Pierre de Fermat around 1637 in the margin of a copy of Arithmetica. Fermat added that he had a proof that was too large to ",
-  "head": null,
+  "summary": "Fermat's Last Theorem states that there are no positive integers \\(a\\), \\(b\\), and \\(c\\) that can satisfy the equation \\(a^{n}+b^{n}=c^{n}\\) for any integer value of \\(n\\) greater than 2. While the equation has many integer solutions for \\(n=1\\) and \\(n=2\\) (like the Pythagorean triple \\(3^{2}+4^{2}=5^{2}\\)), it is impossible for any higher power. The theorem was proposed by Pierre de Fermat in 1637, but it remained unproven for over 350 years until Andrew Wiles provided a complete proof in 1994, which was published in 1995. ",
+  "head": "for all integers \\(n\\), if \\(n\\) is greater than 2", 
+  "tail": "then it is not true that there exist positive integers \\(a,b,c\\) such that \\(a^{n}+b^{n}=c^{n}\\).",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -14,5 +15,15 @@
     "20th century",
     "Books discussing problems solved since 1995"
   ],
-  "authors": []
+  "authors": ["Pierre de Fermat", "Andrew Wiles"], 
+  "status": "solved",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
