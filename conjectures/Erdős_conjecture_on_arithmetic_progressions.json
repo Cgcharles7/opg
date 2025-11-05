@@ -2,8 +2,9 @@
   "uuid": "82638c9d-0635-4df3-acc5-16db03e91507",
   "name": "Erdős conjecture on arithmetic progressions",
   "link": "https://en.wikipedia.org/wiki/Erd%C5%91s_conjecture_on_arithmetic_progressions",
-  "summary": "Erdős' conjecture on arithmetic progressions, often referred to as the Erdős–Turán conjecture, is a conjecture in arithmetic combinatorics (not to be confused with the Erdős–Turán conjecture on additive bases). It states that if the sum of the reciprocals of the members of a set A of positive integers diverges, then A contains arbitrarily long arithmetic progressions.\nFormally, the conjecture states that if A is a large set in the sense that\n\n  \n    \n      \n        \n          ∑\n          \n      ",
-  "head": null,
+  "summary": "The Erdős conjecture on arithmetic progressions (also known as the Erdős–Turán conjecture) states that if a set of positive integers is \"large enough,\" it must contain arbitrarily long arithmetic progressions. \"Large enough\" is defined as the sum of the reciprocals of the numbers in the set being infinite (a divergent harmonic series). In simpler terms, if you have a set of numbers that is dense enough, it will inevitably contain patterns of numbers that are evenly spaced, and these patterns can be of any length. ",
+  "head": "The sum of the reciprocals of the members of a set \\(A\\) of positive integers diverges, meaning \\(\\sum _{n\\in A}\\frac{1}{n}=\\infty \\).",
+  "tail": "The set \\(A\\) contains arbitrarily long arithmetic progressions.",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,15 @@
     "Unsolved problems",
     "Additive number theory"
   ],
-  "authors": []
+  "authors": ["Paul Erdős"],
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
