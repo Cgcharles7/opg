@@ -2,8 +2,9 @@
   "uuid": "10fcdb10-4251-441f-bfae-e7de23f6b9bb",
   "name": "Feit–Thompson conjecture",
   "link": "https://en.wikipedia.org/wiki/Feit%E2%80%93Thompson_conjecture",
-  "summary": "In mathematics, the Feit–Thompson conjecture is a  conjecture in number theory, suggested by  Walter Feit and John G. Thompson (1962). The conjecture states that there are no distinct prime numbers p and q such that\n\n  \n    \n      \n        \n          \n            \n              \n                p\n                \n                  q\n                \n              \n              −\n              1\n            \n            \n              p\n              −\n              1\n            \n          \n   ",
-  "head": null,
+  "summary": "The Feit–Thompson conjecture is a statement in number theory that claims there are no distinct primes \\(p\\) and \\(q\\) for which \\((q^{p}-1)/(q-1)\\) has a common factor with \\((p^{q}-1)/(p-1)\\). A stronger version of the conjecture, stating the two numbers are always coprime (have no common factors other than 1), was disproved in 1971 by a counterexample. While originally proposed to simplify the proof of the Feit–Thompson theorem (that every finite group of odd order is solvable), the conjecture was disproven, but partial results have been proven. ",
+  "head": "\\(p\\) and \\(q\\) are distinct prime numbers.", 
+  "tail": "\\(\\frac{q^{p}-1}{q-1}\\) does not divide \\(\\frac{p^{q}-1}{p-1}\\).",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,15 @@
     "Unsolved problems",
     "Prime numbers"
   ],
-  "authors": []
+  "authors": ["Walter Feit", "John G. Thompson"], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
+
