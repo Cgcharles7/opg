@@ -2,15 +2,25 @@
   "uuid": "b5c7b4c7-ae4c-428e-b395-d72fe939392f",
   "name": "Fortunate number",
   "link": "https://en.wikipedia.org/wiki/Fortunate_number",
-  "summary": "In number theory, a Fortunate number, named after Reo Fortune, is the smallest integer m > 1 such that, for a given positive integer n, pn# + m is a prime number, where the primorial pn# is the product of the first n prime numbers.\nFor example, to find the seventh Fortunate number, one would first calculate the product of the first seven primes (2, 3, 5, 7, 11, 13 and 17), which is 510510. Adding 2 to that gives another even number, while adding 3 would give another multiple of 3. One would simi",
+  "summary": "A \"fortunate number\" is a term in number theory for the smallest integer \\(m>1\\) that, when added to the primorial (\\(p_{n}\\#\\)) of the first \\(n\\) prime numbers, results in a prime number. The primorial is the product of the first \\(n\\) prime numbers. ",
   "head": null,
+  "tail": null,
   "count": 0,
   "previous_conjectures": [],
   "references": [],
   "kwds": [
     "Number theory",
-    "Unsolved problems",
     "Prime numbers"
   ],
-  "authors": []
+  "authors": [], 
+  "status": "definition",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
