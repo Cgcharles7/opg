@@ -2,8 +2,9 @@
   "uuid": "32d8e4e8-cc9f-4001-9549-d26f7a81322d",
   "name": "Fermat–Catalan conjecture",
   "link": "https://en.wikipedia.org/wiki/Fermat%E2%80%93Catalan_conjecture",
-  "summary": "In number theory, the Fermat–Catalan conjecture is a generalization of Fermat's Last Theorem and of Catalan's conjecture. The conjecture states that the equation\n\nhas only finitely many solutions (a, b, c, m, n, k) with distinct triplets of values (am, bn, ck) where a, b, c are positive coprime integers and m, n, k are positive integers satisfying\n\nThe inequality on m, n, and k is a necessary part of the conjecture. Without the inequality there would be infinitely many solutions, for instance wi",
-  "head": null,
+  "summary": "The Fermat–Catalan conjecture is a mathematical statement that the equation \\(a^{m}+b^{n}=c^{k}\\) has only a finite number of solutions in positive coprime integers \\(a,b,c\\) and positive integers \\(m,n,k\\) that satisfy the inequality \\(\frac{1}{m}+\\frac{1}{n}+\\frac{1}{k}<1\\). It is a generalization of both Fermat's Last Theorem and Catalan's conjecture. ",
+  "head": "\\(a,b,c\\) are positive coprime integers, \\(m,n,k\\) are positive integers, and the equation \\(a^{m}+b^{n}=c^{k}\\) holds, with the condition \\(\\frac{1}{m}+\\frac{1}{n}+\\frac{1}{k}<1\\).", 
+  "tail": "There are only a finite number of solutions \\((a^{m},b^{n},c^{k})\\) that satisfy these conditions. ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,5 +13,15 @@
     "Number theory",
     "Unsolved problems"
   ],
-  "authors": []
+  "authors": ["Preda Mihăilescu], 
+  "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
+
