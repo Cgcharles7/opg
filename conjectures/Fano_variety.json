@@ -2,15 +2,25 @@
   "uuid": "ee54b601-8f00-4ccf-9cdf-2a30a6ae1fed",
   "name": "Fano variety",
   "link": "https://en.wikipedia.org/wiki/Fano_variety",
-  "summary": "In algebraic geometry,  a Fano variety, introduced by Gino Fano (Fano 1934, 1942), is an algebraic variety that generalizes certain aspects of complete intersections of algebraic hypersurfaces whose sum of degrees is at most the total dimension of the ambient projective space.  Such complete intersections have important applications in geometry and number theory, because they typically admit rational points, an elementary case of which is the Chevalley–Warning theorem.  Fano varieties provide an",
+  "summary": "A Fano variety is a smooth projective algebraic variety with an ample anti-canonical bundle, meaning it is a \"positively curved\" shape in algebraic geometry. They are fundamental \"building blocks\" for classifying all algebraic varieties and play a crucial role in areas like string theory and Mori's Minimal Model Program. Examples include projective spaces and certain complete intersections. ",
   "head": null,
+  "tail": null,
   "count": 0,
   "previous_conjectures": [],
   "references": [],
   "kwds": [
     "Number theory",
-    "Unsolved problems",
     "Arithmetic geometry"
   ],
-  "authors": []
+  "authors": [], 
+  "status": "definition",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
 }
