@@ -3,8 +3,8 @@
   "name": "Erdős discrepancy problem",
   "link": "https://en.wikipedia.org/wiki/Sign_sequence",
   "summary": "The Erdős discrepancy problem is a combinatorial problem that states any infinite sequence of \\(+1\\) and \\(-1\\) must contain a subsequence (specifically, a homogeneous arithmetic progression) where the sum of its terms is unbounded. It asks if, for any sequence of $+1\\(sand\\)-1$s and any constant \\(C\\), there is always a \"long enough\" homogeneous arithmetic progression with a discrepancy larger than \\(C\\). The problem was posed by Paul Erdős in the 1930s and famously solved by Terence Tao in 2015 using tools from number theory, probability, and information theory. ",
-  "head": "A sequence \\(\\epsilon _{1},\\epsilon _{2},\\dots \\) is an infinite sequence where each term is either +1 or -1.", 
-  "tail": "The discrepancy of this sequence is unbounded, meaning that for any positive integer \\(C\\), there exist positive integers \\(n\\) and \\(d\\) such that the absolute value of the sum of the arithmetic progression starting at index \\(d\\) with common difference \\(d\\) and length \\(n\\) is greater than \\(C\\). 
+  "head": "A sequence \\(\\epsilon _{1},\\epsilon _{2},\\dots \\) is an infinite sequence where each term is either +1 or -1.",
+  "tail": "The discrepancy of this sequence is unbounded, meaning that for any positive integer \\(C\\), there exist positive integers \\(n\\) and \\(d\\) such that the absolute value of the sum of the arithmetic progression starting at index \\(d\\) with common difference \\(d\\) and length \\(n\\) is greater than \\(C\\). ",
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -24,3 +24,4 @@
     }
   ]
 }
+
