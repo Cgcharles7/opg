@@ -13,7 +13,7 @@
     "Number theory",
     "Unsolved problems"
   ],
-  "authors": ["Preda Mihăilescu], 
+  "authors": ["Preda Mihăilescu"], 
   "status": "active",  
   "history": [
     {
@@ -24,4 +24,5 @@
     }
   ]
 }
+
 
