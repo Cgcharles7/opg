@@ -2,8 +2,9 @@
   "uuid": "e29964d5-faf6-4501-8e5a-9c9539b74ad1",
   "name": "Fatou conjecture",
   "link": "https://en.wikipedia.org/wiki/Fatou_conjecture",
-  "summary": "In mathematics, the Fatou conjecture, named after Pierre Fatou, states that a quadratic family of maps from the complex plane to itself is hyperbolic for an open dense set of parameters.",
-  "head": null,
+  "summary": "The Fatou conjecture, formulated by Pierre Fatou, is a major unsolved problem in complex dynamics stating that for any rational map of the complex plane, the set of parameters for which the dynamics are hyperbolic is dense and open. In simpler terms, it suggests that for a wide range of parameter values, a system will behave in a predictable and stable way, while being subject to hyperbolic behavior, a common characteristic in such dynamics. It is related to the \"no wandering domains\" conjecture, which has been proven. ",
+  "head": "the condition that a critical point exists for a given rational map.", 
+  "tail": "the condition that this critical point's orbit converges towards a periodic cycle under repeated iteration of the map.", 
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -11,5 +12,14 @@
     "Dynamical systems",
     "Unsolved problems"
   ],
-  "authors": []
+  "authors": ["Pierre Fatou"], 
+"status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
 }
