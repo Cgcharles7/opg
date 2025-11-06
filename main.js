@@ -28,13 +28,14 @@ function buildCategoryTree(conjs) {
       return;
     }
 
-    // Follow the order given in the JSON
+    // Traverse/create the tree hierarchy
     let node = tree;
     cats.forEach((cat, idx) => {
-      if (!node[cat]) node[cat] = { __items: [] };
+      if (!node[cat]) node[cat] = {};
 
-      // Only push the conjecture at the deepest level
       if (idx === cats.length - 1) {
+        // Only add __items at the leaf
+        if (!node[cat].__items) node[cat].__items = [];
         node[cat].__items.push(c);
       } else {
         node = node[cat];
