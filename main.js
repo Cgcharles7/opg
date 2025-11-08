@@ -135,6 +135,7 @@ function showConjecture(c) {
 (async () => {
   const conjs = await loadData();
   const tree = groupConjecturesByCategory(conjs);
+  console.log(tree);
   //  const tree = buildCategoryTree(conjs);
   
   const menu = document.getElementById('menu');
