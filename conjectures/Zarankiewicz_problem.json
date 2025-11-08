@@ -1,0 +1,14 @@
+{
+  "uuid": "7e94acde-fdc6-44de-ac8a-99b8b19a6424",
+  "name": "Zarankiewicz problem",
+  "link": "https://en.wikipedia.org/wiki/Zarankiewicz_problem",
+  "rephrased": "What is the maximum number of edges in a bipartite graph without a complete bipartite subgraph of size s by t?",
+  "implication_form": "If a bipartite graph has more than Z(m,n;s,t) edges, then it must contain a complete bipartite subgraph K_{s,t} (where Z(m,n;s,t) is the Zarankiewicz function representing the maximum edges without K_{s,t}).",
+  "posed_by": "Kazimierz Zarankiewicz",
+  "solved_by": "unsolved",
+  "year_originated": 73,
+  "explained": "The Zarankiewicz problem is an unsolved problem in extremal graph theory. It asks for the maximum number of edges in a bipartite graph with parts of size m and n, respectively, that does not contain a complete bipartite subgraph of the form K_{s,t} (where s and t are given positive integers). The maximum is denoted as z(m,n;s,t). A special case is when the forbidden subgraph is a complete bipartite subgraph with one part of size s and the other part of size t.",
+  "terms": "Zarankiewicz function, Zarankiewicz number, bipartite graph, extremal graph theory, complete bipartite subgraph K_{s,t}, Turán number, bipartite Turán number",
+  "related_conjectures": "Bipartite Turán number conjecture (which is a generalization), Zarankiewicz problem for specific parameters (e.g., the conjectured value of z(n,n;2,2) relates to the bipartite Kneser graph problem)",
+  "subjects": "Extremal graph theory, combinatorics, extremal set theory, Ramsey theory"
+}

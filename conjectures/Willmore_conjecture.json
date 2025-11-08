@@ -1,0 +1,38 @@
+{
+  "uuid": "d4123a73-853b-4f45-aeba-9416084c2304",
+  "name": "Willmore conjecture",
+  "link": "https://en.wikipedia.org/wiki/Willmore_conjecture",
+  "rephrased": "The Willmore energy of any torus embedded in three-dimensional space cannot be less than 2π.",
+  "implication_form": "If a torus is embedded in three-dimensional space, then its Willmore energy is at least 2π.",
+  "posed_by": "Tom Willmore",
+  "solved_by": [
+    "Fernando Codá Marques",
+    "André Neves"
+  ],
+  "year_originated": 58,
+  "explained": "The Willmore conjecture states that for any torus immersed in Euclidean 3-space, the Willmore energy is minimized for the Clifford torus (i.e., the torus obtained as the orbit under the rotation group SO(3) of a circle in the xy-plane with radius 1/√2), and this minimum value is 2π. The Willmore energy, denoted by 𝒪, is defined for any closed surface Σ embedded in R³ as an integral quantity: 𝒪(Σ) = ∫_Σ (|A|² - 2|H|⁴) dA, where A is the second fundamental form, H is the mean curvature vector, and dA is the area element. It can also be expressed as 𝒪(Σ) = ∫_Σ |∇N|² dA, where N is the unit normal vector, or equivalently as the Möbius invariant functional ∫_Σ |∇N|² dA. The conjecture is about finding the global minimum of this energy among all tori in R³.",
+  "terms": [
+    "Willmore energy (𝒪)",
+    "Willmore functional",
+    "Second fundamental form (A)",
+    "Mean curvature vector (H)",
+    "Clifford torus",
+    "Torus immersion",
+    "Euclidean 3-space (R³)",
+    "Möbi Equals",
+    "Möbius invariant",
+    "Conformal parameterization"
+  ],
+  "related_conjectures": [
+    "Isoperimetric problem in higher dimensions",
+    "Möbius invariance of the Willmore functional",
+    "Conjectures on the Willmore energy of other surfaces (e.g., spheres, ellipsoids)",
+    "Convergence results for Willmore flow"
+  ],
+  "subjects": [
+    "Differential Geometry",
+    "Global Analysis",
+    "Variational Geometry",
+    "Partial Differential Equations (PDEs) (related to Willmore flow)"
+  ]
+}

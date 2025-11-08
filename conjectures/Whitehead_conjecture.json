@@ -1,0 +1,26 @@
+{
+  "uuid": "fb9368a9-a463-4953-870d-49137ad99797",
+  "name": "Whitehead conjecture",
+  "link": "https://en.wikipedia.org/wiki/Whitehead_conjecture",
+  "rephrased": "If a two-dimensional CW complex has a trivial fundamental group (aspherical), then any connected subcomplex is also aspherical (has a trivial fundamental group).",
+  "implication_form": "If a CW complex is aspherical and two-dimensional, then every connected subcomplex is aspherical.",
+  "posed_by": "J. H. C. Whitehead",
+  "solved_by": "unsolved",
+  "year_originated": 83,
+  "explained": "The Whitehead conjecture, proposed by J. H. C. Whitehead in 1941, is a statement in algebraic topology. It claims that if a CW complex is two-dimensional and aspherical (meaning its universal cover is contractible), then every connected subcomplex of this complex is also aspherical.",
+  "terms": [
+    "Aspherical CW complex",
+    "CW complex",
+    "Subcomplex",
+    "Universal cover",
+    "Contractible"
+  ],
+  "related_conjectures": [
+    "Poincaré conjecture"
+  ],
+  "subjects": [
+    "Algebraic topology",
+    "Geometric group theory",
+    "Homotopy theory"
+  ]
+}

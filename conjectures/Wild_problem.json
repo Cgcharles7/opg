@@ -1,0 +1,36 @@
+{
+  "uuid": "c1180504-c09d-4327-92a1-abf2857da9fc",
+  "name": "Wild problem",
+  "link": "https://en.wikipedia.org/wiki/Wild_problem",
+  "rephrased": "A problem is wild if it is as complex as classifying pairs of square matrices up to simultaneous similarity (i.e., determining when two pairs of matrices can be transformed into each other by the same change of basis).",
+  "implication_form": "If a problem includes the classification of pairs of square matrices up to simultaneous similarity, then it is a wild problem.",
+  "posed_by": "Unknown (concepts in representation theory)",
+  "solved_by": "unsolved",
+  "year_originated": 50,
+  "explained": "A problem is considered wild if it contains the classification problem of pairs of square matrices of the same size over a field (e.g., the real or complex numbers) up to simultaneous similarity (i.e., equivalence under conjugation by the same invertible matrix). This means that solving such a wild problem would require being able to classify all pairs (A, B) of n x n matrices up to the equivalence relation (A, B) ~ (P A P^{-1}, P B P^{-1}) for some invertible matrix P, for all n simultaneously. The conjecture/problem statement itself is the characterization of mathematical situations (like classifying representations of certain quivers) that contain this specific, computationally intractable (wild) subproblem. In essence, it identifies problems that are as difficult as or harder than classifying pairs of matrices up to simultaneous similarity.",
+  "terms": [
+    "Linear Algebra",
+    "Representation Theory",
+    "Wild Problem",
+    "Simultaneous Similarity",
+    "Quiver",
+    "Indecomposable Representation",
+    "Dynkin Quiver",
+    "Euclidean Quiver",
+    "Classification Problem",
+    "Equivalence Relation"
+  ],
+  "related_conjectures": [
+    "Classification of indecomposable representations of Dynkin quivers",
+    "Classification of indecomposable representations of Euclidean quivers",
+    "Problems involving the representation theory of associative algebras",
+    "Moduli problems in algebraic geometry related to representations"
+  ],
+  "subjects": [
+    "Linear Algebra",
+    "Representation Theory",
+    "Algebraic Geometry",
+    "Category Theory",
+    "Algebra"
+  ]
+}

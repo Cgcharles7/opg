@@ -1,0 +1,33 @@
+{
+  "uuid": "0ba48cee-6c29-48d9-84f3-692cb84d7ce1",
+  "name": "Williamson conjecture",
+  "link": "https://en.wikipedia.org/wiki/Williamson_conjecture",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "The Williamson conjecture states that Williamson matrices exist for all positive integers n. A Williamson matrix of order n is a set of four symmetric circulant matrices A, B, C, D with entries from {1, -1} satisfying specific conditions. Specifically, these matrices must satisfy A · Aᵀ = A · A = nI, B · Bᵀ = B · B = nI, C · Cᵀ = C · C = nI, D · Dᵀ = D · D = nI, and also A · Bᵀ = A · B = 0, A · Cᵀ = A · C = 0, A · Dᵀ = A · D = 0, B · Cᵀ = B · C = 0, B · Dᵀ = B · D = 0, and C · Dᵀ = C · D = 0. The conjecture asserts that such matrices exist for all orders n.",
+  "terms": [
+    "Williamson matrix",
+    "Symmetric matrix",
+    "Circulant matrix",
+    "Hadamard matrix",
+    "Combinatorial design",
+    "Matrix theory",
+    "Orthogonality"
+  ],
+  "related_conjectures": [
+    "Hadamard conjecture",
+    "Paley conjecture",
+    "Erdős–Ko–Rado theorem",
+    "Existence of mutually orthogonal Latin squares"
+  ],
+  "subjects": [
+    "Combinatorial design theory",
+    "Combinatorial matrix theory",
+    "Coding theory",
+    "Finite geometry",
+    "Theoretical computer science"
+  ]
+}

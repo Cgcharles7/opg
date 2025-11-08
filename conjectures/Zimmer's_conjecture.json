@@ -1,0 +1,39 @@
+{
+  "uuid": "bffd2183-404f-4b44-896f-2cb24db62afc",
+  "name": "Zimmer's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Zimmer%27s_conjecture",
+  "rephrased": "Higher-rank lattices (a type of symmetry) cannot act on geometric spaces of lower dimension than their rank.",
+  "implication_form": "If a geometric space admits a higher-rank lattice symmetry, then the space must be of dimension at least the rank of the lattice.",
+  "posed_by": "Robert Zimmer",
+  "solved_by": [
+    "Aaron Brown",
+    "Sebastián Hurtado-Salazar",
+    "David Fisher"
+  ],
+  "year_originated": 35,
+  "explained": "Zimmer's conjecture states that there is a function, depending on the rank of the lattice and the dimension of the space, such that any action of a higher-rank lattice (e.g., SL(n, Z) for n ≥ 3) on a compact manifold that preserves a rigid geometric structure (such as a Riemannian metric, symplectic form, or complex structure) must be essentially algebraic (or induced by a linear representation) if the dimension of the manifold is sufficiently large. In other words, higher-rank lattices cannot act faithfully and effectively on compact manifolds of dimension less than some bound depending on the lattice's rank, unless the action is highly structured (e.g., preserves a foliation or is induced by a representation).",
+  "terms": [
+    "Lattice (mathematics)",
+    "Higher-rank lattice",
+    "Rigid geometric structure",
+    "Compact manifold",
+    "Invariant measure",
+    "Ergodic theory",
+    "Homogeneous dynamics",
+    "Algebraic action",
+    "Invariant foliation",
+    "Symmetric space"
+  ],
+  "related_conjectures": [
+    "Langlands program",
+    "Rigidity conjectures in homogeneous dynamics",
+    "Oppenheim conjecture"
+  ],
+  "subjects": [
+    "Geometry",
+    "Dynamics",
+    "Number theory",
+    "Ergodic theory",
+    "Mathematical physics"
+  ]
+}

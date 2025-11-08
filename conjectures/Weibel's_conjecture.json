@@ -1,0 +1,42 @@
+{
+  "uuid": "2cdaf706-47d9-49ef-b0d2-424670f9a458",
+  "name": "Weibel's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Weibel%27s_conjecture",
+  "rephrased": "There exists a criterion that allows one to determine when negative algebraic K-theory groups vanish.",
+  "implication_form": "If certain conditions are met (related to the vanishing of other cohomological invariants), then the negative algebraic K-theory groups vanish.",
+  "posed_by": "Weibel",
+  "solved_by": "Kerz, Strunk & Tamme",
+  "year_originated": 43,
+  "explained": "Weibel's conjecture addresses the vanishing of negative algebraic K-theory groups for schemes. It posits a criterion under which the negative K-groups vanish, often related to the dimension of the scheme or other geometric properties. The conjecture states that for a regular scheme X of dimension n, the negative K-groups K_i(X) vanish for i < -(n-1). Furthermore, it proposes a more general criterion involving the vanishing of K-theory with coefficients related to the structure sheaf.",
+  "terms": [
+    "Algebraic K-theory",
+    "Negative K-theory",
+    "Derived algebraic geometry",
+    "Kerz",
+    "Strunk",
+    "Tamme",
+    "Haesemeyer",
+    "Cortiñas",
+    "Geisser",
+    "Hesselholt",
+    "Cisinski",
+    "Kelly",
+    "Morrow",
+    "Derived categories",
+    "Coherent sheaves",
+    "Schemes",
+    "Vanishing"
+  ],
+  "related_conjectures": [
+    "Gersten conjecture",
+    "Milnor conjecture (on étale cohomology of fields)",
+    "Bloch-Kato conjecture (now known as the Suslin-Ostrowski theorem)"
+  ],
+  "subjects": [
+    "Algebraic Geometry",
+    "Algebraic Topology",
+    "Homological Algebra",
+    "Number Theory",
+    "Derived Algebraic Geometry"
+  ]
+}

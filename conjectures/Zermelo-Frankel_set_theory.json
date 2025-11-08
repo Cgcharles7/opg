@@ -1,0 +1,40 @@
+{
+  "uuid": "c0e6e189-4d84-4de4-a251-f53d7afc48c3",
+  "name": "Zermelo-Frankel set theory",
+  "link": "https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory",
+  "rephrased": "An axiomatic system for set theory developed to avoid logical paradoxes and serve as a foundation for mathematics.",
+  "implication_form": null,
+  "posed_by": "Ernst Zermelo and Abraham Fraenkel",
+  "solved_by": "unsolved",
+  "year_originated": 100,
+  "explained": "Zermelo-Fraenkel set theory (ZF) is an axiomatic system that forms the foundation of modern set theory and, consequently, most of contemporary mathematics. It was developed in the early 20th century by Ernst Zermelo and Abraham Fraenkel to address the inconsistencies found in earlier set theories, such as Russell's paradox. ZF consists of a collection of axioms that define the properties of sets and their operations. The most commonly studied version includes the Axiom of Choice (AC), forming Zermelo-Fraenkel with Choice (ZFC). ZF axioms provide rules for constructing sets, ensuring that paradoxes like Russell's do not arise. The system allows for the rigorous development of mathematical concepts, from natural numbers and real analysis to advanced topics like topology and algebra, by defining them in terms of sets. ZF does not prove certain statements, such as the Continuum Hypothesis, which remains independent of the axioms under ZFC.",
+  "terms": [
+    "Axiom of Choice (AC)",
+    "Axiom of Foundation",
+    "Axiom of Pairing",
+    "Axiom of Power Set",
+    "Axiom of Replacement",
+    "Axiom of Union",
+    "Forcing",
+    "Large Cardinals",
+    "Model Theory",
+    "Set Theory",
+    "Russell's Paradox",
+    "Cardinal Numbers",
+    "Ordinal Numbers"
+  ],
+  "related_conjectures": [
+    "Continuum Hypothesis (CH)",
+    "P versus NP problem (in descriptive set theory)",
+    "Determinacy axioms",
+    "Inner Model Program",
+    "Suslin's hypothesis"
+  ],
+  "subjects": [
+    "Set Theory",
+    "Mathematical Logic",
+    "Foundations of Mathematics",
+    "Model Theory",
+    "Descriptive Set Theory"
+  ]
+}

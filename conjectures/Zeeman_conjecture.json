@@ -1,0 +1,31 @@
+{
+  "uuid": "07a7db42-dbf1-40c3-9e7d-e3e3d52bcb7f",
+  "name": "Zeeman conjecture",
+  "link": "https://en.wikipedia.org/wiki/Zeeman_conjecture",
+  "rephrased": "The Zeeman conjecture asks whether the product of any contractible 2-dimensional CW complex with the unit interval [0,1] is collapsible.",
+  "implication_form": "If a 2-complex is contractible, then its product with the unit interval is collapsible.",
+  "posed_by": "Edwin Zeeman",
+  "solved_by": "Unsolved",
+  "year_originated": 50,
+  "explained": "The Zeeman conjecture states that given a finite contractible 2-dimensional CW complex K, the product space K × [0,1] is collapsible. An equivalent restatement is that for any 2-dimensional simplicial complex G (which is a triangulated version of a contractible CW complex), the product G × [0,1] is collapsible.",
+  "terms": [
+    "Collapsible CW Complex",
+    "Contractible Space",
+    "CW Complex",
+    "Simplicial Complex",
+    "Product Space",
+    "Geometric Topology",
+    "Combinatorial Topology"
+  ],
+  "related_conjectures": [
+    "Poincaré Conjecture (Original)",
+    "Bing Conjecture",
+    "Uniformization Conjecture"
+  ],
+  "subjects": [
+    "Geometric Topology",
+    "Algebraic Topology",
+    "Combinatorial Topology",
+    "Computational Topology"
+  ]
+}

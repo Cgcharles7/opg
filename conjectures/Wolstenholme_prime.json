@@ -1,0 +1,28 @@
+{
+  "uuid": "4c435fd5-dddc-47cf-b755-4feb68bcb971",
+  "name": "Wolstenholme prime",
+  "link": "https://en.wikipedia.org/wiki/Wolstenholme_prime",
+  "rephrased": "A Wolstenholme prime is a prime number that satisfies a stronger condition related to binomial coefficients, specifically where certain binomial coefficients are congruent to 0 modulo p^3.",
+  "implication_form": "If a prime p satisfies a stronger congruence condition involving binomial coefficients modulo p^3, then p is a Wolstenholme prime.",
+  "posed_by": "Joseph Wolstenholme",
+  "solved_by": "unsolved",
+  "year_originated": 150,
+  "explained": "A Wolstenholme prime is a prime number p > 3 that satisfies the stronger condition of Wolstenholme's theorem. Specifically, it is a prime p such that the binomial coefficient C(p-1, (p-1)/2) is congruent to 0 modulo p^2. Equivalently, p is a Wolstenholme prime if the binomial coefficient C(p-1, k) is congruent to 0 modulo p^2 for all k not divisible by p, or if the Bernoulli number B_{p-1} is congruent to 0 modulo p^2.",
+  "terms": [
+    "Wolstenholme's theorem",
+    "Binomial coefficient",
+    "Bernoulli number",
+    "Wilson's theorem",
+    "Fermat quotient"
+  ],
+  "related_conjectures": [
+    "Artin's conjecture on primitive roots",
+    "Fermat quotient conjectures",
+    "Congruences for Bernoulli numbers"
+  ],
+  "subjects": [
+    "Number theory",
+    "Combinatorics",
+    "Algebra"
+  ]
+}

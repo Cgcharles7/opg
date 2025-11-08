@@ -1,0 +1,30 @@
+{
+  "uuid": "5e9ca14c-fc81-4328-98b2-ec0165b0dd73",
+  "name": "Wolstenholme's theorem",
+  "link": "https://en.wikipedia.org/wiki/Wolstenholme%27s_theorem",
+  "rephrased": "For any prime number p that is 5 or larger, the binomial coefficient C(2p-2, p-1) is divisible by p squared.",
+  "implication_form": "If p is a prime number greater than or equal to 5, then C(2p-2, p-1) ≡ 1 (mod p²).",
+  "posed_by": "Robert Fredrick Wolstenholme",
+  "solved_by": "Unsolved (the forward direction was proven, but the converse is not generally established)",
+  "year_originated": 1862,
+  "explained": "Wolstenholme's theorem is a proven result in number theory, not a conjecture. It states that for any prime number p ≥ 5, the binomial coefficient C(2p-1, p-1) (read as '2p-1 choose p-1) satisfies the congruence C(2p-1, p-1) ≡ 1 (mod p²).",
+  "terms": [
+    "Binomial coefficients",
+    "Modular arithmetic",
+    "Primes",
+    "p-adic valuation",
+    "Harmonic numbers",
+    "Fermat quotient"
+  ],
+  "related_conjectures": [
+    "Bertrand's postulate",
+    "Lucas' theorem",
+    "Congruences for binomial coefficients modulo primes"
+  ],
+  "subjects": [
+    "Number theory",
+    "Algebra",
+    "Combinatorics",
+    "p-adic analysis"
+  ]
+}

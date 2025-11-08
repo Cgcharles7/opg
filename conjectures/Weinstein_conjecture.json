@@ -1,0 +1,33 @@
+{
+  "uuid": "df03abb9-2e1a-497f-9e5e-c5d4beb11f2c",
+  "name": "Weinstein conjecture",
+  "link": "https://en.wikipedia.org/wiki/Weinstein_conjecture",
+  "rephrased": "Every compact contact manifold has at least one closed loop that repeats itself under the flow defined by its Reeb vector field.",
+  "implication_form": "If a manifold is compact and contact, then its Reeb vector field carries at least one periodic orbit.",
+  "posed_by": "Arnold Weinstein",
+  "solved_by": "Helmut Hofer (1998)",
+  "year_originated": 55,
+  "explained": "The Weinstein conjecture asserts that on any compact contact manifold, the Reeb vector field associated with the contact structure must have at least one periodic orbit. In essence, it guarantees the existence of a closed trajectory for the flow defined by the Reeb vector field in any compact contact manifold.",
+  "terms": [
+    "Contact manifold",
+    "Reeb vector field",
+    "Hamiltonian flow",
+    "Symplectic form",
+    "Contact form",
+    "Periodic orbit",
+    "Hamiltonian mechanics",
+    "Symplectic geometry",
+    "Contact geometry"
+  ],
+  "related_conjectures": [
+    "Arnol'd conjecture (regarding fixed points of Hamiltonian flows)",
+    "Question on the existence of symplectically harmonic forms"
+  ],
+  "subjects": [
+    "Symplectic geometry",
+    "Contact geometry",
+    "Hamiltonian mechanics",
+    "Dynamical systems",
+    "Topology"
+  ]
+}

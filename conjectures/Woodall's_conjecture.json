@@ -1,0 +1,25 @@
+{
+  "uuid": "7bbff1d0-c9f0-4231-a2f0-4a917e6432de",
+  "name": "Woodall's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Woodall%27s_conjecture",
+  "rephrased": "For any directed graph, the size of the smallest set of edges (called a 'dijoins') that covers all directed edges is equal to the size of the largest set of edges (called a 'dicut') that separates the graph into two parts with all edges going in one direction.",
+  "implication_form": "If a directed graph has a dicut of size k, then it has a dijoin of size k.",
+  "posed_by": "Douglas R. Woodall",
+  "solved_by": "unsolved",
+  "year_originated": 48,
+  "explained": "Woodall's conjecture states that if a directed graph has a dicut of size k (i.e., a partition of the vertex set into two parts A and B such that all arcs from A to B are present and there are k such arcs), then there exists a dijoing (a set of k arcs that form an arborescence rooted at some vertex) of size at most k.",
+  "terms": [
+    "dicut",
+    "dijoing",
+    "directed graph",
+    "arborescence"
+  ],
+  "related_conjectures": [
+    "Edmonds–Giles conjecture"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Theoretical computer science (related to flows)"
+  ]
+}

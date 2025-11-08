@@ -1,0 +1,30 @@
+{
+  "uuid": "74cd8768-691e-4eac-aa64-892158164622",
+  "name": "Yau's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Yau%27s_conjecture",
+  "rephrased": "Any closed three-dimensional shape with a specific geometric structure (a Riemannian metric) must contain infinitely many surfaces that are locally minimal, like soap films without gravity.",
+  "implication_form": "If a Riemannian 3-manifold is closed, then it has infinitely many minimal surfaces.",
+  "posed_by": "Shing-Tung Yau",
+  "solved_by": [
+    "Kei Irie",
+    "Fernando Codá Marques",
+    "André Neves",
+    "Antoine Song"
+  ],
+  "year_originated": 1982,
+  "explained": "Yau's conjecture states that any closed Riemannian 3-manifold admits infinitely many distinct smooth closed immersed minimal surfaces.",
+  "terms": [
+    "Riemannian manifold",
+    "minimal surface",
+    "immersed",
+    "Calabi-Yau conjecture",
+    "Ricci curvature"
+  ],
+  "related_conjectures": "Calabi conjecture, Poincaré conjecture, Yang-Mills existence and mass gap conjecture, Bénilan's leafwise homotopy theory",
+  "subjects": [
+    "Differential geometry",
+    "Global analysis",
+    "Riemannian geometry",
+    "Topology"
+  ]
+}

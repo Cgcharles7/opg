@@ -1,0 +1,23 @@
+{
+  "uuid": "f60e7e74-acaa-4e19-adbd-eae32c6bd05f",
+  "name": "Wilson prime",
+  "link": "https://en.wikipedia.org/wiki/Wilson_prime",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "In number theory, a Wilson prime is defined as a prime number p that satisfies the condition where p squared divides the quantity (p-1)! + 1, with the factorial symbol '!' denoting the product of all positive integers up to (p-1). This condition is a stronger requirement than Wilson's Theorem, which states that (p-1)! ≡ -1 (mod p) for any prime p, but requires only divisibility by p, not p squared.",
+  "terms": [
+    "Wilson's Theorem",
+    "Primorial Prime",
+    "Wilson Number (non-standard term sometimes used colloquially)"
+  ],
+  "related_conjectures": [
+    "Infinitude of Wilson primes (conjectured but unknown)"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Factorial Properties"
+  ]
+}

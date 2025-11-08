@@ -1,0 +1,30 @@
+{
+  "uuid": "3e5b6b74-9424-40da-881e-ebcca405f8a5",
+  "name": "Wieferich prime",
+  "link": "https://en.wikipedia.org/wiki/Wieferich_prime",
+  "rephrased": "A Wieferich prime is a prime number p such that p squared divides 2 raised to the power of p minus 2.",
+  "implication_form": "If p is an odd prime and p² divides 2^p - 2, then p is a Wieferich prime.",
+  "posed_by": "Arthur Wieferich",
+  "solved_by": "unsolved",
+  "year_originated": 110,
+  "explained": "A Wieferich prime is a prime number p such that p² divides 2^p - 2. This condition strengthens Fermat's Little Theorem, which states that 2^p ≡ 2 (mod p) for odd primes p, but for Wieferich primes, the congruence holds modulo p². The first Wieferich primes are 1093 and 3511. Only these two are known below 6.8 × 10¹², and it is believed that there are only finitely many such primes. While Wieferich primes were initially studied in relation to Fermat's Last Theorem, they are now connected to other areas like primality testing, pseudoprimes, and elliptic curves.",
+  "terms": [
+    "Prime number",
+    "Fermat's Little Theorem",
+    "Fermat quotient",
+    "Wilson prime",
+    "Pseudoprime",
+    "Elliptic curve"
+  ],
+  "related_conjectures": [
+    "Fermat's Last Theorem (proven)",
+    "Catalan's conjecture (proven)",
+    "Connection to other areas of number theory"
+  ],
+  "subjects": [
+    "Number theory",
+    "Primality testing",
+    "Modular arithmetic",
+    "Elliptic curves"
+  ]
+}

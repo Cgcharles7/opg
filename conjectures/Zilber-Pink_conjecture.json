@@ -1,0 +1,44 @@
+{
+  "uuid": "1c8e042a-0086-4b8d-9b69-0637b3cd88cc",
+  "name": "Zilber–Pink conjecture",
+  "link": "https://en.wikipedia.org/wiki/Zilber%E2%80%93Pink_conjecture",
+  "rephrased": "The Zilber–Pink conjecture is a broad hypothesis in number theory that generalizes several other famous Diophantine conjectures and statements, such as André–Oort and Manin–Mumford, by providing a framework to study unlikely intersections in algebraic groups like tori and semiabelian varieties.",
+  "implication_form": "If the Zilber–Pink conjecture holds for semiabelian varieties, then the Mordell–Lang and Manin–Mumford conjectures must also hold.",
+  "posed_by": [
+    "Boris Zilber",
+    "Enrico Bombieri",
+    "David Masser",
+    "Umberto Zannier",
+    "Richard Pink"
+  ],
+  "solved_by": "unsolved",
+  "year_originated": 20,
+  "explained": "The Zilber–Pink conjecture is a highly influential and broad conjecture in Diophantine geometry. It generalizes several classical conjectures and theorems concerning the unlikely intersections of subvarieties of algebraic groups with sets of special points or other subvarieties. Formally, it concerns the intersection of a subvariety of a semiabelian variety (or more generally, a product of an algebraic torus and a semiabelian variety) with certain algebraic subgroups or unions of them, weighted by the Zariski density of the subvariety. The conjecture predicts that if a subvariety contains a Zariski dense subset of a certain type (related to the Mordell–Lang or Manin–Mumford conditions) or intersects a proper algebraic subgroup in a 'large' set (exceeding a certain dimension threshold based on the Mordell–Lang prediction), then the subvariety must be contained in a proper algebraic subgroup. It provides a precise framework for understanding when subvarieties of algebraic groups contain too many points from special subvarieties or algebraic subgroups, leading to the conclusion that the subvariety itself must be special (i.e., contained in a proper subgroup).",
+  "terms": [
+    "Diophantine geometry",
+    "Algebraic geometry",
+    "Diophantine equations",
+    "Semiabelian varieties",
+    "Algebraic torus",
+    "Algebraic subgroups",
+    "Zariski density",
+    "Special points",
+    "Mordell–Lang theorem",
+    "Manin–Mumford conjecture",
+    "André–Oort conjecture"
+  ],
+  "related_conjectures": [
+    "André–Oort conjecture",
+    "Mordell–Lang conjecture (now theorem for abelian varieties)",
+    "Manin–Mumford conjecture",
+    "Mordell–Weil theorem",
+    "Manin conjecture"
+  ],
+  "subjects": [
+    "Algebraic geometry",
+    "Number theory",
+    "Diophantine geometry",
+    "Arithmetic geometry",
+    "Model theory"
+  ]
+}

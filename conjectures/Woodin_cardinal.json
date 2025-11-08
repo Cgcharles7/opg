@@ -1,0 +1,28 @@
+{
+  "uuid": "86a2c930-d4c1-4ad5-8021-0164b63900c1",
+  "name": "Woodin cardinal",
+  "link": "https://en.wikipedia.org/wiki/Woodin_cardinal",
+  "rephrased": "A Woodin cardinal is a type of large cardinal that is defined by the property that for every function from the cardinal to itself, there exists a smaller cardinal such that the critical point of a certain embedding equals that smaller cardinal.",
+  "implication_form": "It is not straightforward to rephrase this definition in the form 'If P, then Q' as it describes a property defining the cardinal rather than a conditional statement.",
+  "posed_by": "W. Hugh Woodin",
+  "solved_by": "unsolved",
+  "year_originated": 32,
+  "explained": "A Woodin cardinal is a cardinal number λ such that for every function f: λ → λ, there exists a cardinal κ < λ with the property that for all β > κ, V_{f(β)} = V_{κ + ω(β)}. This condition ensures that the cumulative hierarchy reflects the structure of the cardinal in a specific way for functions defined on it.",
+  "terms": [
+    "Large cardinal",
+    "Set theory",
+    "Elementary embedding",
+    "Cumulative hierarchy",
+    "Cardinal number"
+  ],
+  "related_conjectures": [
+    "Axiom of Determinacy",
+    "Strong Axiom of Determinacy",
+    "Ultimate L"
+  ],
+  "subjects": [
+    "Set theory",
+    "Descriptive set theory",
+    "Mathematical logic"
+  ]
+}
