@@ -1,0 +1,29 @@
+{
+  "uuid": "2519a1f7-8005-4258-ac91-0527d423d271",
+  "name": "Hardy–Littlewood zeta function conjectures",
+  "link": "https://en.wikipedia.org/wiki/Hardy%E2%80%93Littlewood_zeta_function_conjectures",
+  "rephrased": "These conjectures predict the spacing between zeros on the critical line and the density of zeros of the Riemann zeta function.",
+  "implication_form": "If the zeros of the Riemann zeta function satisfy certain spacing properties, then their density is constrained in a specific way.",
+  "posed_by": "Godfrey Harold Hardy and John Edensor Littlewood",
+  "solved_by": "unsolved",
+  "year_originated": 110,
+  "explained": "The Hardy–Littlewood zeta function conjectures, formulated by Godfrey Harold Hardy and John Edensor Littlewood, address the distribution and spacing of the non-trivial zeros of the Riemann zeta function, assuming the Riemann Hypothesis holds (i.e., all non-trivial zeros lie on the critical line Re(s) = 1/2). They provide conjectures about the average gap between consecutive zeros and the density of zeros on the critical line. The first conjecture (often denoted as Conjecture A) states that the average gap between the n-th pair of zeros (measured along the critical line) approaches a specific value as n increases, reflecting a form of asymptotic regularity. The second conjecture (Conjecture B) deals with the density of zeros up to a certain height on the critical line, offering a more precise asymptotic estimate for the number of zeros in a given interval.",
+  "terms": [
+    "Riemann zeta function",
+    "Riemann Hypothesis",
+    "non-trivial zeros",
+    "critical line",
+    "average spacing",
+    "density of zeros",
+    "asymptotic distribution"
+  ],
+  "related_conjectures": [
+    "Riemann Hypothesis",
+    "GUE hypothesis (for zeros of zeta)"
+  ],
+  "subjects": [
+    "Analytic number theory",
+    "Complex analysis",
+    "Random matrix theory"
+  ]
+}

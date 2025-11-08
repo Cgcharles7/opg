@@ -1,0 +1,34 @@
+{
+  "uuid": "350a440c-c3d3-4af7-b480-eab161108a2e",
+  "name": "Henson graph",
+  "link": "https://en.wikipedia.org/wiki/Henson_graph",
+  "rephrased": "The Henson graph Gi is an infinite, countable, homogeneous graph that avoids a specific i-clique but contains every finite graph that also avoids that i-clique.",
+  "implication_form": "It is not possible to frame this as a standard 'If P, then Q' implication, as the original statement is more of a definition than a conjecture to be proven.",
+  "posed_by": "C. Ward Henson",
+  "solved_by": "unsolved",
+  "year_originated": 50,
+  "explained": "The Henson graph H_i (or G_i) is a well-defined infinite graph, not a conjecture. It is the unique (up to isomorphism) countable homogeneous graph that omits a specific i-vertex clique (K_i) but contains every finite graph that does not contain a K_i as an induced subgraph. For example, the Henson graph H_3 is triangle-free and contains all finite triangle-free graphs.",
+  "terms": [
+    "Graph theory",
+    "Infinite graph",
+    "Countable graph",
+    "Homogeneous graph",
+    "Clique",
+    "K_i-free graph",
+    "Induced subgraph",
+    "Ramsey theory",
+    "Fraïssé theory",
+    "Automorphism group"
+  ],
+  "related_conjectures": [
+    "Rado graph (infinite complete graph)",
+    "Erdős–Szekeres theorem",
+    "Ramsey theory conjectures"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Set theory",
+    "Model theory"
+  ]
+}

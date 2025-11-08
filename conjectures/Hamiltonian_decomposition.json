@@ -1,0 +1,30 @@
+{
+  "uuid": "8f2724c5-dff9-4c4f-8c6e-5820faebc1f7",
+  "name": "Hamiltonian decomposition",
+  "link": "https://en.wikipedia.org/wiki/Hamiltonian_decomposition",
+  "rephrased": "For certain graphs, it is possible to divide all the edges into sets, each forming a single cycle that visits every vertex exactly once (a Hamiltonian cycle).",
+  "implication_form": "If a graph has a Hamiltonian decomposition, then its edges can be partitioned into Hamiltonian cycles.",
+  "posed_by": "Attributed to Hamiltonian cycle concepts (named after William Rowan Hamilton), but no specific proposer for the decomposition conjecture is widely recognized.",
+  "solved_by": "unsolved",
+  "year_originated": "1970s or 1980s (estimated)",
+  "explained": "A Hamiltonian decomposition refers to a specific concept in graph theory, not an open conjecture. It describes a partition of the edges of a graph (either undirected or directed) into Hamiltonian cycles. In the undirected case, this is equivalent to a 2-factorization (a decomposition into disjoint cycles covering all edges) where each factor (cycle) is connected. There is no specific mathematical statement (like 'the graph has a Hamiltonian decomposition') that is being conjectured here; the definition itself is the key point.",
+  "terms": [
+    "Hamiltonian cycle",
+    "2-factorization",
+    "connected graph",
+    "undirected graph",
+    "directed graph",
+    "graph decomposition",
+    "Hamiltonian path"
+  ],
+  "related_conjectures": [
+    "Hamiltonian Cycle Problem (a central NP-complete problem in graph theory)",
+    "Tait's conjecture (about Hamiltonian cycles in cubic graphs)",
+    "2-factor conjecture"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Combinatorial optimization"
+  ]
+}

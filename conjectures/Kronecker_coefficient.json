@@ -1,0 +1,36 @@
+{
+  "uuid": "124334c5-d79d-48e1-bb0f-c4e079f432a0",
+  "name": "Kronecker coefficient",
+  "link": "https://en.wikipedia.org/wiki/Kronecker_coefficient",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "The Kronecker coefficient g(λ, μ, ν) is defined for three partitions λ, μ, ν of integers. It represents the multiplicity of the irreducible representation corresponding to the partition ν in the decomposition of the tensor product of the irreducible representations corresponding to partitions λ and μ under the symmetric group S_n (for sufficiently large n). In formulaic terms, g(λ, μ, ν) is the multiplicity of the irreducible character χ_ν in the product of the irreducible characters χ_λ and χ_μ. While Kronecker coefficients are defined for all partitions (with the convention that they vanish unless ν is contained in the 'direct sum' of λ and μ), they are particularly significant for partitions of the same integer n, where the symmetric group S_n acts. The challenge lies in computing these coefficients efficiently, which remains a difficult problem in algebraic combinatorics.",
+  "terms": [
+    "Partitions",
+    "Young tableaux",
+    "Symmetric group",
+    "Irreducible representations",
+    "Tensor product",
+    "Character theory",
+    "Algebraic combinatorics",
+    "Geometric complexity theory",
+    "Plethysm",
+    "Littlewood-Richardson coefficients (related for certain cases)"
+  ],
+  "related_conjectures": [
+    "Saxl conjecture (predicts the highest weight in the Kronecker product)",
+    "Foulkes conjecture (about Kronecker products of two equal partitions)",
+    "P vs NP problem (computing Kronecker coefficients is believed to be computationally hard)"
+  ],
+  "subjects": [
+    "Algebraic combinatorics",
+    "Representation theory",
+    "Symmetric functions",
+    "Geometric complexity theory",
+    "Algebraic geometry",
+    "Computational complexity"
+  ]
+}

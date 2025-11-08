@@ -1,0 +1,35 @@
+{
+  "uuid": "cc871a4a-a312-47a9-92a7-f6066d0c3473",
+  "name": "Hadwiger–Nelson problem",
+  "link": "https://en.wikipedia.org/wiki/Hadwiger%E2%80%93Nelson_problem",
+  "rephrased": "What is the smallest number of colors needed to color the entire plane so that no two points exactly one unit apart have the same color?",
+  "implication_form": "If the plane can be colored with fewer than 5 colors such that no two points at distance 1 share the same color, then there must exist a pair of points at distance 1 that share the same color (though this is not the standard way to express the conjecture, as it is fundamentally about finding the minimum number, not a specific implication).",
+  "posed_by": [
+    "Hugo Hadwiger",
+    "Edward Nelson"
+  ],
+  "solved_by": "unsolved",
+  "year_originated": 78,
+  "explained": "The Hadwiger–Nelson problem asks for the minimum number of colors required to color the entire plane such that no two points that are exactly distance 1 apart from each other share the same color. This minimum number is currently unknown but is known to be one of the integers 5, 6, or 7. Furthermore, the exact chromatic number of the plane may depend on the underlying axioms of set theory (e.g., Zermelo-Fraenkel set theory with the Axiom of Choice, or systems where the Axiom of Choice is negated).",
+  "terms": [
+    "Geometric graph theory",
+    "Unit distance",
+    "Chromatic number",
+    "Graph coloring",
+    "Euclidean plane",
+    "Axiom of Choice",
+    "Measurable coloring",
+    "Polychromatic number"
+  ],
+  "related_conjectures": [
+    "Four Color Theorem",
+    "Moser spindle",
+    "Chromatic number of the infinite grid"
+  ],
+  "subjects": [
+    "Geometric graph theory",
+    "Graph theory",
+    "Combinatorics",
+    "Set theory"
+  ]
+}

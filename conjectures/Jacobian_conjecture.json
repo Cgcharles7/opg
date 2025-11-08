@@ -1,0 +1,25 @@
+{
+  "uuid": "0d339786-edfa-47ab-81d3-1cf189194c53",
+  "name": "Jacobian conjecture",
+  "link": "https://en.wikipedia.org/wiki/Jacobian_conjecture",
+  "rephrased": "If a polynomial map from an n-dimensional space to itself has a constant non-zero Jacobian determinant, then it has a polynomial inverse.",
+  "implication_form": "If a polynomial map has a constant non-zero Jacobian determinant, then it has a polynomial inverse.",
+  "posed_by": "Ott-Heinrich Keller",
+  "solved_by": "unsolved",
+  "year_originated": 85,
+  "explained": "The Jacobian conjecture states that if a polynomial function from an n-dimensional complex affine space to itself has a constant non-zero Jacobian determinant, then it is invertible, and its inverse is also a polynomial function.",
+  "terms": [
+    "Polynomial function",
+    "Jacobian determinant",
+    "Polynomial automorphism",
+    "Affine space",
+    "Polynomial ring"
+  ],
+  "related_conjectures": [
+    "Dixmier conjecture"
+  ],
+  "subjects": [
+    "Algebraic geometry",
+    "Commutative algebra"
+  ]
+}

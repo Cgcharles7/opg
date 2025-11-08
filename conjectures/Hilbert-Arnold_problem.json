@@ -1,0 +1,33 @@
+{
+  "uuid": "5369afe7-f0f6-4429-b5b8-7ed03cf89eb4",
+  "name": "Hilbert–Arnold problem",
+  "link": "https://en.wikipedia.org/wiki/Hilbert%E2%80%93Arnold_problem",
+  "rephrased": "Can the number of limit cycles in a generic smooth vector field on a sphere be bounded?",
+  "implication_form": "If a generic smooth vector field on a sphere exists, then the number of limit cycles can be bounded.",
+  "posed_by": "David Hilbert and Sophus Lie (combined with V. I. Arnold's work)",
+  "solved_by": "unsolved",
+  "year_originated": 123,
+  "explained": "The Hilbert-Arnold problem concerns the estimation of the number of limit cycles in generic families of smooth vector fields defined on a sphere. A limit cycle is a closed trajectory in the phase space that is isolated and invariant under the flow. The conjecture specifically asks whether the maximum number of such limit cycles can be bounded above for any smooth, generic family of vector fields on the sphere.",
+  "terms": [
+    "Limit cycle",
+    "Dynamical systems",
+    "Vector field",
+    "Sphere",
+    "Generic family",
+    "Smooth function",
+    "Flow (dynamical systems)"
+  ],
+  "related_conjectures": [
+    "Hilbert 16th Problem (classifies limit cycles in planar polynomial vector fields)",
+    "Poincaré-Bendixson Theorem (describes the behavior of dynamical systems in the plane)",
+    "Arnold's Axioms (fundamental principles in dynamical systems theory)",
+    "Morse Theory (studies the topology of manifolds via critical points of smooth functions)"
+  ],
+  "subjects": [
+    "Dynamical Systems",
+    "Differential Equations",
+    "Topology",
+    "Singularity Theory",
+    "Smooth Ergodic Theory"
+  ]
+}

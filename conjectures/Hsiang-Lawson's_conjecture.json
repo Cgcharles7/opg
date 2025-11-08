@@ -1,0 +1,29 @@
+{
+  "uuid": "bc3ddf6c-d263-4c8e-8119-4204c773a709",
+  "name": "Hsiang–Lawson's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Hsiang%E2%80%93Lawson%27s_conjecture",
+  "rephrased": "The only minimal surface that can be embedded as a torus in the 3-sphere S3 is the Clifford torus.",
+  "implication_form": "If a torus is minimally embedded in S3, then it is the Clifford torus.",
+  "posed_by": "Hsiang and Lawson",
+  "solved_by": "Simon Brendle",
+  "year_originated": 40,
+  "explained": "Hsiang–Lawson's conjecture, originally attributed to Hsiang and later refined by Lawson, states that among all isometric embeddings of the flat torus into the 3-sphere S^3, only the Clifford torus is minimal (i.e., has mean curvature zero everywhere). A minimal surface is one that locally minimizes its area, and the mean curvature being zero is a stronger condition than just having zero mean curvature in the sense of harmonic maps for surfaces. The Clifford torus is defined as T_c = S^1(r) × S^1(√(2-r^2)) for some radius r (specifically, it is often taken with equal radii, though this is a special case). The conjecture asserts that this specific embedding is the unique one without singularities that minimizes surface area among all such embeddings.",
+  "terms": [
+    "Minimal surface",
+    "Mean curvature",
+    "Clifford torus",
+    "3-sphere (S^3)",
+    "Isometric embedding",
+    "Flat torus"
+  ],
+  "related_conjectures": [
+    "Isoparametric Hypothesis (concerning isoparametric hypersurfaces, where minimal tori are examples)",
+    "Willmore Conjecture (which concerns the Willmore energy of embedded tori in spheres, including S^3)"
+  ],
+  "subjects": [
+    "Differential Geometry",
+    "Global Analysis",
+    "Partial Differential Equations (PDEs)",
+    "Topology"
+  ]
+}

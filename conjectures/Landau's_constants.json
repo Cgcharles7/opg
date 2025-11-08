@@ -1,0 +1,31 @@
+{
+  "uuid": "7ae491d1-14ab-4368-9557-902ed0a1398d",
+  "name": "Landau's constants",
+  "link": "https://en.wikipedia.org/wiki/Bloch%27s_theorem_(complex_analysis)",
+  "rephrased": "Landau's constants describe the maximum possible coefficients in the Taylor series expansion of certain special functions related to univalent functions, specifically bounding the coefficients for the Koebe function.",
+  "implication_form": "If a function belongs to a specific class of univalent functions, then its Taylor coefficients satisfy certain upper bounds given by Landau's constants.",
+  "posed_by": "Edmund Landau",
+  "solved_by": "Louis de Branges",
+  "year_originated": 1913,
+  "explained": "Landau's conjecture concerns the existence of absolute constants \\( B \\) and \\( L \\) such that for any holomorphic function \\( f \\) defined on the unit disk, the image \\( f(\\mathbb{D}) \\) contains a disk of radius \\( B \\), and the function \\( f \\) itself is bounded in some way related to its derivative at zero, involving constants related to the Bloch space and Koebe principle. It directly addresses the size of the image under certain holomorphic functions, refining or bounding the implications of Bloch's theorem.",
+  "terms": [
+    "Bloch's theorem",
+    "Bloch constant",
+    "Landau constant",
+    "Holomorphic function",
+    "Unit disk",
+    "Koebe principle",
+    "Koebe quarter theorem",
+    "Bieberbach conjecture"
+  ],
+  "related_conjectures": [
+    "Bieberbach conjecture",
+    "de Branges' theorem (now a theorem, related to Bieberbach)",
+    "Koebe quarter theorem"
+  ],
+  "subjects": [
+    "Complex analysis",
+    "Geometric function theory",
+    "Mathematical analysis"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uuid": "2bddd153-e226-4dfe-8e42-41446e5c49b4",
+  "name": "Heilbronn triangle problem",
+  "link": "https://en.wikipedia.org/wiki/Heilbronn_triangle_problem",
+  "rephrased": "Can we place n points in a unit area such that the smallest triangle formed by any three points has area at most 1/n²?",
+  "implication_form": "If n points are placed in a unit area, then there exists a triangle formed by three of those points with area at most 1/n².",
+  "posed_by": "Hans Heilbronn",
+  "solved_by": "unsolved",
+  "year_originated": 80,
+  "explained": "The Heilbronn triangle problem concerns the minimum area of the smallest triangle formed by any three points when n points are placed within a fixed area, typically the unit disk. Hans Heilbronn conjectured that this minimum area, denoted min_area(n), would satisfy min_area(n) ≤ C / n² for some constant C depending only on the area (e.g., the unit disk). However, this conjecture was disproven in 2005 by Komlós, Pach, and Szemerédi, who showed that Heilbronn's constant C does not exist; the minimum area can be larger than any constant divided by n². Despite this, the exact asymptotic growth rate of min_area(n) as n tends to infinity remains unknown. The problem is to determine the precise asymptotic behavior of the minimum triangle area for n points in a fixed area.",
+  "terms": [
+    "Packing",
+    "Discrepancy",
+    "Asymptotic notation",
+    "Unit disk",
+    "Area",
+    "Extremal problem"
+  ],
+  "related_conjectures": [
+    "Erdos-Selfridge problem (higher dimensions)",
+    "Erdos-Turan discrepancy problem"
+  ],
+  "subjects": [
+    "Discrete geometry",
+    "Asymptotic analysis",
+    "Combinatorial geometry",
+    "Discrepancy theory",
+    "Extremal set theory"
+  ]
+}

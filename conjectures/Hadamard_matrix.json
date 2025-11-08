@@ -1,0 +1,29 @@
+{
+  "uuid": "871dede5-6d7d-4d96-b756-d6098837fa59",
+  "name": "Hadamard matrix",
+  "link": "https://en.wikipedia.org/wiki/Hadamard_matrix",
+  "rephrased": "A Hadamard matrix is a square matrix where all entries are either +1 or -1, and any two distinct rows are orthogonal, meaning their dot product is zero.",
+  "implication_form": "If a square matrix has entries of ±1 and its rows are orthogonal, then it is a Hadamard matrix.",
+  "posed_by": "Jacques Hadamard",
+  "solved_by": "Unsolved for general orders",
+  "year_originated": 1917,
+  "explained": "A Hadamard matrix is a square matrix with entries of +1 or -1 such that any two distinct rows are orthogonal. This means that the dot product of any two distinct rows is zero. Equivalently, for any two distinct rows, the entries match (both +1 or both -1) in exactly half of the columns and differ in the remaining half of the columns. The rows are mutually orthogonal, meaning the orthogonality condition holds for every pair of distinct rows.",
+  "terms": [
+    "Orthogonality",
+    "Matrix theory",
+    "Combinatorics",
+    "Design theory",
+    "Coding theory"
+  ],
+  "related_conjectures": [
+    "Hadamard conjecture (on the existence of Hadamard matrices of order 4k for all positive integers k)",
+    "Hadamard maximal conjecture",
+    "Frank conjecture"
+  ],
+  "subjects": [
+    "Matrix theory",
+    "Combinatorics",
+    "Design theory",
+    "Coding theory"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "uuid": "29025290-1bd9-4bc1-9ec7-a670db3c1cdf",
+  "name": "Jacobson radical",
+  "link": "https://en.wikipedia.org/wiki/Jacobson_radical",
+  "rephrased": "The Jacobson radical is the set of elements in a ring that annihilate all simple modules, and it is the same whether considering left or right modules.",
+  "implication_form": "Not applicable (this is a definition)",
+  "posed_by": "Nathan Jacobson",
+  "solved_by": "The nilpotency of the Jacobson radical for commutative rings was proven by Nathan Smale, while the general nilpotency conjecture was disproven by Irving Herstein and Derek Henry Faddeev Montgomery.",
+  "year_originated": 1945,
+  "explained": "In mathematics, more specifically ring theory, the Jacobson radical of a ring R is the ideal consisting of those elements in R that annihilate all simple right R-modules. It happens that substituting 'left' in place of 'right' in the definition yields the same ideal, and so the notion is left–right symmetric.",
+  "terms": [
+    "Ring theory",
+    "Ideal",
+    "Simple module",
+    "Semisimple ring",
+    "Nilpotency",
+    "Idempotent",
+    "Artinian ring",
+    "Nilradical"
+  ],
+  "related_conjectures": [
+    "Structure of semisimple rings",
+    "Nilpotency of the Jacobson radical in certain rings",
+    "Jacobson-Bourbaki correspondence"
+  ],
+  "subjects": [
+    "Ring theory",
+    "Module theory",
+    "Representation theory"
+  ]
+}

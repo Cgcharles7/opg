@@ -1,0 +1,30 @@
+{
+  "uuid": "ef576d22-26c1-42ee-9c8c-a861ea5d540f",
+  "name": "Hilbert's fifteenth problem",
+  "link": "https://en.wikipedia.org/wiki/Hilbert%27s_fifteenth_problem",
+  "rephrased": "Ensure Schubert's enumerative calculus is based on rigorous algebraic geometry principles.",
+  "implication_form": "If Schubert's enumerative calculus is rigorously formalized, then it can be reliably used in algebraic geometry.",
+  "posed_by": "David Hilbert",
+  "solved_by": "Various mathematicians (e.g., Chow, Grothendieck) developed foundational tools like sheaf cohomology, but no single solver is credited for the entire problem",
+  "year_originated": 123,
+  "explained": "Hilbert's fifteenth problem concerns the foundation of enumerative geometry, specifically Schubert's enumerative calculus. The problem challenges mathematicians to rigorously establish Schubert calculus, a method developed in the 19th century for counting geometric figures satisfying given conditions (e.g., how many lines pass through two given points and intersect two given curves). Schubert's original approach, while producing correct numerical results in many instances, lacked a solid theoretical foundation based on modern algebraic geometry. Hilbert's problem thus calls for a rigorous formulation of these intersection numbers using the principles of modern algebraic geometry, such as intersection cohomology or the theory of algebraic varieties.",
+  "terms": [
+    "Enumerative Geometry",
+    "Schubert Calculus",
+    "Intersection Theory",
+    "Algebraic Geometry",
+    "Cohomology",
+    "Algebraic Variety",
+    "Schubert Variety"
+  ],
+  "related_conjectures": [
+    "Hodge Conjecture",
+    "Tate Conjecture"
+  ],
+  "subjects": [
+    "Algebraic Geometry",
+    "Enumerative Geometry",
+    "Intersection Theory",
+    "Combinatorics (related to Schubert varieties)"
+  ]
+}

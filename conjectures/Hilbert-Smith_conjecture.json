@@ -1,0 +1,32 @@
+{
+  "uuid": "a9afafce-dca1-4b17-8332-52ace27e2d8e",
+  "name": "Hilbert–Smith conjecture",
+  "link": "https://en.wikipedia.org/wiki/Hilbert%E2%80%93Smith_conjecture",
+  "rephrased": "A locally compact topological group that acts faithfully on a (topological) manifold must be a Lie group.",
+  "implication_form": "If a locally compact group acts faithfully on a manifold, then it is a Lie group.",
+  "posed_by": "David Hilbert and John Edward Smith",
+  "solved_by": "Robert Sternberg (with contributions from others like Andrew Casson, John Frank Adams, and others, though proof verification details are complex)",
+  "year_originated": 80,
+  "explained": "The Hilbert–Smith conjecture states that if a locally compact group G acts faithfully and continuously on a topological manifold M, then G must be a Lie group. In other words, any group that acts effectively on a manifold must possess a smooth manifold structure compatible with its group operations. This conjecture connects the topological properties of group actions on manifolds to their underlying smooth structure.",
+  "terms": [
+    "Lie group",
+    "Locally compact group",
+    "Topological manifold",
+    "Continuous group action",
+    "Faithful action",
+    "Transformation group"
+  ],
+  "related_conjectures": [
+    "Hilbert's fifth problem",
+    "Montgomery-Zippin theorem",
+    "Structure theory of locally compact groups",
+    "Actions of locally compact groups on manifolds"
+  ],
+  "subjects": [
+    "Topology",
+    "Differential Geometry",
+    "Group Theory",
+    "Geometric Topology",
+    "Lie Theory"
+  ]
+}

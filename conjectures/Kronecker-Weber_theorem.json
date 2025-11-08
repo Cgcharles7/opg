@@ -1,0 +1,30 @@
+{
+  "uuid": "efac027d-3e82-4bc7-84d0-0b98845be1f2",
+  "name": "Kronecker–Weber theorem",
+  "link": "https://en.wikipedia.org/wiki/Kronecker%E2%80%93Weber_theorem",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "The Kronecker–Weber theorem (often referred to as a foundational result rather than a conjecture in its final form) states that every finite abelian extension of the rational numbers Q is contained within some cycloticlean field. In other words, if K/Q is a finite Galois extension with abelian Galois group Gal(K/Q), then K is contained in a cyclotomic field Q(ζ_n) for some integer n, where ζ_n is a primitive n-th root of unity.",
+  "terms": [
+    "Algebraic number theory",
+    "Finite abelian extension",
+    "Cyclotomic field",
+    "Galois extension",
+    "Galois group",
+    "Automorphism group",
+    "Primitive root of unity",
+    "Algebraic integer",
+    "Rational number field Q"
+  ],
+  "related_conjectures": [
+    "Class Field Theory (a generalization that provides a complete description of abelian extensions of number fields)",
+    "Fermat's Last Theorem (Kronecker's Jugendtraum, a conjecture related to the Kronecker–Weber theorem, involves cyclotomic fields and generalizes it to other number fields)"
+  ],
+  "subjects": [
+    "Algebraic number theory",
+    "Galois theory"
+  ]
+}

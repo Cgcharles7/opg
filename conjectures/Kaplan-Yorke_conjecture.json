@@ -1,0 +1,28 @@
+{
+  "uuid": "112664bb-38d4-48e7-a758-46e91fecd0c5",
+  "name": "Kaplan–Yorke conjecture",
+  "link": "https://en.wikipedia.org/wiki/Kaplan%E2%80%93Yorke_conjecture",
+  "rephrased": "The dimension of a chaotic attractor in a dynamical system can be predicted by sorting the system's rates of expansion (Lyapunov exponents) from fastest to slowest and finding the smallest index where the sum of exponents changes sign, using a specific formula involving the exponents and the trace of the Jacobian matrix.",
+  "implication_form": "If a dynamical system has Lyapunov exponents λ₁ ≥ λ₂ ≥ ... ≥ λₙ and a trace Tr(J) for its Jacobian matrix, then its attractor's dimension d is given by the formula d = k + (1 - Tr(J) / |λ_{k+1}|) for k being the largest integer such that the sum of the first k exponents is positive, provided certain conditions on the exponents hold (λ₁ to λₖ₊₁ > 0, λₖ₊₁ = 0, λₖ₊₂ to λₙ ≤ 0).",
+  "posed_by": "Michael Kaplansky and James Yorke",
+  "solved_by": "unsolved",
+  "year_originated": 45,
+  "explained": "The Kaplan–Yorerte conjecture addresses the Hausdorff dimension of certain attractors in dynamical systems. It proposes a formula for the dimension of a chaotic attractor based on its Lyapunov exponents. Specifically, if the Lyapunov exponents are ordered from largest to smallest as λ₁ ≥ λ₂ ≥ ⋯ ≥ λₙ, then the Hausdorff dimension, denoted dim_H(A), is given by:\n\n dim_H(A) = k + \\frac{ \\sum_{i=1}^{m} \\lambda_i^+ }{ |\\lambda_{m+1}| } \n\nwhere:\n- k is the dimension of the unstable manifold (equal to the number of positive Lyapunov exponents)\n- λᵢ⁺ denotes the positive part of λᵢ (λᵢ if λᵢ > 0, else 0)\n- m is the largest integer such that the sum of the first m positive Lyapunov exponents minus the sum of the absolute values of the negative exponents up to that point is non-negative.\n\nThis dimension is often called the Kaplan–Yorke dimension or the Lyapunov dimension.",
+  "terms": [
+    "Attractor",
+    "Dynamical System",
+    "Hausdorff Dimension",
+    "Lyapunov Exponent",
+    "Chaos Theory"
+  ],
+  "related_conjectures": [
+    "Ruelle's conjecture",
+    "Oseledets' theorem (while a theorem, it provides the foundation for defining Lyapunov exponents)"
+  ],
+  "subjects": [
+    "Dynamical Systems",
+    "Ergodic Theory",
+    "Chaos Theory",
+    "Geometry"
+  ]
+}

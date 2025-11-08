@@ -1,0 +1,31 @@
+{
+  "uuid": "6230a20e-b843-474b-aad6-8d41f4c634d4",
+  "name": "Isomorphism",
+  "link": "https://en.wikipedia.org/wiki/Isomorphism",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "An isomorphism is a fundamental concept in mathematics, not necessarily a specific conjecture, but a structure-preserving mapping between two mathematical structures that allows for a reverse mapping (an inverse). Two structures are considered isomorphic if such a mapping exists, meaning they are essentially 'structurally identical' or 'the same in form'. The key characteristic is that the mapping preserves the relevant operations and relations defined on the structures. For example, in group theory, a group isomorphism preserves the group operation; in graph theory, an isomorphism preserves adjacency; in topology, a homeomorphism preserves continuity. Isomorphisms formalize the idea of when two objects can be considered 'the same' for the purposes of the mathematical structures being studied, capturing their essential properties beyond their superficial differences. The notation 'A ≅ B' often denotes that structures A and B are isomorphic.",
+  "terms": [
+    "Homomorphism (a structure-preserving mapping that may not necessarily be invertible)",
+    "Inverse (a mapping that, when composed with the original mapping, yields the identity mapping)",
+    "Equivalence (a broader concept that includes isomorphisms, but often allows for less structure preservation)",
+    "Category Theory (a branch of mathematics that studies structures and mappings (morphisms) in a very general setting, where isomorphisms are a specific type of morphism with an inverse)",
+    "Structure (the set of operations, relations, and other features that define a mathematical object)"
+  ],
+  "related_conjectures": [
+    "Isomorphism Conjecture (in computational complexity theory, e.g., positing that all NP-complete problems are isomorphic under polynomial-time many-one reductions)",
+    "P versus NP problem",
+    "Complexity Classes Isomorphism (conjectures about the structure and relationships between different complexity classes, sometimes involving isomorphisms between classes under certain conditions)"
+  ],
+  "subjects": [
+    "Algebra",
+    "Topology",
+    "Category Theory",
+    "Logic",
+    "Graph Theory",
+    "Computational Complexity Theory"
+  ]
+}

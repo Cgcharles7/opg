@@ -1,0 +1,32 @@
+{
+  "uuid": "00f85f67-17c9-47ea-ac8d-b0c07b9fe29b",
+  "name": "Hall's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Hall%27s_conjecture",
+  "rephrased": "There exists a positive constant C such that for any two distinct perfect powers—one being a square and the other a cube—the absolute difference between them is at least C times the absolute value of the cube.",
+  "implication_form": "If x³ and y² are distinct integers, then |x³ - y²| ≥ C|x³| for some positive constant C.",
+  "posed_by": "Marshall Hall, Jr.",
+  "solved_by": "unsolved",
+  "year_originated": 54,
+  "explained": "Hall's conjecture states that for any integers x and y such that y² ≠ x³, there exists a positive constant C (depending on the conjecture, but not on x or y) such that the absolute difference |y² - x³| is at least C. In other words, any non-zero perfect square and perfect cube must differ by at least some fixed positive amount, though this amount can depend on the size of the numbers involved only through the constant C.",
+  "terms": [
+    "perfect square",
+    "perfect cube",
+    "integer points",
+    "Mordell equation",
+    "elliptic curves",
+    "Diophantine equation",
+    "constant",
+    "difference"
+  ],
+  "related_conjectures": [
+    "Mordell conjecture (now Faltings' theorem, relating to rational points on elliptic curves)",
+    "abc conjecture (deals with bounding differences in terms of multiplicative properties)",
+    "Waring's problem (concerns representing numbers as sums of powers)"
+  ],
+  "subjects": [
+    "Number theory",
+    "Diophantine equations",
+    "Elliptic curves",
+    "Algebraic geometry"
+  ]
+}

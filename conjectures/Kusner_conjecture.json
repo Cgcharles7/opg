@@ -1,0 +1,29 @@
+{
+  "uuid": "70250d6a-0651-4354-af86-4bef120cb0ea",
+  "name": "Kusner conjecture",
+  "link": "https://en.wikipedia.org/wiki/Equilateral_dimension",
+  "rephrased": "The maximum number of points that can be placed in d-dimensional Euclidean space such that all pairs of points are at the same distance from each other is d+1.",
+  "implication_form": "If a set of points in d-dimensional Euclidean space exists where all pairs are equidistant, then the size of this set is at most d+1.",
+  "posed_by": "Henry Kusner",
+  "solved_by": "unsolved",
+  "year_originated": 30,
+  "explained": "The Kusner conjecture concerns the maximum size of equilateral sets in Euclidean space. An equilateral set is a set of points where all pairwise distances are equal. The conjecture states that the equilateral dimension of d-dimensional Euclidean space (\\(\\mathbb{R}^d\\)) is exactly d+1. This means that the largest possible equilateral set in \\(\\mathbb{R}^d\\) has d+1 points, and such a set exists (e.g., the vertices of a regular simplex). While it is known that d+1 is achievable, the conjecture asserts that no larger equilateral set exists in any dimension d > 1.",
+  "terms": [
+    "Equilateral set",
+    "Euclidean space",
+    "Isometric embedding",
+    "Regular simplex",
+    "Kissing number"
+  ],
+  "related_conjectures": [
+    "Erdős–Szekeres conjecture",
+    "Hales–Jewett theorem",
+    "Kissing number problem"
+  ],
+  "subjects": [
+    "Geometry",
+    "Combinatorics",
+    "Metric geometry",
+    "Discrete mathematics"
+  ]
+}

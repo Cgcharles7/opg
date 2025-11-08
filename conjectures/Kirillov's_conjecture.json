@@ -1,0 +1,30 @@
+{
+  "uuid": "50e6005f-0c03-477f-8538-ff4d2029f5db",
+  "name": "Kirillov's conjecture",
+  "link": null,
+  "rephrased": "A nilpotent Lie algebra's irreducible representations can be built from its abelian subalgebras.",
+  "implication_form": "If a Lie algebra is nilpotent, then all its irreducible representations can be constructed using its abelian subalgebras.",
+  "posed_by": "Alexey Kirillov",
+  "solved_by": "Robert Alan Howe",
+  "year_originated": 1962,
+  "explained": "Kirillov's conjecture concerns the irreducibility of certain representations of linear algebraic groups over p-adic fields. It states that for a representation π of the group G = GL(n,F) (where F is a p-adic field) that is irreducible and essentially tempered, the representation π(g.f) (the restriction to the Borel subgroup B) is irreducible for all g not in the unipotent radical of B. More precisely, for the standard representation π_θ (induced from the Borel subgroup with a character θ), the conjecture asserts that π_θ(g.f) is irreducible for all g not in the unipotent radical of B. The conjecture is known to hold for real groups (n arbitrary) and for p-adic groups in low dimensions (n ≤ 3), but remains open for higher dimensions (n ≥ 4).",
+  "terms": [
+    "Linear representations",
+    "Algebraic groups",
+    "p-adic fields",
+    "GL(n,F)",
+    "Borel subgroup",
+    "Jacquet module",
+    "Essentially tempered representations",
+    "Unipotent radical"
+  ],
+  "related_conjectures": [
+    "Langlands program",
+    "Local Langlands correspondence"
+  ],
+  "subjects": [
+    "Representation Theory",
+    "Number Theory",
+    "Harmonic Analysis"
+  ]
+}

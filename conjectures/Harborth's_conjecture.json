@@ -1,0 +1,26 @@
+{
+  "uuid": "74003a5e-9aac-4ef6-82de-a3953e8850c5",
+  "name": "Harborth's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Harborth%27s_conjecture",
+  "rephrased": "Every planar graph can be drawn with straight-line edges where each edge has a whole number length (integer).",
+  "implication_form": "If a graph is planar, then it can be drawn with straight edges of integer lengths.",
+  "posed_by": "Heiko Harborth",
+  "solved_by": "unsolved",
+  "year_originated": 55,
+  "explained": "Harborth's Conjecture states that every planar graph admits a straight-line embedding (a drawing with vertices at points and edges as straight line segments) in the plane such that all edge lengths are integers.",
+  "terms": [
+    "Planar graph",
+    "Straight-line embedding",
+    "Integer length",
+    "Fáry's theorem",
+    "Integral Fáry embedding"
+  ],
+  "related_conjectures": [
+    "Four Color Theorem (related to coloring planar graphs, not directly embedding)"
+  ],
+  "subjects": [
+    "Graph Theory",
+    "Combinatorics",
+    "Geometry"
+  ]
+}

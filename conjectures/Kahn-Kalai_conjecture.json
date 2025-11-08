@@ -1,0 +1,14 @@
+{
+  "uuid": "91e01a79-34fb-4602-b7c5-bbbc6b56208d",
+  "name": "Kahn–Kalai conjecture",
+  "link": "https://en.wikipedia.org/wiki/Kahn%E2%80%93Kalai_conjecture",
+  "rephrased": "The actual threshold for a property in random graphs is close to the expectation threshold.",
+  "implication_form": "If the expectation threshold is E, then the actual threshold is close to E.",
+  "posed_by": "Jeff Kahn and Gil Kalai",
+  "solved_by": "Park and Pham",
+  "year_originated": 18,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

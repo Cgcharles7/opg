@@ -1,0 +1,28 @@
+{
+  "uuid": "5670776a-e597-4b98-8f48-4bcde0b972eb",
+  "name": "Hilbert's tenth problem",
+  "link": "https://en.wikipedia.org/wiki/Hilbert%27s_tenth_problem",
+  "rephrased": "Is there a universal algorithm that can determine, for any given polynomial equation with integer coefficients and finitely many unknowns, whether it has integer solutions?",
+  "implication_form": "If a general algorithm exists that can solve all Diophantine equations, then it would correctly determine the existence of integer solutions for every such equation.",
+  "posed_by": "David Hilbert",
+  "solved_by": "Martin Davis, Julia Robinson, Yuri Matiyasevich (proving undecidability)",
+  "year_originated": 124,
+  "explained": "Hilbert's tenth problem asks for an algorithm that can determine, for any given Diophantine equation (a polynomial equation with integer coefficients and a finite number of unknowns), whether there exist integer solutions. For example, the equation 3x + y = 5 has integer solutions, while the equation x² + y² + z² = 7 has none.",
+  "terms": [
+    "Diophantine equation",
+    "Diophantine set",
+    "Algorithm",
+    "Algorithmic unsolvability",
+    "Computability theory"
+  ],
+  "related_conjectures": [
+    "Matiyasevich-Robinson-Davis-Putnam (MRDP) theorem",
+    "Turing's work on the Entscheidungsproblem",
+    "Gödel's incompleteness theorems"
+  ],
+  "subjects": [
+    "Number theory",
+    "Logic",
+    "Computability theory"
+  ]
+}

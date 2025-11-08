@@ -1,0 +1,32 @@
+{
+  "uuid": "2010dcf8-4cd2-42d8-95e5-332bd7bd0816",
+  "name": "Honeycomb theorem",
+  "link": "https://en.wikipedia.org/wiki/Honeycomb_theorem",
+  "rephrased": "A regular hexagonal grid has the least perimeter for any equal-area division of the plane.",
+  "implication_form": "If all regions in a plane subdivision have the same area, then the arrangement with the smallest total perimeter is a regular hexagonal grid.",
+  "posed_by": "Janet Morley",
+  "solved_by": "Thomas C. Hales",
+  "year_originated": 44,
+  "explained": "The Honeycomb Theorem states that among all subdivisions of the plane into regions of equal area, the regular hexagonal grid (such as that found in a honeycomb) has the minimal total perimeter. This means that any other subdivision into cells of the same area will have a greater total perimeter length than the hexagonal grid.",
+  "terms": [
+    "Perimeter",
+    "Area",
+    "Subdivision",
+    "Regular Hexagonal Grid",
+    "Honeycomb",
+    "Optimal Design",
+    "Geometry",
+    "Calculus of Variations"
+  ],
+  "related_conjectures": [
+    "Isoperimetric Inequality (for 2D shapes)",
+    "Kelvin Problem (minimal surface area for bubbles)"
+  ],
+  "subjects": [
+    "Geometry",
+    "Combinatorics",
+    "Optimization",
+    "Calculus of Variations",
+    "Mathematical Analysis"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "7f564e50-55f2-4dd3-a8e1-b2ef03850250",
+  "name": "Jordan curve",
+  "link": "https://en.wikipedia.org/wiki/Curve",
+  "rephrased": "A simple closed curve divides the plane into two regions: an interior and an exterior.",
+  "implication_form": "If a curve is a simple closed curve in the plane, then it divides the plane into two regions.",
+  "posed_by": "Camille Jordan",
+  "solved_by": "unsolved",
+  "year_originated": 1887,
+  "explained": "The Jordan curve theorem states that every simple closed curve in the plane divides the plane into two regions: one bounded interior region and one unbounded exterior region, and the curve itself is the boundary between them. More formally, if J is a Jordan curve (a continuous, simple closed curve, i.e., a homeomorphism from the circle S¹ to R²), then R²\\J is disconnected and has exactly two connected components: one bounded and one unbounded.",
+  "terms": [
+    "simple closed curve",
+    "Jordan curve",
+    "homeomorphism",
+    "topology",
+    "connected components",
+    "interior",
+    "exterior",
+    "boundary"
+  ],
+  "related_conjectures": [
+    "Jordan-Schönflies theorem"
+  ],
+  "subjects": [
+    "Topology",
+    "Geometric topology",
+    "Continuum theory"
+  ]
+}

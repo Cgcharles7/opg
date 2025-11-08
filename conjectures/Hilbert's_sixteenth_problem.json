@@ -1,0 +1,33 @@
+{
+  "uuid": "0678cde4-1bf9-483d-95c3-2f48b0cdec2e",
+  "name": "Hilbert's sixteenth problem",
+  "link": "https://en.wikipedia.org/wiki/Hilbert%27s_sixteenth_problem",
+  "rephrased": "Hilbert's Sixteenth Problem concerns the maximum number and relative positions of components (ovals) in the arrangement of real algebraic curves of a given degree, and the similar problem for real algebraic surfaces in three dimensions.",
+  "implication_form": "If a real algebraic curve of degree n exists with a certain configuration of ovals, then ... (This formulation is less straightforward than for some other conjectures, as the problem is fundamentally about enumerating and classifying possible configurations rather than proving a single implication P -> Q.)",
+  "posed_by": "David Hilbert",
+  "solved_by": "unsolved",
+  "year_originated": 124,
+  "explained": "Hilbert's Sixteenth Problem concerns the qualitative study of algebraic curves and their deformations. Part 1 asks for a description of the possible arrangements (relative positions) of the real branches of a non-singular algebraic curve of degree n in the plane as n varies, specifically bounding the maximum number of connected components (ovals) and their possible configurations. Part 2 focuses on the topology of families of real algebraic curves (or surfaces) under small perturbations, particularly asking about the maximum number of limit cycles (closed curves representing periodic behavior) that can appear in a deformation of a given curve (or the number of ovals that can be destroyed during deformation).",
+  "terms": [
+    "Algebraic curve",
+    "Oval",
+    "Topological arrangement",
+    "Limit cycle",
+    "Cyclicity",
+    "Non-degenerate equianalytic family",
+    "Poincaré-Hopf theorem",
+    "Morse theory",
+    "Real algebraic geometry",
+    "Differential equations"
+  ],
+  "related_conjectures": [
+    "Hilbert's other 22 problems",
+    "The Smale horseshoe (related concept of chaotic behavior in dynamical systems, though not a direct parallel)"
+  ],
+  "subjects": [
+    "Dynamical systems",
+    "Topology",
+    "Complex analysis",
+    "Algebraic geometry"
+  ]
+}

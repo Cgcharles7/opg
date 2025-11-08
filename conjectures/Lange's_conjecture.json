@@ -1,0 +1,34 @@
+{
+  "uuid": "b5051a78-b1a9-4ca9-bf49-463e54f7f1be",
+  "name": "Lange's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Lange%27s_conjecture",
+  "rephrased": "A conjecture about the stability conditions for vector bundles on algebraic curves.",
+  "implication_form": "If [specific condition on vector bundles and curves is met], then [stability holds] (exact statement not provided).",
+  "posed_by": "Herbert Lange",
+  "solved_by": "Montserrat Teixidor i Bigas and Barbara Russo",
+  "year_originated": 15,
+  "explained": "Lange's conjecture, proposed by Herbert Lange, pertains to the Brill-Noether theory for vector bundles on algebraic curves. It addresses the existence and properties of stable vector bundles of fixed rank and determinant on a curve of genus g. Specifically, it concerns the Brill-Noether variety parameterizing semistable vector bundles of rank r and fixed determinant with specified invariants, and conjectured that under certain conditions, this variety is non-empty and has the expected dimension. This conjecture was proven by Montserrat Teixidor i Bigas and Barbara Russo in 1999.",
+  "terms": [
+    "Algebraic Geometry",
+    "Vector Bundles",
+    "Algebraic Curves",
+    "Stability (Vector Bundles)",
+    "Brill-Noether Theory",
+    "Moduli Spaces",
+    "Determinant",
+    "Rank",
+    "Genus"
+  ],
+  "related_conjectures": [
+    "Green's Conjecture (on the syzygies of curves)",
+    "The Gieseker-Pulte conjecture (on the birational type of moduli spaces)",
+    "The conjecture on the existence of Gieseker-Pulte bundles",
+    "The Brill-Noether conjecture for parabolic bundles"
+  ],
+  "subjects": [
+    "Algebraic Geometry",
+    "Complex Geometry",
+    "Differential Geometry (Vector Bundles)",
+    "Algebraic Number Theory (Connections to moduli spaces)"
+  ]
+}

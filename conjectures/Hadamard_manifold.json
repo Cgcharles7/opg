@@ -1,0 +1,31 @@
+{
+  "uuid": "e3ef39b8-6079-4f91-900b-c49e210fec2f",
+  "name": "Hadamard manifold",
+  "link": "https://en.wikipedia.org/wiki/Hadamard_manifold",
+  "rephrased": "A Hadamard manifold is a complete, simply connected space with a Riemannian metric that curves inward or straight (non-positive curvature everywhere), and such spaces are essentially the same as flat Euclidean space but with possible curvatures less than or equal to zero.",
+  "implication_form": "If a Riemannian manifold is complete, simply connected, and has everywhere non-positive sectional curvature, then it is diffeomorphic to Euclidean space.",
+  "posed_by": "Élie Cartan and Jacques Hadamard (the concept was developed by them, though the specific theorem is named after both)",
+  "solved_by": "Élie Cartan and Jacques Hadamard (proved the Cartan-Hadamard theorem)",
+  "year_originated": 120,
+  "explained": "A Hadamard manifold, also known as a Cartan–Hadamard manifold, is a complete, simply connected Riemannian manifold with everywhere non-positive sectional curvature. This definition describes a specific class of Riemannian manifolds, not a conjecture about their properties or existence. The Cartan–Hadamard theorem states that the exponential map is a global diffeomorphism from the tangent space at any point to the entire manifold, and that all geodesics are length-minimizing.",
+  "terms": [
+    "Riemannian manifold",
+    "Sectional curvature",
+    "Simply connected",
+    "Complete metric",
+    "Geodesic flow",
+    "Exponential map",
+    "Cartan–Hadamard theorem"
+  ],
+  "related_conjectures": [
+    "Soul theorem (for non-negative curvature)",
+    "Differentiable Sphere theorem (for positive curvature)",
+    "Yamabe problem (constant scalar curvature)"
+  ],
+  "subjects": [
+    "Differential Geometry",
+    "Riemannian Geometry",
+    "Global Analysis",
+    "Dynamical Systems (geodesic flow)"
+  ]
+}

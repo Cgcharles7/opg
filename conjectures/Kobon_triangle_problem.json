@@ -1,0 +1,28 @@
+{
+  "uuid": "38647823-5203-4d6d-b824-326063009b1f",
+  "name": "Kobon triangle problem",
+  "link": "https://en.wikipedia.org/wiki/Kobon_triangle_problem",
+  "rephrased": null,
+  "implication_form": "If you have an arrangement of k lines, then the maximum number of triangles formed by their intersections is N(k).",
+  "posed_by": "Kobon Fujimura",
+  "solved_by": "unsolved",
+  "year_originated": 70,
+  "explained": "The Kobon triangle problem seeks the maximum number of nonoverlapping triangles that can be formed by an arrangement of k lines in the Euclidean plane. The triangles must have their sides lying entirely on the lines of the arrangement and must not overlap with each other. The maximum number for k lines is denoted by N(k).",
+  "terms": [
+    "Combinatorial geometry",
+    "Line arrangement",
+    "Triangle",
+    "Nonoverlapping",
+    "Maximum",
+    "Arrangement"
+  ],
+  "related_conjectures": [
+    "Other conjectures directly related to maximizing triangles in line arrangements are not commonly identified. However, similar problems exist in combinatorial geometry involving arrangements and extremal counts (e.g., maximizing empty polygons or minimizing crossings)."
+  ],
+  "subjects": [
+    "Combinatorial Geometry",
+    "Discrete Mathematics",
+    "Extremal Set Theory",
+    "Combinatorial Optimization"
+  ]
+}

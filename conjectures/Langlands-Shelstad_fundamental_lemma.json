@@ -1,0 +1,36 @@
+{
+  "uuid": "d89e72b3-31fd-4d4d-a098-6ce6234b5f0e",
+  "name": "Langlands–Shelstad fundamental lemma",
+  "link": "https://en.wikipedia.org/wiki/Fundamental_lemma_(Langlands_program)",
+  "rephrased": "A fundamental lemma conjectured by Robert Langlands states that certain complex integrals associated with mathematical structures called 'reductive groups' (specifically, orbital integrals on one group relate directly to 'stable orbital integrals' on related, smaller groups called 'endoscopic groups'). This connection is crucial for understanding a major mathematical framework called the Langlands program.",
+  "implication_form": "If an orbital integral is computed on a reductive group over a local field, then the stable orbital integral on its endoscopic groups can be determined.",
+  "posed_by": "Robert Langlands",
+  "solved_by": "Ngô Bảo Châu and Gérard Laumon",
+  "year_originated": 41,
+  "explained": "The Langlands–Shelstad fundamental lemma is a key technical conjecture within the Langlands program. It establishes a precise relationship between two types of orbital integrals associated with reductive groups and their endoscopic groups. Formally, it states:\n\nLet \\(G\\) be a connected reductive group over a local field \\(F\\), and let \\(\\tilde{G}_1, \\dots, \\tilde{G}_m\\) be the endoscopic groups of \\(G\\) (which depend on the characteristic of \\(F\\)). For \\(\\gamma \\in G(F)\\) and \\(\\tilde{\\gamma} \\in \\tilde{G}_i(F)\\) (an endoscopic transfer of \\(\\gamma\\)), the conjecture asserts that:\n\n\\[\\int_{G(F)\\backslash G(F)_{\\gamma}} \\phi(g) \\, dg = \\sum_{j=1}^m \\sum_{\\text{Lusztig\\'s parameters matching the endoscopic data}} \\int_{\\tilde{G}_j(F)\\backslash \\tilde{G}_j(F)_{\\tilde{\\gamma}}} \\psi_{\\text{end}}(g) \\, dg\\]\n\nwhere \\(\\phi\\) is an arbitrary \\(\\gamma\\)-fixed function (invariant under the stabilizer of \\(\\gamma\\)), and \\(\\psi_{\\text{end}}\\) is the endoscopic transfer of \\(\\phi\\). The left-hand side is the (weighted) orbital integral of \\(\\phi\\) at \\(\\gamma\\), while the right-hand side is the sum of weighted stable orbital integrals for the endoscopic data.",
+  "terms": [
+    "Automorphic forms",
+    "Reductive group",
+    "Local field",
+    "Orbital integral",
+    "Stable orbital integral",
+    "Endoscopy",
+    "Endoscopic group",
+    "Lusztig's parameters",
+    "γ-fixed function",
+    "Langlands program",
+    "Arthur-Selberg trace formula"
+  ],
+  "related_conjectures": [
+    "Langlands program",
+    "Arthur-Selberg trace formula (specifically the endoscopic part)",
+    "Endoscopic philosophy (due to James Arthur)"
+  ],
+  "subjects": [
+    "Number theory",
+    "Automorphic forms",
+    "Representation theory",
+    "Harmonic analysis",
+    "Algebraic geometry"
+  ]
+}

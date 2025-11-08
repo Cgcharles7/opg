@@ -1,0 +1,34 @@
+{
+  "uuid": "f55d812a-616e-4d74-bbbd-4667a0575cad",
+  "name": "Hopf conjecture",
+  "link": "https://en.wikipedia.org/wiki/Hopf_conjecture",
+  "rephrased": "The only even-dimensional sphere that admits a symplectic structure is the 2-sphere.",
+  "implication_form": "If a compact even-dimensional symplectic manifold is homeomorphic to a sphere, then it must be diffeomorphic to S^2.",
+  "posed_by": "Heinz Hopf",
+  "solved_by": "unsolved",
+  "year_originated": 90,
+  "explained": "The Hopf conjecture typically refers to the conjecture that the only even-dimensional spheres with an Einstein metric are the 2-sphere and the 4-sphere. More precisely, it posits that a compact, oriented, even-dimensional Riemannian manifold with positive Ricci curvature must be homeomorphic to a sphere if its Euler characteristic is even. Another formulation, related to complex geometry, is that a compact Kähler manifold with positive curvature and even complex dimension cannot be contractible. Hopf also conjectured that the only compact, oriented, simply connected Riemannian manifold of positive curvature is the complex projective space CP^n for even n, and that such a space cannot be mapped non-trivially by a harmonic map unless it is the sphere.",
+  "terms": [
+    "Euler characteristic",
+    "Ricci curvature",
+    "Einstein metric",
+    "Positive curvature",
+    "Compact manifold",
+    "Simply connected manifold",
+    "Complex projective space",
+    "Harmonic map",
+    "Kähler manifold"
+  ],
+  "related_conjectures": [
+    "Hodge conjecture",
+    "Griffiths conjecture",
+    "Calabi conjecture",
+    "Yang-Mills existence and mass gap"
+  ],
+  "subjects": [
+    "Differential geometry",
+    "Algebraic topology",
+    "Complex geometry",
+    "Riemannian geometry"
+  ]
+}

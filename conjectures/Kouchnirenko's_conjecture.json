@@ -1,0 +1,28 @@
+{
+  "uuid": "e57e091a-21ea-4354-b4bd-8f836f504968",
+  "name": "Kouchnirenko's conjecture",
+  "link": null,
+  "rephrased": "For a system of n polynomial equations in n variables, the number of positive solutions equals the mixed volume of the Newton polytopes if the supports satisfy certain conditions (e.g., forming a Kouchnirenko system).",
+  "implication_form": "If a system of n polynomial equations in n variables has supports satisfying the conditions of a Kouchnirenko system, then the number of positive solutions is equal to the mixed volume of their Newton polytopes.",
+  "posed_by": "B. N. Kouchnirenko",
+  "solved_by": "unsolved",
+  "year_originated": 48,
+  "explained": "Kouchnirenko's conjecture, now a theorem, addresses the minimal number of positive solutions for a system of polynomial equations. Originally, it stated that for a system of n polynomial equations in n variables, all with positive coefficients, the number of positive solutions (counting multiplicity) is at least the number of monomials (terms) across all equations minus n. This conjecture was proven true in 1975 by A. G. Kouchnirenko.",
+  "terms": [
+    "Polynomial equation",
+    "Positive solution",
+    "Newton polytope",
+    "Mixed volume",
+    "Monomial",
+    "Term"
+  ],
+  "related_conjectures": [
+    "Bernstein's theorem"
+  ],
+  "subjects": [
+    "Algebraic Geometry",
+    "Combinatorics",
+    "Real Analysis",
+    "Polynomial Theory"
+  ]
+}

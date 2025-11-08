@@ -1,0 +1,30 @@
+{
+  "uuid": "cc4144a3-9239-448c-bd7a-e32747e1908d",
+  "name": "Hausdorff dimension",
+  "link": "https://en.wikipedia.org/wiki/Hausdorff_dimension",
+  "rephrased": "Hausdorff dimension is a mathematical way to measure how 'rough' or 'bumpy' a set is, generalizing the idea of dimension (like a point being 0-dimensional, a line 1-dimensional, etc.) to fractal shapes with complex structures.",
+  "implication_form": "None (this is a definition, not a conjecture to be proved)",
+  "posed_by": "Felix Hausdorff",
+  "solved_by": "unsolved",
+  "year_originated": 1918,
+  "explained": "Hausdorff dimension is a mathematical concept introduced by Felix Hausdorff in 1918 that provides a way to measure the 'size' or complexity of sets in a metric space, particularly those that are 'rough' or fractal-like. Unlike the classical notion of dimension, which assigns integer values (like 1 for a line, 2 for a plane) and works well for smooth shapes, Hausdorff dimension can be any non-negative real number. It is defined using the concept of Hausdorff measure, which generalizes the Lebesgue measure. The Hausdorff dimension is often strictly greater than the topological dimension of the set, reflecting its 'fractal' nature. For example, a smooth curve has Hausdorff dimension equal to its topological dimension (1), while a fractal curve might have a Hausdorff dimension greater than 1.",
+  "terms": [
+    "Fractal dimension",
+    "Measure theory",
+    "Metric space",
+    "Hausdorff measure",
+    "Topological dimension",
+    "Lebesgue measure"
+  ],
+  "related_conjectures": [
+    "Mandelbrot conjecture (on the Hausdorff dimension of the boundary of the Mandelbrot set)",
+    "Conjectures related to the dimension of Julia sets",
+    "Conjectures about the dimension of self-similar sets"
+  ],
+  "subjects": [
+    "Analysis",
+    "Geometry (Metric geometry)",
+    "Fractal geometry",
+    "Measure theory"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ff0632cb-9bf7-4bd6-825c-bf29c4fd1db5",
+  "name": "Inscribed square problem",
+  "link": "https://en.wikipedia.org/wiki/Inscribed_square_problem",
+  "rephrased": "Does every simple, closed curve in the plane contain at least one inscribed square?",
+  "implication_form": "If a curve is simple and closed, then it contains all four vertices of some square.",
+  "posed_by": "Otto Toeplitz",
+  "solved_by": "unsolved",
+  "year_originated": 113,
+  "explained": "The Inscribed Square Problem, also known as the Toeplitz Conjecture, states that every simple closed curve (a Jordan curve) in the plane contains the four vertices of some inscribed square. In other words, for any simple closed curve, there exists a square whose four vertices lie exactly on the curve.",
+  "terms": [
+    "Simple closed curve",
+    "Jordan curve",
+    "Inscribed square",
+    "Vertices",
+    "Conjecture"
+  ],
+  "related_conjectures": [
+    "Toeplitz Conjecture (synonym)",
+    "Inscribed Square Problem (synonym)"
+  ],
+  "subjects": [
+    "Geometry",
+    "Geometric combinatorics",
+    "Topology",
+    "Discrete geometry"
+  ]
+}

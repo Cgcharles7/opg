@@ -1,0 +1,27 @@
+{
+  "uuid": "93ea1d10-0317-49b8-bf47-d52c685550b7",
+  "name": "Hedetniemi's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Hedetniemi%27s_conjecture",
+  "rephrased": "The chromatic number of the tensor product of two graphs is equal to the minimum chromatic number of the two graphs.",
+  "implication_form": "If P and Q are graphs, then the chromatic number of their tensor product is equal to the minimum of their individual chromatic numbers.",
+  "posed_by": "Stephen T. Hedetniemi",
+  "solved_by": "Disproven by Aleksei Shitov",
+  "year_originated": 57,
+  "explained": "Hedetni'tniemi's conjecture, proposed by Stephen T. Hedetniemi in 1966, addresses the chromatic number of the tensor product of two graphs. It claims that the chromatic number of the product graph G × H is exactly equal to the minimum of the chromatic numbers of the individual graphs G and H. In mathematical notation: χ(G × H) = min{χ(G), χ(H)}.",
+  "terms": [
+    "Tensor product of graphs (also called categorical product)",
+    "Chromatic number (χ)",
+    "Graph coloring"
+  ],
+  "related_conjectures": [
+    "The tensor product coloring problem (which is the conjecture itself)",
+    "The conjecture regarding the chromatic number of the tensor product of complete graphs (χ(K_m × K_n) = min{m,n} for all m,n ≥ 1)",
+    "Erdős–Ginzburg–Ziv theorem (related to additive combinatorics)",
+    "Shannon capacity (related to coding theory)"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Combinatorial optimization"
+  ]
+}

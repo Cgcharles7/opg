@@ -1,0 +1,14 @@
+{
+  "uuid": "46abc1ab-e840-427c-8138-1b72d3110229",
+  "name": "Hadamard's maximal determinant problem",
+  "link": "https://en.wikipedia.org/wiki/Hadamard%27s_maximal_determinant_problem",
+  "rephrased": "What is the maximum determinant achievable by an n × n matrix with entries of 1 or −1?",
+  "implication_form": null,
+  "posed_by": "Jacques Hadamard",
+  "solved_by": "unsolved",
+  "year_originated": 130,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

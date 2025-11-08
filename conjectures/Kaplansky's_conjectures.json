@@ -1,0 +1,35 @@
+{
+  "uuid": "013ef228-93a5-4054-aaf6-1b2f7fa5b637",
+  "name": "Kaplansky's conjectures",
+  "link": "https://en.wikipedia.org/wiki/Kaplansky%27s_conjectures",
+  "rephrased": "A set of ten conjectures concerning properties of Hopf algebras, proposed by Irving Kaplansky.",
+  "implication_form": "If certain properties hold for a Hopf algebra, then specific other properties must also hold (the exact nature depends on the specific conjecture).",
+  "posed_by": "Irving Kaplansky",
+  "solved_by": "unsolved",
+  "year_originated": 1950,
+  "explained": "Kaplansky's conjectures refer to a collection of conjectures proposed by the mathematician Irving Kaplansky, primarily concerning properties of group algebras, Banach algebras, and Hopf algebras. The most famous set consists of ten conjectures related to Hopf algebras, but Kaplansky also formulated significant conjectures elsewhere, such as in Banach algebras and group theory. Since the specific conjecture isn't identified, the explanation focuses on the general nature of these conjectures: they are specific, often deep statements about the structure, properties (like amenability or being finite-dimensional), or the existence of certain elements (like zero-divisors) within these algebraic structures.",
+  "terms": [
+    "Banach algebra",
+    "Group algebra",
+    "Hopf algebra",
+    "Amenability",
+    "Zero-divisor",
+    "Irving Kaplansky",
+    "Functional analysis",
+    "Algebra"
+  ],
+  "related_conjectures": [
+    "Invariant subspace problem (related to certain formulations)",
+    "Kaplansky density theorem",
+    "Kaplansky-Wehlmann conjecture",
+    "Kaplansky's zero-divisor conjecture for group rings"
+  ],
+  "subjects": [
+    "Functional analysis",
+    "Algebra",
+    "Hopf algebras",
+    "Banach algebras",
+    "Group theory",
+    "Operator algebras"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uuid": "7fcd698a-355c-4db5-af1c-da398701eef0",
+  "name": "Kepler conjecture",
+  "link": "https://en.wikipedia.org/wiki/Kepler_conjecture",
+  "rephrased": "The Kepler conjecture states that the maximum average density achievable by packing identical spheres in three-dimensional space is approximately 74.05%, which is the density found in face-centered cubic and hexagonal close packing arrangements.",
+  "implication_form": "If spheres of equal size are packed in three-dimensional Euclidean space, then the average density cannot exceed that of face-centered cubic or hexagonal close packing arrangements.",
+  "posed_by": "Johannes Kepler",
+  "solved_by": "Thomas Hales (1998)",
+  "year_originated": 412,
+  "explained": "The Kepler conjecture states that the maximum density achievable in a packing of identical spheres in three-dimensional Euclidean space is π / √18 ≈ 0.74048049123, which is the density achieved by both the face-centered cubic (FCC) and hexagonal close-packed (HCP) arrangements. This means that no arrangement of spheres can achieve a higher average density than these close-packed structures.",
+  "terms": [
+    "Sphere packing",
+    "Close packing",
+    "Density",
+    "Cubic close packing (FCC)",
+    "Hexagonal close packing (HCP)",
+    "Packing density",
+    "Voronoi diagrams",
+    "Delaunay triangulation"
+  ],
+  "related_conjectures": [
+    "Kissing number problem",
+    "Sphere packing in dimensions 8 and 24",
+    "Packing problem"
+  ],
+  "subjects": [
+    "Geometry",
+    "Packing problems",
+    "Sphere packing",
+    "Packing density"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "9cdc01e2-5364-4a5b-85de-2d3cbd686fe3",
+  "name": "Homological conjectures in commutative algebra",
+  "link": "https://en.wikipedia.org/wiki/Homological_conjectures_in_commutative_algebra",
+  "rephrased": "If a commutative ring R is a homomorphic image of a Gorenstein ring and S is a direct summand of R as an R-module, then S is also a homomorphic image of a Goren'tstein ring.",
+  "implication_form": "If R is a homomorphic image of a Gorenstein ring and S is a direct summand of R as an R-module, then S is a homomorphic image of a Gorenstein ring.",
+  "posed_by": "Melvin Hochster",
+  "solved_by": "unsolved",
+  "year_originated": 1973,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

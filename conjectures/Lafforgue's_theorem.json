@@ -1,0 +1,36 @@
+{
+  "uuid": "0822adbf-7455-4398-af12-be83183e3fa5",
+  "name": "Lafforgue's theorem",
+  "link": "https://en.wikipedia.org/wiki/Lafforgue%27s_theorem",
+  "rephrased": "Lafforgue's theorem establishes a connection between automorphic forms on general linear groups over certain algebraic function fields and representations of Galois groups.",
+  "implication_form": "If the Langlands correspondence holds for general linear groups over algebraic function fields, then it is established by Lafforgue's theorem.",
+  "posed_by": "Laurent Lafforgue",
+  "solved_by": "Laurent Lafforgue",
+  "year_originated": 30,
+  "explained": "Lafforgue's theorem establishes a correspondence between certain automorphic representations of GL(n) over a field of the form F_q((t)) (where q is a power of a prime) and certain representations of the Langlands dual group, which is related to the Galois group, of the base field. This correspondence completes the Langlands program for general linear groups GL(n) over algebraic function fields (specifically, curves over finite fields). It demonstrates that the automorphic representations, which are representations of the adelic points of GL(n), correspond to representations of the Weil-Deligne group or Galois group that are tempered at infinity and satisfy certain conditions (like being conjugate self-dual). This provides a proof of the local Langlands correspondence for archimedean places and confirms a major part of the global Langlands program for function fields.",
+  "terms": {
+    "Automorphic forms/representations": "Mathematical objects that are invariant under a group action, generalizing classical modular forms to higher rank groups. Automorphic representations are the irreducible representations arising from these forms.",
+    "Langlands Program": "A set of far-reaching and influential conjectures by Robert Langlands proposing deep connections between number theory, representation theory, and algebraic geometry, linking automorphic forms to Galois representations.",
+    "Galois representations": "Homomorphisms from the absolute Galois group of a field to the automorphism group of some object (like GL(n,C) or general linear groups over a field). They encode arithmetic information.",
+    "Weil group": "A subgroup of the absolute Galois group used in the Langlands program to refine the correspondence, particularly for p-adic and archimedean fields.",
+    "Adelic points": "Points of a group defined over the adeles, a completion of the rational functions on an algebraic curve, used to formulate representations in the Langlands program.",
+    "General Linear Group GL(n)": "The group of n by n invertible matrices with entries in a field.",
+    "Algebraic Function Fields": "Fields of algebraic functions on algebraic curves.",
+    "Correspondence": "The proposed relationship between automorphic forms and Galois representations.",
+    "Conjugate Self-Dual": "A condition on representations ensuring they are related to their own dual via a specific intertwining operator.",
+    "Tempered representations": "A type of representation that appears in the discrete spectrum of certain spaces (like L^2 of the group) and is important for the correspondence.",
+    "Langlands Dual Group": "The group obtained by exchanging the roles of roots and weights in the root system of the group GL(n)."
+  },
+  "related_conjectures": [
+    "Langlands Program (General)",
+    "Local Langlands Correspondence",
+    "Ramanujan-Petersson Conjecture",
+    "Artin Conjecture"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Representation Theory",
+    "Algebraic Geometry",
+    "Algebraic Number Theory"
+  ]
+}

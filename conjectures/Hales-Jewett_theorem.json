@@ -1,0 +1,34 @@
+{
+  "uuid": "ce5480d2-73d7-4df2-9999-339d5ca3a36b",
+  "name": "Hales–Jewett theorem",
+  "link": "https://en.wikipedia.org/wiki/Hales%E2%80%93Jewett_theorem",
+  "rephrased": "For any number of colors and any dimension, there is a size such that any coloring of the points in that high-dimensional grid with the colors will contain a monochromatic combinatorial line.",
+  "implication_form": "If all points in a sufficiently high-dimensional grid are colored with c colors, then there exists a monochromatic combinatorial line.",
+  "posed_by": [
+    "Alfred W. Hales",
+    "Robert I. Jewett"
+  ],
+  "solved_by": [
+    "Alfred W. Hales",
+    "Robert I. Jewett"
+  ],
+  "year_originated": 60,
+  "explained": "The Hales–Jewett theorem states that for any positive integers n and c, there exists a positive integer H (depending only on n and c) such that any coloring of the cells in the H-dimensional grid [n]^H (where [n] = {1,2,...,n}) with c colors must contain at least one monochromatic combinatorial line. A combinatorial line in this context is a set of points that are aligned along a row, column, file (in the combinatorial sense), or diagonal within the grid space.",
+  "terms": [
+    "Ramsey theory",
+    "Combinatorial line",
+    "Grid space",
+    "Monochromatic",
+    "High-dimensional Ramsey theory"
+  ],
+  "related_conjectures": [
+    "Gallai-Witt theorem (a generalization in the context of point lattices)",
+    "Van der Waerden's theorem (deals with monochromatic arithmetic progressions, closely related conceptually)"
+  ],
+  "subjects": [
+    "Ramsey theory",
+    "Combinatorics",
+    "Extremal set theory",
+    "Additive combinatorics"
+  ]
+}

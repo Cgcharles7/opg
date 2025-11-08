@@ -1,0 +1,31 @@
+{
+  "uuid": "93778ec2-78b4-4642-8e5c-5ae954bd4fe5",
+  "name": "Kelmans–Seymour conjecture",
+  "link": "https://en.wikipedia.org/wiki/Kelmans%E2%80%93Seymour_conjecture",
+  "rephrased": "A highly connected graph that cannot be drawn on a plane without crossings must contain a subdivision of the complete graph K5.",
+  "implication_form": "If a graph is 5-vertex-connected and non-planar, then it contains a subdivision of K5.",
+  "posed_by": "Paul Seymour and Alexander Kelmans",
+  "solved_by": "Alexander Kelmans",
+  "year_originated": 46,
+  "explained": "The Kelmans–Seymour conjecture states that every 5-vertex-connected graph that is non-planar contains a subdivision of the complete graph K5. In other words, if a graph is highly connected (specifically, 5-vertex-connected) and cannot be embedded in the plane without edge crossings, then it must contain a structure that resembles K5 with edges subdivided.",
+  "terms": [
+    "5-vertex-connected graph",
+    "non-planar graph",
+    "graph subdivision",
+    "K5 (complete graph on 5 vertices)",
+    "graph theory",
+    "connectivity",
+    "planarity"
+  ],
+  "related_conjectures": [
+    "Wagner's conjecture",
+    "Four color theorem",
+    "Five color theorem",
+    "Mac Lane's planarity criterion"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Discrete mathematics"
+  ]
+}

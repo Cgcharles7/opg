@@ -1,0 +1,17 @@
+{
+  "uuid": "1edd28b3-a372-4f84-9797-1c056e956a1b",
+  "name": "Kummer–Vandiver conjecture",
+  "link": "https://en.wikipedia.org/wiki/Kummer%E2%80%93Vandiver_conjecture",
+  "rephrased": "For any prime number p, p does not divide the class number of the maximal real subfield of the p-th cyclotomic field.",
+  "implication_form": "If p is a prime, then p does not divide the class number hK of the maximal real subfield of the p-th cyclotomic field.",
+  "posed_by": [
+    "Kummer",
+    "Vandiver"
+  ],
+  "solved_by": "unsolved",
+  "year_originated": 170,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

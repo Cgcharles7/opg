@@ -1,0 +1,35 @@
+{
+  "uuid": "665da74a-ed77-4126-bf76-192c67f4b278",
+  "name": "Laplace–Beltrami operator",
+  "link": "https://en.wikipedia.org/wiki/Laplace%E2%80%93Beltrami_operator",
+  "rephrased": "The Laplace-Beltrami operator is a generalization of the standard Laplacian from flat space to curved surfaces or higher-dimensional manifolds, measuring the total curvature of a function defined on such a surface.",
+  "implication_form": null,
+  "posed_by": "Pierre-Simon Laplace and Eugenio Beltrami",
+  "solved_by": "Unsolved",
+  "year_originated": 200,
+  "explained": "The Laplace–Beltrami operator is a generalization of the standard Laplace operator from Euclidean space to functions defined on smooth Riemannian manifolds (or pseudo-Riemannian manifolds). It acts on scalar functions (or sections of vector bundles) defined on the manifold. For a function f on a Riemannian manifold with metric tensor g, the Laplace–Beltrami operator Δf is defined as the divergence of the covariant derivative of the gradient of f. In coordinates, it involves second partial derivatives and the Christoffel symbols of the metric. It plays a crucial role in differential geometry, analysis on manifolds, physics (e.g., wave equations, heat equations, quantum mechanics), and image processing.",
+  "terms": [
+    "Laplace-Beltr. operator",
+    "Riemannian manifold",
+    "Pseudo-Riemannian manifold",
+    "Differential geometry",
+    "Metric tensor",
+    "Covariant derivative",
+    "Gradient",
+    "Divergence",
+    "Christoffel symbols",
+    "Eigenvalues"
+  ],
+  "related_conjectures": [
+    "Quantum Unique Ergodicity",
+    "Visser's conjecture",
+    "Bounds on Laplace-Beltrami eigenvalues"
+  ],
+  "subjects": [
+    "Differential Geometry",
+    "Partial Differential Equations",
+    "Spectral Theory",
+    "Analysis on Manifolds",
+    "Mathematical Physics"
+  ]
+}

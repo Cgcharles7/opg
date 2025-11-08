@@ -1,0 +1,34 @@
+{
+  "uuid": "b14cc387-72d2-43ef-9e0e-7baa59ffe2bc",
+  "name": "Kadison–Singer problem",
+  "link": "https://en.wikipedia.org/wiki/Kadison%E2%80%93Singer_problem",
+  "rephrased": "The Kadison–Singer problem asks whether pure states on certain C*-algebras have unique extensions to larger algebras.",
+  "implication_form": "If a linear functional is a pure state on a certain C*-algebra, then its extension to a larger algebra is unique.",
+  "posed_by": "Richard Kadison and Isadore Singer",
+  "solved_by": "Adam Marcus, Daniel Spielman, Nikhil Srivastava",
+  "year_originated": 64,
+  "explained": "The Kadison-Singer problem, now a theorem proved in 2013, asks: If a pure state on the C*-algebra of bounded operators on a separable infinite-dimensional Hilbert space vanishes on the algebra of all diagonal operators (with respect to some orthonormal basis), must it be uniquely extendable to a pure state on the entire algebra of bounded operators? In simpler terms, it questions the uniqueness of extensions of certain states defined on a subalgebra to the whole algebra.",
+  "terms": [
+    "C*-algebra",
+    "Hilbert space",
+    "Operator theory",
+    "Pure state",
+    "Linear functional",
+    "Extension",
+    "Diagonal operator"
+  ],
+  "related_conjectures": [
+    "Paving conjecture",
+    "Anderson conjecture",
+    "De Finetti conjecture",
+    "Delone counterexample conjecture",
+    "Hyperlinear property"
+  ],
+  "subjects": [
+    "Functional analysis",
+    "Operator theory",
+    "C*-algebras",
+    "Quantum mechanics",
+    "Harmonic analysis"
+  ]
+}

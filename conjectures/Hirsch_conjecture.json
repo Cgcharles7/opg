@@ -1,0 +1,34 @@
+{
+  "uuid": "cf74836a-ee57-4afe-bf06-9d1f4cb2cfe6",
+  "name": "Hirsch conjecture",
+  "link": "https://en.wikipedia.org/wiki/Hirsch_conjecture",
+  "rephrased": "The longest path between any two vertices of a d-dimensional polytope with n facets is at most n minus d.",
+  "implication_form": "If a polytope has n facets in d-dimensional space, then the diameter of its edge-vertex graph is at most n minus d.",
+  "posed_by": "Warren M. Hirsch",
+  "solved_by": "Francisco Santos",
+  "year_originated": 66,
+  "explained": "The Hirsch conjecture, proposed by Warren M. Hirsch in 1957, concerns the diameter of the edge-vertex graph of a polytope. Specifically, it states that for a d-dimensional polytope with n facets (n-dimensional faces), the diameter of its edge-vertex graph (the graph where vertices are the polytope's vertices and edges are its edges) is at most n - d. This means that any two vertices of the polytope can be connected by a path along the edges of the polytope that has length (number of edges) no greater than n - d.",
+  "terms": [
+    "Facet",
+    "Vertices",
+    "Edges",
+    "Diameter",
+    "Polytope",
+    "Graph",
+    "Combinatorial Geometry",
+    "Linear Programming",
+    "Simplex Method"
+  ],
+  "related_conjectures": [
+    "Polynomial Hirsch-Wallace conjecture",
+    "Strong Hirsch conjecture"
+  ],
+  "subjects": [
+    "Mathematical Programming",
+    "Polyhedral Combinatorics",
+    "Combinatorics",
+    "Geometry",
+    "Operations Research",
+    "Discrete Mathematics"
+  ]
+}

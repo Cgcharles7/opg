@@ -1,0 +1,32 @@
+{
+  "uuid": "42706c8d-bfca-4d65-b90b-cd7b9f5a35f3",
+  "name": "Halperin conjecture",
+  "link": "https://en.wikipedia.org/wiki/Halperin_conjecture",
+  "rephrased": "In rational homotopy theory, the Halperin conjecture proposes a relationship between the rank of the fundamental group of a space and its rational homotopy properties, specifically in the context of fibrations where the base space is simply connected.",
+  "implication_form": "If a space X is the total space of a fibration with a simply connected base space, then the rank of its fundamental group is bounded by its rational homotopy properties.",
+  "posed_by": "Stephen Halperin",
+  "solved_by": "unsolved",
+  "year_originated": 40,
+  "explained": "The Halperin conjecture, formulated by Stephen Halperin in the context of rational homotopy theory, addresses the rank of the differential in the Serre spectral sequence for certain fibrations. Specifically, for a fibration F → X → B where X is simply connected and the spectral sequence converges to the rational homotopy of X, the conjecture states that the rank of the differential d₂ in the minimal model associated to the fibration is equal to the dimension of the rational homotopy Lie algebra of F minus the rank of the rational homotopy Lie algebra of B.",
+  "terms": [
+    "Rational homotopy theory",
+    "Serre spectral sequence",
+    "Fibration",
+    "Lie algebra",
+    "Differential graded algebra",
+    "Minimal model",
+    "Simply connected space",
+    "Rational homotopy groups"
+  ],
+  "related_conjectures": [
+    "Deligne conjecture",
+    "Sullivan conjecture",
+    "Tsuchida conjecture"
+  ],
+  "subjects": [
+    "Algebraic topology",
+    "Homotopy theory",
+    "Lie theory",
+    "Differential geometry"
+  ]
+}

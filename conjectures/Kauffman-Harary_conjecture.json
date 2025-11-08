@@ -1,0 +1,34 @@
+{
+  "uuid": "2d588d89-8410-482b-a1b9-b5b64a504498",
+  "name": "Kauffman–Harary conjecture",
+  "link": null,
+  "rephrased": "Every non-trivial alternating link has exactly one non-orientable spanning surface (up to non-isotopy).",
+  "implication_form": "If a link is non-trivial and alternating, then it has exactly one non-orientaneous spanning surface (up to non-isotopy).",
+  "posed_by": [
+    "Louis Kauffman",
+    "Francesco Hǎrǎry"
+  ],
+  "solved_by": "unsolved",
+  "year_originated": 38,
+  "explained": "The Kauffman–Harary conjecture, proposed by Louis Kauffman and Frank Harary, states that every non-trivial spatial graph (a graph embedded in 3-dimensional space) is prime. A spatial graph is considered prime if it cannot be decomposed non-trivially. The conjecture specifically addresses prime decomposition with respect to the operation of taking a connected sum of spatial graphs. Two spatial graphs are said to be connected along a graph H if they share an embedding of H and their embeddings do not intersect outside of H. The connected sum is formed by removing a small neighborhood of H from both graphs and gluing them together along the boundary torus or sphere associated with H. A spatial graph is prime if it cannot be expressed as a non-trivial connected sum of two spatial graphs. The conjecture claims that all non-trivial spatial graphs are prime, meaning they cannot be broken down into simpler components via this connected sum operation.",
+  "terms": [
+    "Spatial graph",
+    "Prime decomposition",
+    "Connected sum",
+    "Spatial graph decomposition",
+    "Graph embedding",
+    "3-dimensional space",
+    "Prime graph"
+  ],
+  "related_conjectures": [
+    "Kneser conjecture (deals with graph coloring, but related in spirit to decomposition properties)",
+    "Additive basis conjectures (related to decomposition principles in other areas)",
+    "Knotting problems (spatial graphs generalize knots)"
+  ],
+  "subjects": [
+    "Knot theory",
+    "Graph theory",
+    "Topological graph theory",
+    "Low-dimensional topology"
+  ]
+}

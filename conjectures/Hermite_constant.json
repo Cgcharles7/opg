@@ -1,0 +1,35 @@
+{
+  "uuid": "b9cd19e0-b6b0-47e9-be9a-4395eee39c82",
+  "name": "Hermite constant",
+  "link": "https://en.wikipedia.org/wiki/Hermite_constant",
+  "rephrased": "The Hermite constant γₙ provides an upper bound on the shortest vector length in any n-dimensional lattice.",
+  "implication_form": "If L is an n-dimensional lattice, then the squared length of its shortest vector is at most γₙ times the determinant raised to the power of 1/n.",
+  "posed_by": "Charles Hermite",
+  "solved_by": "unsolved",
+  "year_originated": 170,
+  "explained": "The Hermite constant, denoted by γₙ for integers n > 0, is a mathematical constant defined for lattices in Euclidean space ℝⁿ. It is the supremum (least upper bound) of the ratio λ₁(L)²ⁿ / det(L) over all lattices L in ℝⁿ, where λ₁(L) is the length of the shortest non-zero vector in the lattice L, and det(L) is the absolute value of the determinant of the lattice's basis matrix. The conjecture associated with the Hermite constant is that this supremum is actually achieved by some lattice, and that the optimal lattice for each dimension n is unique up to isometry. Furthermore, it is conjectured that there exists a closed-form expression for the optimal γₙ, specifically γₙ = 2ⁿ/ₙ₊₁ * (1/ₙ₊₁)!, where ! denotes the factorial function. This closed-form expression is believed to be achieved by the root lattice of type Dₙ for even n and type Aₙ for odd n, although this is not proven for all dimensions.",
+  "terms": [
+    "Lattice",
+    "Shortest Vector Problem (SVP)",
+    "Determinant",
+    "Euclidean Space",
+    "Basis",
+    "Isometry",
+    "Root Lattice",
+    "Hermite Normal Form",
+    "Geometry of Numbers"
+  ],
+  "related_conjectures": [
+    "Shortest Vector Problem (SVP) Conjecture",
+    "Conjecture on the Complexity of SVP and Learning With Errors (LWE)",
+    "Conjecture regarding the exact value of the Hermite constant",
+    "Conjecture on the optimality of the root lattice"
+  ],
+  "subjects": [
+    "Lattice Theory",
+    "Geometry of Numbers",
+    "Computer Science (Cryptology, Algorithm Analysis)",
+    "Number Theory",
+    "Mathematical Optimization"
+  ]
+}

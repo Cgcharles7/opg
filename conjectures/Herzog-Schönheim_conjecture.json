@@ -1,0 +1,30 @@
+{
+  "uuid": "18875d17-3833-4744-842a-ecdb1b5a9b32",
+  "name": "Herzog–Schönheim conjecture",
+  "link": "https://en.wikipedia.org/wiki/Herzog%E2%80%93Sch%C3%B6nheim_conjecture",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "The Herzog–Schönheim conjecture, proposed in 1974, addresses a covering condition involving a finite group G, a subset A of G, and the stabilizer subgroup H of A (the set of elements fixing A pointwise). It states that if the left cosets of H cover the entire group G, then the number of such cosets, denoted k, satisfies k * |A| ≥ |G|, where |A| and |G| denote the cardinalities of A and G respectively. Furthermore, the conjecture suggests that equality holds if and only if the covering is a disjoint union of the cosets (i.e., a partition).",
+  "terms": [
+    "Finite group",
+    "Subset",
+    "Stabilizer subgroup",
+    "Coset",
+    "Covering",
+    "Covering system",
+    "Group theory",
+    "Combinatorics"
+  ],
+  "related_conjectures": [
+    "Davenport constant (related to subset sums in abelian groups)",
+    "Theorems related to covering systems or covering codes"
+  ],
+  "subjects": [
+    "Group theory",
+    "Combinatorics",
+    "Finite geometry"
+  ]
+}

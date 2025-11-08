@@ -1,0 +1,30 @@
+{
+  "uuid": "50fda9e2-6858-469a-bdcc-44e337c524b4",
+  "name": "Ronald van Kempen's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Kemnitz%27s_conjecture",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "Kemnitz's conjecture, formulated for the integer lattice Z^2 in two dimensions (n=2), states that for any finite set S of lattice points in the plane (points with integer coordinates), there exists a subset T ⊆ S with exactly 3 points (n+1=3) such that the centroid of T is also a lattice point. This means the average of the x-coordinates and the average of the y-coordinates of the three points must both be integers. Equivalently, the sum of the x-coordinates and the sum of the y-coordinates of the three points must both be divisible by 3.",
+  "terms": [
+    "Lattice point (integer lattice Z^d)",
+    "Centroid (average position)",
+    "Integer lattice (Z^2)",
+    "Additive number theory",
+    "Combinatorial geometry",
+    "Subset sum"
+  ],
+  "related_conjectures": [
+    "Erdős–Ginzburg–Ziv theorem (concerns subset sums modulo n)",
+    "Kemnitz's conjecture in higher dimensions (for Z^d with subset size d+1)",
+    "Zero-sum subset problems in additive combinatorics"
+  ],
+  "subjects": [
+    "Additive number theory",
+    "Combinatorial geometry",
+    "Lattice point problems",
+    "Discrete mathematics"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uuid": "c57892db-3619-4393-8e91-447cf07cb0a7",
+  "name": "Lagrangian submanifold",
+  "link": "https://en.wikipedia.org/wiki/Symplectic_manifold",
+  "rephrased": "A Lagrangian submanifold is a special type of submanifold in a symplectic manifold where the symplectic form vanishes completely when restricted to it, and its dimension is half that of the ambient manifold.",
+  "implication_form": "If M is a symplectic manifold with symplectic form ω, and L is a submanifold of M with dimension half of dim(M), then L is Lagrangian if ω, restricted to L, is identically zero.",
+  "posed_by": "Named after Joseph-Louis Lagrange, though formally defined in modern symplectic geometry.",
+  "solved_by": "Unsolved (as a whole concept).",
+  "year_originated": "Approximately 60 years",
+  "explained": "A Lagrangian submanifold is a special type of submanifold defined within a symplectic manifold. It is a smooth submanifold L of a symplectic manifold (M, ω) such that the symplectic form ω restricts to zero on L, i.e., ω|_L = 0. Crucially, it must have the same dimension as the space of symplectic forms allow, which is half the dimension of the ambient symplectic manifold M (if M is even-dimensional). Furthermore, for the submanifold to be Lagrangian, it must be maximal isotropic, meaning its dimension is maximal among isotropic submanifolds (those where ω restricts to zero). In the context of Hamiltonian mechanics, Lagrangian submanifolds arise naturally as the submanifolds where the action functional is defined, representing the possible trajectories of a system starting from an initial position and momenta.",
+  "terms": [
+    "Symplectic manifold",
+    "Symplectic form",
+    "Isotropic submanifold",
+    "Cotangent bundle",
+    "Hamiltonian mechanics",
+    "Lagrangian function",
+    "Symplectic reduction",
+    "Moment map"
+  ],
+  "related_conjectures": [
+    "Arnold Conjecture",
+    "Weinstein Conjecture",
+    "Homological mirror symmetry"
+  ],
+  "subjects": [
+    "Symplectic geometry",
+    "Differential geometry",
+    "Hamiltonian mechanics",
+    "Mathematical physics"
+  ]
+}

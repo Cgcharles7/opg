@@ -1,0 +1,28 @@
+{
+  "uuid": "7d1bda4e-69d3-4487-8008-1bf246a2dd76",
+  "name": "Khinchin's constant",
+  "link": "https://en.wikipedia.org/wiki/Khinchin%27s_constant",
+  "rephrased": "For almost all real numbers, the coefficients in their continued fraction expansion have a geometric mean that equals a specific constant called Khinchin's constant (K0).",
+  "implication_form": "If a real number has a continued fraction expansion, then for almost all such numbers, the geometric mean of its coefficients equals Khinchin's constant K0.",
+  "posed_by": "Aleksandr Yakovlevich Khinchin",
+  "solved_by": "unsolved",
+  "year_originated": 90,
+  "explained": "Khinchin's theorem (sometimes referred to in the context of Khinchin's constant) states that for almost all real numbers x (with respect to the Lebesgue measure), the coefficients a₁, a₂, a₃, ... in the simple continued fraction expansion of x satisfy the following property: the limit of the geometric mean of the first n coefficients, (a₁ * a₂ * ... * a_n)^(1/n), as n approaches infinity, exists and equals a specific mathematical constant known as Khinchin's constant, denoted by K₀. This constant is approximately 2.685452016...",
+  "terms": [
+    "Continued fraction",
+    "Geometric mean",
+    "Almost all real numbers",
+    "Khinchin constant (K₀)",
+    "Coefficients (a_i)"
+  ],
+  "related_conjectures": [
+    "Lochs conjecture (regarding the speed of convergence of the continued fraction expansion)",
+    "Gauss-Kuzmin distribution (describing the asymptotic distribution of coefficients in continued fraction expansions)"
+  ],
+  "subjects": [
+    "Number theory",
+    "Analysis",
+    "Metric number theory",
+    "Ergodic theory"
+  ]
+}

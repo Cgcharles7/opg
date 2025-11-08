@@ -1,0 +1,36 @@
+{
+  "uuid": "6bd79c4b-5343-45ac-832c-24d78a0db126",
+  "name": "Hodge conjecture",
+  "link": "https://en.wikipedia.org/wiki/Hodge_conjecture",
+  "rephrased": "The Hodge conjecture states that certain geometric features of complex shapes defined by polynomials (specifically, elements of their cohomology groups that satisfy extra symmetry conditions) can be explained by looking at simpler shapes (called algebraic cycles) inside them.",
+  "implication_form": "If a complex algebraic variety has a Hodge class in its cohomology, then it must be expressible as a rational combination of algebraic cycles.",
+  "posed_by": "William Vallance Douglas Hodge",
+  "solved_by": "unsolved",
+  "year_originated": "74",
+  "explained": "The Hodge conjecture states that for a non-singular complex algebraic variety, the Hodge classes in its cohomology ring are integral linear combinations of the cohomology classes of complex algebraic subvarieties. In other words, certain topological information (captured by Hodge classes) can be understood by studying the subvarieties (the 'nice shapes') that lie within the variety. More formally, if X is a non-singular complex algebraic variety defined over the complex numbers, then every Hodge class (cohomology class that is also a Hodge class, meaning it has a specific real and integral structure) is actually an integral linear combination of the cohomology classes of algebraic cycles (subvarieties of X).",
+  "terms": [
+    "Complex Algebraic Variety",
+    "Nonsingular",
+    "Cohomology",
+    "Hodge Class",
+    "Algebraic Cycle",
+    "Algebraic Subvariety",
+    "Complex Geometry",
+    "Algebraic Geometry",
+    "Integral Combination"
+  ],
+  "related_conjectures": [
+    "Birch and Swinnerton-Dyer Conjecture",
+    "Poincaré Conjecture (now a theorem)",
+    "Riemann Hypothesis (for varieties)",
+    "Yang-Mills Existence and Mass Gap",
+    "Navier-Stokes Existence and Smoothness",
+    "P vs NP Problem"
+  ],
+  "subjects": [
+    "Algebraic Geometry",
+    "Complex Geometry",
+    "Algebraic Topology",
+    "Number Theory"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "61cd3d75-4526-41f7-9247-990751c53ac8",
+  "name": "Isomorphism problem of Coxeter groups",
+  "link": "https://en.wikipedia.org/wiki/Isomorphism_problem_of_Coxeter_groups",
+  "rephrased": "Given two Coxeter diagrams, is it possible to determine if they represent the same abstract group?",
+  "implication_form": "None",
+  "posed_by": "H.S.M. Coxeter (as a general problem in the field)",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

@@ -1,0 +1,34 @@
+{
+  "uuid": "c26058d3-b646-4976-af1c-13757f6e9fb4",
+  "name": "Hadamard conjecture",
+  "link": "https://en.wikipedia.org/wiki/Hadamard_matrix",
+  "rephrased": "A Hadamard matrix exists for every order that is a multiple of 4.",
+  "implication_form": "If n is a multiple of 4, then there exists a Hadamard matrix of order n.",
+  "posed_by": "Jacques Hadamard",
+  "solved_by": "unsolved",
+  "year_originated": 124,
+  "explained": "The Hadamard conjecture states that an Hadamard matrix of order n exists if and only if n is a multiple of 4. An Hadamard matrix is a square matrix with entries +1 or -1, and rows that are pairwise orthogonal (i.e., any two distinct rows have a dot product of zero). This means that in any two distinct rows, the entries are +1 and -1 in exactly half of the columns (agreement) and mismatched in the other half (disagreement). The conjecture is about the existence of such matrices for every order that is a multiple of 4.",
+  "terms": [
+    "Hadamard matrix",
+    "Orthogonal rows",
+    "Combinatorial design",
+    "Extremal set theory",
+    "Coding theory"
+  ],
+  "related_conjectures": [
+    {
+      "name": "Ryser's conjecture",
+      "description": "Concerns the existence of certain types of combinatorial designs related to Hadamard matrices."
+    },
+    {
+      "name": "Frankl–Wilson theorem",
+      "description": "A result in extremal set theory that provides bounds related to the existence of families with certain intersection properties, which can be linked to combinatorial designs involving Hadamard matrices."
+    }
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Finite Geometry",
+    "Coding Theory",
+    "Design Theory"
+  ]
+}

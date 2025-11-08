@@ -1,0 +1,14 @@
+{
+  "uuid": "92bc232f-43b2-41bf-9a1f-ada4dcde965a",
+  "name": "Hilbert–Pólya conjecture",
+  "link": "https://en.wikipedia.org/wiki/Hilbert%E2%80%93P%C3%B3lya_conjecture",
+  "rephrased": "The non-trivial zeros of the Riemann zeta function are eigenvalues of a specific self-adjoint operator.",
+  "implication_form": "If the Hilbert–Pólya conjecture is true, then the Riemann hypothesis is true.",
+  "posed_by": "David Hilbert and George Pólya",
+  "solved_by": "unsolved",
+  "year_originated": 123,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

@@ -1,0 +1,30 @@
+{
+  "uuid": "41332aca-7f78-4926-8564-1ceea29e5172",
+  "name": "Jacobson's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Jacobson%27s_conjecture",
+  "rephrased": "In a Noetherian ring, the intersection of all powers of its Jacobson radical is the zero ring (the trivial ring).",
+  "implication_form": "It is not possible to rewrite the conjecture in the form \"If P, then Q\" because no formal statement was provided.",
+  "posed_by": "Nathan Jacobson",
+  "solved_by": "unsolved",
+  "year_originated": 83,
+  "explained": "Jacobson's conjecture states that for a two-sided Noetherian ring R, the intersection of all powers of its Jacobson radical (the set of all quasi-regular elements, denoted J(R)) is the zero ideal. In other words, ∩_{n=1}^∞ J(R)^n = (0). This means that every element in the intersection must be nilpotent (i.e., some positive integer power of it is zero). The conjecture relies critically on the ring being two-sided Noetherian (both left and right Noetherian).",
+  "terms": [
+    "Jacobson radical",
+    "Noetherian ring",
+    "Two-sided Noetherian ring",
+    "Ideal",
+    "Nilpotency",
+    "Quasi-regular element",
+    "Radical",
+    "Commutative ring",
+    "Associative ring"
+  ],
+  "related_conjectures": [
+    "Köthe problem"
+  ],
+  "subjects": [
+    "Abstract algebra",
+    "Commutative algebra",
+    "Ring theory"
+  ]
+}

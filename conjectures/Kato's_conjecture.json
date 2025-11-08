@@ -1,0 +1,35 @@
+{
+  "uuid": "3857b800-b7ae-4a06-8a46-5d29af896a4b",
+  "name": "Kato's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Kato%27s_conjecture",
+  "rephrased": "Does the square root of a uniformly complex elliptic operator, defined via functional calculus, have an analytic domain?",
+  "implication_form": "If an operator is uniformly complex elliptic, then its square root (defined via functional calculus) has an analytic domain.",
+  "posed_by": "Tosio Kato",
+  "solved_by": "unsolved",
+  "year_originated": 71,
+  "explained": "Kato's conjecture concerns the analyticity properties of the square root of certain types of elliptic operators. It posits that for a uniformly complex elliptic operator L (typically acting on vector-valued functions over a domain in R^n), defined on a bounded Lipschitz domain Ω, the square root √L (defined via functional calculus) is an analytic function on Ω. The precise statement often involves the boundedness and analyticity of the related Dirichlet-to-Neumann map or the Poisson operator associated with the operator L.",
+  "terms": [
+    "Elliptic operators",
+    "Uniformly complex elliptic",
+    "Functional calculus",
+    "Square root of an operator",
+    "Analyticity",
+    "Poisson semigroup",
+    "Dirichlet problem",
+    "Lipschitz domain",
+    "Hodge Laplacian"
+  ],
+  "related_conjectures": [
+    "Kato square root problem (for other operators/scales)",
+    "Douglas-Rachford conjecture (related to operator theory, sometimes cited in the context of related functional calculus)",
+    "Hodge conjecture (related via elliptic complexes like the Hodge Laplacian)"
+  ],
+  "subjects": [
+    "Partial differential equations (PDEs)",
+    "Operator theory",
+    "Harmonic analysis",
+    "Functional analysis",
+    "Complex analysis",
+    "Mathematical physics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "72fee22a-9ff4-4383-8b7f-77a7aef60699",
+  "name": "Kazhdan–Lusztig polynomial",
+  "link": "https://en.wikipedia.org/wiki/Kazhdan%E2%80%93Lusztig_polynomial",
+  "rephrased": "The Kazhdan–Lusztig polynomials are a family of polynomials indexed by pairs of elements in a Coxeter group (like a Weyl group), defined to satisfy specific recursive properties related to the group's structure.",
+  "implication_form": "It is not possible to rephrase the definition of the Kazhdan–Lusztig polynomials as an 'If P, then Q' statement, as they are defined by their properties rather than being a statement that implies a consequence.",
+  "posed_by": "David Kazhdan and George Lusztig",
+  "solved_by": "Unsolved",
+  "year_originated": 45,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

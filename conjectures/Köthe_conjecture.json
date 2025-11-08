@@ -1,0 +1,27 @@
+{
+  "uuid": "494c4c40-1f12-4987-b435-897eba00727a",
+  "name": "Köthe conjecture",
+  "link": "https://en.wikipedia.org/wiki/K%C3%B6the_conjecture",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "The Köthe conjecture, formulated by Gottfried Köthe in 1930, states that if a ring R has no nilpotent ideals other than the zero ideal, then it also has no nil one-sided ideals other than the zero ideal.",
+  "terms": [
+    "Nil ideal",
+    "Nil one-sided ideal",
+    "Ring theory",
+    "Commutative ring",
+    "Noetherian ring"
+  ],
+  "related_conjectures": [
+    "Jacobson radical conjecture",
+    "Nilradical conjecture"
+  ],
+  "subjects": [
+    "Ring theory",
+    "Abstract algebra",
+    "Commutative algebra"
+  ]
+}

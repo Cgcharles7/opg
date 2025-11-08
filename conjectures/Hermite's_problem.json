@@ -1,0 +1,14 @@
+{
+  "uuid": "18e7433d-ffcf-4b72-bf4a-31267273bf89",
+  "name": "Hermite's problem",
+  "link": "https://en.wikipedia.org/wiki/Hermite%27s_problem",
+  "rephrased": "Find a method to represent every real number as a sequence of natural numbers such that the sequence eventually becomes periodic if and only if the original number is a cubic irrational (a root of a cubic polynomial with integer coefficients).",
+  "implication_form": "If a real number is a cubic irrational, then its sequence representation is eventually periodic.",
+  "posed_by": "Charles Hermite",
+  "solved_by": "Arthur C. Magnuson (1954)",
+  "year_originated": 176,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

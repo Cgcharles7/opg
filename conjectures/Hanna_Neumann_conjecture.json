@@ -1,0 +1,14 @@
+{
+  "uuid": "95cd1b23-40c3-4273-b3a2-d6dcb994085a",
+  "name": "Hanna Neumann conjecture",
+  "link": "https://en.wikipedia.org/wiki/Hanna_Neumann_conjecture",
+  "rephrased": "The rank (minimum number of generators) of the intersection of any two finitely generated subgroups of a free group is at most the product of their individual ranks minus one.",
+  "implication_form": "If H and K are finitely generated subgroups of a free group, then the rank of their intersection H ∩ K is at most (rank(H) * rank(K)) - 1.",
+  "posed_by": "Hanna Neumann",
+  "solved_by": "Joel Friedman and Igor Mineyev (2011) proved a strengthened version; a third proof was published in 2017.",
+  "year_originated": 66,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

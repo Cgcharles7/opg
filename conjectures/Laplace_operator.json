@@ -1,0 +1,33 @@
+{
+  "uuid": "1c0fca60-d247-41b1-8c27-813f3ef1699c",
+  "name": "Laplace operator",
+  "link": "https://en.wikipedia.org/wiki/Laplace_operator",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "The Laplace operator, or Laplacian, is a second-order differential operator named after Pierre-Simon Laplace. It is defined as the divergence of the gradient of a scalar function on Euclidean space. For a scalar function f, the Laplacian is given by the divergence of its gradient, ∇ · ∇f, which is often written as ∇²f or ∆f. In Cartesian coordinates, for a function f(x₁, x₂, ..., xₙ), the Laplacian is the sum of the non-mixed second partial derivatives: ∇²f = ∂²f/∂x₁² + ∂²f/∂x₂² + ... + ∂²f/∂xₙ². The Laplacian appears in various fields including mathematics, physics, and engineering, notably in the heat equation, wave equation, Poisson's equation, and in describing gravitational and fluid potentials.",
+  "terms": [
+    "Gradient",
+    "Divergence",
+    "Scalar function",
+    "Euclidean space",
+    "Differential operator",
+    "Second-order differential operator",
+    "Nabla (∇) notation"
+  ],
+  "related_conjectures": [
+    "Yamabe problem",
+    "Hodge conjecture",
+    "Plateau's problem",
+    "Conformal Laplacian conjectures"
+  ],
+  "subjects": [
+    "Partial differential equations",
+    "Differential geometry",
+    "Analysis",
+    "Mathematical physics",
+    "Vector calculus"
+  ]
+}

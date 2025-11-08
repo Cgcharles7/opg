@@ -1,0 +1,25 @@
+{
+  "uuid": "1f622b9e-2011-4426-86d8-f63be92c927a",
+  "name": "Lander, Parkin, and Selfridge conjecture",
+  "link": "https://en.wikipedia.org/wiki/Lander,_Parkin,_and_Selfridge_conjecture",
+  "rephrased": "If two different sets of k-th powers have the same sum, then the total number of terms in these two sets combined must be at least k.",
+  "implication_form": "If the sum of some k-th powers equals the sum of other k-th powers, then the total number of terms in both sets must be at least k.",
+  "posed_by": "Lander, Parkin, and Selfridge",
+  "solved_by": "unsolved",
+  "year_originated": 1960,
+  "explained": "The Lander, Parkin, and Selfridge conjecture states that if the sum of m terms, each a k-th power, equals the sum of n terms, each a k-th power, then the total number of terms (m + n) must be at least k.",
+  "terms": [
+    "Sum of Powers",
+    "k-th Power",
+    "Fermat's Last Theorem",
+    "Euler's Sum of Powers Conjecture",
+    "Waring's Problem"
+  ],
+  "related_conjectures": [
+    "Euler's Sum of Powers Conjecture"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Diophantine Equations"
+  ]
+}

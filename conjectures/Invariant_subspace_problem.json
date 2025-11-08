@@ -1,0 +1,30 @@
+{
+  "uuid": "d58d558d-86bd-49fb-9a6c-58379553b6d7",
+  "name": "Invariant subspace problem",
+  "link": "https://en.wikipedia.org/wiki/Invariant_subspace_problem",
+  "rephrased": "Does every continuous operator on a complex vector space with completeness (Banach space) have a subspace (other than zero or the whole space) that it maps to itself?",
+  "implication_form": null,
+  "posed_by": "Stefan Banach",
+  "solved_by": "unsolved (for separable Hilbert spaces)",
+  "year_originated": 94,
+  "explained": "The Invariant Subspace Problem is a fundamental question in functional analysis. It asks whether every bounded linear operator T acting on a complex Banach space X has a non-trivial closed invariant subspace. In other words, is there always a closed subspace Y of X (other than {0} and X itself) such that T(Y) ⊆ Y?",
+  "terms": [
+    "Invariant subspace",
+    "Bounded operator",
+    "Banach space",
+    "Hilbert space",
+    "Linear operator",
+    "Closed subspace"
+  ],
+  "related_conjectures": [
+    "Invariant Subspace Problem for Non-Separable Hilbert Spaces",
+    "Invariant Subspace Problem for Specific Operators (e.g., Normal Operators)",
+    "Invariant Subspace Problem for Specific Banach Spaces (e.g., Lp spaces, C(K) spaces)"
+  ],
+  "subjects": [
+    "Functional Analysis",
+    "Operator Theory",
+    "Banach Space Theory",
+    "Mathematical Physics"
+  ]
+}
