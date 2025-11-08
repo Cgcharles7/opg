@@ -2,24 +2,13 @@
   "uuid": "a24f6952-5b89-48df-a6c7-a49b1ec835dc",
   "name": "Abundance conjecture",
   "link": "https://en.wikipedia.org/wiki/Abundance_conjecture",
-  "summary": "The abundance conjecture in algebraic geometry is a birational geometry conjecture, specifically in the minimal model program, which states that if the canonical bundle {\\displaystyle K_{X}} is nef, then {\\displaystyle K_{X}} is semi-ample, meaning that {\\displaystyle mK_{X}} is base-point free for some {\\displaystyle m>0}. This is true for every projective variety {\\displaystyle X} with Kawamata log terminal singularities over a field {\\displaystyle k}. Specifically, if abundance is maintained, the model {\\displaystyle X\\rightarrow Y=\\mathrm {Proj} \\bigoplus _{l\\geqslant 0}H^{0}(X,lK_{X})$ can be defined.<br><br>Caucher Birkar has established important cases of the abundance conjecture.[1]",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Unsolved problems",
-    "Algebraic geometry",
-    "Geometry"
-  ],
-  "authors": ["Caucher Birkar"],
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
+  "rephrased": "If a projective variety with Kawamata log terminal singularities has a nef canonical bundle, then some sufficiently large multiple of that bundle is base-point free.",
+  "implication_form": "If a projective variety X with Kawamata log terminal singularities has a nef canonical bundle, then the canonical bundle is semi-ample.",
+  "posed_by": "Unknown (not specified in the text)",
+  "solved_by": "No one fully solved it yet, but Caucher Birkar has established important cases",
+  "year_originated": "30-40 years (estimated)",
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
 }

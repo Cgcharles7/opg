@@ -2,25 +2,31 @@
   "uuid": "9d3314b5-f9dc-44e3-b624-8485c048a680",
   "name": "Diophantine equation",
   "link": "https://en.wikipedia.org/wiki/Diophantine_equation",
-  "summary": "A Diophantine equation is a polynomial equation with integer coefficients for which you are only interested in finding integer solutions. These are often referred to as integer equations, and they are a major part of number theory. ",
-  "head": null,
-  "tail": null, 
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Diophantine equations",
-    "Number theory"
+  "rephrased": "A Diophantine equation is a polynomial equation with integer coefficients that is solved over the integers.",
+  "implication_form": "If a polynomial equation has integer coefficients and we seek integer solutions, then it is a Diophantine equation.",
+  "posed_by": "Ancient Greek mathematicians (e.g., Diophantus of Alexandria)",
+  "solved_by": "Many specific cases have been solved; general solution methods remain an active area of research. Some famous conjectures (like Fermat's Last Theorem) were proven.",
+  "year_originated": "2000",
+  "explained": "A Diophantine equation is a polynomial equation with integer coefficients, typically involving one or more variables, for which integer solutions (or sometimes rational solutions) are sought. The term 'Diophantine equation' is named after the ancient Greek mathematician Diophantus of Alexandria. These equations are fundamental in number theory and involve finding solutions in integers (or rationals) to algebraic equations with integer coefficients. The general form is: P(x₁, x₂, ..., xn) = 0, where P is a polynomial with integer coefficients, and we seek integer tuples (a₁, a₂, ..., an) satisfying the equation.",
+  "terms": [
+    "Integer coefficients",
+    "Polynomial equation",
+    "Integer solutions",
+    "Rational solutions",
+    "Number theory",
+    "Algebraic number theory",
+    "Diophantine analysis"
   ],
-  "authors": [], 
-"status": "definition",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Fermat's Last Theorem (Historically central, now proven)",
+    "Birch and Swinnerton-Dyer Conjecture (Relates to the number of rational solutions for elliptic curves)",
+    "ABC Conjecture (A deep conjecture with implications for many Diophantine problems)",
+    "Mordell-Lang Conjecture (Now a theorem, related to rational points on varieties)"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Algebraic Geometry",
+    "Diophantine Geometry",
+    "Arithmetic Geometry"
   ]
 }
-

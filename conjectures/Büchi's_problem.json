@@ -2,25 +2,13 @@
   "uuid": "9a9a0b66-d8f9-4dfd-9d36-53d3ecf404d1",
   "name": "Büchi's problem",
   "link": "https://en.wikipedia.org/wiki/B%C3%BCchi%27s_problem",
-  "summary": "The n squares issue, or Büchi's problem, is an unresolved problem in number theory that bears the name of Julius Richard Büchi, a Swiss mathematician. It inquires as to whether there is a positive integer M such that, for each integer x, every series of M or more integer squares whose second difference is constant and equal to 2 is inevitably a sequence of squares of the form $(x + i)^2$, where i = 1, 2,..., M,... The following is the equivalent of Büchi's problem, according to Douglas Hensley in 1983: Is there a positive integer M such that, for all integers x and a, the quantity $(x + n)^2 + a$ cannot be a square for more than M consecutive values of n, unless a = 0?",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Number theory",
-    "Unsolved problems",
-    "General"
-  ],
-  "authors": ["Julius Richard Büchi"], 
-    "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
-
+  "rephrased": "A sequence of squares with constant second difference 2 must consist of consecutive squares.",
+  "implication_form": "If a sequence of squares has a constant second difference of 2 and has length greater than or equal to M, then it consists of consecutive squares.",
+  "posed_by": "René Betti",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
 }

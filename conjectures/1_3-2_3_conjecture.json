@@ -2,25 +2,28 @@
   "uuid": "9afae2eb-6963-4af5-9d63-0f71523a3181",
   "name": "1/3–2/3 conjecture",
   "link": "https://en.wikipedia.org/wiki/1/3%E2%80%932/3_conjecture",
-  "summary": "In the field of mathematics known as order theory, the 1/3–2/3 conjecture asserts that, if a set of items is being sorted by comparison, it is always possible to select the subsequent comparison in a way that will minimize the number of possible sorted orders by a factor of 2/3 or more, regardless of the comparisons that have already been made. To put it another way, there is a pair of elements x and y in every finite partially ordered set that is not completely ordered that have the condition that at least 1/3 and at most 2/3 of the linear extensions of the partial order place x sooner than y.",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Combinatorics",
-	"Order Theory", 
-    "Unsolved problems"
+  "rephrased": "In any partially ordered set that isn't fully sorted, there exists at least one pair of elements where the number of ways to fully sort the set (linear extensions) has them in one order (x before y) no more than twice as often as the other order (y before x).",
+  "implication_form": "If a finite partially ordered set is not totally ordered, then there exists a pair of elements x and y such that in the linear extensions, x appears before y in at least 1/3 and at most 2/3 of the extensions.",
+  "posed_by": "unknown",
+  "solved_by": "unsolved",
+  "year_originated": 40,
+  "explained": "The 1/3–2/3 conjecture is a statement in order theory. It posits that for any finite partially ordered set (poset) that is not already totally ordered (i.e., it has multiple linear extensions), there exists at least one pair of elements (x, y) such that, in the set of all possible linear extensions (total orders consistent with the partial order), the proportion of extensions where x precedes y is strictly between 1/3 and 2/3. In other words, no single element pair has a 'decisive' ordering across nearly all linear extensions; there is always some pair whose relative order is unresolved by the partial order in a balanced way (between 1/3 and 2/3 of the possibilities). This property is significant in comparison models for sorting, as it guarantees the existence of a comparison that significantly reduces the number of possible sorted outcomes (linear extensions).",
+  "terms": [
+    "Order theory",
+    "Partial order",
+    "Poset (Partially Ordered Set)",
+    "Linear extension",
+    "Comparisons model",
+    "Sorting",
+    "Total order",
+    "Chain",
+    "Antichain",
+    "Combinatorics"
   ],
-  "authors": [], 
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [],
+  "subjects": [
+    "Order theory",
+    "Combinatorics",
+    "Theoretical Computer Science (specifically sorting algorithms and comparison models)"
   ]
-
 }

@@ -2,14 +2,32 @@
   "uuid": "75e5ae2b-fd6c-40b1-9052-37bd289ad418",
   "name": "Brennan conjecture",
   "link": "https://en.wikipedia.org/wiki/Brennan_conjecture",
-  "summary": "In mathematics, specifically complex analysis, the Brennan conjecture is a conjecture estimating (under specified conditions) the integral powers of the moduli of the derivatives of conformal maps into the open unit disk. The conjecture was formulated by James E. Brennan in 1978.\nLet W be a simply connected open subset of \n  \n    \n      \n        \n          C\n        \n      \n    \n    {\\displaystyle \\mathbb {C} }\n  \n with at least two boundary points in the extended complex plane. Let \n  \n    \n   ",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Unsolved problems",
-    "Analysis"
+  "rephrased": "A simply connected region in the complex plane can be mapped bijectively onto the unit disk via a conformal map, and the integral of the absolute value of the map's derivative raised to any power p (between 4/3 and 4) remains finite.",
+  "implication_form": "If a simply connected open subset W of the complex plane (with at least two boundary points) admits a conformal map onto the unit disk, then the integral of |f'(z)|^p over W is finite for all p in (4/3, 4).",
+  "posed_by": "Brennan (attributed to the conjecture)",
+  "solved_by": "Unsolved",
+  "year_originated": 60,
+  "explained": "The Brennan conjecture concerns the integrability of the derivative of conformal maps. It states that for any simply connected open subset W of the complex plane with at least two boundary points, and for any conformal map f mapping W onto the open unit disk \\(\\mathbb{D}\\), the integral \\(\\int_{W} |f'(z)|^p  dA(z)\\) is finite for all \\(p\\) satisfying \\(\\frac{4}{3} < p < 4\\), where dA(z) denotes the area element. While J. G. Brennan proved the conjecture holds for \\(\\frac{4}{3} < p < 3 + \\delta\\) for some \\(\\delta > 0\\), the general case \\(\\frac{4}{.} < p < 4\\) remains unproven.",
+  "terms": [
+    "Conformal map",
+    "Simply connected domain",
+    "Unit disk",
+    "Integral",
+    "Derivative",
+    "Analytic function",
+    "Area integral",
+    "Exponent p"
   ],
-  "authors": []
+  "related_conjectures": [
+    "Bieberbach conjecture",
+    "de Branges' theorem",
+    "Loewner's theorem",
+    "Schwarz lemma"
+  ],
+  "subjects": [
+    "Complex Analysis",
+    "Geometric Function Theory",
+    "Potential Theory",
+    "Harmonic Analysis"
+  ]
 }

@@ -2,14 +2,35 @@
   "uuid": "4e918a15-0724-4a23-af4f-05ced452b6ca",
   "name": "Boolean Pythagorean triples problem",
   "link": "https://en.wikipedia.org/wiki/Boolean_Pythagorean_triples_problem",
-  "summary": "The Boolean Pythagorean triples problem is a problem from Ramsey theory about whether the positive integers can be colored red and blue so that no Pythagorean triples consist of all red or all blue members. The Boolean Pythagorean triples problem was solved by Marijn Heule, Oliver Kullmann and Victor W. Marek in May 2016 through a computer-assisted proof, which showed that such a coloring is only possible up to the number 7824.",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
+  "rephrased": "Can the set of natural numbers be colored using two colors such that no Pythagorean triple (a² + b² = c²) has all three numbers the same color?",
+  "implication_form": "If the set of positive integers is two-colored, then there exists a Pythagorean triple where all three numbers are the same color.",
+  "posed_by": "Not specified in the provided text.",
+  "solved_by": "Proven impossible by a team including Marijn Heule (and independently by another team) using a 200-terabyte proof verified by specialized algorithms.",
+  "year_originated": "At least 60 years old (estimate based on the context of the 2016 solution).",
+  "explained": "The Boolean Pythagorean triples problem is a conjecture that asks whether the set of positive integers can be partitioned into two subsets (or equivalently, colored with two colors) such that no Pythagorean triple (a set of three integers satisfying a² + b² = c²) is entirely contained within one subset or has all three elements the same color. This conjecture, which was proven to be false in 2016, established that such a two-coloring is impossible for sufficiently large integers, specifically beyond a certain finite threshold.",
+  "terms": [
+    "Pythagorean triple",
+    "two-coloring",
     "Ramsey theory",
-    "Problems solved since 1995"
+    "Ramsey number",
+    "partition",
+    "integer partition",
+    "Ramsey number",
+    "SAT solver",
+    "Boolean Pythagorean triples"
   ],
-  "authors": []
+  "related_conjectures": [
+    "Schur's theorem",
+    "Van der Waerden theorem",
+    "Erdős–Ginzburg–zero theorem",
+    "Ramsey theory conjectures",
+    "Ramsey number"
+  ],
+  "subjects": [
+    "Number theory",
+    "Combinatorics",
+    "Ramsey theory",
+    "Computational mathematics",
+    "Logic"
+  ]
 }

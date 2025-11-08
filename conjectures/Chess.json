@@ -2,26 +2,37 @@
   "uuid": "82dea46b-6dd9-42d7-91b4-329259f5baef",
   "name": "Chess",
   "link": "https://en.wikipedia.org/wiki/Chess",
-  "summary": "Mathematically, chess can be defined as a finite, two-player, zero-sum game of perfect information in the field of combinatorial game theory. It is characterized by an 8x8 grid, specific rules for piece movement, and a defined set of possible moves and game states that can be represented in a massive game tree. The complexity is so high that the number of possible positions is estimated to be far greater than the number of atoms in the observable universe. ",
-  "head": null,
-  "tail": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Unsolved problems",
-    "Games and puzzles",
-    "Combinatorial games"
+  "rephrased": "Chess is a complex game between two players with no hidden information.",
+  "implication_form": "If the game tree is fully explored, then the optimal move can be determined.",
+  "posed_by": "Unknown",
+  "solved_by": "Unsolved",
+  "year_originated": 1000,
+  "explained": "The provided text defines chess as a finite, two-player, zero-sum game of perfect information within combinatorial game theory. It characterizes chess by its 8x8 grid, piece movement rules, the vastness of its game tree, and the immense number of possible positions (far exceeding the number of atoms in the observable universe). This is a mathematical characterization or definition of chess rather than a traditional conjecture seeking to prove or disprove a specific statement.",
+  "terms": [
+    "Chess",
+    "Combinatorial Game Theory",
+    "Finite Game",
+    "Two-Player Game",
+    "Zero-Sum Game",
+    "Perfect Information",
+    "Game Tree",
+    "Position",
+    "State",
+    "Complexity",
+    "Combinatorics"
   ],
-  "authors": [], 
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Game Complexity Conjectures",
+    "Minimax Conjecture",
+    "Analysis Paradox",
+    "Solving Chess",
+    "Computational Complexity in Games"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Game Theory",
+    "Discrete Mathematics",
+    "Mathematical Logic",
+    "Theoretical Computer Science"
   ]
 }
-

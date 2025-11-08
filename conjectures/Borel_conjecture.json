@@ -2,14 +2,30 @@
   "uuid": "9db454b4-6925-4063-b72d-67a797042a46",
   "name": "Borel conjecture",
   "link": "https://en.wikipedia.org/wiki/Borel_conjecture",
-  "summary": "In geometric topology, the Borel conjecture (named for Armand Borel) asserts that an aspherical closed manifold is determined by its fundamental group, up to homeomorphism.  It is a rigidity conjecture, asserting that a weak, algebraic notion of equivalence (namely, homotopy equivalence) should imply a stronger, topological notion (namely, homeomorphism).",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Topology",
-    "Unsolved problems"
+  "rephrased": "The fundamental group determines the topology of a closed aspherical manifold.",
+  "implication_form": "If two closed aspherical manifolds have isomorphic fundamental groups, then they are homeomorphic.",
+  "posed_by": "Claude Chevalley and Armand Borel",
+  "solved_by": "unsolved",
+  "year_originated": 70,
+  "explained": "The Bore, essentially claiming that the fundamental group determines the homeomorphism type for closed aspherical manifolds.",
+  "terms": [
+    "Aspherical manifold",
+    "Fundamental group",
+    "Homeomorphism",
+    "Homotopy equivalence",
+    "Closed manifold",
+    "Geometric topology",
+    "Topological rigidity"
   ],
-  "authors": []
+  "related_conjectures": [
+    "Novikov conjecture",
+    "Sullivan conjecture",
+    "Rigidity conjectures in other contexts (e.g., Mostow rigidity theorem)"
+  ],
+  "subjects": [
+    "Geometric topology",
+    "Algebraic topology",
+    "Differential topology",
+    "Group theory"
+  ]
 }

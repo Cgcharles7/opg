@@ -2,27 +2,13 @@
   "uuid": "2b46c904-8926-42af-8d9b-4902dca7ed92",
   "name": "Catalan's Mersenne conjecture",
   "link": "https://en.wikipedia.org/wiki/Double_Mersenne_number",
-  "summary": "The conjecture related to Catalan-Mersenne numbers is that the sequence of recursively defined Mersenne numbers starting from \\(M_{2}=3\\) produces primes \"up to a certain limit\", with the next term in the sequence after \\(M_{127}\\) expected to be composite. ",
-  "head": "a number is a Catalan-Mersenne number", 
-  "tail": "it is prime only for a finite number of terms in the sequence (likely only the first four terms: 3, 7, 127, and \\(2^{127}-1\\). ",
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Number theory",
-    "Unsolved problems",
-    "Prime numbers"
-  ],
-  "authors": ["Eugène Charles Catalan"], 
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
-
+  "rephrased": "Catalan-Mersenne numbers are defined recursively as M₁ = 2, M_{n+1} = 2^{M_n} + 1. The conjecture states that all terms M₁, M₂, ..., M₁₂₇ are prime, but M₁₂₈ is composite.",
+  "implication_form": "If a Catalan-Mersenne number is defined as the sequence starting from 2 with each term being 2 raised to the power of the previous term plus 1, then all terms up to the 127th are prime, but the 128th is composite.",
+  "posed_by": "Eugène Catalan",
+  "solved_by": "unsolved",
+  "year_originated": 130,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
 }
-

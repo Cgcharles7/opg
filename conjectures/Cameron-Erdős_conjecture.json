@@ -2,26 +2,29 @@
   "uuid": "8340cc3c-f429-4eb1-af68-a6b7a59a6731",
   "name": "Cameron–Erdős conjecture",
   "link": "https://en.wikipedia.org/wiki/Cameron%E2%80%93Erd%C5%91s_conjecture",
-  "summary": "The Cameron–Erdős conjecture is a now-proven statement in combinatorics that the number of sum-free subsets of the integers \\(\\{1,2,\\dots ,n\\}\\) is asymptotically \\(c\\cdot 2^{n/2}\\), where \\(c\\) is a constant that depends on whether \\(n\\) is even or odd. A set is sum-free if no element in the set can be expressed as the sum of two other elements in the set (i.e., there is no \\(x,y,z\\) in the set such that \\(x+y=z\\)). The conjecture was posed by Peter Cameron and Paul Erdős in 1988 and proved independently by Ben Green and Alexander Sapozhenko in 2003. ",
-  "head": "a set \\(A\\) is a sum-free subset of the integers \\(\\{1,\\dots ,n\\}\\) (meaning there are no elements \\(x,y,z\\in A\\) such that \\(x+y=z\\)) ",
-  "tail": "the number of such possible sets \\(A\\) is asymptotically \\(C\\cdot 2^{n/2}\\), where \\(C\\) is a constant that depends on the parity of \\(n\\).",
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
+  "rephrased": "The total number of subsets of the integers from 1 to n that do not contain any three elements x, y, z (not necessarily distinct) with x + y = z grows asymptotically as a constant times 2 raised to the power of n/2.",
+  "implication_form": "If a subset of {1,2,...,n} is sum-free, then the number of such subsets is asymptotically equal to c * 2^(n/2) for some constant c depending on n.",
+  "posed_by": "Peter Cameron and Paul Erdős",
+  "solved_by": "Ben Green and Alexander Sapozhenko",
+  "year_originated": 1988,
+  "explained": "The Cameron–Erdős conjecture addresses the asymptotic growth rate of the maximum number of sum-free subsets of the set {1, 2, ..., n}. A set S ⊆ {1, 2, ..., n} is sum-free if no two elements in S can be summed to give another element in S (i.e., there do not exist x, y, z ∈ S such that x + y = z). The conjecture, proposed by Cameron and Erdős in 1988, states that the maximum number of sum-free subsets is asymptotically equivalent to c * 2^(n/2) for some constant c (which depends on the parity of n). This means that, in the limit as n becomes very large, the maximum number of sum-free subsets grows like 2 raised to the power of n/2, multiplied by a constant. This conjecture was proven independently by Ben Green and Alexander Sapozhenko in 2003.",
+  "terms": [
+    "Sum-free set",
+    "Asymptotic growth",
+    "Subsets",
     "Combinatorics",
-    "Problems solved since 1995"
+    "Maximum number"
   ],
-  "authors": ["Peter Cameron", "Paul Erdős", "Ben Green", "Alexander Sapozhenko"], 
-  "status": "solved",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Erdős–Ginzburg–Ziv theorem",
+    "Szemerédi theorem",
+    "Kneser conjecture",
+    "Cap set problem"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Additive combinatorics",
+    "Extremal set theory",
+    "Number theory"
   ]
 }
-
-

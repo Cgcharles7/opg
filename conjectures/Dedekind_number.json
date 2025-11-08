@@ -2,25 +2,13 @@
   "uuid": "62b66796-e083-4366-a7f9-f7759e13fb66",
   "name": "Dedekind number",
   "link": "https://en.wikipedia.org/wiki/Dedekind_number",
-  "summary": "Dedekind numbers are a sequence of integers that count the number of monotone Boolean functions of \\(n\\) variables and can be defined in several ways, including the number of ways to color the corners of an \\(n\\)-dimensional cube such that no white corner is above a red one. These numbers are difficult to calculate and grow very rapidly, with the first few values being 2, 3, 6, and 20 for \\(n=0,1,2,\\) and \\(3\\) respectively. The ninth Dedekind number (\\(D(9)\\)), a 42-digit number, was the subject of a major 32-year-long computational effort.  ",
-  "head": null,
-  "tail": null, 
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Combinatorics",
-    "Unsolved problems"
-  ],
-  "authors": [], 
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
-
+  "rephrased": "Dedekind numbers are a sequence of integers that count the number of ways to color the corners of an n-dimensional cube with two colors (white and red) such that no white corner is above a red one, or equivalently, the number of monotone Boolean functions of n variables.",
+  "implication_form": "None",
+  "posed_by": "Richard Dedekind",
+  "solved_by": "unsolved",
+  "year_originated": 150,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
 }

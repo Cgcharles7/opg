@@ -2,25 +2,30 @@
   "uuid": "872f155a-8dab-4df4-8229-fdc28465aa77",
   "name": "Conway's 99-graph problem",
   "link": "https://en.wikipedia.org/wiki/Conway%27s_99-graph_problem",
-  "summary": "Conway's 99-graph problem is an unsolved question in graph theory asking if a graph with 99 vertices exists where every two adjacent vertices share exactly one common neighbor, and every two non-adjacent vertices share exactly two common neighbors. An alternative, more direct phrasing is whether a graph with 99 vertices exists in which every edge is part of a unique triangle, and every non-edge is part of a unique quadrilateral. ",
-  "head": "There exists an undirected graph \\(G\\) with 99 vertices such that: Every pair of adjacent vertices has exactly one common neighbor. Every pair of non-adjacent vertices has exactly two common neighbors. ", 
-  "tail": "Q: This graph cannot have a vertex-transitive group of automorphisms (i.e., a high degree of symmetry where every vertex looks the same as every other vertex in terms of its position in the graph's structure). ",
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Restriction of graph parameters",
-    "Unsolved problems",
-    "Graph theory"
+  "rephrased": "A graph with 99 vertices exists where: adjacent vertices share exactly one common neighbor, and non-adjacent vertices share exactly two common neighbors.",
+  "implication_form": "If a graph with 99 vertices exists where every pair of adjacent vertices has exactly one common neighbor, then every pair of non-adjacent vertices has exactly two common neighbors.",
+  "posed_by": "John Horton Conway",
+  "solved_by": "unsolved",
+  "year_originated": "ca. 1980s",
+  "explained": "Conway's 99-graph problem is an unsolved existence question in graph theory. It asks whether there exists a graph with precisely 99 vertices satisfying two conditions: 1) For any two vertices that are adjacent (connected by an edge), they have exactly one common neighbor vertex. 2) For any two vertices that are not adjacent, they have exactly two common neighbor vertices.",
+  "terms": [
+    "Graph theory",
+    "Common neighbors",
+    "Adjacency",
+    "Non-adjacency",
+    "Strongly regular graph",
+    "Unique triangle",
+    "Unique quadrilateral"
   ],
-  "authors": ["John Horton Conway"], 
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Existence of other strongly regular graphs with specific parameters",
+    "Problems concerning unique local structures in graphs",
+    "Conway's own explorations and related problems in combinatorial design"
+  ],
+  "subjects": [
+    "Graph Theory",
+    "Combinatorics",
+    "Finite Geometry",
+    "Design Theory"
   ]
 }

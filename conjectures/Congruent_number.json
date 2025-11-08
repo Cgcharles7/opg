@@ -2,25 +2,26 @@
   "uuid": "e019f104-0c7a-46ff-b3ff-f560593bf108",
   "name": "Congruent number",
   "link": "https://en.wikipedia.org/wiki/Congruent_number",
-  "summary": "A congruent number is a positive integer that is the area of a right-angled triangle with sides of rational length. For example, the number 6 is congruent because it is the area of a 3-4-5 right triangle (\\(A=\\frac{1}{2}\\times 3\\times 4=6\\)). Numbers like 1, 2, 3, and 4 are not congruent, while 5 is the smallest congruent number. ",
-  "head": null,
-  "tail": null, 
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Diophantine equations",
-    "Number theory"
+  "rephrased": "A congruent number is a positive integer that can be expressed as the area of a right-angled triangle with three rational number sides.",
+  "implication_form": "If a positive integer n can be expressed as the area of a rational-sided right-angled triangle, then n is a congruent number.",
+  "posed_by": "Euler (popularized, though the problem is ancient)",
+  "solved_by": "Unsolved",
+  "year_originated": 2000,
+  "explained": "A positive integer n is congruent if and only if there exists a right-angled triangle with rational side lengths whose area is equal to n.",
+  "terms": [
+    "Congruent number",
+    "Rational right triangle",
+    "Elliptic curve",
+    "Torsion-free module",
+    "Rank of an elliptic curve",
+    "Congruent number problem",
+    "3-Selmer group"
   ],
-  "authors": [], 
-  "status": "definition",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Birch and Swinnerton-Dyer Conjecture"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Algebraic Geometry"
   ]
 }
-

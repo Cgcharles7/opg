@@ -2,26 +2,13 @@
   "uuid": "d22131ef-1274-408a-ac30-6c788318b2c1",
   "name": "Deligne's conjecture on 1-motives",
   "link": "https://ui.adsabs.harvard.edu/abs/2001math......2150B/abstract",
-  "summary": "Deligne's conjecture on 1-motives states that a special value of a 1-motive's L-function is a rational multiple of the determinant of a period matrix, which represents the determinant of a map between different realizations of the 1-motive (like Hodge and de Rham cohomology). It connects deep arithmetic invariants (L-function values) with geometric invariants (periods). The conjecture has been proven in various cases, particularly for 1-motives over number fields and for certain 1-motives with torsion. ",
-  "head": "A 1-motive, denoted \\(M\\), is \"critical\" at a point \\(s=m\\) if its L-function, \\(L(M,s)\\), does not have a pole at \\(s=m\\).This condition must hold for the L-function of the motive and its dual.A related hypothesis is that the motive has a certain structure, for instance, no pp,pq-class.",
-  "tail": "The special value \\(L(M,m)\\) is a rational multiple of the determinant of a period matrix, which is constructed from the motive's Hodge realization.The determinant is computed using bases of the various cohomology groups of the motive, such as \\(H^{1}(X,\\mathbb{Q})\\) and \\(H^{0}(X,\\Omega _{X}^{1})\\), where \\(X\\) is the variety associated with the motive.Essentially, the conjecture states that the L-function's value is determined by algebraic data derived from the motive's structure. ", 
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "2000s",
-    "Uncategorised",
-    "Problems solved since 1995"
-  ],
-  "authors": ["Luca Barbieri-Viale", "Andreas Rosenschon", "Morihiko Saito", "Bruno Kahn", "Thomas Scholl", "Hélène Esnault"], 
-  "status": "solved",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
-
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
 }

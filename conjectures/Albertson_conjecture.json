@@ -2,25 +2,28 @@
   "uuid": "7ab02e75-732d-476c-a789-c4eef05307f7",
   "name": "Albertson conjecture",
   "link": "https://en.wikipedia.org/wiki/Albertson_conjecture",
-  "summary": "The Albertson conjecture is an unsubstantiated connection between a graph's chromatic number and crossing number in combinatorial mathematics. It is named after Smith College professor Michael O. Albertson, who made it a hypothesis in 2007;[1] it is one of his many graph coloring theory conjectures.[2] According to the conjecture, the complete graph {\\displaystyle K_{n}} has the shortest crossing number out of all the graphs that require {\\displaystyle n} colors. The conjecture states that a graph may have fewer colors than {\\displaystyle n} if it can be constructed with fewer crossings than {\\displaystyle K_{n}}.",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Graph drawing and embedding",
-    "Unsolved problems",
-    "Graph theory"
+  "rephrased": "Among all graphs requiring n colors, the complete graph K_n has the highest crossing number.",
+  "implication_form": "If a graph has chromatic number less than n, then it can be drawn with fewer crossings than the complete graph K_n.",
+  "posed_by": "Michael O. Albertson",
+  "solved_by": "unsolved",
+  "year_originated": 7,
+  "explained": "The Albertson conjecture states that for any integer n, the complete graph K_n has the maximum crossing number among all graphs with chromatic number n. In other words, any graph requiring n colors must have a crossing number at least equal to that of K_n. This implies that K_n minimizes the crossing number for graphs with chromatic number n.",
+  "terms": [
+    "chromatic number",
+    "crossing number",
+    "complete graph",
+    "graph theory",
+    "graph coloring"
   ],
-  "authors": ["Michael O. Albertson"],
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Hadwiger conjecture",
+    "Four Color Theorem",
+    "Beckenbach-Erdős conjecture",
+    "Crossing number inequality"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Discrete mathematics"
   ]
-
 }

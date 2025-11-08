@@ -2,26 +2,33 @@
   "uuid": "6f604773-9f3a-4e66-83b8-63ff8b6bd89f",
   "name": "Cartan–Hadamard conjecture",
   "link": "https://en.wikipedia.org/wiki/Cartan%E2%80%93Hadamard_conjecture",
-  "summary": "The Cartan–Hadamard conjecture is a problem in Riemannian geometry that generalizes the isoperimetric inequality to spaces with nonpositive sectional curvature (known as Cartan–Hadamard manifolds). It states that on these manifolds, the inequality should hold with the same Euclidean optimal constant as in Euclidean space, and any set achieving equality must be isometric to a Euclidean ball. The conjecture was proven in all dimensions in 2019 by Joel Spruck and Mohammad Ghomi, building on earlier proofs for specific low dimensions. ",
-  "head": "A domain \\(\\Omega \\) with fixed volume exists within an \\(n\\)-dimensional Cartan-Hadamard manifold \\(M\\) (a complete, simply connected Riemannian manifold with nonpositive sectional curvature).",
-  "tail": "The boundary of \\(\\Omega \\) has the least possible boundary volume (perimeter) if and only if \\(\\Omega \\) is a round \\(n\\)-ball (geodesic ball) that is isometric to a ball of the same volume in Euclidean space (\\(\\mathbb{R}^{n}\\)). ",
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Differential geometry",
-    "Geometry"
+  "rephrased": "On certain curved spaces with no positive curvature, the largest volume for a given shape is no bigger than in a flat space, and the shape must be round like a ball.",
+  "implication_form": "If a domain in a Cartan-Hadamard manifold satisfies the isoperimetric inequality with the Euclidean optimal constant, then it must be isometric to a Euclidean ball.",
+  "posed_by": "Élie Cartan and André Hadamard",
+  "solved_by": "Joel Spruck and Mohammad Ghomi",
+  "year_originated": 90,
+  "explained": "The Cartan–Hadamard conjecture, now a theorem proven by Joel Spruck and Mohammad Ghomi in 2019, addresses the isoperimetric inequality in Cartan-Hadamard manifolds. It states that for any domain Ω in an n-dimensional Cartan-Hadamard manifold (a complete, simply connected Riemannian manifold with nonpositive sectional curvature), the isoperimetric inequality holds with the same Euclidean optimal constant as in Euclidean space. Furthermore, equality in this inequality is achieved if and only if Ω is isometric to a Euclidean ball of the same dimension.",
+  "terms": [
+    "Cartan–Hadamard manifold",
+    "Isoperimetric inequality",
+    "Sectional curvature",
+    "Simply connected",
+    "Complete Riemannian manifold",
+    "Euclidean optimal constant",
+    "Euclidean ball",
+    "Riemannian geometry",
+    "Differential geometry"
   ],
-  "authors": ["Élie Cartan", "Jacques Hadamard", "Joel Spruck", "Mohammad Ghomi"], 
-  "status": "solved",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "The isoperimetric conjecture for Riemannian manifolds with nonnegative Ricci curvature.",
+    "The Soul theorem (characterizes noncompact manifolds with nonnegative sectional curvature).",
+    "Finiteness conjectures (concerning the number of ends or the fundamental group in nonpositive curvature)."
+  ],
+  "subjects": [
+    "Riemannian geometry",
+    "Differential geometry",
+    "Geometric inequalities",
+    "Isoperimetric problems",
+    "Convex geometry"
   ]
 }
-
-

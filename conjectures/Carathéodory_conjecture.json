@@ -2,28 +2,31 @@
   "uuid": "8412e82b-24d1-4e74-8659-e19666f1980f",
   "name": "Carathéodory conjecture",
   "link": "https://en.wikipedia.org/wiki/Carath%C3%A9odory_conjecture",
-  "summary": "The Carathéodory conjecture, proposed by Constantin Carathéodory in 1923, states that any sufficiently smooth, closed, and convex surface in 3D Euclidean space must have at least two umbilic points. An umbilic point is a location on a surface where the curvature is the same in all directions, meaning the principal curvatures are equal. The conjecture has been the subject of much research and is considered a fundamental problem in differential geometry, though it has not yet been fully proven for all smooth surfaces. ",
-  "head": "A surface is a closed, convex, and sufficiently smooth surface in three-dimensional Euclidean space.", 
-  "tail": "The surface has at least two umbilic points (points where the principal curvatures are equal, meaning the surface curves equally in all directions). ", 
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Problems solved since 1995",
-    "21st century",
-    "Unsolved problems",
-    "Differential geometry",
-    "Geometry"
+  "rephrased": "A sufficiently smooth, closed, and convex surface in three-dimensional space must have at least two points where the principal curvatures are equal (umbilic points).",
+  "implication_form": "If a surface is closed, convex, and sufficiently smooth, then it must have at least two umbilic points.",
+  "posed_by": "Constantin Carathéodory",
+  "solved_by": "unsolved",
+  "year_originated": 100,
+  "explained": "The Carathéodory conjecture states that any smooth, closed, and convex surface embedded in three-dimensional Euclidean space must have at least two points known as umbilic points. An umbilic point is a location on the surface where the two principal curvatures are equal, meaning the surface curves equally in all directions at that point.",
+  "terms": [
+    "Surface",
+    "Closed surface",
+    "Convex surface",
+    "Smooth surface (C² differentiability or higher)",
+    "Umbilic point",
+    "Principal curvatures",
+    "Gaussian curvature",
+    "Shape operator",
+    "Differential geometry"
   ],
-  "authors": ["Constantin Carathéodory"],
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Hairy Ball Theorem",
+    "Problem of umbilic points on surfaces of revolution",
+    "Conjectures related to the topology and curvature distribution on convex surfaces"
+  ],
+  "subjects": [
+    "Differential Geometry",
+    "Topology",
+    "Analysis"
   ]
 }
-

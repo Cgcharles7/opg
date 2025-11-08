@@ -2,23 +2,32 @@
   "uuid": "13510bc1-3b71-4b8c-969a-81e3bd97c0ca",
   "name": "Ahlfors measure conjecture",
   "link": "https://en.wikipedia.org/wiki/Ahlfors_measure_conjecture",
-  "summary": "The Ahlfors conjecture, which is now a theorem in mathematics, asserts that the limit set of a finitely produced Kleinian group has measure 0 or is the whole Riemann sphere.<br><br>Lars Ahlfors presented the conjecture and proved it in the case where the fundamental domain of the Kleinian group has a finite number of sides [1]. Marden's tameness conjecture, which states that hyperbolic 3-manifolds with finitely generated fundamental groups are topologically tame (homeomorphic to the interior of compact 3-manifolds), leads to the Ahlfors conjecture for topologically tame groups, which Richard Canary proved by demonstrating that a topologically tame Kleinian group is geometrically tame [2]. Danny Calegari and David Gabai [4] and Ian Agol [3] independently proved this latter conjecture.",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Problems solved since 1995",
-    "Analysis"
+  "rephrased": "The limit set of a finitely generated Kleinian group is either 'small' (measure zero) or covers the entire complex plane.",
+  "implication_form": "If a Kleinian group has a finite-sided fundamental domain, then its limit set has measure 0 or is the whole Riemann sphere.",
+  "posed_by": "Lars Ahlfors",
+  "solved_by": "Richard Canary, Ian Agol, Danny Calegari, David Gabai",
+  "year_originated": 58,
+  "explained": "The Ahlfors Measure Conjecture, now a theorem, states that for any finitely generated Kleinian group, the limit set (the set of accumulation points of the orbit of any point under the group action) has either measure zero with respect to the spherical Lebesgue measure or is the entire Riemann sphere. Lars Ahlfors proved this for the specific case where the fundamental domain has a finite number of sides. The general proof relies on the connection between topological tameness and geometric tameness established by Marden's Tameness Conjecture, with the final step provided by independent proofs from Agol, Calegari & Gabai.",
+  "terms": [
+    "Kleinian Group",
+    "Limit Set",
+    "Riemann Sphere",
+    "Measure Zero",
+    "Spherical Lebesgue Measure",
+    "Topologically Tame",
+    "Geometrically Tame",
+    "Fundamental Group",
+    "Hyperbolic 3-Manifold",
+    "Orbit"
   ],
-  "authors": ["Lars Ahlfors"],
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "Charles Glover",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Marden's Tameness Conjecture"
+  ],
+  "subjects": [
+    "Complex Analysis",
+    "Hyperbolic Geometry",
+    "Geometric Topology",
+    "Low-Dimensional Topology",
+    "Group Theory"
   ]
 }

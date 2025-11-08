@@ -2,24 +2,28 @@
   "uuid": "507af7fc-3658-4a50-a704-a651b86c1244",
   "name": "Andrews–Curtis conjecture",
   "link": "https://en.wikipedia.org/wiki/Andrews%E2%80%93Curtis_conjecture",
-  "summary": "The Andrews–Curtis conjecture, named for James J. Andrews and Morton L. Curtis who proposed it in 1965, asserts that any balanced presentation (i.e., a presentation with the same number of generators and relations) of the trivial group can be converted into a trivial presentation by a series of Nielsen transformations on the relators along with conjugations of relators. It is challenging to confirm whether or not the conjecture is true for a particular balanced presentation.",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Algebra",
-    "Unsolved problems",
-    "Group theory"
+  "rephrased": "The Andrews–Curtis conjecture states that any way of writing the 'empty product' (trivial group) using an equal number of starting symbols (generators) and equations (relations) can be transformed into a presentation showing no relations by applying a series of specific operations (Nielsen transformations on generators and relations, plus conjugating relations).",
+  "implication_form": "If a balanced presentation represents the trivial group, then it can be transformed into a trivial presentation (one with no relations) using a series of Nielsen transformations and conjugations.",
+  "posed_by": "James J. Andrews and Morton L. Curtis",
+  "solved_by": "unsolved",
+  "year_originated": 59,
+  "explained": "The Andrews–Curtis conjecture states that any balanced presentation (i.e., a presentation with the same number of generators and relations) of the trivial group (the group with a single identity element) is an 'Andrews–Curtis trivial presentation'. This means it can be transformed into the presentation with no generators and no relations (the trivial presentation) by a series of operations known as Nielsen transformations applied to the generators and relators, and by conjugating the relators.",
+  "terms": [
+    "Balanced presentation",
+    "Trivial group",
+    "Nielsen transformations",
+    "Conjugation",
+    "Relators",
+    "Generators",
+    "Group presentation"
   ],
-  "authors": ["James J. Andrews", "Morton L. Curtis"],
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "4-dimensional word problem for the sphere",
+    "Poincaré conjecture"
+  ],
+  "subjects": [
+    "Group theory",
+    "Combinatorial group theory",
+    "Low-dimensional topology"
   ]
 }

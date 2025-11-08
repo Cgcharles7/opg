@@ -2,25 +2,13 @@
   "uuid": "430047e1-bb34-4d6e-9b90-67e14780f18e",
   "name": "André–Oort conjecture",
   "link": "https://en.wikipedia.org/wiki/Andr%C3%A9%E2%80%93Oort_conjecture",
-  "summary": "A non-abelian counterpart of the Manin–Mumford conjecture, which is currently a theorem (proved in multiple ways), is the André–Oort conjecture, a mathematical problem in Diophantine geometry, a subfield of number theory. A description of the Zariski closure of sets of special points in Shimura varieties is the subject of the conjecture. Frans Oort conjectured a more general statement (although with a restriction on the kind of Shimura variety) in 1995, while Yves André articulated a special example of the conjecture in 1989[1].[2] These two conjectures naturally lead to the current version.",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "21st century",
-    "Number theory",
-    "Problems solved since 1995"
-  ],
-  "authors": ["Yves André", "Frans Oort"], 
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
-
+  "rephrased": "The Zariski closure of any set of special points in a Shimura variety is itself a special subvariety.",
+  "implication_form": "If a subset of special points in a Shimura variety is sufficiently large or satisfies certain arithmetic conditions, then its Zariski closure is a special subvariety.",
+  "posed_by": "Yves André and Frans Oort",
+  "solved_by": "Unsolved",
+  "year_originated": 30,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
 }

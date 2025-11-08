@@ -2,25 +2,25 @@
   "uuid": "fe9a46f6-1efe-4d01-a5fa-4d3529273586",
   "name": "Brocard's problem",
   "link": "https://en.wikipedia.org/wiki/Brocard%27s_problem",
-  "summary": "When {\displaystyle n!} is the factorial, Brocard's problem is a mathematical problem that looks for integer values of {\displaystyle n} such that {\displaystyle n!+1} is a perfect square. There are only three known values for {\displaystyle n}: 4, 5, 7, and it is unknown if there are any others. There are no more solutions to the equation n! + 1 = m2, despite the fact that research has gone well beyond n > 7.<br><br>Formally speaking, it looks for instances of the integer pairings {\displaystyle n} and {\displaystyle m} such that {\displaystyle n!+1=m^{2}.}Henri Brocard presented the issue in two articles in 1876 and 1885 [1][2], while Srinivasa Ramanujan did it on his own in 1913.[3]",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Diophantine equations",
-    "Number theory",
-    "Unsolved problems"
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "Brocard's problem is an unsolved conjecture in number theory that asks for all pairs of positive integers (n, m) such that n! + 1 is a perfect square (m²). It was formulated by Henri Brocard in 1876 and later considered by Srinivasa Ramanujan in 1913. The known solutions are (n, m) = (4, 5), (5, 11), and (7, 71).",
+  "terms": [
+    "Factorial",
+    "Perfect square",
+    "Integer solutions",
+    "Brocard square"
   ],
-  "authors": ["Henri Brocard", "Srinivasa Ramanujan"], 
-    "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Wilson's Theorem (related concept involving factorials and primes)",
+    "Brown Numbers (related to Wilson's Theorem and factorial being one less than a square)"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Combinatorics",
+    "Algebra"
   ]
-
 }

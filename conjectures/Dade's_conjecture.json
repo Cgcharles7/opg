@@ -2,26 +2,13 @@
   "uuid": "15bfbd99-9f82-454b-868a-221452a21491",
   "name": "Dade's conjecture",
   "link": "https://en.wikipedia.org/wiki/Dade%27s_conjecture",
-  "summary": "Dade's conjecture is a significant conjecture in finite group theory that relates the number of characters in a \"block\" of a finite group to the number of characters in blocks of its \"p-local subgroups\". Specifically, it posits a way to count and classify characters of a block by relating them to characters of blocks in certain subgroups. The conjecture was introduced by Everett C. Dade and implies other important conjectures, such as the Alperin-McKay conjecture. ",
-  "head": "If a finite group \\(G\\) has a trivial normal \\(p\\)-subgroup (\\(O_{p}(G)=1\\)) and \\(B\\) is a \\(p\\)-block of \\(G\\) with positive defect", 
-  "tail": "then the alternating sum of the number of characters with a fixed defect in related blocks of certain local subgroups is zero. ",
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Algebra",
-    "Unsolved problems",
-    "Representation theory"
-  ],
-  "authors": ["Everett C. Dade"], 
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
-
+  "rephrased": "When a finite group has a trivial p-core, the number of irreducible characters in a p-block with positive defect can be counted using characters from blocks of its p-local subgroups.",
+  "implication_form": "If a finite group G has trivial p-core and B is a p-block of G with positive defect, then the number of irreducible characters in B is less than or equal to the sum over certain p-local subgroups H of the number of irreducible characters in blocks of H that are 'Dade correspondent' to B.",
+  "posed_by": "Everett C. Dade",
+  "solved_by": "unsolved",
+  "year_originated": 46,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
 }

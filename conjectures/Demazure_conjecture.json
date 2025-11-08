@@ -2,26 +2,34 @@
   "uuid": "2fd5d98b-556b-44f2-9400-1ec8c0034525",
   "name": "Demazure conjecture",
   "link": "https://en.wikipedia.org/wiki/Demazure_conjecture",
-  "summary": "The Demazure conjecture, which was posed in 1974 and is now a proven theorem, is a result in representation theory concerning representations of algebraic groups. It implies that certain formulas for representations, particularly the Demazure character formula, can be extended from complex groups to other fields and over the integers. The work was extended to all reductive algebraic groups by other mathematicians. ",
-  "head": "\\(P\\) (the field is of characteristic zero)", 
-  "tail": "\\(Q\\) (the results, such as the vanishing of higher cohomology groups for line bundles on Schubert varieties and the character formula, hold for fields of arbitrary characteristic or over the integers).",
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Algebra",
-    "Unsolved problems",
-    "Representation theory"
+  "rephrased": "The conjecture states that the Demazure character formula, which describes characters of certain representations, holds generally for representations of algebraic groups over fields of characteristic zero, allowing extensions beyond complex representations.",
+  "implication_form": "If the representation is of an algebraic group over a field of characteristic zero, then the Demazure character formula applies.",
+  "posed_by": "Michel Demazure",
+  "solved_by": "Michel Demazure (proven)",
+  "year_originated": 50,
+  "explained": "The Demazure conjecture, now a proven theorem, asserts that the Demazure character formula holds for representations of complex semisimple algebraic groups (or their associated flag varieties) over any field of characteristic zero. More precisely, it states that the character of a certain representation (constructed via Demazure operators) coincides with the character given by a specific formula involving the root system and the Weyl group, and this formula remains valid regardless of the specific field (e.g., complex numbers, p-adic fields, etc.) as long as the characteristic is zero.",
+  "terms": [
+    "Algebraic group",
+    "Representation theory",
+    "Character formula",
+    "Demazure character formula",
+    "Demazure operator",
+    "Complex semisimple algebraic group",
+    "Flag variety",
+    "Root system",
+    "Weyl group",
+    "Characteristic zero"
   ],
-  "authors": ["Michel Demazure", "V. Lakshmibai", "C. Musili", "C. S. Seshadri", "Peter Littelmann"],
-  "status": "solved",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Conjectures related to extending the results to positive characteristic (though this is generally more difficult and not fully achieved in all cases), conjectures concerning integral forms or representations over the integers",
+    "Conjectures about generalizations to Kac-Moody algebras or affine groups (e.g., in the context of geometric crystals or the affine Demazure conjecture)",
+    "Conjectures related to the BGG resolution or Koszul duality"
+  ],
+  "subjects": [
+    "Representation theory",
+    "Algebraic geometry",
+    "Lie theory",
+    "Algebraic combinatorics",
+    "Group theory"
   ]
-
 }

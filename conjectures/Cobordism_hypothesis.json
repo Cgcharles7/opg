@@ -2,26 +2,33 @@
   "uuid": "e9fac28f-cc2e-4cc4-b660-913e69d144a6",
   "name": "Cobordism hypothesis",
   "link": "https://en.wikipedia.org/wiki/Cobordism_hypothesis",
-  "summary": "The Cobordism Hypothesis states that a topological quantum field theory (TQFT) is completely determined by its value on a single point, making it analogous to how a homology theory is determined by its value on a point. It establishes a fundamental equivalence: the category of TQFTs is equivalent to the free symmetric monoidal category of cobordisms, where the behavior on the point is all that matters for the entire theory. This means that the algebraic data of a TQFT is entirely encoded by how it assigns a value to a single point. ",
-  "head": "a fully extended \\(C\\)-valued topological quantum field theory (TQFT) defined on \\(n\\)-dimensional framed manifolds and all their lower-dimensional cobordisms (i.e., a symmetric monoidal \\((\\infty ,n)\\)-functor from the framed bordism category to a symmetric monoidal \\((\\infty ,n)\\)-category \\(C\\) with duals), ",
-  "tail": "the TQFT is uniquely and entirely determined, up to isomorphism, by its value on a single point (a 0-dimensional manifold). ", 
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Topology",
-    "Quantum Field Theory",
-    "Problems solved since 1995"
+  "rephrased": "A fully extended TQFT on framed n-manifolds is equivalent to the free symmetric monoidal n-category with duals.",
+  "implication_form": "If a fully extended TQFT is defined on framed n-manifolds, then it is equivalent to the free symmetric monoidal n-category with duals.",
+  "posed_by": "Lurie",
+  "solved_by": "Lurie",
+  "year_originated": 30,
+  "explained": "The Cobordism Hypothesis (proven by Jacob Lurie) states that a fully extended C-valued topological quantum field theory (TQFT) defined on n-dimensional framed manifolds and all their lower-dimensional cobordisms (i.e., a symmetric monoidal (∞,n)-functor from the framed bordism category to a symmetric monoidal (∞,n)-category C with duals) is completely determined by its value on a single point (a point in the base space). This means that the entire algebraic data of the TQFT is encoded by how it assigns data to that single point. The hypothesis establishes an equivalence between the category of such TQFTs and the free symmetric monoidal (∞,n)-category with duals on a point.",
+  "terms": [
+    "Cobordism Hypothesis",
+    "Topological Quantum Field Theory (TQFT)",
+    "Fully Extended TQFT",
+    "Framed Cobordism",
+    "Symmetric Monoidal (∞,n)-Category",
+    "Duals (in higher category theory)",
+    "Point",
+    "Higher Category Theory"
   ],
-  "authors": ["John C. Baez", "James Dolan", "Jacob Lurie", "Daniel Grady", "Dmitri Pavlov"], 
-"status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Extended TQFT Conjectures",
+    "Classification of TQFTs in Lower Dimensions",
+    "Kervaire Invariant Conjecture (historically related via cobordism theory, but distinct)",
+    "Cobordism Conjecture (more generally about classifying manifolds via cobordisms, related but not identical)"
+  ],
+  "subjects": [
+    "Algebraic Topology",
+    "Higher Category Theory",
+    "Cobordism Theory",
+    "Mathematical Physics",
+    "Representation Theory"
   ]
 }
-

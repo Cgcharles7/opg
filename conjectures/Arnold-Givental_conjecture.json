@@ -2,24 +2,16 @@
   "uuid": "d31fdb2c-390f-4b1a-80b0-86aa49c0a3f4",
   "name": "Arnold–Givental conjecture",
   "link": "https://en.wikipedia.org/wiki/Arnold_conjecture",
-  "summary": "The Arnold conjecture, named after mathematician Vladimir Arnold, is a mathematical conjecture in the field of symplectic geometry, a branch of differential geometry.",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Dynamical systems",
-    "Unsolved problems"
+  "rephrased": "A Hamiltonian diffeomorphism on a closed symplectic manifold must have at least as many fixed points as the minimum number of critical points a smooth function on that same manifold can have.",
+  "implication_form": "If a Hamiltonian diffeomorphism exists on a closed symplectic manifold, then it must have at least the minimal number of critical points of a smooth function on that manifold.",
+  "posed_by": [
+    "V. I. Arnold",
+    "Alexander Givental"
   ],
-  "authors": [], 
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
-
+  "solved_by": "unsolved",
+  "year_originated": 40,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
 }

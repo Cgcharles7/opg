@@ -2,24 +2,29 @@
   "uuid": "c8e92468-46b9-4f6f-8244-480e8c881ce2",
   "name": "Conway knot",
   "link": "https://en.wikipedia.org/wiki/Conway_knot",
-  "summary": "A Conway knot is an 11-crossing mathematical knot that famously challenged mathematicians for decades because it was not \"slice,\" meaning it could not be the boundary of a disk in four-dimensional space, despite fooling many mathematical \"invariants\" designed to test for this property. The knot, named after its discoverer John Horton Conway, was finally proven to be non-slice in 2020 by mathematician Lisa Piccirillo. ",
-  "head": null,
-  "tail": null, 
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Topology",
-    "Problems solved since 1995"
+  "rephrased": "The Conway knot, a specific 11-crossing mathematical knot, is not slice, meaning it cannot be the boundary of a disk in four-dimensional space.",
+  "implication_form": "",
+  "posed_by": "John Horton Conway",
+  "solved_by": "Lisa Piccirillo",
+  "year_originated": 50,
+  "explained": "A Conway knot is an 11-crossing mathematical knot that was once considered a major challenge in knot theory. Despite being a well-defined knot and fooling numerous mathematical invariants that should have detected it as non-slice (meaning it cannot be the boundary of a disk in four-dimensional space), for decades mathematicians believed it might be slice. The conjecture surrounding the Conway knot specifically concerned whether it was a slice knot or not, with the initial confusion arising because it evaded all known methods to prove its non-slice nature.",
+  "terms": [
+    "knot",
+    "knot invariant",
+    "slice knot",
+    "four-dimensional space",
+    "genus",
+    "knot concordance"
   ],
-  "authors": ["John Horton Conway", "Lisa Piccirillo"], 
-"status": "definition",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Smooth 4-dimensional Poincaré Conjecture",
+    "Knot Conjecture (Slice-Berge)",
+    "Property R"
+  ],
+  "subjects": [
+    "knot theory",
+    "differential topology",
+    "four-manifold topology",
+    "algebraic topology"
   ]
 }

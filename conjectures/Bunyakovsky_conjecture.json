@@ -2,25 +2,27 @@
   "uuid": "ad05720f-4f7c-4b89-971f-e926b7b53401",
   "name": "Bunyakovsky conjecture",
   "link": "https://en.wikipedia.org/wiki/Bunyakovsky_conjecture",
-  "summary": "A polynomial {\displaystyle f(x)} in one variable with integer coefficients must satisfy the Bunyakovsky conjecture (also known as the Bouniakowsky conjecture) in order to yield an endless number of prime values in the series {\displaystyle f(1),f(2),f(3),\ldots.} For {\displaystyle f(x)} to possess the intended prime-producing feature, the following three prerequisites must be met:<br><br>For all the infinitely many values {\displaystyle f(1),f(2),f(3),\ldots }, there is no common factor, the leading coefficient is positive, and the polynomial is irreducible over rationals (and integers). (Specifically, {\displaystyle f(x)}'s coefficients ought to be comparatively prime. The values of f(n) do not have to be pairwise relatively prime.)<br><br>These requirements are adequate, according to Bunyakovsky's conjecture: {\displaystyle f(n)} is prime for an unlimited number of positive integers {\displaystyle n} if {\displaystyle f(x)} fulfills (1)–(3).",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Number theory",
-    "Unsolved problems",
-    "Prime numbers"
+  "rephrased": "A certain type of polynomial (one that is irreducible, has positive leading coefficient, and doesn't share a common factor greater than 1 with all its integer outputs) will always produce an infinite number of prime numbers when evaluated at positive integers.",
+  "implication_form": "If a non-constant polynomial with integer coefficients is irreducible over the integers, has a positive leading coefficient, and the values it takes at positive integers have no common prime divisor, then it takes on infinitely many prime values.",
+  "posed_by": "Sergei Bunyakovsky",
+  "solved_by": "unsolved",
+  "year_originated": "over 130 years",
+  "explained": "The Bunyakovsky conjecture is a hypothesis in number theory proposing that a non-constant polynomial with integer coefficients will produce infinitely many prime numbers if it satisfies three conditions: its leading coefficient is positive, it is irreducible over the integers (cannot be factored into non-constant polynomials with integer coefficients), and the greatest common divisor of all its integer values is 1.",
+  "terms": [
+    "Polynomial",
+    "Integer coefficient",
+    "Leading coefficient",
+    "Irreducible polynomial",
+    "Prime number",
+    "Greatest common divisor (GCD)"
   ],
-  "authors": ["Viktor Bunyakovsky"],
-    "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Schinzel's Hypothesis H",
+    "Dickson's Conjecture",
+    "Bateman-Horn Conjecture"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Analytic Number Theory"
   ]
-
 }

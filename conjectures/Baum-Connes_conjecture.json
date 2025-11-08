@@ -2,25 +2,32 @@
   "uuid": "88f52ad9-09a3-488d-aafc-0f161123d7c3",
   "name": "Baum–Connes conjecture",
   "link": "https://en.wikipedia.org/wiki/Baum%E2%80%93Connes_conjecture",
-  "summary": "The Baum–Connes conjecture proposes that an \"assembly map\" between the topological K-theory of a group's classifying space and the K-theory of its reduced C*-algebra is an isomorphism. This conjecture connects different areas of mathematics, such as geometry, topology, and operator algebra, and its truth has significant implications, including potentially proving older conjectures like the Novikov conjecture. The conjecture is known to be true for large classes of groups, such as amenable and hyperbolic groups, but it is not known if it holds for all discrete groups.",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Topology",
-    "Unsolved problems"
+  "rephrased": "The topological K-theory of a group's classifying space is isomorphic to the K-theory of its reduced C*-algebra via a specific map called the assembly map.",
+  "implication_form": "Not applicable (the conjecture is an equality/isomorphism itself)",
+  "posed_by": "H. Blumberg and G. Connes (or H. Baum and G. Connes)",
+  "solved_by": "unsolved",
+  "year_originated": 30,
+  "explained": "The Baum–Connes conjecture states that for any discrete group Γ, the assembly map \\( \\mu_Γ \\colon \\underset{\\underline{E}Γ}{K}^*(BΓ) \\to \\mathrm{K}\\text{\\textunderscore{as}}^*(C^*_\\mathrm{red}(Γ)) \\) is an isomorphism of abelian groups. Here, \\( \\underset{\\underline{E}Γ}{K}^*(BΓ) \\) denotes the topological K-theory of the classifying space \\( BΓ \\) (the space representing the classifying bundle for principal Γ-bundles), \\( C^*_\\mathrm{red}(Γ) \\) is the reduced group C*-algebra associated with Γ, and \\( \\mathrm{K}\\text{\\textunderscore{as}}^* \\) is the analytic K-theory (the K-theory of the C*-algebra). The assembly map is a fundamental map that connects the topological and analytic aspects of the group.",
+  "terms": [
+    "Discrete group",
+    "Classifying space (BΓ)",
+    "Topological K-theory",
+    "Reduced group C*-algebra",
+    "Assembly map",
+    "C*-algebra",
+    "K-theory"
   ],
-  "authors": ["Paul Baum", "Alain Connes"], 
-    "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Novikov conjecture",
+    "Borel conjecture",
+    "Farrell-Jones conjecture"
+  ],
+  "subjects": [
+    "Geometric topology",
+    "Operator algebras",
+    "K-theory",
+    "Algebraic topology",
+    "C*-algebra theory",
+    "Group theory"
   ]
-
 }
-

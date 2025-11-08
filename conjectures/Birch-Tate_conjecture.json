@@ -2,26 +2,30 @@
   "uuid": "271f4658-4c9c-41e9-aa5b-30dd22ab7e8e",
   "name": "Birch–Tate conjecture",
   "link": "https://en.wikipedia.org/wiki/Birch%E2%80%93Tate_conjecture",
-  "summary": "The Birch–Tate conjecture is a proposal in algebraic K-theory that relates the value of the Dedekind zeta-function of a totally real number field to the order of its K2-group. It states that the order of the algebraic K2-group of the ring of integers for a totally real number field is equal to the absolute value of the zeta-function evaluated at \\(-1\\), potentially with a power of two adjustment. This conjecture has been confirmed for certain cases but remains an open problem in mathematics. ",
-  "head": ["The order (number of elements) of the algebraic K-group \\(K_{2}(\\mathcal{O}_{F})\\) of the ring of integers \\(\\mathcal{O}_{F}\\) of a totally real number field \\(F\\) is a certain value.", "The value of the Dedekind zeta function \\(\\zeta _{F}(s)\\) of the field \\(F\\) at \\(s=-1\\) is related to the order of the \\(K_{2}\\) group by a specific formula involving a power of 2 and some other factors. "],
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Algebra",
-    "Unsolved problems"
+  "rephrased": "The size (order) of the K2 group for a totally real number field's ring of integers is mathematically linked to the value of its Dedekind zeta function at s=-1.",
+  "implication_form": "If the absolute value of the Dedekind zeta function ζ_F(-1) (adjusted by a power of 2) equals the order of the K2 group K₂(O_F), then the Birch–Tate conjecture holds.",
+  "posed_by": "B Birch and J Tate",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": "The Birch–Tate conjecture, formulated for a totally real number field F, proposes that the order (the number of elements) of the algebraic K-group K₂(𝒪_F) (where 𝒱_F is the ring of integers of F) is equal in absolute value to the value of the Dedekind zeta function ζ_F(s) evaluated at s = -1, adjusted by a power of two. This conjecture remains unproven in general but has been confirmed for specific cases.",
+  "terms": [
+    "K-theory",
+    "Algebraic K-theory",
+    "Dedekind zeta function",
+    "Number field",
+    "Totally real number field",
+    "Ring of integers",
+    "Order of a group",
+    "K₂-group"
   ],
-  "authors": ["Bryan John Birch", "John Tate."], 
-    "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Birch and Swinnerton-Dyer conjecture",
+    "Tamagawa number conjecture",
+    "Beilinson conjectures"
+  ],
+  "subjects": [
+    "Algebraic number theory",
+    "Algebraic K-theory",
+    "Zeta functions"
   ]
-
 }
-
-

@@ -2,25 +2,13 @@
   "uuid": "1af34dd4-11cf-4c62-aa02-8d0bedc745bf",
   "name": "Degree diameter problem",
   "link": "https://en.wikipedia.org/wiki/Degree_diameter_problem",
-  "summary": "The degree-diameter problem is a graph theory problem that seeks the maximum number of vertices (\\(n\\)) for a graph with a given maximum degree (\\(\\Delta \\)) and diameter (\\(k\\)). The problem is a key issue in network design, as the degree relates to the number of connections a node has, and the diameter indicates the maximum path length between any two nodes. ",
-  "head": "a graph \\(G\\) has a maximum degree \\(d\\) and a diameter \\(k\\)",
-  "tail": "number of vertices in \\(G\\) is at most the Moore bound \\(M(d,k)\\)",
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Restriction of graph parameters",
-    "Unsolved problems",
-    "Graph theory"
-  ],
-  "authors": [], 
-"status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
+  "rephrased": "What's the maximum number of nodes in a graph where each node has at most 'd' connections and the farthest any two nodes are is 'k' steps?",
+  "implication_form": "If a graph has maximum degree d and diameter k, then it has at most n vertices (for specific d, k, and n).",
+  "posed_by": "The graph theory community",
+  "solved_by": "Unsolved",
+  "year_originated": 60,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
 }

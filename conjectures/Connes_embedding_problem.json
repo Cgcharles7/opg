@@ -2,25 +2,31 @@
   "uuid": "8cc50b0c-d6c2-427a-afdc-26cbfe195a7a",
   "name": "Connes embedding problem",
   "link": "https://en.wikipedia.org/wiki/Connes_embedding_problem",
-  "summary": "The Connes Embedding Problem (CEP) is a fundamental question in mathematics that asked if every tracial von Neumann algebra could be approximated by finite-dimensional matrix algebras. In simpler terms, it questioned if complex, infinite-dimensional systems could be faithfully represented by simpler, finite systems. While it remained a central open problem for decades, the problem was proven to have a negative solution as a corollary of a 2020 result in quantum complexity theory called MIP*=RE. ",
-  "head": "The Connes Embedding Problem has a positive answer (i.e., all tracial von Neumann algebras can be approximated by finite-dimensional matrices).", 
-  "tall": "A certain related decision problem in logic is decidable, or a certain set of quantum correlations is equal to another set of correlations (Tsirelson's problem) or the Halting Problem would be decidable. ",
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Algebra",
-    "Unsolved problems"
+  "rephrased": "Can complex infinite-dimensional systems (tracial von Neumann algebras) be faithfully mimicked by simpler finite systems (finite-dimensional matrices)?",
+  "implication_form": "If a tracial von Neumann algebra exists, then it can be approximated by finite-dimensional matrices.",
+  "posed_by": "Alain Connes",
+  "solved_by": "The Connes Embedding Problem was shown to have a negative solution (i.e., not all tracial von Neumann algebras can be approximated by finite-dimensional matrices) as a corollary of the MIP*=RE result in 2020.",
+  "year_originated": 25,
+  "explained": "The Connes Embedding Problem (CEP) is a fundamental question in operator algebras. It asks whether every tracial von Neumann algebra can be approximated in the sense of being embeddable or approximable by finite-dimensional matrix algebras (or their ultraproducts). In simpler terms, it questioned if the complex structure of infinite-dimensional tracial von Neumann algebras could be faithfully captured by simpler, finite-dimensional systems. This conjecture remained open for decades until it was resolved negatively in 2020 as a consequence of the groundbreaking result that MIP* = RE.",
+  "terms": [
+    "Von Neumann algebra",
+    "Trace (operator algebra)",
+    "Finite-dimensional matrix algebra",
+    "Approximation (in operator algebras)",
+    "Ultraproduct",
+    "Quantum complexity theory",
+    "MIP* = RE (result)"
   ],
-  "authors": ["Alain Connes", "Thomas Vidick"], 
-"status": "disproven",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Kirchberg's factorization property",
+    "QWEP (Quantization of the word problem for groups) problem",
+    "MIP* = RE (the result itself resolved CEP)"
+  ],
+  "subjects": [
+    "Operator algebras",
+    "Quantum logic",
+    "Quantum information theory",
+    "Quantum complexity theory",
+    "Mathematical physics"
   ]
 }
-

@@ -2,25 +2,30 @@
   "uuid": "e1d5ec45-e277-497f-9f4d-1fdac1b6f6f6",
   "name": "Brouwer's conjecture",
   "link": "https://en.wikipedia.org/wiki/Brouwer%27s_conjecture",
-  "summary": "A conjecture by Andries Brouwer on upper bounds for the intermediate sums of the eigenvalues of the Laplacian of a graph in terms of its edge count is known as Brouwer's conjecture in the mathematical field of spectral graph theory.[1]<br><br>The hypothesis asserts that if L(G) is the Laplacian matrix and G is a simple undirected graph, then its eigenvalues λn(L(G)) < \lambda n−1(L(G)) ≤... ≤ \lambda1(L(G)) fulfill (L(G)) \leq m(G)+\left({\begin{array}{c}t+1\\2\end{array}}\right),\quad t=1,\ldots,n}, where m(G) is the number of edges of G.",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Unsolved problems",
-    "Algebraic graph theory",
-    "Graph theory"
+  "rephrased": "For any finite simple graph, the sum of its k largest Laplacian eigenvalues is bounded above by the number of edges plus the number of edges in a complete graph on k vertices.",
+  "implication_form": "If G is a finite simple graph with n vertices, m edges, and Laplacian eigenvalues λ₁ ≥ λ₂ ≥ … ≥ λₙ, then for any k between 1 and n, the sum of the k largest eigenvalues (λ₁ + λ₂ + … + λₖ) is less than or equal to m + C(k+1, 2), where C denotes the binomial coefficient.",
+  "posed_by": "Luitzen Egbertus Jan Brouwer",
+  "solved_by": "Unsolved",
+  "year_originated": 70,
+  "explained": "Brouwer's conjecture is an open problem in spectral graph theory. It proposes an upper bound for the sum of the k largest eigenvalues of the Laplacian matrix of a finite simple graph. The conjecture states that for a graph G with n vertices and m edges, the sum of its k largest Laplacian eigenvalues (λ₁ ≥ λ₂ ≥ … ≥ λₙ) is at most m + \\binom{k+1}{2} for all k in the range 1 ≤ k ≤ n. This conjecture has been verified for specific classes of graphs like trees and certain planar graphs but remains unproven in general.",
+  "terms": [
+    "Laplacian eigenvalues",
+    "Graph Laplacian",
+    "Simple graph",
+    "Finite graph",
+    "Spectral graph theory",
+    "Eigenvalue sum"
   ],
-  "authors": ["Andries Brouwer"], 
-    "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Alon-Milman conjecture",
+    "Cheeger constant conjectures",
+    "Spielman-Teng conjecture on expansion",
+    "Expander conjecture"
+  ],
+  "subjects": [
+    "Spectral graph theory",
+    "Graph theory",
+    "Linear algebra",
+    "Combinatorics"
   ]
-
 }

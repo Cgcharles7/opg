@@ -2,24 +2,13 @@
   "uuid": "2358147d-e2d8-42d9-a555-de1f98b1725d",
   "name": "Blankenship–Oporowski conjecture",
   "link": "https://en.wikipedia.org/wiki/Book_embedding",
-  "summary": "The Blankenship–Oporowski conjecture was a conjecture in the field of graph theory, specifically concerning the relationship between the book thickness (or stack number) of a graph and the book thickness of its subdivisions. The conjecture stated that there exists some function \\(f\\) such that for every graph \\(G\\), the book thickness of \\(G\\) is at most \\(f(t)\\), where \\(t\\) is the book thickness of the graph \\(H\\) formed by replacing every edge in \\(G\\) with a path of a fixed constant number of edges (a \\(k\\)-subdivision, for some fixed \\(k\\)). <br><br>In simpler terms, Blankenship and Oporowski conjectured that repeatedly subdividing the edges of a graph a constant number of times could not arbitrarily decrease the graph's book thickness. They believed this reduction would be bounded by some function. This conjecture has since been disproved. Counterexamples have been found, showing that it is possible to have graphs with unbounded book thickness whose subdivisions (with a fixed number of subdivision points per edge) have a very small (even constant) book thickness.  ",
-  "head": "a graph \\(G\\) has a non-constant stack number (book thickness)",
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Problems solved since 1995",
-    "Graph theory"
-  ],
-  "authors": ["Robin Blankenship", "Bogdan Oporowski"], 
-  "status": "disproven",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
 }
-

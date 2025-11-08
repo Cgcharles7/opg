@@ -2,25 +2,27 @@
   "uuid": "55f874e9-af8e-4f48-83d6-90670e400e48",
   "name": "Chern's conjecture (affine geometry)",
   "link": "https://en.wikipedia.org/wiki/Chern%27s_conjecture_(affine_geometry)",
-  "summary": "Chern's conjecture (affine geometry) states that the Euler characteristic of a compact affine manifold must be zero. This unsolved problem, proposed by S.S. Chern in 1955, asserts a fundamental property of certain types of manifolds that have a \"flat\" geometric structure. While the conjecture has been proven for many specific cases, such as complete affine manifolds, it remains unproven in its general form. ",
-  "head": "A manifold \\(M\\) is compact and has an affine structure.", 
-  "tail": "The Euler characteristic of \\(M\\), denoted \\(\\chi (M)\\), is equal to zero.",
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Differential geometry",
-    "Unsolved problems",
-    "Geometry"
+  "rephrased": "A compact affine manifold has Euler characteristic zero.",
+  "implication_form": "If a manifold is compact and has an affine structure, then its Euler characteristic is zero.",
+  "posed_by": "S.S. Chern",
+  "solved_by": "unsolved",
+  "year_originated": 69,
+  "explained": "Chern's conjecture (affine geometry) is an unsolved problem in mathematics, proposed by Shiing-Shen Chern in 1955. It states that any compact affine manifold must have an Euler characteristic of zero. A compact affine manifold is a compact differentiable manifold equipped with a flat affine connection (i.e., an affine structure where the curvature vanishes). The conjecture claims that the topological invariant, the Euler characteristic, vanishes for such manifolds. While the conjecture remains unproven in its general form, it has been established for specific classes of compact affine manifolds, such as those that are complete (i.e., affine equivalent to \\(\\mathbb{R}^n\\)).",
+  "terms": [
+    "affine manifold",
+    "Euler characteristic",
+    "affine connection",
+    "compact manifold",
+    "differential geometry",
+    "Riemannian geometry (connection)",
+    "curvature"
   ],
-  "authors": ["S.S. Chern"], 
-"status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Flatness conditions in other geometric structures"
+  ],
+  "subjects": [
+    "Differential Geometry",
+    "Topology",
+    "Algebraic Topology"
   ]
 }

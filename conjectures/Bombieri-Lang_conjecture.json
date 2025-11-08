@@ -2,25 +2,13 @@
   "uuid": "5fab8282-f680-4b10-b7e4-9d45451a0553",
   "name": "Bombieri–Lang conjecture",
   "link": "https://en.wikipedia.org/wiki/Bombieri%E2%80%93Lang_conjecture",
-  "summary": "The Bombieri–Lang conjecture is a fundamental conjecture in algebraic geometry that states that for a \"variety of general type\" (a high-dimensional generalization of curves with genus \\(g\\ge 2\\)), the set of rational points is not \"Zariski-dense\". Instead, the rational points are contained in a proper closed subset, which means there are a finite number of rational points or they lie on a smaller subvariety. The conjecture is a generalization of Faltings's theorem, which proved the same result for curves.",
-  "head": "a positive-dimensional projective variety \\(X\\) over a number field \\(K\\) is of general type",
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Number theory",
-    "Unsolved problems",
-    "Arithmetic geometry"
-  ],
-  "authors": ["Enrico Bombieri", "Serge Lang"], 
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
+  "rephrased": "Faltings's theorem proves that curves of general type have finitely many rational points. The Bombieri–Lang conjecture extends this to higher-dimensional varieties, stating that any positive-dimensional projective variety of general type defined over a number field should have rational points that are not Zariski-dense (i.e., they lie on a proper subvariety).",
+  "implication_form": "If X is a positive-dimensional projective variety defined over a number field K and X is of general type, then the set of K-rational points on X is not Zariski-dense.",
+  "posed_by": "Enrico Bombieri and David W. Lang",
+  "solved_by": "unsolved",
+  "year_originated": 44,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
 }
-

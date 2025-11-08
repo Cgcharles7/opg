@@ -2,27 +2,16 @@
   "uuid": "84029abe-f6f7-41fb-a813-062412ead455",
   "name": "Bass–Quillen conjecture",
   "link": "https://en.wikipedia.org/wiki/Bass%E2%80%93Quillen_conjecture",
-  "summary": "The Bass–Quillen conjecture states that any finitely generated projective module over a polynomial ring of a regular Noetherian ring is \"extended\" from the original ring. In simpler terms, it connects the properties of vector bundles on a polynomial space to those on its base space. This conjecture is a fundamental result in commutative algebra that was largely proven in special cases but remains open in its most general form. ",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Unsolved problems",
-    "Algebraic geometry",
-    "Geometry"
+  "rephrased": "A finitely generated vector bundle on a polynomial space over a regular base ring can be extended from the base ring.",
+  "implication_form": "If R is a regular Noetherian ring and P is a finitely generated projective R[T₁,...,Tₙ]-module, then P is extended from R.",
+  "posed_by": [
+    "Hyman Bass",
+    "Daniel Quillen"
   ],
-  "authors": ["Hyman Bass", "Daniel Quillen"], 
-    "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
-
+  "solved_by": "unsolved",
+  "year_originated": 47,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
 }
-
-

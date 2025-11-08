@@ -2,25 +2,13 @@
   "uuid": "a8b718c1-b703-4418-be7f-725cfd606c53",
   "name": "Alon–Saks–Seymour conjecture",
   "link": "https://en.wikipedia.org/wiki/Graham%E2%80%93Pollak_theorem#Alon%E2%80%93Saks%E2%80%93Seymour_conjecture",
-  "summary": "In the early 1990s, Noga Alon, Michael Saks, and Paul Seymour developed a conjecture that, if correct, would greatly expand the Graham–Pollak theorem: they postulated that at least k subgraphs are required whenever the edges of a graph with chromatic number k+1 are divided into complete bipartite subgraphs. Similarly, they postulate that at most k+1 colors can always be used to color edge-disjoint unions of k complete bipartite graphs. By creating families of graphs that are edge-disjoint unions of k complete bipartite graphs that require {\\displaystyle \\Omega (k^{6/5})} colors, Huang and Sudakov refuted the conjecture in 2012.[9] More significantly, up to the {\\displaystyle o(1)} term in the exponent, the number of colors can be as great as {\\displaystyle \\exp \\log ^{2-o(1)}k}.[10]",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [  "Huang, Hao; Sudakov, Benny (2012), \"A counterexample to the Alon–Saks–Seymour conjecture and related problems\", Combinatorica, 32 (2): 205–219, arXiv:1002.4687, doi:10.1007/s00493-012-2746-4, MR 2927639",
- "Balodis, Kaspars; Ben-David, Shalev; Göös, Mika; Jain, Siddhartha; Kothari, Robin (2021), \"Unambiguous DNFs and Alon–Saks–Seymour\", 62nd IEEE Annual Symposium on Foundations of Computer Science, FOCS 2021, Denver, CO, USA, February 7-10, 2022, pp. 116–124, arXiv:2102.08348, doi:10.1109/FOCS52979.2021.00020, ISBN 978-1-6654-2055-6"], 
-  "kwds": [
-    "Problems solved since 1995",
-    "Graph theory"
-  ],
-  "authors": ["Noga Alon", "Michael Saks", "Paul Seymour"],  
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
-  
+  "rephrased": "A graph with chromatic number k+1 requires at least k complete bipartite subgraphs in any edge-partition.",
+  "implication_form": "If a graph has chromatic number k+1, then it requires at least k complete bipartite subgraphs to cover its edges (in any edge-partition).",
+  "posed_by": "Noga Alon, Michael Saks, Paul Seymour",
+  "solved_by": "Huang, Sudakov (refuted)",
+  "year_originated": 30,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
 }

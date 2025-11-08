@@ -2,28 +2,13 @@
   "uuid": "0b278f2f-0f36-46e2-811d-3f8a1a40f0c2",
   "name": "Bloch–Kato conjecture",
   "link": "https://en.wikipedia.org/wiki/Norm_residue_isomorphism_theorem",
-  "summary": "The Bloch–Kato conjecture is a central conjecture in algebraic number theory that connects the analytic properties of an L-function to the arithmetic properties of a related Galois representation. It predicts that the order of vanishing of the L-function at a specific point is equal to the rank of the related Bloch–Kato Selmer group. This conjecture is a far-reaching generalization of the Birch and Swinnerton-Dyer conjecture for elliptic curves. ",
-  "head":  "\\(V\\) is a geometric \\(p\\)-adic Galois representation of the absolute Galois group of a number field \\(K\\) (satisfying certain conditions, such as purity)",
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Number Theory",
-    "Algebraic Number Theory",
-    "Uncategorised",
-    "Problems solved since 1995",
-    "2010s"
-  ],
-  "authors": ["Spencer Bloch", "Kazuya Kato"], 
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
+  "rephrased": "The Bloch–Kato conjecture predicts that the rate at which an L-function vanishes at a specific point (its order of vanishing) directly reflects the size of a related arithmetic object called the Bloch–Kato Selmer group, measured by its rank.",
+  "implication_form": "If an L-function satisfies certain conditions (like being associated to a pure geometric p-adic Galois representation), then the order of vanishing of the L-function at a specific point is equal to the rank of the corresponding Bloch–Kato Selmer group.",
+  "posed_by": "Spencer Bloch and Kazuya Kato",
+  "solved_by": "unsolved",
+  "year_originated": 34,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
 }
-
-

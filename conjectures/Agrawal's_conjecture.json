@@ -2,24 +2,30 @@
   "uuid": "f8b364c7-d951-43ba-9f92-c404d3ed57bb",
   "name": "Agrawal's conjecture",
   "link": "https://en.wikipedia.org/wiki/Agrawal%27s_conjecture",
-  "summary": "The cyclotomic AKS test in number theory is based on Agrawal's conjecture, which was proposed by Manindra Agrawal in 2002 [1]. Formally, Agrawal's conjecture says:<br><br>Assume two coprime positive integers, {\\displaystyle n} and {\\displaystyle r}. Either {\\displaystyle n} is prime or {\\displaystyle n^{2}\\equiv 1{\\pmod {r}}} if {\\displaystyle (X-1)^{n}\\equiv X^{n}-1{\\pmod {n,\\,X^{r}-1}}\\,}",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Number theory",
-    "Unsolved problems",
-    "Prime numbers"
+  "rephrased": "Agrawal's conjecture states that for any two coprime positive integers n and r, if n is prime then n² ≡ 1 (mod r) whenever the polynomial congruence (X-1)^n ≡ X^n - 1 (mod n, X^r - 1) holds.",
+  "implication_form": null,
+  "posed_by": "Manindra Agrawal",
+  "solved_by": "unsolved",
+  "year_originated": 21,
+  "explained": "Agrawal's conjecture states that for any two coprime positive integers n and r, if the polynomial congruence (X-1)^n ≡ X^n - 1 holds modulo n and the polynomial X^r - 1, then either n is prime or n^2 ≡ 1 (mod r).",
+  "terms": [
+    "Cyclotomic polynomials",
+    "AKS test",
+    "Primality testing",
+    "Coprime integers",
+    "Modulo operation",
+    "Polynomial congruence",
+    "Prime number",
+    "Deterministic algorithm"
   ],
-  "authors": [], 
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Fermat's Little Theorem",
+    "Miller-Rabin primality test (probabilistic counterpart)",
+    "Generalized Riemann Hypothesis (related to efficient primality testing)"
+  ],
+  "subjects": [
+    "Number theory",
+    "Algebra",
+    "Computational mathematics"
   ]
 }

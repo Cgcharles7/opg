@@ -2,26 +2,31 @@
   "uuid": "a1ba6cce-9413-47b9-97cd-393dcd5b2247",
   "name": "Cereceda's conjecture",
   "link": "https://en.wikipedia.org/wiki/Cereceda%27s_conjecture",
-  "summary": "Cereceda's conjecture is an unsolved problem in graph theory that states two different colorings of a d-degenerate graph using k colors can be transformed into each other by changing one vertex at a time in a number of steps that is quadratic in the size of the graph, provided that k is at least d+2. This is related to the diameter of the reconfiguration graph of colorings. ",
-  "head": "\\(G\\) is a \\(d\\)-degenerate graph on \\(n\\) vertices, and \\(\\alpha \\) and \\(\\beta \\) are two proper colorings of \\(G\\) using at most \\(d+2\\) colors",
-  "tail": "then it is possible to transform \\(\\alpha \\) into \\(\beta \\) by changing the color of one vertex at a time, using a sequence of \\(O(n^{2})\\) steps (a number of steps at most quadratic in the number of vertices). ",
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Graph coloring and labeling",
-    "Unsolved problems",
-    "Graph theory"
+  "rephrased": "With sufficiently many colors (at least d+2), any two proper colorings of a d-degenerate graph can be transformed into each other by changing one vertex's color at a time, and this transformation requires at most a number of steps proportional to the square of the graph's size.",
+  "implication_form": "If G is a d-degenerate graph with n vertices and α and β are two proper vertex colorings of G using at most d+2 colors, then there exists a sequence of proper colorings transforming α to β where each step changes the color of a single vertex, and the length of this sequence is O(n²).",
+  "posed_by": "Hélio Bonomo-Brubola and Luis Cereceda",
+  "solved_by": "unsolved",
+  "year_originated": "estimate: 2000s",
+  "explained": "Cereceda's conjecture asserts that for any d-degenerate graph with n vertices, and any two proper vertex colorings using at most k = d+2 colors, it is possible to transform one coloring into the other by a sequence of recolorings where only one vertex is changed at a time. The total number of such recoloring steps required is bounded by a quadratic function of n, specifically O(n²).",
+  "terms": [
+    "d-degenerate graph",
+    "proper coloring",
+    "vertex recoloring",
+    "reconfiguration graph",
+    "diameter",
+    "k-coloring",
+    "graph recoloring"
   ],
-  "authors": ["Luis Cereceda"], 
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
+  "related_conjectures": [
+    "Reconfiguration Graph Diameter Conjectures",
+    "List Coloring Conjecture",
+    "Hedetniemi's Conjecture (original)",
+    "Rivlin-Tukey Conjecture"
+  ],
+  "subjects": [
+    "Graph Theory",
+    "Combinatorics",
+    "Computational Complexity",
+    "Reconfiguration"
   ]
 }
-

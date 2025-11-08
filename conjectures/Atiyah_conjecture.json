@@ -2,17 +2,32 @@
   "uuid": "55aa6832-4d20-4289-9a96-5af4d797fcee",
   "name": "Atiyah conjecture",
   "link": "https://en.wikipedia.org/wiki/Atiyah_conjecture",
-  "summary": "In mathematics, the Atiyah conjecture is a collective term for a number of statements about restrictions on possible values of \n  \n    \n      \n        \n          l\n          \n            2\n          \n        \n      \n    \n    {\\displaystyle l^{2}}\n  \n-Betti numbers.",
-  "head": null,
-  "count": 0,
-  "previous_conjectures": [],
-  "references": [],
-  "kwds": [
-    "Problems solved since 1995",
-    "Topology",
-    "Euclidean geometry",
-    "Unsolved problems",
-    "Geometry"
+  "rephrased": "Are the l²-Betti numbers, defined as von Neumann dimensions of l²-cohomology groups for spaces with a discrete countable group's free co-compact action, always rational numbers?",
+  "implication_form": "null",
+  "posed_by": "Michael Atiyah",
+  "solved_by": "Unsolved in general (though solved in many specific cases)",
+  "year_originated": 48,
+  "explained": "The Atiyah conjecture concerns the rationality of l²-Betti numbers, which are invariants defined using l²-cohomology. It posits that for a compact manifold with a free, co-compact action by a discrete countable group, the l²-Betti numbers of the universal cover are rational numbers. Equivalently, it asks whether these invariants, defined via von Neumann dimensions, are always rational in this context.",
+  "terms": [
+    "l²-cohomology",
+    "von Neumann dimension",
+    "discrete group",
+    "free co-compact action",
+    "universal cover",
+    "deck transformation",
+    "Atiyah-Singer index theorem",
+    "Baum-Connes conjecture"
   ],
-  "authors": []
+  "related_conjectures": [
+    "Atiyah-Singer index theorem",
+    "Baum-Connes conjecture",
+    "Novikov conjecture"
+  ],
+  "subjects": [
+    "Geometry",
+    "Topology",
+    "Group Theory",
+    "Operator Algebras",
+    "Algebraic Topology"
+  ]
 }
