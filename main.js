@@ -17,39 +17,24 @@ function buildCategoryTree(conjs) {
   const tree = {};
 
   conjs.forEach(c => {
-    // Normalize categories (c.terms may be array, comma-separated string, or null/undefined)
-    
-    // Safely determine 'cats' array:
-    const cats = Array.isArray(c.subjects)
-      // If it's an array, map and force each item to string before trimming/filtering
-      ? c.subjects.map(x => String(x).trim()).filter(Boolean) 
-      // If not an array (e.g., string, null, undefined)
+    // Normalize the subjects array (safe handling for null/undefined/strings)
+    const subjects = Array.isArray(c.subjects)
+      ? c.subjects.map(x => String(x).trim()).filter(Boolean)
       : c.subjects
-          ? String(c.subjects).split(',').map(x => x.trim()).filter(Boolean)
-          : [];
+        ? String(c.subjects).split(',').map(x => x.trim()).filter(Boolean)
+        : [];
 
-    if (cats.length === 0) {
-      // Handle items with no terms
-      if (!tree["Uncategorized"]) tree["Uncategorized"] = { __items: [] };
-      tree["Uncategorized"].__items.push(c);
+    if (subjects.length === 0) {
+      if (!tree["Uncategorized"]) tree["Uncategorized"] = [];
+      tree["Uncategorized"].push(c);
       return;
     }
 
-    // Traverse/create the tree hierarchy
-    let node = tree;
-    cats.forEach((cat, idx) => {
-      // Ensure the category name itself is clean and a string before using it as a key
-      const cleanCatName = String(cat).trim(); 
-
-      if (!node[cleanCatName]) node[cleanCatName] = {};
-
-      if (idx === cats.length - 1) {
-        // Only add __items at the leaf
-        if (!node[cleanCatName].__items) node[cleanCatName].__items = [];
-        node[cleanCatName].__items.push(c);
-      } else {
-        node = node[cleanCatName];
-      }
+    // Add each conjecture under all its subjects
+    subjects.forEach(subj => {
+      const cleanSubj = String(subj).trim();
+      if (!tree[cleanSubj]) tree[cleanSubj] = [];
+      tree[cleanSubj].push(c);
     });
   });
 
