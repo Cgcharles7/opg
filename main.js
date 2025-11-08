@@ -17,12 +17,15 @@ function buildCategoryTree(conjs) {
   const tree = {};
 
   conjs.forEach(c => {
-    // Normalize keywords
-    const cats = Array.isArray(${c.terms}))
+    // Normalize categories (c.terms may be array or comma-separated string)
+    const cats = Array.isArray(c.terms)
       ? c.terms.map(x => x.trim()).filter(Boolean)
-      : c.terms.toString().split(',').map(x => x.trim()).filter(Boolean);
+      : c.terms
+          ? c.terms.toString().split(',').map(x => x.trim()).filter(Boolean)
+          : [];
 
     if (cats.length === 0) {
+      // Handle items with no terms
       if (!tree["Uncategorized"]) tree["Uncategorized"] = { __items: [] };
       tree["Uncategorized"].__items.push(c);
       return;
