@@ -1,0 +1,35 @@
+{
+  "uuid": "e29964d5-faf6-4501-8e5a-9c9539b74ad1",
+  "name": "Fatou conjecture",
+  "link": "https://en.wikipedia.org/wiki/Fatou_conjecture",
+  "rephrased": "For many complex functions (rational maps), there are plenty of parameter values where the system's behavior is stable and predictable (hyperbolic).",
+  "implication_form": "If a rational map is hyperbolic, then the set of parameters for which the map is hyperbolic is dense and open in the space of all rational maps of that degree.",
+  "posed_by": "Pierre Fatou",
+  "solved_by": "unsolved",
+  "year_originated": 100,
+  "explained": "The Fatou conjecture, proposed by French mathematician Pierre Fatou in the early 20th century, is a fundamental unsolved problem in complex dynamics. It posits that for any rational function (a ratio of two polynomials) of degree at least two, the set of parameters for which the dynamics of the function are hyperbolic is dense in the space of all such rational maps and also forms an open set. Hyperbolic dynamics are characterized by uniform hyperbolicity, leading to stable and chaotic behavior (often including Julia sets that are Cantorspheres or repelling) and predictability in the long run for typical orbits. This conjecture suggests that hyperbolic behavior is the 'generic' case for rational maps.",
+  "terms": [
+    "Rational Map",
+    "Complex Dynamics",
+    "Hyperbolic Rational Map",
+    "Fatou Set",
+    "Julia Set",
+    "Mandelbrot Set (related to quadratic families)",
+    "Critical Point",
+    "Critical Orbit",
+    "Dense Set",
+    "Open Set",
+    "No Wandering Domains Theorem (proven related result)"
+  ],
+  "related_conjectures": [
+    "Mandelbrot Set Conjecture (MLC - Main Technical Conjecture): Concerns the connectivity of the Mandelbrot set for quadratic polynomials.",
+    "Wolf's Periodicity Conjecture: Predicts that all periodic points of a rational map are repelling except for those on the boundary of parabolic components.",
+    "Thurston's Topological Characterization of Rational Maps: Provides a framework for understanding when a branched covering map of the sphere is equivalent to a rational map."
+  ],
+  "subjects": [
+    "Complex Analysis",
+    "One-dimensional Dynamics",
+    "Complex Dynamics",
+    "Dynamical Systems Theory"
+  ]
+}

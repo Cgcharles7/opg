@@ -1,0 +1,25 @@
+{
+  "uuid": "ecf94a1f-fe0a-4d68-84e0-9b52b0d23c29",
+  "name": "Grimm's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Grimm%27s_conjecture",
+  "rephrased": "Consecutive composite numbers can be covered by distinct primes.",
+  "implication_form": "If there exists a sequence of n consecutive composite numbers, then there exists a set of n distinct primes, each dividing one of the composite numbers in the sequence.",
+  "posed_by": "Carl Albert Grimm",
+  "solved_by": "unsolved",
+  "year_originated": 55,
+  "explained": "Grimm's conjecture states that for any sequence of k consecutive composite numbers, there exists a way to assign to each composite number a distinct prime divisor of that composite number.",
+  "terms": [
+    "Consecutive composite numbers",
+    "Distinct prime divisors",
+    "Prime divisor",
+    "Prime number"
+  ],
+  "related_conjectures": [
+    "kth prime conjecture"
+  ],
+  "subjects": [
+    "Number theory",
+    "Prime numbers",
+    "Divisibility"
+  ]
+}

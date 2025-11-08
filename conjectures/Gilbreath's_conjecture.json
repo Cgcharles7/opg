@@ -1,0 +1,26 @@
+{
+  "uuid": "b65be2a0-2799-4449-8996-9c6592dcccf7",
+  "name": "Gilbreath's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Gilbreath%27s_conjecture",
+  "rephrased": "Starting with the sequence of prime numbers, repeatedly apply the forward difference operator (subtracting consecutive terms and ignoring the sign) to generate new sequences, and the conjecture claims that every new sequence begins with the number 1.",
+  "implication_form": "If the forward difference operator is repeatedly applied to the sequence of prime numbers, ignoring the signs, then every resulting sequence will start with the number 1.",
+  "posed_by": "Norman L. Gilbreath",
+  "solved_by": "unsolved",
+  "year_originated": 65,
+  "explained": "Gilbreath's conjecture states that if you take the sequence of prime numbers and repeatedly apply the absolute difference operator (forward difference, leaving results unsigned) to consecutive terms, then after the first application, the first term of every resulting sequence is always 1. In other words, no matter how many times you continue this process, the sequence generated will always start with 1.",
+  "terms": [
+    "Forward difference operator",
+    "Prime number",
+    "Absolute difference",
+    "Gilbreath sequence",
+    "Course-grained sequence"
+  ],
+  "related_conjectures": [
+    "Riemann hypothesis",
+    "Infinitude of primes"
+  ],
+  "subjects": [
+    "Number theory",
+    "Combinatorics"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "9862a66f-173f-42b6-a0b8-66ebd86c05ca",
+  "name": "Fontaine–Mazur conjecture",
+  "link": "https://en.wikipedia.org/wiki/Fontaine%E2%80%93Mazur_conjecture",
+  "rephrased": "The Fontaine–Mazur conjecture states that any p-adic Galois representation that is almost entirely unramified (only ramified at finitely many primes) and behaves well at p-adic primes (specifically, is potentially semi-stable) must originate from the geometric properties of some algebraic variety.",
+  "implication_form": "If a p-adic representation of a number field's Galois group is almost everywhere unramified and potentially semi-stable, then it arises from the étale cohomology of some algebraic variety.",
+  "posed_by": "Jean-Marc Fontaine and Jean-Marc Messing (commonly attributed to Fontaine and Mazur, though Mazur is sometimes mentioned).",
+  "solved_by": "Unsolved",
+  "year_originated": 30,
+  "explained": "The Fontaine–Mazur conjecture consists of two main parts concerning p-adic Galois representations and number fields. First, it states that a p-adic representation of the absolute Galois group of a number field arises from algebraic geometry (e.g., étale cohomology) if and only if it is almost everywhere unramified and potentially semi-stable at p (equivalent to de Rham at p). Second, it conjectures that a number field has no infinite unramified pro-p extension for any prime p.",
+  "terms": [
+    "p-adic representation",
+    "Galois representation",
+    "étale cohomology",
+    "algebraic geometry",
+    "unramified",
+    "almost everywhere unramified",
+    "potentially semi-stable",
+    "de Rham",
+    "pro-p group",
+    "anabelian geometry"
+  ],
+  "related_conjectures": [
+    "Mordell–Weil theorem",
+    "Iwasawa theory",
+    "Kummer theory",
+    "Langlands program"
+  ],
+  "subjects": [
+    "Number theory",
+    "Arithmetic geometry",
+    "p-adic analysis",
+    "Galois theory"
+  ]
+}

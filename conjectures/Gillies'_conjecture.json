@@ -1,0 +1,29 @@
+{
+  "uuid": "62e04e32-d4dd-4e0b-808e-e6b880d6b9f5",
+  "name": "Gillies' conjecture",
+  "link": "https://en.wikipedia.org/wiki/Gillies%27_conjecture",
+  "rephrased": "The distribution of prime divisors of Mersenne numbers (of the form 2^p - 1, where p is prime) is similar to the distribution of primes in arithmetic progressions.",
+  "implication_form": "None",
+  "posed_by": "Donald B. Gillies",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": "Gillies' conjecture addresses the distribution of prime divisors of Mersenne numbers (numbers of the form M_n = 2^n - 1). While the exact precise statement is not provided in the given summary, it is understood to be a refinement and specialization of the prime number theorem concerning the distribution of prime factors within the sequence of Mersenne numbers. It builds upon earlier conjectures by I. J. Good and Daniel Shanks regarding prime distribution and is expected to describe the asymptotic density or distribution pattern of prime divisors within this specific sequence.",
+  "terms": [
+    "Mersenne number",
+    "Mersenne prime",
+    "Prime number theorem",
+    "Prime distribution",
+    "Density of primes",
+    "Asymptotic distribution"
+  ],
+  "related_conjectures": [
+    "Riemann Hypothesis",
+    "Prime Number Theorem",
+    "Good-Shanks Conjecture"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Analytic Number Theory",
+    "Prime Number Theory"
+  ]
+}

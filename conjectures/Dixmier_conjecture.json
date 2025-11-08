@@ -1,0 +1,14 @@
+{
+  "uuid": "47bf666c-cb01-42ba-9f03-7a1c146c5225",
+  "name": "Dixmier conjecture",
+  "link": "https://en.wikipedia.org/wiki/Dixmier_conjecture",
+  "rephrased": "Every endomorphism of the first Weyl algebra is invertible (an automorphism).",
+  "implication_form": "If a map is an algebra endomorphism, then it is an algebra automorphism.",
+  "posed_by": "Jacques Dixmier",
+  "solved_by": "Unsolved",
+  "year_originated": 55,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

@@ -1,0 +1,30 @@
+{
+  "uuid": "632c0037-3e3e-4927-9e75-65588cd6e0ef",
+  "name": "Dittert conjecture",
+  "link": "https://en.wikipedia.org/wiki/Dittert_conjecture",
+  "rephrased": "For an n x n matrix with non-negative entries summing to n, the function φ(X) = (product of row sums) + (product of column sums) - permanent(X) is maximized only when all entries are equal to 1/n.",
+  "implication_form": "If X is an n x n matrix with non-negative entries summing to n, then φ(X) is maximized only if X is the matrix J_n with all entries 1/n.",
+  "posed_by": "Dittert (likely co-authored with Hajek)",
+  "solved_by": "unsolved",
+  "year_originated": 2023,
+  "explained": "The Dittert conjecture, also known as the Dittert–Hajek conjecture, is a hypothesis in combinatorics. It states that for any n x n matrix X with non-negative entries summing to n, the function φ(X) defined as the product of all row sums (∏_{i=1}^n r_i) plus the product of all column sums (∏_{j=1}^n c_j) minus the permanent of X (per(X)), achieves its unique maximum value when X is the matrix J_n, where every entry is 1/n.",
+  "terms": [
+    "Matrix",
+    "Permanent",
+    "Row sum",
+    "Column sum",
+    "Non-negative entries",
+    "Uniform matrix",
+    "Combinatorics",
+    "Matrix theory"
+  ],
+  "related_conjectures": [
+    "Birkhoff–von Neumann theorem",
+    "van der Waerden conjecture (for doubly stochastic matrices)"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Matrix Theory",
+    "Discrete Mathematics"
+  ]
+}

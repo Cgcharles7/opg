@@ -1,0 +1,30 @@
+{
+  "uuid": "ff5da4be-c6f8-452d-a44b-67e81999704d",
+  "name": "Ehrhart's volume conjecture",
+  "link": "https://en.wikipedia.org/wiki/Ehrhart%27s_volume_conjecture",
+  "rephrased": "If a convex body has its center of mass at the origin and contains no other lattice points inside, then its volume must be at most \\((n+1)^n / n!\\).",
+  "implication_form": "If a convex body has its barycenter at the origin and contains only the origin as an interior lattice point, then its volume is less than or equal to \\((n+1)^n / n!\\).",
+  "posed_by": "Ehrhart",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": "Ehrhart's volume conjecture states that for an n-dimensional convex body K ⊂ ℝⁿ with its barycenter at the origin, if K contains no other lattice points besides the origin in its interior, then the volume of K must satisfy vol(K) ≤ (n+1)ⁿ / n!. This conjecture provides an upper bound on the volume under the specified conditions.",
+  "terms": [
+    "lattice polytopes",
+    "barycenter",
+    "lattice points",
+    "origin",
+    "volume",
+    "convex body",
+    "interior lattice points",
+    "Fano polytopes"
+  ],
+  "related_conjectures": [
+    "Minkowski's Theorem"
+  ],
+  "subjects": [
+    "convex geometry",
+    "lattice point theory",
+    "volume inequalities",
+    "combinatorial geometry"
+  ]
+}

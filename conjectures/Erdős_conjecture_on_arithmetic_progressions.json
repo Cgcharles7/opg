@@ -1,0 +1,26 @@
+{
+  "uuid": "82638c9d-0635-4df3-acc5-16db03e91507",
+  "name": "Erdős conjecture on arithmetic progressions",
+  "link": "https://en.wikipedia.org/wiki/Erd%C5%91s_conjecture_on_arithmetic_progressions",
+  "rephrased": "A set of positive integers containing arbitrarily long arithmetic progressions has a divergent sum of reciprocals.",
+  "implication_form": "If the sum of the reciprocals of the elements of a set of positive integers diverges, then the set contains arbitrarily long arithmetic progressions.",
+  "posed_by": "Paul Erdős",
+  "solved_by": "unsolved",
+  "year_originated": "50",
+  "explained": "The Erdős conjecture on arithmetic progressions states that any subset of the positive integers that contains an infinite number of terms (i.e., the sum of the reciprocals of its elements diverges) must contain arithmetic progressions of arbitrary length (progressions of any finite length).",
+  "terms": [
+    "Arithmetic progression",
+    "Divergent series",
+    "Harmonic series",
+    "Reciprocal sum"
+  ],
+  "related_conjectures": [
+    "Szemerédi's theorem",
+    "Green-Tao theorem"
+  ],
+  "subjects": [
+    "Number theory",
+    "Combinatorics",
+    "Harmonic analysis"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "911d8fb8-4298-4a99-bd16-3d8b3443a58d",
+  "name": "Erdős–Ulam problem",
+  "link": "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Ulam_problem",
+  "rephrased": "Is there a set of points densely filling the plane where the distance between any two points is rational?",
+  "implication_form": "If the Bombieri–Lang conjecture is true, then there is no dense set in the plane with all rational distances.",
+  "posed_by": "Paul Erdős and Stanisław Ulam",
+  "solved_by": "unsolved",
+  "year_originated": 80,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

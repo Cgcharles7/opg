@@ -1,0 +1,32 @@
+{
+  "uuid": "3c62c15c-21ed-4144-a96d-a91000ac858d",
+  "name": "General elephant",
+  "link": "https://en.wikipedia.org/wiki/General_elephant",
+  "rephrased": "For a 3-dimensional algebraic variety, the general anticanonical divisor (general elephant) has at most du Val singularities.",
+  "implication_form": "If a 3-fold variety has a sufficiently ample anticanonical class, then its general element in the anticanonical system has at most du Val singularities.",
+  "posed_by": "Miles Reid",
+  "solved_by": "Partially solved; du Val singularities proven in several specific cases.",
+  "year_originated": "1990",
+  "explained": "The term 'general elephant' refers to an idiosyncratic name coined by Miles Reid for a general element of the anticanonical system of a variety. The core conjecture associated with this term, specifically for three-dimensional varieties (3-folds), states that a general elephant (i.e., a general element of the anticanonical system) should have at most du Val singularities (also known as ADE singularities or rational double points). This conjecture connects the geometry of the variety to the nature of its anticanonical divisors.",
+  "terms": [
+    "anticanonical system",
+    "3-fold",
+    "general element",
+    "du Val singularity",
+    "rational double point",
+    "singularities",
+    "general elephant"
+  ],
+  "related_conjectures": [
+    "Abundance Conjecture",
+    "Minimal Model Program",
+    "Mori Program",
+    "Fano Variety Conjectures"
+  ],
+  "subjects": [
+    "Algebraic Geometry",
+    "3-fold Theory",
+    "Birational Geometry",
+    "Singularity Theory"
+  ]
+}

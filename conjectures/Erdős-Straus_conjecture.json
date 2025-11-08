@@ -1,0 +1,14 @@
+{
+  "uuid": "ed1a9db8-e4fc-4e08-82e7-66a0c01919aa",
+  "name": "Erdős–Straus conjecture",
+  "link": "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Straus_conjecture",
+  "rephrased": "For every integer n greater than or equal to 2, the fraction 4/n can be written as the sum of three unit fractions.",
+  "implication_form": "If n is an integer greater than or equal to 2, then there exist positive integers x, y, and z such that 4/n = 1/x + 1/y + 1/z.",
+  "posed_by": "Paul Erdős and Ronald M. Straus",
+  "solved_by": "unsolved",
+  "year_originated": "over 50 years old",
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

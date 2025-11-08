@@ -1,0 +1,28 @@
+{
+  "uuid": "f5f79081-fd0f-4abf-8c23-11d46dd4029d",
+  "name": "Eilenberg–MacLane space",
+  "link": "https://en.wikipedia.org/wiki/Eilenberg%E2%80%93MacLane_space",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "An Eilenberg-MacLane space is a connected topological space in algebraic topology that has only one nontrivial homotopy group. For a given group \\(G\\) and a positive integer \\(n\\), an Eilenberg-MacLane space of type \\((G, n)\\) is a space whose \\(n\\)-th homotopy group is isomorphic to \\(G\\) and all other homotopy groups are trivial. These spaces are fundamental in algebraic topology for classifying spaces up to homotopy equivalence, defining cohomology groups, and serving as 'building blocks' for more complex spaces.",
+  "terms": [
+    "Homotopy groups",
+    "Connected topological space",
+    "CW complex",
+    "Fundamental group",
+    "Classifying space",
+    "Cohomology groups"
+  ],
+  "related_conjectures": [
+    "Sullivan conjecture",
+    "Sullivan–Valette conjecture"
+  ],
+  "subjects": [
+    "Algebraic topology",
+    "Homotopy theory",
+    "Cohomology theory"
+  ]
+}

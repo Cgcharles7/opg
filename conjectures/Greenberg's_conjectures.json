@@ -1,0 +1,38 @@
+{
+  "uuid": "dfc24412-e586-4b52-b91b-5f3eea3f3584",
+  "name": "Greenberg's conjectures",
+  "link": "https://en.wikipedia.org/wiki/Greenberg%27s_conjectures",
+  "rephrased": "The Galois groups of certain fundamental number fields exhibit specific properties related to their Iwasawa invariants and Galois representations.",
+  "implication_form": "",
+  "posed_by": "Ralph Greenberg",
+  "solved_by": "unsolved",
+  "year_originated": 50,
+  "explained": "Greenberg's conjecture pertains to two distinct areas in algebraic number theory:\n\n1.  **Greenberg's Conjecture on p-adic Schanuel Conjectures (for imaginary quadratic fields):** This conjecture proposes a connection between the p-adic logarithm of certain algebraic numbers (related to Stark conjectures) and p-adic heights of units in the cyclotomic extension of an imaginary quadratic field. It suggests that the p-adic logarithm of the Stark units (or related quantities) should satisfy a specific relation involving p-adic heights of the units in the base field.\n\n2.  **Greenberg's Conjecture (Iwasawa-theoretic, for totally real fields):** This conjecture concerns the structure of the p-adic Selmer group associated with a totally real number field that is the base field for a cyclotomic extension. It predicts that for a suitable totally real field, the p-adic Selmer group (in a specific Iwasawa-theoretic sense) has rank zero (i.e., is finite) in the cyclotomic Z_p-extension.\n\nBoth conjectures are part of the broader program of relating special values of p-adic L-functions (like those conjectured by Stark) to arithmetic invariants via Iwasawa theory.",
+  "terms": [
+    "p-adic numbers",
+    "Iwasawa theory",
+    "cyclotomic fields",
+    "Selmer groups",
+    "p-adic L-functions",
+    "units",
+    "algebraic number theory",
+    "class field theory",
+    "Stark conjectures",
+    "imaginary quadratic fields",
+    "totally real fields",
+    "p-adic height"
+  ],
+  "related_conjectures": [
+    "Iwasawa Theory",
+    "Kato's Conjecture",
+    "Bloch-Kato Conjecture",
+    "Stark Conjectures",
+    "Main Conjecture of Iwasawa Theory"
+  ],
+  "subjects": [
+    "Algebraic Number Theory",
+    "Arithmetic Geometry",
+    "p-adic Analysis",
+    "Iwasawa Theory"
+  ]
+}

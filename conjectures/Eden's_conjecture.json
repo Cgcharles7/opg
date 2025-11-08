@@ -1,0 +1,33 @@
+{
+  "uuid": "cfd5a930-4eba-45c8-9a5d-ba081dd49e1d",
+  "name": "Eden's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Eden%27s_conjecture",
+  "rephrased": "The limiting shape of the Eden growth model is a Euclidean ball.",
+  "implication_form": "If the growth process follows the Eden model, then the limit shape is a Euclidean ball.",
+  "posed_by": "Alp Eden",
+  "solved_by": "unsolved",
+  "year_originated": 36,
+  "explained": "Eden's conjecture, proposed by Alp Eden in 1987, addresses the Eden growth model, a stochastic process modeling the expansion of bacterial colonies or tumors. The core conjecture states that, regardless of the specific random sequence driving the growth process, the shape of the aggregate (the set of occupied sites) approaches a Euclidean ball (a sphere in n-dimensional space) as the process continues indefinitely, provided the growth occurs in two or three dimensions. This limit shape is assumed to be isotropic (uniform in all directions). While the conjecture appears plausible and holds empirically in low-dimensional settings (like two dimensions), it has been rigorously disproven for dimensions greater than 22.",
+  "terms": [
+    "Eden growth model",
+    "Stochastic process",
+    "Limit shape",
+    "Euclidean ball",
+    "Isotropic growth",
+    "Random aggregate",
+    "Dynamical system",
+    "Higher-dimensional geometry"
+  ],
+  "related_conjectures": [
+    "Limit shape conjectures for other random growth models (e.g., Ballistic Deposition, Surface Growth models)",
+    "Conformal invariance conjectures in two-dimensional critical systems",
+    "Shape theorem conjectures for various lattice models"
+  ],
+  "subjects": [
+    "Probability Theory",
+    "Statistical Mechanics",
+    "Stochastic Geometry",
+    "Geometric Analysis",
+    "PDEs (Partial Differential Equations)"
+  ]
+}

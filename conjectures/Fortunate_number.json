@@ -1,0 +1,14 @@
+{
+  "uuid": "b5c7b4c7-ae4c-428e-b395-d72fe939392f",
+  "name": "Fortunate number",
+  "link": "https://en.wikipedia.org/wiki/Fortunate_number",
+  "rephrased": "A fortunate number is the smallest integer greater than one that, when added to the product of the first n prime numbers (primorial), results in a prime number.",
+  "implication_form": "If a number is the smallest integer greater than one such that adding it to the primorial results in a prime, then it is a fortunate number.",
+  "posed_by": "Harvey Dubner",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

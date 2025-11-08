@@ -1,0 +1,30 @@
+{
+  "uuid": "4f377313-4e21-49cd-855d-44373d004726",
+  "name": "Goormaghtigh conjecture",
+  "link": "https://en.wikipedia.org/wiki/Goormaghtigh_conjecture",
+  "rephrased": "The conjecture states that there are no integers x and y (with x ≠ y) both greater than 1, and integers m and n greater than 1, such that the repunit numbers formed by repeating the digit '1' exactly m times (for base x) and exactly n times (for base y) are equal, except for the trivial solutions where one number is a power of the other.",
+  "implication_form": "If there exist integers x, y > 1, x ≠ y, and integers m, n > 1 such that the equation (x^m - 1)/(x - 1) = (y^n - 1)/(y - 1) holds, then (x, y, m, n) must be (2, 6, 3, 2) or (6, 2, 2, 3).",
+  "posed_by": "René Goormaghtigh",
+  "solved_by": "unsolved",
+  "year_originated": 98,
+  "explained": "The Goormaghtigh conjecture states that the only non-trivial integer solutions to the exponential Diophantine equation (x^m - 1)/(x - 1) = (y^n - a single integer value) (which is the same as the repunit R_m(x) = R_n(y)) occur when (x, m, y, n) = (3, 2, 2, 3) or (2, 3, 2, 3). This means that the only solutions where both x and y are integers greater than 1, and both exponents m and n are greater than 1, are these two pairs. All other solutions are considered trivial, typically involving cases where one of x or y is 1 or the exponents are 1, or where one side is a divisor of the other.",
+  "terms": [
+    "Exponential Diophantine Equation",
+    "Repunit",
+    "Cyclotomic Polynomials",
+    "Perfect Number",
+    "Powers",
+    "Divisors"
+  ],
+  "related_conjectures": [
+    "Pillai's Conjecture",
+    "Catalan's Conjecture (now theorem)",
+    "abc conjecture"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Algebra",
+    "Combinatorics",
+    "Arithmetic Geometry"
+  ]
+}

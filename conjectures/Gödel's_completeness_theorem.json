@@ -1,0 +1,35 @@
+{
+  "uuid": "e80a55fd-d4bd-46df-84ba-e89dab0dc41d",
+  "name": "Gödel's completeness theorem",
+  "link": "https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem",
+  "rephrased": "If a statement is true in every model of a theory, then it can be proven from the theory's axioms.",
+  "implication_form": "If every model of T satisfies φ, then there is a proof of φ using the axioms of T.",
+  "posed_by": "Kurt Gödel",
+  "solved_by": "Kurt Gödel",
+  "year_originated": 100,
+  "explained": "Gödel's completeness theorem is a foundational theorem in mathematical logic. It states that for any first-order theory (a collection of sentences considered as axioms), if a sentence is logically entailed by the theory (i.e., it is true in every possible model of the theory), then that sentence is also provable from the axioms of the theory using the rules of inference of first-order logic. In other words, the theorem establishes that the semantic consequence relation (truth in all models) coincides with the syntactic consequence relation (proof from axioms) for first-order logic. This means that the set of provable statements in a first-order theory is exactly the set of statements that are true in all models of that theory. The theorem is central to understanding the relationship between syntax and semantics in logic.",
+  "terms": [
+    "Model",
+    "Theory",
+    "Axioms",
+    "Proof",
+    "Provability",
+    "First-order logic",
+    "Semantics",
+    "Syntax",
+    "Entailment",
+    "Interpretation",
+    "Structure",
+    "Satisfaction"
+  ],
+  "related_conjectures": [
+    "Gödel's incompleteness theorems",
+    "Entscheidungsproblem (Hilbert's decision problem)"
+  ],
+  "subjects": [
+    "Mathematical Logic",
+    "Model Theory",
+    "Foundational Mathematics",
+    "Theoretical Computer Science"
+  ]
+}

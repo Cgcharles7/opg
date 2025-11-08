@@ -1,0 +1,33 @@
+{
+  "uuid": "5b239df9-4240-4eaf-9ba2-7277c840f211",
+  "name": "Erdős–Menger conjecture",
+  "link": "https://en.wikipedia.org/wiki/Menger%27s_theorem",
+  "rephrased": "In any infinite graph, if there are two distinct sets of vertices, there exist infinitely many vertex-disjoint paths connecting them, and a way to 'separate' these paths by selecting one vertex from each path.",
+  "implication_form": "If G is an infinite graph and A, B are two distinct vertex sets in G, then there exist infinitely many vertex-disjoint A-B paths, and there exists a set of vertices (one from each path) that separates these paths.",
+  "posed_by": "Paul Erdős and Karl Menger",
+  "solved_by": "Reinhard Halin",
+  "year_originated": 55,
+  "explained": "The Erdős–Menger conjecture states: For any infinite graph G and any two distinct vertices or vertex sets A and B in G, there exists a collection of vertex-disjoint paths connecting A to B, and there also exists a corresponding set of vertices (called an A-B separator) that intersects each of these paths exactly once. This conjecture provided a profound extension of Menger's theorem from finite to infinite graphs and was later proven to be true, becoming the Erdős–Menger theorem.",
+  "terms": [
+    "Graph theory",
+    "Infinite graphs",
+    "Vertex-disjoint paths",
+    "A-B separator",
+    "Menger's theorem",
+    "Separation (graph theory)",
+    "Cardinality",
+    "Combinatorics"
+  ],
+  "related_conjectures": [
+    "Menger's theorem (finite case)",
+    "Hall's marriage theorem (infinite version related)",
+    "Tutte's theorem (for matchings)",
+    "Theorems on vertex connectivity and edge connectivity"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Theoretical computer science (connections to complexity)",
+    "Set theory (handling infinite sets)"
+  ]
+}

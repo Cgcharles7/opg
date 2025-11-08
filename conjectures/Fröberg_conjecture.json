@@ -1,0 +1,14 @@
+{
+  "uuid": "a3847bd0-85ff-4bf9-8c29-6add19f11a97",
+  "name": "Fröberg conjecture",
+  "link": "https://en.wikipedia.org/wiki/Fr%C3%B6berg_conjecture",
+  "rephrased": "A conjecture about the maximum possible Hilbert series for a set of homogeneous forms in a polynomial ring, proposing an upper bound.",
+  "implication_form": null,
+  "posed_by": "Ralf Fröberg",
+  "solved_by": "unsolved",
+  "year_originated": 39,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

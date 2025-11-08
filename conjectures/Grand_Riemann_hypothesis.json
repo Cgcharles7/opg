@@ -1,0 +1,33 @@
+{
+  "uuid": "5e95e4c9-24ec-4292-a9f7-4833088341d4",
+  "name": "Grand Riemann hypothesis",
+  "link": "https://en.wikipedia.org/wiki/Grand_Riemann_hypothesis",
+  "rephrased": "The conjecture states that all non-trivial zeros of certain complex functions called automorphic L-functions lie on a specific vertical line in the complex plane, known as the critical line.",
+  "implication_form": "If all non-trivial zeros of all automorphic L-functions lie on the critical line, then certain mathematical structures are stable and predictable.",
+  "posed_by": "Various mathematicians (as a generalization of Riemann's hypothesis)",
+  "solved_by": "Unsolved",
+  "year_originated": 1970,
+  "explained": "The Grand Riemann Hypothesis is a conjecture in number theory that generalizes the Riemann Hypothesis. It states that all non-trivial zeros of all automorphic L-functions (L-functions associated with automorphic representations) lie on the critical line Re(s) = 1/2 in the complex plane, where s is a complex variable.",
+  "terms": [
+    "Automorphic L-function",
+    "Critical line",
+    "Automorphic form",
+    "L-function",
+    "Dirichlet L-function",
+    "Modular form",
+    "Elliptic curve"
+  ],
+  "related_conjectures": [
+    "Riemann Hypothesis",
+    "Birch and Swinnerton-Dyer Conjecture",
+    "Langlands Program",
+    "Navier-Stokes Existence and Smoothness"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Analytic Number Theory",
+    "Algebraic Number Theory",
+    "Representation Theory",
+    "Automorphic Forms"
+  ]
+}

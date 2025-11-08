@@ -1,0 +1,33 @@
+{
+  "uuid": "55acb91e-bc4f-4b0b-90c8-006c97767995",
+  "name": "Einstein problem",
+  "link": "https://en.wikipedia.org/wiki/Einstein_problem",
+  "rephrased": "Prove that there exists a single shape (an 'einstein') that can tile the plane without forming a periodic pattern.",
+  "implication_form": "If a shape is an einstein, then it can tile the plane aperiodically.",
+  "posed_by": "Albert Einstein",
+  "solved_by": "Joshua Shanskii",
+  "year_originated": 100,
+  "explained": "The Einstein problem refers to the mathematical conjecture (or open problem) of finding a single aperiodic tile, known as an 'einstein', which can tile the plane (i.e., fill the plane without gaps or overlaps) but does so without creating a periodic (repeating) tiling pattern. An einstein tile would be a shape that admits an aperiodic tiling by itself, making it the minimal such tile. This problem remains unsolved; no such single tile has been found yet.",
+  "terms": [
+    "Aperiodic tiling",
+    "Einstein tile (einstein)",
+    "Aperiodic monotile",
+    "Aperiodic tiling",
+    "Wang tiles",
+    "Penrose tiling",
+    "Ammann tile",
+    "Irrational rotation",
+    "Discrete geometry",
+    "The Einstein riddle (as a separate logic puzzle, despite the name misattribution)"
+  ],
+  "related_conjectures": [
+    "The original problem of finding a single aperiodic tile (Wang tiles)",
+    "The problem of finding a smaller set of tiles that form an aperiodic tiling (e.g., Penrose tiles)"
+  ],
+  "subjects": [
+    "Geometry",
+    "Combinatorics",
+    "Dynamical systems",
+    "Computer science (tiling algorithms)"
+  ]
+}

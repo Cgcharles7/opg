@@ -1,0 +1,33 @@
+{
+  "uuid": "5072162d-622d-4fd7-a0aa-1349f131fd5d",
+  "name": "Erdős sumset conjecture",
+  "link": "https://en.wikipedia.org/wiki/Erd%C5%91s_sumset_conjecture",
+  "rephrased": "If a subset of the natural numbers is dense (has positive density), then it must contain all possible sums of two infinite subsets.",
+  "implication_form": "If a subset A of the natural numbers has positive density, then A contains the sumset B+C for two infinite sets B and C.",
+  "posed_by": "Paul Erdős",
+  "solved_by": [
+    "Joel Moreira",
+    "Florian Richter",
+    "Donald Robertson"
+  ],
+  "year_originated": 40,
+  "explained": "The Erdős sumset conjecture states that any subset A of the natural numbers with positive upper density must contain a sumset B+C, where B and C are infinite subsets of A. In other words, there exist two infinite subsets B and C of A such that every element in the sumset {b+c | b ∈ B, c ∈ C} is also contained in A.",
+  "terms": [
+    "Sumset",
+    "Upper Density",
+    "Positive Density",
+    "Infinite Set",
+    "Subset",
+    "Natural Numbers"
+  ],
+  "related_conjectures": [
+    "Szemerédi's theorem",
+    "Green-Tao theorem",
+    "Erdős-Turán conjecture"
+  ],
+  "subjects": [
+    "Number theory",
+    "Additive combinatorics",
+    "Ergodic theory"
+  ]
+}

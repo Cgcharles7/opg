@@ -1,0 +1,31 @@
+{
+  "uuid": "6104d4ec-f621-44df-8cf9-ceac693a1363",
+  "name": "Green's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Clifford%27s_theorem_on_special_divisors",
+  "rephrased": "Green's conjecture describes the structure of the minimal free resolution of the homogeneous ideal of a smooth curve embedded in its canonical embedding.",
+  "implication_form": "If C is a smooth curve of genus g defined over a field of characteristic zero, then the minimal free resolution of the homogeneous ideal of C in its canonical embedding has a specific structure determined by g and the embedding.",
+  "posed_by": "David Eisenbud",
+  "solved_by": "Various mathematicians have solved special cases, but a complete solution for all cases remains an active area of research.",
+  "year_originated": "50s",
+  "explained": "Green's conjecture, formulated by Mark Green, concerns the syzygies of the homogeneous ideal of a canonical curve in characteristic zero. A canonical curve is obtained by embedding a smooth algebraic curve C of genus g into its canonical embedding in projective space P^{g-1}. The conjecture predicts the structure of the syzygies (the relations between the equations defining the curve) in this embedding. Specifically, it states that for a curve C of genus g, the syzygies stabilize in the sense that the Green-Lazarsfeld property holds, and the curve is said to be in its 'generic' or 'general' embedding when considered in the moduli space. The conjecture involves the vanishing of Koszul cohomology groups K_{p,q}(C, ω_C ⊗ ω_C^⊗(m)) for certain ranges of p and q, where ω_C is the canonical bundle. It is deeply connected to the curve's Brill-Noether theory and the geometry of its moduli space.",
+  "terms": [
+    "Canonical curve",
+    "Syzygies",
+    "Koszul complex",
+    "Green-Lazars (property/characteristic)",
+    "Canonical embedding",
+    "Brill-Noether theory",
+    "Moduli space of curves"
+  ],
+  "related_conjectures": [
+    "Brill-Noether conjectures",
+    "Green-Griffiths-Lazarsfeld conjecture (on Brody hyperbolicity)",
+    "Hodge conjecture",
+    "Mordell conjecture (now Faltings' theorem)"
+  ],
+  "subjects": [
+    "Algebraic geometry",
+    "Complex geometry",
+    "Commutative algebra"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "539e6302-31f5-4b4e-9b8b-d76678646bcd",
+  "name": "Goldbach's weak conjecture",
+  "link": "https://en.wikipedia.org/wiki/Goldbach%27s_weak_conjecture",
+  "rephrased": "Any odd number greater than 5 can be expressed as the sum of three prime numbers.",
+  "implication_form": "If a number is odd and greater than 5, then it can be expressed as the sum of three prime numbers.",
+  "posed_by": "Christian Goldbach",
+  "solved_by": "Harald Helfgott",
+  "year_originated": 282,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

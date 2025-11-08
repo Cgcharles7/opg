@@ -1,0 +1,31 @@
+{
+  "uuid": "430c1f6d-6a6c-4553-bd09-3269f1ec596f",
+  "name": "Erdős discrepancy problem",
+  "link": "https://en.wikipedia.org/wiki/Sign_sequence",
+  "rephrased": "Every infinite sequence of +1s and -1s has a homogeneous arithmetic progression with arbitrarily large discrepancy.",
+  "implication_form": "If the sequence is infinite (+1/-1), then for every constant C, there exists a homogeneous arithmetic progression with discrepancy greater than C.",
+  "posed_by": "Paul Erdős",
+  "solved_by": "Terence Tao",
+  "year_originated": 90,
+  "explained": "The Erdős discrepancy problem concerns infinite sequences consisting of +1 and -1. It states that for any such sequence and any positive constant C, there exists a homogeneous arithmetic progression (a subsequence where the indices form an arithmetic progression with common difference d, and the terms are taken at those indices) whose sum (discrepancy) exceeds C. In other words, the partial sums over these progressions can be made arbitrarily large in absolute value.",
+  "terms": [
+    "Infinite sequence",
+    "+1 and -1 sequence",
+    "Discrepancy",
+    "Homogeneous arithmetic progression (HAP)",
+    "Subsequence",
+    "Arithmetic progression"
+  ],
+  "related_conjectures": [
+    "Discrepancy theory conjectures (e.g., regarding other combinatorial structures)",
+    "Theorems related to subsequences in additive combinatorics",
+    "Problems involving bounded discrepancy in other contexts"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Number Theory",
+    "Probability Theory",
+    "Harmonic Analysis",
+    "Additive Combinatorics"
+  ]
+}

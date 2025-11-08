@@ -1,0 +1,30 @@
+{
+  "uuid": "447268c7-486a-4437-bf62-293a030093a3",
+  "name": "Grundy's game",
+  "link": "https://en.wikipedia.org/wiki/Grundy%27s_game",
+  "rephrased": "Grundy's game is a two-player strategy game starting with one heap of objects, where players alternately split a heap into two unequal heaps. The game ends with heaps of size 1 or 2, which cannot be split further. The player who makes the last move wins.",
+  "implication_form": "None",
+  "posed_by": "John Conway",
+  "solved_by": "unsolved",
+  "year_originated": 50,
+  "explained": "Grundy's game is a two-player impartial game played with a single heap of objects. Players take turns splitting a heap into two non-empty heaps of different sizes. The game continues until only heaps of size 1 or 2 remain, which cannot be split unequally further. This game is typically analyzed under the normal play convention, where the player making the last move (i.e., the last split) wins.",
+  "terms": [
+    "Normal play convention",
+    "Combinatorial game theory",
+    "Grundy number",
+    "Impartial game",
+    "Heap"
+  ],
+  "related_conjectures": [
+    "Sprague-Grundy theorem",
+    "Kayles",
+    "Dawson's Kayles",
+    "Chomp"
+  ],
+  "subjects": [
+    "Combinatorial Game Theory",
+    "Mathematical Game Theory",
+    "Number Theory",
+    "Graph Theory"
+  ]
+}

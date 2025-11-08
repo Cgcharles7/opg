@@ -1,0 +1,32 @@
+{
+  "uuid": "b04e7191-ec81-4cb1-bb57-4cffb25ace4b",
+  "name": "Dirichlet L-function",
+  "link": "https://en.wikipedia.org/wiki/Dirichlet_L-function",
+  "rephrased": "The Dirichlet L-function is a complex function that generalizes the Riemann zeta function and is used to study the distribution of prime numbers in arithmetic progressions defined by a Dirichlet character.",
+  "implication_form": "If the Dirichlet L-function does not vanish at s=1, then there are infinitely many primes in the arithmetic progression defined by the character.",
+  "posed_by": "Peter Gustav Dirichlet",
+  "solved_by": "Peter Gustav Dirichlet (for the Dirichlet theorem on arithmetic progressions)",
+  "year_originated": 1830,
+  "explained": "A Dirichlet L-function is defined for a Dirichlet character χ modulo q as the analytic continuation of the L-series ∑_{n=1}^∞ χ(n)/n^s, where s is a complex variable with real part σ > 1. This function, denoted by L(s, χ), is a meromorphic function on the complex plane and generalizes the Riemann zeta function ζ(s) (which corresponds to the principal Dirichlet character modulo 1 or modulo q for q prime). It plays a crucial role in number theory, particularly in the Dirichlet density theorem, which states that any arithmetic progression containing infinitely many primes has a density (related to the Dirichlet density) proportional to 1/φ(q), and this density can be expressed using the values of L(s, χ) at s=1.",
+  "terms": [
+    "Dirichlet character",
+    "Analytic continuation",
+    "Riemann zeta function",
+    "Dirichlet density",
+    "L-series",
+    "Arithmetic progression",
+    "Prime number theorem (generalized)"
+  ],
+  "related_conjectures": [
+    "Riemann Hypothesis (generalized for Dirichlet L-functions)",
+    "Artin reciprocity conjecture",
+    "BSD conjecture (Beilinson–Deligne–Conrad conjecture) for L-functions",
+    "Euler's conjecture (on the order of vanishing at s=1)"
+  ],
+  "subjects": [
+    "Number theory",
+    "Complex analysis",
+    "Analytic number theory",
+    "Algebraic number theory"
+  ]
+}

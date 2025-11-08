@@ -1,0 +1,32 @@
+{
+  "uuid": "188886e5-31f6-40e6-b9c0-28c414082726",
+  "name": "Ehrenpreis conjecture",
+  "link": "https://en.wikipedia.org/wiki/Ehrenpreis_conjecture",
+  "rephrased": "Any two closed surfaces with genus at least 2 have finite covers that are geometrically very similar, differing only slightly in distortion.",
+  "implication_form": "If S and T are any two closed Riemann surfaces of genus at least 2, then there exist finite-degree covers of S and T and a diffeomorphism between these covers with small distortion.",
+  "posed_by": "Ehrenpreis (attributed to him, exact proposer not specified in the query)",
+  "solved_by": "Jeremy Kahn and Vladimir Markovic",
+  "year_originated": "around 60 years ago (estimated based on context)",
+  "explained": "The Ehrenpreis conjecture states that any two closed Riemann surfaces of genus at least 2 admit finite-degree covers that are geometrically close. Geometrically close means there exists a diffeomorphism between them with bounded distortion (small stretching). This conjecture was proven by Jeremy Kahn and Vladimir Markovic in 2012, making it a theorem. The theorem establishes a strong connection between any two such surfaces by showing their finite covers can be made arbitrarily close in their geometric properties.",
+  "terms": [
+    "Riemann surface",
+    "Genus",
+    "Finite-degree cover",
+    "Geometrically close",
+    "Diffeomorphism",
+    "Distortion",
+    "Hyperbolic surface"
+  ],
+  "related_conjectures": [
+    "Uniformization Theorem",
+    "Bers Simultaneous Uniformization",
+    "Teichmüller Conjecture"
+  ],
+  "subjects": [
+    "Complex Analysis",
+    "Differential Geometry",
+    "Hyperbolic Geometry",
+    "Teichmüller Theory",
+    "Geometric Topology"
+  ]
+}

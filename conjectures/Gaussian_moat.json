@@ -1,0 +1,28 @@
+{
+  "uuid": "27cb08c3-388b-46d2-b52b-14caaac1fad7",
+  "name": "Gaussian moat",
+  "link": "https://en.wikipedia.org/wiki/Gaussian_moat",
+  "rephrased": "Can one walk from the origin to infinity on Gaussian primes (complex numbers with integer real and imaginary parts that are prime in the Gaussian integers) using steps of bounded size?",
+  "implication_form": "If there exists an infinite sequence of distinct Gaussian primes with bounded differences between consecutive terms, then it is possible to walk from the origin to infinity on Gaussian primes with steps of bounded size.",
+  "posed_by": "Basil Gordon",
+  "solved_by": "unsolved",
+  "year_originated": 62,
+  "explained": "The Gaussian moat conjecture states that it is impossible to find an infinite sequence of distinct Gaussian primes in the complex plane that starts from the origin and continues infinitely, with the difference between consecutive primes being bounded by some fixed constant.",
+  "terms": [
+    "Gaussian prime",
+    "Gaussian integer",
+    "Bounded difference",
+    "Complex plane",
+    "Gaussian moat problem"
+  ],
+  "related_conjectures": [
+    "Gauss class number conjecture",
+    "Riemann Hypothesis",
+    "Dirichlet's theorem on arithmetic progressions"
+  ],
+  "subjects": [
+    "Number theory",
+    "Complex analysis",
+    "Complex geometry"
+  ]
+}

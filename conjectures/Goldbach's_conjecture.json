@@ -1,0 +1,26 @@
+{
+  "uuid": "05d652dc-4f6a-4838-856d-31942bebb1ad",
+  "name": "Goldbach's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Goldbach%27s_conjecture",
+  "rephrased": "Every even number greater than two can be expressed as the sum of two prime numbers.",
+  "implication_form": "If a number is even and greater than two, then it can be written as the sum of two prime numbers.",
+  "posed_by": "Goldbach",
+  "solved_by": "unsolved",
+  "year_originated": 281,
+  "explained": "Goldbach's conjecture states that every even natural number greater than 2 can be expressed as the sum of two prime numbers. This conjecture has been verified for all even numbers up to 4 × 10¹⁸ but remains unproven for all larger even numbers.",
+  "terms": [
+    "even natural number",
+    "prime number",
+    "Goldbach conjecture"
+  ],
+  "related_conjectures": [
+    "Twin prime conjecture",
+    "Goldbach's weak conjecture (every odd integer greater than 5 can be expressed as the sum of three primes)",
+    "Polignac's conjecture"
+  ],
+  "subjects": [
+    "Number theory",
+    "Analytic number theory",
+    "Additive number theory"
+  ]
+}

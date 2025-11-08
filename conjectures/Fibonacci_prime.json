@@ -1,0 +1,14 @@
+{
+  "uuid": "81a39f18-1b49-4e2d-83f2-62090a3a0da2",
+  "name": "Fibonacci prime",
+  "link": "https://en.wikipedia.org/wiki/Fibonacci_prime",
+  "rephrased": "A Fibonacci number greater than 4 is prime only if its index is also prime.",
+  "implication_form": "If a Fibonacci number with index n > 4 is prime, then n must be prime.",
+  "posed_by": "Not attributed to a specific person",
+  "solved_by": "Unsolved",
+  "year_originated": 80,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

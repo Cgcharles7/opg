@@ -1,0 +1,34 @@
+{
+  "uuid": "fbfdf747-b989-4387-b035-2a8abd6f2c87",
+  "name": "Fermat's Last Theorem",
+  "link": "https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem",
+  "rephrased": "No three positive integers a, b, and c can satisfy the equation a^n + b^n = c^n for any integer n greater than 2.",
+  "implication_form": "If n is greater than 2 and a, b, c are positive integers satisfying a^n + b^n = c^n, then this is impossible.",
+  "posed_by": "Pierre de Fermat",
+  "solved_by": "Andrew Wiles",
+  "year_originated": 360,
+  "explained": "Fermat's Last Theorem states that there are no positive integers a, b, and c that can satisfy the equation a^n + b^n = c^n for any integer exponent n greater than 2. Although the equation has solutions for n=1 (linear Diophantine equations) and n=2 (Pythagorean triples), no integer solutions exist for exponents higher than 2. This theorem, now proven, was first conjectured by Pierre de Fermat in 1637, remaining unproven for over 350 years until Andrew Wiles provided a complete proof in 1994, published in 1995.",
+  "terms": [
+    "Diophantine equation",
+    "Pythagorean triple",
+    "Exponent",
+    "Positive integer",
+    "Elliptic curve",
+    "Modular form",
+    "Kodaira–Parshin invariant",
+    "Iwasawa theory"
+  ],
+  "related_conjectures": [
+    "Catalan's Conjecture (formerly proved, now Catalan's Theorem)",
+    "Beal's Conjecture",
+    "Mordell-Kraut-Voloch conjecture",
+    "Iwasawa theory conjectures"
+  ],
+  "subjects": [
+    "Number theory",
+    "Algebraic geometry",
+    "Arithmetic geometry",
+    "Modular forms",
+    "Elliptic curves"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "3c40735f-acd6-480a-84d0-697761be831b",
+  "name": "Gaussian correlation inequality",
+  "link": "https://en.wikipedia.org/wiki/Gaussian_correlation_inequality",
+  "rephrased": "For two symmetric, convex sets in a multidimensional Gaussian (normal) space, the probability that a randomly sampled point falls into both sets is at least the product of the probabilities of falling into each set individually.",
+  "implication_form": "If A and B are symmetric convex sets in R^n with respect to the standard Gaussian measure, then the probability of the intersection of A and B is at least the product of the probabilities of A and B individually.",
+  "posed_by": "Vladimir Dubcovskiy and others (the conjecture was proposed in different forms by various mathematicians starting in the 1970s)",
+  "solved_by": "Giovanni Alessandrini",
+  "year_originated": 50,
+  "explained": "The Gaussian Correlation Inequality (GCI), now a theorem, states that for any two symmetric convex sets A and B in R^n, and for two independent standard Gaussian random vectors X and Y (each with mean 0 and covariance identity), the probability that both X ∈ A and Y ∈ B is at least the product of the individual probabilities P(X ∈ A) * P(Y ∈ B). In other words, the events {X ∈ A} and {Y ∈ B} are positively correlated. This inequality formalizes the intuition that events defined by symmetric convex regions in a Gaussian space tend to overlap more than random subsets would suggest.",
+  "terms": [
+    "Gaussian random variable",
+    "Gaussian measure",
+    "convex set",
+    "symmetric set",
+    "independence",
+    "probability",
+    "covariance matrix"
+  ],
+  "related_conjectures": [
+    "Hypercube Conjecture (a special case where the ambient space is a hypercube)"
+  ],
+  "subjects": [
+    "Probability theory",
+    "Mathematical statistics",
+    "Convex geometry",
+    "Geometric functional analysis"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uuid": "705f9227-fea4-4a7e-ad54-862f79804287",
+  "name": "Erdős–Hajnal conjecture",
+  "link": "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Hajnal_conjecture",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "The Erdős–Hajnal conjecture states that for any graph H, there exists a constant c > 0 such that every graph G that does not contain H as an induced subgraph has either a clique (complete subgraph) or an independent set (stable set) of size at least |V(G)|^c. This means that forbidding a specific graph pattern as an induced subgraph guarantees the existence of a very large clique or independent set, exhibiting polynomial growth in the size of the graph. The conjecture has been proven for specific graphs H, such as the 5-cycle.",
+  "terms": [
+    "Clique",
+    "Independent Set",
+    "Induced Subgraph",
+    "Polynomial Growth",
+    "Graph Theory"
+  ],
+  "related_conjectures": [
+    "Ramsey's theorem",
+    "Turán's theorem",
+    "The existence of large cliques or independent sets in graphs with forbidden subgraphs",
+    "The Sunflower conjecture"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Extremal graph theory",
+    "Discrete mathematics"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "8531f4db-897c-4e01-b489-8d6689321159",
+  "name": "Double bubble conjecture",
+  "link": "https://en.wikipedia.org/wiki/Double_bubble_theorem",
+  "rephrased": "The Double Bubble Conjecture states that the minimal surface area configuration for enclosing two separate volumes in 3D space is a double bubble shape consisting of three spherical caps meeting along a shared circle at 120-degree angles.",
+  "implication_form": "If two volumes are enclosed by a surface in 3D space, then the configuration with the minimal surface area is the standard double bubble shape.",
+  "posed_by": "The conjecture refers to the widely believed minimal surface configuration, but specific attribution to original proposers is unclear; it emerged from the study of soap films and minimal surfaces.",
+  "solved_by": "Michael Hutchings, Frank Morgan, Manuel Ritoré, and Antonio Ros (proven in 2000)",
+  "year_originated": "Less than 200 years",
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

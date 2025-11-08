@@ -1,0 +1,32 @@
+{
+  "uuid": "f540152f-c0c6-4082-9c29-8ca6924366ea",
+  "name": "Euclidean space",
+  "link": "https://en.wikipedia.org/wiki/Euclidean_space",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "Euclidean space is defined as a geometric space characterized by the axioms of Euclidean geometry. Key properties include: 1) The parallel postulate (parallel lines never meet), 2) The sum of angles in a triangle is always 180 degrees, and 3) The existence of a consistent notion of distance and angle. It exists in any number of dimensions, denoted as \\( \\mathbb{R}^n \\) for dimension n, where \\( \\mathbb{R}^1 \\) is a line, \\( \\mathbb{R}^2 \\) is a plane, and \\( \\mathbb{R}^3 \\) is the standard three-dimensional space.",
+  "terms": [
+    "Affine space",
+    "Metric",
+    "Inner product",
+    "Isometry",
+    "Norm",
+    "Parallel postulate",
+    "Non-Euclidean geometry"
+  ],
+  "related_conjectures": [
+    "The foundations of geometry (e.g., independence of the parallel postulate)",
+    "Conjectures regarding the dimensionality of the universe",
+    "Relationship between Euclidean geometry and physics (e.g., in general relativity)"
+  ],
+  "subjects": [
+    "Geometry",
+    "Topology",
+    "Linear Algebra",
+    "Differential Geometry",
+    "Physics"
+  ]
+}

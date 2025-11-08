@@ -1,0 +1,34 @@
+{
+  "uuid": "e4f8cd2c-847f-4c55-9cb7-3e0adc24ef0d",
+  "name": "Grothendieck–Katz p-curvature conjecture",
+  "link": "https://en.wikipedia.org/wiki/Grothendieck%E2%80%93Katz_p-curvature_conjecture",
+  "rephrased": "If a linear ordinary differential equation has p-curvature zero for almost all prime characteristics p, then the equation has solutions in the complex numbers.",
+  "implication_form": "If a linear ordinary differential equation has p-curvature zero for almost all primes p, then the equation has solutions over the complex numbers.",
+  "posed_by": "Alexander Grothendieck",
+  "solved_by": "unsolved",
+  "year_originated": 50,
+  "explained": "The Grothendieck–Katz p-curvature conjecture, formulated in the 1960s but not published by Grothendieck, addresses a deep connection between local properties of linear ordinary differential equations (ODEs) and their global behavior. It concerns equations defined over the complex numbers or algebraically closed fields of characteristic zero. The conjecture states that if a linear ODE with coefficients in the field of rational functions on a complex variety satisfies two conditions: 1) It is 'p-curvature flat' at every point (meaning the p-curvature, a certain invariant from differential Galois theory, vanishes at every point), and 2) It satisfies a specific 'p-adic integrability' condition related to being defined over the ring of integers in a p-adic number field for almost all primes p, then the monodromy representation (the way solutions change when circumnavigating singularities) must be unipotent. In simpler terms, the conjecture posits that the vanishing of the p-curvature at all points (a local condition) and the existence of a suitable p-adic model (a global condition) imply that the monodromy is unipotent. Despite significant progress, particularly linking it to the theory of p-adic differential equations and the work of André, Blickle, and others, a complete proof for the general case remains elusive.",
+  "terms": [
+    "Linear Ordinary Differential Equations (ODEs)",
+    "p-curvature",
+    "Differential Galois Theory",
+    "Monodromy",
+    "Unipotent Representation",
+    "p-adic Numbers",
+    "Arithmetic Geometry",
+    "Rational Functions",
+    "Complex Variety"
+  ],
+  "related_conjectures": [
+    "Chebotarev Density Theorem (in analogy)",
+    "Fontaine-Perrin-Davat Conjecture (related to p-adic geometry and differential equations)",
+    "Grothendieck Conjecture on anabelian varieties"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Algebraic Geometry",
+    "Differential Equations",
+    "Arithmetic Geometry",
+    "Differential Geometry"
+  ]
+}

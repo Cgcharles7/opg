@@ -1,0 +1,36 @@
+{
+  "uuid": "d59d2267-0dad-4cd6-aa19-d5506cb20718",
+  "name": "GNRS conjecture",
+  "link": "https://en.wikipedia.org/wiki/GNRS_conjecture",
+  "rephrased": "The GNRS conjecture proposes that if a graph has a particular structure (related to graph minors), then any embedding of that graph into a space (like a plane or higher-dimensional space) can be done with a bounded 'stretch' factor. This bounded stretch would, in turn, lead to better approximation algorithms for complex flow problems involving multiple commodities.",
+  "implication_form": "If a graph G has a certain property related to graph minors, then there exists a bounded stretch factor for embeddings of G, which implies a better approximation ratio for multi-commodity flow problems.",
+  "posed_by": [
+    "Anupam Gupta",
+    "Ilan Newman",
+    "Yuri Rabinovich",
+    "Alistair Sinclair"
+  ],
+  "solved_by": "unsolved",
+  "year_originated": 20,
+  "explained": "The GNRS conjecture, formulated by Gupta, Newman, Rabinovich, and Sinclair in 2004, proposes a deep connection between the structure of graphs (specifically, the presence of certain graph minors), the distortion incurred when embedding metrics into low-dimensional spaces (stretch factor), and the approximability of multi-commodity flow problems. While the original formulation did not provide a precise mathematical statement, the conjecture essentially suggests that the distortion required to embed the shortest-path metric of a graph into a lower-dimensional space is bounded by a function that depends on the graph's minor structure, and this distortion has implications for the approximation ratios achievable for multi-commodity flow problems on such graphs.",
+  "terms": [
+    "Graph Minor",
+    "Graph Embedding",
+    "Stretch Factor",
+    "Shortest-Path Metric",
+    "Multi-Commodity Flow",
+    "Approximation Ratio",
+    "Metric Geometry"
+  ],
+  "related_conjectures": [
+    "Distortion Conjecture",
+    "Superconvergence",
+    "Graph Minor Conjectures (Robertson-Seymour)"
+  ],
+  "subjects": [
+    "Theoretical Computer Science",
+    "Graph Theory",
+    "Metric Geometry",
+    "Combinatorial Optimization"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uuid": "ce738d65-21e5-4652-92be-7fef2ad647fe",
+  "name": "Ending lamination theorem",
+  "link": "https://en.wikipedia.org/wiki/Ending_lamination_theorem",
+  "rephrased": "A complete hyperbolic 3-manifold is uniquely determined by its topological type and the geometric structures (conformal at finite ends or ending laminations at infinite ends) of its ends.",
+  "implication_form": "If two complete hyperbolic 3-manifolds are topologically equivalent and have identical end invariants (conformal structures for finite ends or ending laminations for infinite ends), then they are isometric (geometrically identical).",
+  "posed_by": "Bill Thurston (conjectured)",
+  "solved_by": "Kahn and Markovic (proved)",
+  "year_originated": "Approximately 40 years (late 1970s/early 1980s)",
+  "explained": "The Ending Lamination Theorem is a fundamental theorem in the study of hyperbolic 3-manifolds. It states that if two complete, orientable hyperbolic 3-manifolds are homeomorphic, then they are isometric if and only if they have the same ending invariants. For a geometrically infinite end, the ending invariant is a geodesic lamination (called the ending lamination) on the corresponding punctured torus boundary. For a geometrically finite end, the ending invariant is the conformal structure at infinity. The theorem uniquely determines the hyperbolic structure of the manifold from its topology and these ending invariants.",
+  "terms": [
+    "Ending Lamination",
+    "Geodesic Lamination",
+    "Hyperbolic 3-Manifold",
+    "Geometrically Infinite End",
+    "Geometrically Finite End",
+    "Ending Invariant",
+    "Conformal Structure",
+    "Homeomorphism",
+    "Isometry",
+    "Punctured Torus",
+    "Kleinian Group",
+    "Tameness"
+  ],
+  "related_conjectures": [
+    "Geometrization Conjecture",
+    "Virtual Haken Conjecture",
+    "Cusp Closing Conjecture",
+    "Tameness Conjecture"
+  ],
+  "subjects": [
+    "Hyperbolic Geometry",
+    "3-Manifold Topology",
+    "Kleinian Groups"
+  ]
+}

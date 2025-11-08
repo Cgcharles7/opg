@@ -1,0 +1,24 @@
+{
+  "uuid": "fef424a1-cf27-4e18-a7d1-fbfcdeb66e88",
+  "name": "Giuga number",
+  "link": "https://en.wikipedia.org/wiki/Giuga_number",
+  "rephrased": "A Giuga number is a composite number that is divisible by the sum of its prime factors each raised to the power of their multiplicity, minus one, for each distinct prime factor.",
+  "implication_form": "If n is a composite number such that for every distinct prime factor p of n, p divides (n/p - 1), then n is a Giuga number.",
+  "posed_by": "Giuseppe Giuga",
+  "solved_by": "unsolved",
+  "year_originated": 70,
+  "explained": "In number theory, a Giuga number is a composite number \\( n \\) that satisfies the following condition: for every distinct prime factor \\( p_i \\) of \\( n \\), \\( p_i \\) divides \\( \\left( \\frac{n}{p_i} - 1 \\right) \\). This property defines a specific class of composite numbers rather than posing a traditional conjecture about unproven statements. The definition itself is the core concept, and the search for and characterization of such numbers form the subject matter.",
+  "terms": [
+    "Composite number",
+    "Prime factor",
+    "Divisibility",
+    "Number theory"
+  ],
+  "related_conjectures": [
+    "Lario-Santos conjecture (relates Giuga numbers to the abc conjecture)",
+    "Ormstadt conjecture (relates to the infinitude of primitive Giuga numbers)"
+  ],
+  "subjects": [
+    "Number theory"
+  ]
+}

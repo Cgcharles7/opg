@@ -1,0 +1,31 @@
+{
+  "uuid": "dc1a703e-3345-4541-ad95-2b42f5d50552",
+  "name": "Galois group",
+  "link": "https://en.wikipedia.org/wiki/Galois_group",
+  "rephrased": "Galois groups are groups associated with field extensions that describe the symmetries of the roots of certain polynomials, forming the foundation of Galois theory.",
+  "implication_form": "null",
+  "posed_by": "Évariste Galois",
+  "solved_by": "unsolved",
+  "year_originated": 200,
+  "explained": "A Galois group is the group of automorphisms of a Galois extension, which is a field extension that is both normal and separable. It is the set of all field automorphisms that fix the base field element-wise and map the extension field to itself. The fundamental theorem of Galois theory establishes a one-to-one correspondence between the subgroups of the Galois group and the intermediate fields of the extension. This group captures the symmetry of the roots of a polynomial defining the extension.",
+  "terms": [
+    "Field extension",
+    "Automorphism",
+    "Splitting field",
+    "Normal extension",
+    "Separable extension",
+    "Algebraic element",
+    "Permutation group"
+  ],
+  "related_conjectures": [
+    "Inverse Galois Problem: The conjecture that every finite group is the Galois group of some Galois extension of the rational numbers.",
+    "Langlands program: A vast web of conjectures connecting number theory, representation theory, and algebraic geometry, involving Galois representations."
+  ],
+  "subjects": [
+    "Abstract algebra",
+    "Galois theory",
+    "Algebraic number theory",
+    "Number theory",
+    "Algebraic geometry"
+  ]
+}

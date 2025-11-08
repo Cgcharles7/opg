@@ -1,0 +1,31 @@
+{
+  "uuid": "f5eeeab6-ed05-4fca-99a6-f35c62b16186",
+  "name": "Erdős distinct distances problem",
+  "link": "https://en.wikipedia.org/wiki/Erd%C5%91s_distinct_distances_problem",
+  "rephrased": "What is the minimum number of distinct distances that must be present in any set of n points arranged in the plane?",
+  "implication_form": "If a set P contains n points in the Euclidean plane, then the number of distinct distances determined by P is believed to be at least c * n / log n for some constant c and sufficiently large n.",
+  "posed_by": "Paul Erdős",
+  "solved_by": "unsolved",
+  "year_originated": 77,
+  "explained": "The Erdős distinct distances problem has two main aspects. First, it asks for the minimum number of distinct distances determined by a set of n points in the Euclidean plane, specifically for sets that are optimally arranged to minimize this number. Second, it asks for the minimum number of distinct distances guaranteed by any set of n points in the plane. For large n, the minimum number for optimally arranged points is Ω(n / log n), and the minimum guaranteed number is Ω(n^{1/2}), though the exact asymptotic bounds for both remain partially unresolved. The widely accepted answer for the plane's minimum number is roughly n / log n.",
+  "terms": [
+    "Combinatorial geometry",
+    "Discrete geometry",
+    "Euclidean plane",
+    "Distances",
+    "Lattice points",
+    "Incidences",
+    "Sum-product conjecture"
+  ],
+  "related_conjectures": [
+    "Erdős–Szemerédi conjecture",
+    "Incidences conjecture",
+    "Kővari–Sós–Turán theorem"
+  ],
+  "subjects": [
+    "Combinatorial Geometry",
+    "Discrete Mathematics",
+    "Additive Combinatorics",
+    "Number Theory"
+  ]
+}

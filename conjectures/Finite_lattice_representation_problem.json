@@ -1,0 +1,14 @@
+{
+  "uuid": "30b32fa0-0024-4bd4-a956-7886a7d25d18",
+  "name": "Finite lattice representation problem",
+  "link": "https://en.wikipedia.org/wiki/Finite_lattice_representation_problem",
+  "rephrased": "Every finite lattice can be represented as the congruence lattice of some finite algebra.",
+  "implication_form": "If a finite lattice exists, then there exists a finite algebra whose congruence lattice is isomorphic to it.",
+  "posed_by": "Various researchers (open problem)",
+  "solved_by": "unsolved",
+  "year_originated": "Unresolved since the mid-20th century (estimated)",
+  "explained": "The Finite Lattice Representation Problem conjectures that every finite lattice is isomorphic to the congruence lattice of some finite algebra. This is a fundamental open question in universal algebra. While it is known that every finite lattice can be represented as an interval in the subgroup lattice of some finite group, this is distinct from being a congruence lattice. The general consensus among researchers is that the answer to the Finite Lattice Representation Problem is negative, meaning not every finite lattice is a congruence lattice of a finite algebra, though a formal proof remains elusive.",
+  "terms": "congruence lattice, finite algebra, universal algebra, lattice theory, representation problem",
+  "related_conjectures": "Congruence Representation Problem, Representation of Distributive Lattices, Representation of Lattices as Subgroup Lattices",
+  "subjects": "Universal Algebra, Lattice Theory, Group Theory"
+}

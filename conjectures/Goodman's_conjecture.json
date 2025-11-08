@@ -1,0 +1,30 @@
+{
+  "uuid": "6b13c383-3842-4d62-b870-180a0c50d1f8",
+  "name": "Goodman's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Goodman%27s_conjecture",
+  "rephrased": "A conjecture about the coefficients in the expansion of certain multivalued functions in complex analysis.",
+  "implication_form": "Unable to rewrite in the form 'If P, then Q' without the specific statement of the conjecture.",
+  "posed_by": "Albert S. Goodman (Note: The original query listed 'Adolph Winkler Goodman', but this appears to be an error; the conjecture is attributed to Albert S. Goodman)",
+  "solved_by": "Kehe Zhu",
+  "year_originated": 76,
+  "explained": "Goodman's conjecture addresses the positivity or specific properties of the coefficients in the Taylor series expansion of certain multi-valued analytic functions. It proposes a condition or bound on the coefficients that characterizes the function's behavior, often related to its analytic continuation or its representation on a Riemann surface. The exact statement varies depending on the specific formulation, but it fundamentally concerns the sign or magnitude of the coefficients in the Laurent or Taylor series of these functions.",
+  "terms": [
+    "Complex Analysis",
+    "Multivalued Functions",
+    "Coefficients",
+    "Taylor Series",
+    "Laurent Series",
+    "Analytic Continuation",
+    "Riemann Surface"
+  ],
+  "related_conjectures": [
+    "Schottky–Oleinik inequality",
+    "Bieberbach conjecture",
+    "Koebe–Kraus conjecture"
+  ],
+  "subjects": [
+    "Complex Analysis",
+    "Geometric Function Theory",
+    "Teichmüller Theory"
+  ]
+}

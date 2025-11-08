@@ -1,0 +1,14 @@
+{
+  "uuid": "7f06e230-9fb1-4a44-be76-121ba24c28fe",
+  "name": "Farrell–Jones conjecture",
+  "link": "https://en.wikipedia.org/wiki/Farrell%E2%80%93Jones_conjecture",
+  "rephrased": "The algebraic K-theory and L-theory of a group's ring can be calculated by studying its virtually cyclic subgroups.",
+  "implication_form": "If the assembly map associated with the virtually cyclic subgroups is an isomorphism, then the algebraic K-theory and L-theory of the group ring can be computed from the K- and L-theory of its virtually cyclic subgroups.",
+  "posed_by": "Jonathan Rosenberg and Michael Weiss (often credited as a collaboration with Wilhelm Lück)",
+  "solved_by": "unsolved",
+  "year_originated": 30,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

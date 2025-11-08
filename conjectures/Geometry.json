@@ -1,0 +1,46 @@
+{
+  "uuid": "18016363-c411-46f0-a4b1-704558b89742",
+  "name": "Geometry",
+  "link": "https://en.wikipedia.org/wiki/Geometry",
+  "rephrased": "Geometry studies the properties of space, such as shapes, sizes, and positions.",
+  "implication_form": "If one studies properties of space, then they are studying geometry.",
+  "posed_by": "Ancient scholars (e.g., Euclid systematized it)",
+  "solved_by": "Ongoing field of study",
+  "year_originated": 2323,
+  "explained": "Geometry is a fundamental branch of mathematics that explores the properties, relationships, and measurements of points, lines, surfaces, solids, and higher-dimensional objects in space. It primarily investigates concepts such as distance, shape, size, position, angles, curvature, and volume. Historically rooted in Euclidean geometry, which is based on the axioms of the ancient Greek mathematician Euclid, geometry has evolved to encompass various subfields, including non-Euclidean geometries (like hyperbolic and elliptic geometry), topology (the study of spatial properties preserved under continuous deformations), algebraic geometry (using algebraic methods to study geometric objects), differential geometry (applying calculus to geometric problems), and analytic geometry (combining algebra and geometry with coordinates). Geometry provides the mathematical foundation for describing the physical world and is essential in fields such as physics, engineering, computer graphics, and architecture.",
+  "terms": [
+    "Point",
+    "Line",
+    "Plane",
+    "Angle",
+    "Curve",
+    "Surface",
+    "Distance",
+    "Area",
+    "Volume",
+    "Axiom",
+    "Theorem",
+    "Euclidean geometry",
+    "Non-Euclidean geometry",
+    "Topology",
+    "Coordinate geometry",
+    "Trigonometry",
+    "Algebraic geometry",
+    "Analytic geometry"
+  ],
+  "related_conjectures": [
+    "Pythagorean Theorem (a foundational theorem, not a conjecture)",
+    "Parallel Postulate (historically a hypothesis that led to non-Euclidean geometries)",
+    "Riemann Hypothesis (a conjecture in number theory with deep geometric implications)",
+    "Poincaré Conjecture (now proven, but historically a fundamental conjecture in topology)",
+    "Kepler Conjecture (proven, concerning the densest sphere packing in 3D space)"
+  ],
+  "subjects": [
+    "Geometry",
+    "Topology",
+    "Algebraic Geometry",
+    "Differential Geometry",
+    "Trigonometry",
+    "Coordinate Geometry"
+  ]
+}

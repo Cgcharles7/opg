@@ -1,0 +1,14 @@
+{
+  "uuid": "10fcdb10-4251-441f-bfae-e7de23f6b9bb",
+  "name": "Feit–Thompson conjecture",
+  "link": "https://en.wikipedia.org/wiki/Feit%E2%80%93Thompson_conjecture",
+  "rephrased": "For any two distinct prime numbers p and q, the numbers (q^p - 1)/(q - 1) and (p^q - 1)/(p - 1) are coprime.",
+  "implication_form": "If p and q are distinct primes, then (q^p - 1)/(q - 1) and (p^q - 1)/(p - 1) are coprime.",
+  "posed_by": "Feit and Thompson",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

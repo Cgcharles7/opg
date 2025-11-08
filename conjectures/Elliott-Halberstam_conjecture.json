@@ -1,0 +1,36 @@
+{
+  "uuid": "482ee8fd-9767-4b74-8823-919e4e228ddc",
+  "name": "Elliott–Halberstam conjecture",
+  "link": "https://en.wikipedia.org/wiki/Elliott%E2%80%93Halberstam_conjecture",
+  "rephrased": "Primes are distributed evenly in arithmetic progressions with the same density as predicted by the Generalized Riemann Hypothesis.",
+  "implication_form": "If the primes are distributed with error bounded as in the Elliott–Halberstam conjecture, then there are infinitely many twin primes.",
+  "posed_by": [
+    "H Elliott",
+    "H Halberstam"
+  ],
+  "solved_by": "unsolved",
+  "year_originated": 40,
+  "explained": "The Elliott–Halberstam conjecture pertains to the distribution of prime numbers within arithmetic progressions. Specifically, it concerns the error term in the prime-counting function for primes up to x that are congruent to a fixed residue class modulo q, as x tends to infinity. The conjecture states that for any fixed A > 0, the sum over residue classes a modulo q (coprime to q) of the square of the error term (the difference between the number of primes up to x in that class and the expected number based on the prime number theorem for arithmetic progressions) is bounded by x^2 / (log x)^A, provided that q is bounded by x^ε for any ε > 0. In simpler terms, it asserts that primes are unusually evenly distributed across arithmetic progressions with coprime moduli, significantly better than what can be guaranteed by methods not relying on the Generalized Riemann Hypothesis (GRH).",
+  "terms": [
+    "Arithmetic progression",
+    "Prime number theorem for arithmetic progressions",
+    "Dirichlet L-function",
+    "Generalized Riemann Hypothesis (GRH)",
+    "Error term",
+    "Prime-counting function",
+    "Modulus",
+    "Residue class",
+    "Well-distributed primes"
+  ],
+  "related_conjectures": [
+    "Generalized Riemann Hypothesis (GRH)",
+    "Twin prime conjecture",
+    "Bounded gaps conjecture (now a theorem due to Zhang et al.)",
+    "Bombieri-Like conjecture"
+  ],
+  "subjects": [
+    "Number theory",
+    "Analytic number theory",
+    "Prime number theory"
+  ]
+}

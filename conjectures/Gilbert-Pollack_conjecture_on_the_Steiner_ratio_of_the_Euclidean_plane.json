@@ -1,0 +1,28 @@
+{
+  "uuid": "d6502696-3e2b-4140-8f23-a29c7dc39311",
+  "name": "Gilbert–Pollack conjecture on the Steiner ratio of the Euclidean plane",
+  "link": "https://en.wikipedia.org/wiki/Gilbert%E2%80%93Pollak_conjecture",
+  "rephrased": "The Gilbert–Pollak conjecture states that for any finite set of points in the Euclidean plane, the ratio of the length of the shortest Steiner tree to the length of the Euclidean minimum spanning tree is at most 2/3.",
+  "implication_form": "If a finite set of points exists in the Euclidean plane, then the ratio of the length of the shortest Steiner tree to the length of the Euclidean minimum spanning tree for that set is no greater than 2/3.",
+  "posed_by": "Edgar Gilbert and Henry O. Pollak",
+  "solved_by": "unsolved",
+  "year_originated": 56,
+  "explained": "In mathematics, the Gilbert–Pollak conjecture is an unproven conjecture on the ratio of lengths of Steiner trees and Euclidean minimum spanning trees for the same point sets in the Euclidean plane. It was proposed by Edgar Gilbert and Henry O. Pollak in 1968. Specifically, the conjecture states that for every finite set of points in the Euclidean plane, the Euclidean minimum spanning tree is no longer than 2/3 times the length of the minimum Steiner tree.",
+  "terms": [
+    "Euclidean Steiner tree",
+    "Euclidean minimum spanning tree",
+    "Steiner point",
+    "Minimum spanning tree",
+    "Euclidean plane"
+  ],
+  "related_conjectures": [
+    "Fermat–Torricelli problem",
+    "Art Gallery problem",
+    "Voronoi diagram conjectures"
+  ],
+  "subjects": [
+    "Geometry",
+    "Combinatorial optimization",
+    "Graph theory"
+  ]
+}

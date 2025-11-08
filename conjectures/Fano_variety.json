@@ -1,0 +1,33 @@
+{
+  "uuid": "ee54b601-8f00-4ccf-9cdf-2a30a6ae1fed",
+  "name": "Fano variety",
+  "link": "https://en.wikipedia.org/wiki/Fano_variety",
+  "rephrased": "A Fano variety is a smooth, projective algebraic shape where the 'opposite' of its typical curvature bundle is very positive.",
+  "implication_form": "If a smooth, projective algebraic variety has an ample anti-canonical bundle, then it is a Fano variety.",
+  "posed_by": "Gino Fano",
+  "solved_by": "unsolved",
+  "year_originated": 100,
+  "explained": "A Fano variety is a definition, not a conjecture, in algebraic geometry. It is a smooth, projective algebraic variety whose anti-canonical bundle is ample. This means the negative of its canonical bundle is a positive line bundle, characterizing it as a 'positively curved' variety. Fano varieties are considered fundamental building blocks for classifying all algebraic varieties and are central to Mori's Minimal Model Program. Examples include projective spaces and certain complete intersections.",
+  "terms": [
+    "Smooth projective variety",
+    "Algebraic variety",
+    "Ample line bundle",
+    "Canonical bundle",
+    "Anti-canonical bundle",
+    "Projective space",
+    "Complete intersection",
+    "Mori's Minimal Model Program (MMP)",
+    "Birational geometry",
+    "Complex geometry",
+    "String theory (context/application)"
+  ],
+  "related_conjectures": [
+    "Mori's Minimal Model Program (MMP)"
+  ],
+  "subjects": [
+    "Algebraic geometry",
+    "Complex geometry",
+    "Birational geometry",
+    "Hodge theory"
+  ]
+}

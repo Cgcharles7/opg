@@ -1,0 +1,28 @@
+{
+  "uuid": "d04e0fb4-ad4d-4fd7-9f33-a87fe858e09b",
+  "name": "Green–Tao theorem",
+  "link": "https://en.wikipedia.org/wiki/Green%E2%80%93Tao_theorem",
+  "rephrased": "Prime numbers can be found in sequences that form arithmetic progressions (like 3, 5, 7 or 5, 15, 25) and these sequences can be made as long as desired.",
+  "implication_form": "If a natural number k is given, then there exists an arithmetic progression of prime numbers containing k terms.",
+  "posed_by": "The specific conjecture attributed to Green and Tao refers to their proof, but the underlying problem (Szemerédi's theorem) was posed by others. The idea of arithmetic progressions in primes was investigated earlier.",
+  "solved_by": "Ben Green and Terence Tao",
+  "year_originated": 100,
+  "explained": "The Green–Tao theorem, proven by Ben Green and Terence Tao in 2004, states that the sequence of prime numbers contains arbitrarily long arithmetic progressions. In other words, for every natural number k, there exists a sequence of k primes that form an arithmetic progression (i.e., a set of primes p, p + d, p + 2d, ..., p + (k-1)d for some prime p and common difference d). This result demonstrates that the prime numbers, despite their seemingly random distribution, contain structured patterns of arbitrarily long arithmetic sequences.",
+  "terms": [
+    "Arithmetic progression",
+    "Prime number",
+    "Szemerédi's theorem",
+    "Density (mathematics)",
+    "Combinatorial number theory"
+  ],
+  "related_conjectures": [
+    "Erdős–Turan conjecture",
+    "Kummer conjecture",
+    "Schinzel's hypothesis H"
+  ],
+  "subjects": [
+    "Number theory",
+    "Combinatorics",
+    "Ergodic theory"
+  ]
+}

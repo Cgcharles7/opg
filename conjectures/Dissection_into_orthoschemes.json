@@ -1,0 +1,29 @@
+{
+  "uuid": "f7de91a8-6ae4-4eb0-810b-fbccc25af0e6",
+  "name": "Dissection into orthoschemes",
+  "link": "https://en.wikipedia.org/wiki/Dissection_into_orthoschemes",
+  "rephrased": "Dissecting a simplex into orthoschemes",
+  "implication_form": "If a simplex exists, then it can be dissected into orthoschemes",
+  "posed_by": "unknown",
+  "solved_by": "unsolved",
+  "year_originated": 200,
+  "explained": "An orthoscheme is a simplex characterized by having right dihedral angles along all edges connecting two specific vertices, typically referred to as the apex and the base. The dissection into orthoschemes conjecture posits that any given simplex (a generalization of a tetrahedron to higher dimensions) can be completely dissected, or decomposed, into a finite number of such orthoschemes. This dissection involves cutting the simplex along its faces and edges to form these specific right-angled tetrahedral (or higher-dimensional) pieces.",
+  "terms": [
+    "Orthoscheme",
+    "Simplex",
+    "Dihedral angle",
+    "Dissection",
+    "Tetrahedron"
+  ],
+  "related_conjectures": [
+    "Dehn invariant",
+    "Hilbert's third problem",
+    "Dissection of polyhedra into equal volume pieces"
+  ],
+  "subjects": [
+    "Geometry",
+    "Combinatorics",
+    "Polyhedral combinatorics",
+    "Higher-dimensional geometry"
+  ]
+}

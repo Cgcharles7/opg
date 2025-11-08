@@ -1,0 +1,14 @@
+{
+  "uuid": "adbe0f26-fb95-4bb5-b824-05cc2315692b",
+  "name": "Fujita conjecture",
+  "link": "https://en.wikipedia.org/wiki/Fujita_conjecture",
+  "rephrased": "A fundamental conjecture in algebraic geometry and complex geometry, proposed by Takao Fujita in 1985, regarding conditions under which certain combinations of divisors or line bundles become 'ample' (a key concept related to positivity and curvature in complex geometry).",
+  "implication_form": "If D is a divisor on a smooth projective variety X and L is an ample line bundle, then kD + L is ample for sufficiently large k (the exact condition depends on the specific formulation, which isn't provided in the summary).",
+  "posed_by": "Takao Fujita",
+  "solved_by": "unsolved",
+  "year_originated": 39,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

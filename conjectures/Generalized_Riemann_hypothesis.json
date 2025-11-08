@@ -1,0 +1,37 @@
+{
+  "uuid": "a559de09-d478-4007-82d8-49421bca755b",
+  "name": "Generalized Riemann hypothesis",
+  "link": "https://en.wikipedia.org/wiki/Generalized_Riemann_hypothesis",
+  "rephrased": "All non-trivial zeros of Dirichlet L-functions (and more general global L-functions) lie on the critical line with real part 1/2.",
+  "implication_form": "If there exists a non-trivial zero of a Dirichlet L-function not on the critical line, then certain arithmetic properties (e.g., concerning the distribution of primes in arithmetic progressions) fail.",
+  "posed_by": "Bernhard Riemann",
+  "solved_by": "unsolved",
+  "year_originated": 165,
+  "explained": "The Generalized Riemann Hypothesis (GRH) is a broadening of the Riemann Hypothesis (RH) from the Riemann zeta function ζ(s) to a wider class of complex functions known as L-functions. An L-function L(s, χ) or more generally L(s, π, χ) is said to satisfy the GRH if all its non-trivial zeros lie on the critical line Re(s) = 1/2 in the complex plane. Crucially, GRH applies to any L-function that satisfies certain axioms (conjectured properties) analogous to those of the Riemann zeta function, such as having a Dirichlet series, meromorphic continuation, functional equation, Euler product, and satisfying certain growth conditions. The most famous specific case is the Dirichlet L-function associated with a Dirichlet character, which generalizes RH beyond the single ζ(s).",
+  "terms": [
+    "L-function",
+    "Dirichlet character",
+    "Dirichlet L-function",
+    "Riemann zeta function",
+    "Meromorphic continuation",
+    "Functional equation",
+    "Euler product",
+    "Critical line",
+    "Non-trivial zeros",
+    "Axioms of L-functions"
+  ],
+  "related_conjectures": [
+    "Riemann Hypothesis (RH)",
+    "Artin reciprocity conjecture",
+    "BSD conjecture",
+    "Sato-Tate conjecture",
+    "Tate conjecture"
+  ],
+  "subjects": [
+    "Number theory",
+    "Algebraic number theory",
+    "Automorphic forms",
+    "Arithmetic geometry",
+    "Analytic number theory"
+  ]
+}

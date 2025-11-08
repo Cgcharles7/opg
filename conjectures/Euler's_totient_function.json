@@ -1,0 +1,28 @@
+{
+  "uuid": "9958a33b-f196-4801-9935-5a6d6c336f84",
+  "name": "Euler's totient function",
+  "link": "https://en.wikipedia.org/wiki/Euler%27s_totient_function",
+  "rephrased": "Euler's totient function, φ(n), gives the count of numbers from 1 to n that are coprime to n (share no common factors other than 1 with n).",
+  "implication_form": "If n is prime, then φ(n) = n - 1.",
+  "posed_by": "Leonhard Euler",
+  "solved_by": "Leonhard Euler (defined it), solved various properties over time by multiple mathematicians",
+  "year_originated": 300,
+  "explained": "Euler's totient function, denoted by φ(n), is a function in number theory that counts the number of positive integers up to a given integer n that are coprime to n. Two integers are coprime if their greatest common divisor (GCD) is 1. For example, φ(15) = 8 because the integers 1, 2, 4, 7, 8, 11, 13, and 14 are coprime to 15.",
+  "terms": [
+    "Multiplicative function",
+    "Euler's theorem",
+    "Coprime integers",
+    "Carmichael function"
+  ],
+  "related_conjectures": [
+    "Riemann Hypothesis (related to the growth rate of the totient function)",
+    "Goldbach Conjecture (the totient function is used in some formulations and related problems)",
+    "Generalized Riemann Hypothesis (has implications for the average order of the totient function)"
+  ],
+  "subjects": [
+    "Number theory",
+    "Analytic number theory",
+    "Complex analysis",
+    "Cryptography"
+  ]
+}

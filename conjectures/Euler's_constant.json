@@ -1,0 +1,32 @@
+{
+  "uuid": "54f81909-d009-4c2d-b2e7-f9d41665be1f",
+  "name": "Euler's constant",
+  "link": "https://en.wikipedia.org/wiki/Euler%27s_constant",
+  "rephrased": "Euler's number (e) is the unique positive real number that is approximately 2.71828 and is the limit of (1 + 1/n)^n as n approaches infinity.",
+  "implication_form": "If a function f(x) has the property that its derivative f'(x) equals the function itself f(x) for all x, then the base of the exponential function must be Euler's number (e).",
+  "posed_by": "Leonhard Euler",
+  "solved_by": "Not applicable (it is a definition, not a conjecture)",
+  "year_originated": 1727,
+  "explained": "Euler's constant refers to the mathematical constant denoted by the letter 'e', approximately equal to 2.71828. It is the unique real number that satisfies the property that the derivative of the function f(x) = e^x is equal to itself, i.e., f'(x) = e^x. It is the base of the natural logarithm and is fundamental in mathematics, appearing in contexts such as compound interest, calculus, complex numbers, and various scientific applications.",
+  "terms": [
+    "Calculus",
+    "Derivative",
+    "Exponential function",
+    "Natural logarithm",
+    "Analysis",
+    "Limit"
+  ],
+  "related_conjectures": [
+    "Riemann Hypothesis",
+    "Collatz Conjecture",
+    "Navier-Stokes Existence and Smoothness",
+    "Goldbach Conjecture"
+  ],
+  "subjects": [
+    "Calculus",
+    "Analysis",
+    "Complex Analysis",
+    "Number Theory",
+    "Financial Mathematics"
+  ]
+}

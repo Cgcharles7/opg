@@ -1,0 +1,25 @@
+{
+  "uuid": "0f5dda6a-cb73-4062-9cf0-4661ab0a7877",
+  "name": "Ganea conjecture",
+  "link": "https://en.wikipedia.org/wiki/Ganea_conjecture",
+  "rephrased": "The Lusternik-Schniremann category of the product space X × S^n equals the category of X plus one, for any positive integer n.",
+  "implication_form": "If X is a topological space and n is a positive integer, then the category of X × S^n is equal to the category of X plus 1.",
+  "posed_by": "Ganea (1978)",
+  "solved_by": "Larry A. Smith (1983)",
+  "year_originated": 45,
+  "explained": "The Ganea conjecture, now known to be false, was a statement in algebraic topology regarding the Lusternik-Schnirelmann category (denoted as cat(X)). It claimed that for any topological space X and any positive integer n, the category of the product space X × S^n equals the category of X plus one. That is, cat(X × S^n) = cat(X) + 1 for all n > 0.",
+  "terms": [
+    "Lusternik-Schnirelmann category",
+    "Product space",
+    "Sphere (S^n)",
+    "Algebraic topology"
+  ],
+  "related_conjectures": [
+    "Lusternik-Schnirelmann Conjecture",
+    "Other category-related conjectures in homotopy theory"
+  ],
+  "subjects": [
+    "Algebraic topology",
+    "Homotopy theory"
+  ]
+}

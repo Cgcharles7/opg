@@ -1,0 +1,35 @@
+{
+  "uuid": "deeee576-83a6-4423-aec5-433237a299ff",
+  "name": "Goncharov conjecture",
+  "link": "https://en.wikipedia.org/wiki/Goncharov_conjecture",
+  "rephrased": "The conjecture suggests that studying the cohomology of specific mathematical structures called motivic complexes reveals fundamental parts of other important mathematical objects known as algebraic K-groups.",
+  "implication_form": "If the cohomology of motivic complexes is studied, then it should correspond to pieces of algebraic K-groups.",
+  "posed_by": "Goncharov",
+  "solved_by": "unsolved",
+  "year_originated": 28,
+  "explained": "The Goncharov conjecture, introduced by Goncharov in 1995, proposes a deep connection between algebraic geometry and algebraic K-theory. It suggests that the cohomology of certain motivic complexes (complexes constructed from algebraic varieties using motives, which are universal co-cycles) associated with a smooth projective variety over a field (often assumed to be the complex numbers or the rationals) coincides precisely with specific components or 'pieces' of the algebraic K-theory of that variety. Algebraic K-theory is a sophisticated invariant of algebraic varieties that encodes information about linear algebra structures over the variety. The conjecture essentially states that the motivic cohomology groups, which are fundamental in algebraic geometry, provide a complete description of the structure of the algebraic K-groups, at least in certain 'weight' or degree components. This conjecture significantly extends the earlier conjectures formulated by Don Zagier around 1991 regarding special values of zeta functions and multiple zeta values, linking them to algebraic K-theory and motivic structures.",
+  "terms": [
+    "Motivic Complexes",
+    "Cohomology",
+    "Algebraic K-Theory",
+    "K-Groups",
+    "Motive",
+    "Smooth Projective Variety",
+    "Algebraic Geometry",
+    "Number Theory"
+  ],
+  "related_conjectures": [
+    "Beilinson Conjectures",
+    "Bloch-Beilinson Conjecture",
+    "Milnor Conjecture (now Theorem)",
+    "Bloch Conjecture"
+  ],
+  "subjects": [
+    "Algebraic Geometry",
+    "Number Theory",
+    "Algebraic Topology",
+    "Homological Algebra",
+    "Algebraic K-Theory",
+    "Mathematical Physics (motivic aspects)"
+  ]
+}

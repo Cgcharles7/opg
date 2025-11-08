@@ -1,0 +1,35 @@
+{
+  "uuid": "94fef2ad-42d0-44d0-8182-81992d9e97bc",
+  "name": "Gradient conjecture",
+  "link": "https://en.wikipedia.org/wiki/Gradient_conjecture",
+  "rephrased": "If a real-valued analytic function defined on multi-dimensional space has a gradient vector field whose trajectory approaches a specific point (where the function has an isolated critical point), then the function values along that trajectory approach a specific limit.",
+  "implication_form": "If a real-valued analytic function f defined on Rn has a trajectory x(t) of its gradient vector field approaching a limit point x0 ∈ Rn which is an isolated critical point of f, then there exists a limit for the values f(x(t)) as t approaches infinity.",
+  "posed_by": "René Thom",
+  "solved_by": "Krzysztof Kurdyka, Tadeusz Mostowski, Adam Parusiński",
+  "year_originated": 35,
+  "explained": "The Gradient conjecture, formulated by René Thom in 1989 and proven by Krzyszto to Kurdyka, Tadeusz Mostowski, and Adam Parusiński in 2000, pertains to the behavior of gradient flows near critical points. It states that if f is a real-valued analytic function defined on R^n, and x(t) is a trajectory (solution curve) of the gradient flow ∇f (i.e., dx/dt = ∇f(x)), then whenever this trajectory approaches a limit point x0 ∈ R^n where f has an isolated critical point (∇f(x0) = 0), the trajectory must itself approach x0. In other words, the limit lim_{t→∞} x(t) exists and equals x0.",
+  "terms": [
+    "Analytic function",
+    "Gradient vector field",
+    "Trajectory",
+    "Limit point",
+    "Critical point",
+    "Isolated critical point",
+    "Real-analytic",
+    "Real-valued",
+    "Riemannian manifold (implicitly assumed for gradient flow)",
+    "Gradient flow",
+    "Complex analysis"
+  ],
+  "related_conjectures": [
+    "Hodge conjecture (complex geometry, algebraic cycles)",
+    "Morse theory conjectures (relation to topology via critical points)"
+  ],
+  "subjects": [
+    "Real analysis",
+    "Complex analysis",
+    "Differential geometry",
+    "Dynamical systems",
+    "Analysis (Real and Complex)"
+  ]
+}

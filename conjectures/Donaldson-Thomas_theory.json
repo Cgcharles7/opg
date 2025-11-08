@@ -1,0 +1,35 @@
+{
+  "uuid": "61828858-3e9b-4267-9704-645c76e91767",
+  "name": "Donaldson–Thomas theory",
+  "link": "https://en.wikipedia.org/wiki/Donaldson%E2%80%93Thomas_theory",
+  "rephrased": "Mathematicians can count certain geometric objects in special spaces called Calabi-Yau threefolds using special counting methods.",
+  "implication_form": "If there is a compact moduli space of stable sheaves (or other objects) in a Calabi-Yau 3-fold, then invariants can be defined to count them.",
+  "posed_by": "Simon Donaldson and Michael Thomas",
+  "solved_by": "unsolved",
+  "year_originated": 31,
+  "explained": "Donaldson–Thomas theory provides a mathematical framework for defining enumerative invariants for Calabi–Yau threefolds. It defines invariants, known as Donaldson–Thomas invariants, which count the number of stable sheaves (or other objects like complexes) on a Calabi–Yau threefold, using a 'virtual fundamental class' or 'virtual cycle' on the moduli space of these objects. The core conjecture or definition involves constructing this virtual cycle, which allows for a consistent and stable count even when the moduli space is not smooth or has singularities. The existence of a compact moduli space of stable sheaves is a crucial prerequisite for this construction, but the conjecture itself primarily concerns the definition and properties of the DT invariants derived from the virtual count.",
+  "terms": [
+    "Sheaf",
+    "Calabi–Yau threefold",
+    "Moduli space",
+    "Stable sheaves",
+    "Virtual fundamental class",
+    "Virtual count",
+    "Donaldson–Thomas invariants",
+    "Enumerative invariants"
+  ],
+  "related_conjectures": [
+    "Gromov–Witten theory",
+    "Wall-crossing conjecture",
+    "Connection to string theory (e.g., via M-theory)",
+    "Peyre's conjecture (related to counting lattice points, sometimes used in DT contexts)",
+    "Kontsevich sov theory"
+  ],
+  "subjects": [
+    "Algebraic geometry",
+    "Symplectic geometry",
+    "Differential topology",
+    "Mathematical physics",
+    "String theory"
+  ]
+}

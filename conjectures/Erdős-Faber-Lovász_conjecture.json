@@ -1,0 +1,31 @@
+{
+  "uuid": "4133c975-eed6-46e0-b099-814aa25972ef",
+  "name": "Erdős–Faber–Lovász conjecture",
+  "link": "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Faber%E2%80%93Lov%C3%A1sz_conjecture",
+  "rephrased": "If a graph is formed by overlapping complete graphs (cliques) of size n, with each clique containing n vertices and any two cliques sharing at most one vertex, then the entire graph can be colored using only n colors.",
+  "implication_form": "If a graph is the union of n complete subgraphs, each having exactly n vertices, and every pair of these complete subgraphs shares at most one common vertex, then the chromatic number of the graph is at most n.",
+  "posed_by": "Paul Erdős, Zdeněk Faber, and Ágnes Szendrei (commonly known as Lovász)",
+  "solved_by": "Kang, Kelly, and Liu",
+  "year_originated": 51,
+  "explained": "The Erdős–Faber–Lovász conjecture states that if a graph G is the union of n complete subgraphs (cliques), each containing exactly n vertices, and any two of these cliques share at most one vertex, then the chromatic number χ(G) is at most n.",
+  "terms": [
+    "Clique",
+    "Complete subgraph",
+    "Chromatic number",
+    "Complete graph",
+    "Hypergraph",
+    "Linear hypergraph",
+    "Chromatic index",
+    "Edge coloring"
+  ],
+  "related_conjectures": [
+    "Linear intersection number conjecture",
+    "Conjectures on the chromatic index of linear hypergraphs"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Hypergraph theory",
+    "Combinatorial optimization"
+  ]
+}

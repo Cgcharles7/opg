@@ -1,0 +1,30 @@
+{
+  "uuid": "21dfd418-cb4c-48f7-abd6-d561c291e440",
+  "name": "Generalized star height problem",
+  "link": "https://en.wikipedia.org/wiki/Generalized_star-height_problem",
+  "rephrased": "The generalized star height problem asks if there's a universal constant 'k' such that every regular language can be defined using generalized regular expressions (which allow complement operators) where the Kleene star operator is nested at most 'k' levels deep.",
+  "implication_form": "If a language is regular, then there exists some constant 'k' such that the language can be expressed by a generalized regular expression with generalized star height at most 'k'.",
+  "posed_by": "The exact proposer is unclear from the provided text; it is an open question in formal language theory.",
+  "solved_by": "unsolved",
+  "year_originated": 50,
+  "explained": "The Generalized Star Height Problem is an open question in formal language theory. It asks whether there exists a fixed integer 'k' such that every regular language can be described by a generalized regular expression (which includes a complement operator) where the Kleene star operator appears at most 'k' levels deep in any subexpression. In other words, it conjectures that the nesting depth of Kleene stars required to express any regular language using generalized regular expressions is bounded by some constant, regardless of the language's complexity.",
+  "terms": [
+    "Regular Language",
+    "Generalized Regular Expression",
+    "Complement Operator",
+    "Kleene Star",
+    "Nesting Depth",
+    "Formal Language Theory",
+    "Automata Theory"
+  ],
+  "related_conjectures": [
+    "The standard (unbounded) Star Height Problem (without complement operators)",
+    "Equivalence of regular expressions (with complement) and deterministic finite automata (DFA)"
+  ],
+  "subjects": [
+    "Formal Language Theory",
+    "Automata Theory",
+    "Theoretical Computer Science",
+    "Computational Linguistics"
+  ]
+}

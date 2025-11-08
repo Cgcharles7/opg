@@ -1,0 +1,37 @@
+{
+  "uuid": "1dfce20b-8951-4182-9311-cde2026e5762",
+  "name": "Geometrization conjecture",
+  "link": "https://en.wikipedia.org/wiki/Geometrization_conjecture",
+  "rephrased": "Every 'nice' three-dimensional topological space can be broken down into simpler pieces, each having one of eight possible standard geometric structures (like spheres or hyperbolic spaces).",
+  "implication_form": "If a three-dimensional topological space (satisfying certain conditions) is given, then it can be decomposed into geometric pieces, each conforming to one of eight model geometries.",
+  "posed_by": "William Thurston",
+  "solved_by": "Grigori Perel'man",
+  "year_originated": "1980s (approx 40-50 years old)",
+  "explained": "Thurston's geometrization conjecture states that every compact, connected, three-dimensional manifold can be decomposed, or cut apart, along spherical two-dimensional surfaces into a finite number of pieces. Each resulting piece should then be one of exactly eight so-called 'Thurston geometries'. These eight geometries are: the spherical geometry (S3), the Euclidean geometry (E3), the hyperbolic geometry (H3), and five others: the geometries S2×R, H2×R, Sol, and Nil. This decomposition essentially means that any such three-dimensional shape can be described by patching together pieces of these specific geometric structures.",
+  "terms": [
+    "3-manifold",
+    "geometric structure",
+    "geometric decomposition",
+    "Ricci flow",
+    "Perelman's theorem",
+    "William Thurston",
+    "spherical geometry",
+    "Euclidean geometry",
+    "hyperbolic geometry",
+    "nil geometry",
+    "sL2(R) geometry",
+    "sol geometry"
+  ],
+  "related_conjectures": [
+    "Uniformization theorem",
+    "Poincaré conjecture",
+    "Classification of Haken manifolds",
+    "Geometrization of exceptional spaces"
+  ],
+  "subjects": [
+    "Topology",
+    "Geometry",
+    "Differential Geometry",
+    "Geometric Analysis"
+  ]
+}

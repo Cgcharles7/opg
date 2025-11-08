@@ -1,0 +1,41 @@
+{
+  "uuid": "f9282db5-d9fa-42cb-bdb3-0881c85347ee",
+  "name": "Gan–Gross–Prasad conjecture",
+  "link": "https://en.wikipedia.org/wiki/Gan%E2%80%93Gross%E2%80%93Prasad_conjecture",
+  "rephrased": "The conjecture describes the precise conditions under which a particular representation of a smaller group, obtained by restricting a representation of a larger group (both classical groups like orthogonal or symplectic groups), appears exactly once (multiplicity one).",
+  "implication_form": "Difficult to provide due to lack of an explicit formal statement.",
+  "posed_by": "Gan Wee Teck, Benedict Gross, and Dipendra Prasad",
+  "solved_by": "unsolved",
+  "year_originated": "around 18 years ago",
+  "explained": "The Gan–Gross–argue conjecture addresses the multiplicity of certain representations when restricting or transferring representations between different classical groups, such as special orthogonal groups (SO), unitary groups (SU), and symplectic groups (Sp). It predicts, under specific conditions involving the preservation of certain data (like a maximal parabolic subgroup or a torus), that the multiplicity of a representation of a smaller group (e.g., SO(n)) inside the restriction of a representation of a larger group (e.g., SO(n+1)) is nonzero if and only if the representation corresponds to a specific L-parameter, often related to a prescribed filtration or a specific component in the local Langlands correspondence. Crucially, when the multiplicity is nonzero, it is conjectured to be exactly one. This conjecture generalizes earlier work by Gross and Prasad on special orthogonal groups and applies to all four classical groups (GL, GO, GU, GUd).",
+  "terms": [
+    "Representation theory",
+    "Restriction problem",
+    "Multiplicity",
+    "Classical groups",
+    "Special orthogonal groups (SO)",
+    "Unitary groups (SU)",
+    "Symplectic groups (Sp)",
+    "Local Langlands correspondence",
+    "L-functions",
+    "Theta correspondence",
+    "Automorphic forms",
+    "Preservation of data",
+    "Maximal parabolic subgroups",
+    "Toroidal representations"
+  ],
+  "related_conjectures": [
+    "Local Langlands Conjecture",
+    "Formal Degree Conjecture",
+    "Langlands Functoriality Conjecture",
+    "Borovoi–Gan–Gross–Prasad Conjecture",
+    "Prasad's conjecture"
+  ],
+  "subjects": [
+    "Representation theory",
+    "Number theory",
+    "Automorphic forms",
+    "Lie theory",
+    "Harmonic analysis"
+  ]
+}

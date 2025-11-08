@@ -1,0 +1,30 @@
+{
+  "uuid": "32d91fb7-5583-4bab-a7a3-1bef29306b1a",
+  "name": "Gyárfás–Sumner conjecture",
+  "link": "https://en.wikipedia.org/wiki/Gy%C3%A1rf%C3%A1s%E2%80%93Sumner_conjecture",
+  "rephrased": "For any given tree and complete graph, there exists a fixed number of colors such that any graph without those specific tree or complete graph as an induced subgraph can be properly colored with that constant number of colors.",
+  "implication_form": "If a graph does not contain a given tree or complete graph as an induced subgraph, then it can be properly colored using at most a constant number of colors.",
+  "posed_by": "Gyárfás and Sumner",
+  "solved_by": "unsolved",
+  "year_originated": 40,
+  "explained": "The Gyárfás–Sumner conjecture states that for any given tree T and complete graph K, there exists a constant c(T,K) such that every graph that does not contain T or K as an induced subgraph has a chromatic number at most c(T,K). In other words, if a graph avoids having T or K as an induced subgraph, then its chromatic number is bounded by some constant that depends only on T and K, not on the size of the graph.",
+  "terms": [
+    "Induced subgraph",
+    "Chromatic number",
+    "Clique",
+    "Tree",
+    "Graph coloring",
+    "Forbidden subgraphs"
+  ],
+  "related_conjectures": [
+    "Four Color Theorem",
+    "Graph Coloring Problem",
+    "Hadwiger Conjecture",
+    "Gyarfas's Conjecture on (r,s)-graphs"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Computer science (specifically algorithms and graph algorithms)"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "7170f8ce-9150-4394-88ef-b316458b1e16",
+  "name": "Gábor Tardos",
+  "link": "https://en.wikipedia.org/wiki/G%C3%A1bor_Tardos",
+  "rephrased": "There is no widely recognized conjecture specifically named after Gábor Tardos mentioned in the provided summary.",
+  "implication_form": "n/a (No specific conjecture identified)",
+  "posed_by": "Gábor Tardos",
+  "solved_by": "n/a",
+  "year_originated": "n/a",
+  "explained": "There is no widely recognized, distinct mathematical conjecture specifically named after Gábor Tardos based solely on his work, as the information provided does not specify a particular conjecture statement.",
+  "terms": [
+    "Combinatorics",
+    "Extremal Set Theory",
+    "Graph Theory",
+    "Coding Theory",
+    "Theoretical Computer Science",
+    "Intercept Theorem",
+    "Combinatorial Optimization",
+    "Discrepancy Theory"
+  ],
+  "related_conjectures": [
+    "Erdős–Ko–Rado theorem",
+    "Ray-Cheney theorem",
+    "Kővari–Sós–Turán theorem",
+    "Zarankiewicz problem"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Theoretical Computer Science",
+    "Extremal Problems",
+    "Coding Theory"
+  ]
+}

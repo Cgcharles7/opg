@@ -1,0 +1,30 @@
+{
+  "uuid": "a7199fea-6838-4a8a-b307-a774fe4f9706",
+  "name": "Eilenberg–Ganea conjecture",
+  "link": "https://en.wikipedia.org/wiki/Eilenberg%E2%80%93Ganea_conjecture",
+  "rephrased": "If a group has cohomological dimension 2, then it can be represented by a 2-dimensional Eilenberg-MacLane space.",
+  "implication_form": "If a group has cohomological dimension 2, then it has geometric dimension 2.",
+  "posed_by": [
+    "Samuel Eilenberg",
+    "Daniel Ganea"
+  ],
+  "solved_by": "unsolved",
+  "year_originated": 55,
+  "explained": "The Eilenberg–Ganea conjecture states that if a group G has cohomological dimension 2 (cd(G) = 2), then it also has geometric dimension 2. Geometric dimension 2 means that G admits a 2-dimensional Eilenberg–MacLane space (aspherical CW complex).",
+  "terms": [
+    "cohomological dimension",
+    "geometric dimension",
+    "Eilenberg-MacLane space",
+    "aspherical CW complex",
+    "group",
+    "CW complex"
+  ],
+  "related_conjectures": [
+    "Whitehead conjecture"
+  ],
+  "subjects": [
+    "Algebraic topology",
+    "Homotopy theory",
+    "Group theory"
+  ]
+}

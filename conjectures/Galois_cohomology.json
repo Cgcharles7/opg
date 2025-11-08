@@ -1,0 +1,35 @@
+{
+  "uuid": "6989dda2-5ee4-4c4f-ae02-bad0e4b53bfe",
+  "name": "Galois cohomology",
+  "link": "https://en.wikipedia.org/wiki/Galois_cohomology",
+  "rephrased": "Galois cohomology studies how Galois groups act on abelian groups and uses tools from homological algebra to understand the relationship between invariant elements and the structure of these groups.",
+  "implication_form": "If A Galois group acts on an abelian group, then the Galois cohomology groups can be used to study the obstructions to lifting or deforming this action.",
+  "posed_by": "Claude Chevalley, Jean-Pierre Serre, and Alexander Grothendieć (among others developed the theory further)",
+  "solved_by": "Unsolved",
+  "year_originated": 70,
+  "explained": "Galois cohomology is not a single conjecture but a framework and set of techniques within mathematics that studies the group cohomology of Galois modules. It involves applying homological algebra to abelian groups equipped with actions of Galois groups. These Galois groups arise from field extensions and act naturally on various structures associated with the larger field, such as ideal groups or other algebraic invariants. The core idea is to analyze how these abelian groups behave under the action of the Galois group, particularly through cohomology groups, which measure the 'failure' of Galois-invariant elements to capture all relevant arithmetic information. It is a fundamental tool in algebraic number theory, arithmetic geometry, and the study of Diophantine equations.",
+  "terms": [
+    "Galois group",
+    "Cohomology",
+    "Galois module",
+    "Homological algebra",
+    "Field extension",
+    "Algebraic number theory",
+    "Arithmetic geometry",
+    "Galois representation",
+    "Class field theory"
+  ],
+  "related_conjectures": [
+    "Birch and Swinnerton-Dyer conjecture",
+    "Tate-Shafarevich conjecture",
+    "Conjecture on the finiteness of Shafarevich-Tate groups",
+    "Kummer theory",
+    "Main conjecture of Iwasawa theory"
+  ],
+  "subjects": [
+    "Number theory",
+    "Algebraic geometry",
+    "Algebra",
+    "Arithmetic geometry"
+  ]
+}

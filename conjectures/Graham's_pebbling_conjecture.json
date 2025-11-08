@@ -1,0 +1,30 @@
+{
+  "uuid": "af6d4fb6-4d11-4032-befa-1628b9605c5f",
+  "name": "Graham's pebbling conjecture",
+  "link": "https://en.wikipedia.org/wiki/Graph_pebbling",
+  "rephrased": "Every connected graph has a pebbling number equal to twice the number of vertices minus one.",
+  "implication_form": "If a graph is connected, then its pebbling number is 2n-1.",
+  "posed_by": "Ronald Graham",
+  "solved_by": "unsolved",
+  "year_originated": 1964,
+  "explained": "Graham's pebbling conjecture, proposed by Ronald Graham, pertains to the maximum pebbling number for certain graphs. It states that for any connected graph G with n vertices, there exists a root graph (a graph with a specific structure, often a power of a path graph) such that when G is used as a base graph to form the Cartesian product with the root graph (resulting in a graph with n vertices), the pebbling number of this product graph is at most 3^n. The pebbling number π(G) is the smallest number such that any distribution of π(G) pebbles on the vertices of G allows a pebbler to move pebbles (via pebbling moves) to any target vertex.",
+  "terms": [
+    "Pebbling number (π(G))",
+    "Pebbling move",
+    "Graph pebbling",
+    "Root graph",
+    "Cartesian product of graphs",
+    "Connected graph",
+    "n-cube"
+  ],
+  "related_conjectures": [
+    "The postage stamp problem",
+    "The van der Waerden conjecture",
+    "The cap set problem (related in some combinatorial aspects)"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Theoretical computer science"
+  ]
+}

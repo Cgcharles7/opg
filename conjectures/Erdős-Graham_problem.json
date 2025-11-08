@@ -1,0 +1,36 @@
+{
+  "uuid": "cced0fa6-5148-4625-8e67-1696d7af05a6",
+  "name": "Erdős–Graham problem",
+  "link": "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Graham_problem",
+  "rephrased": "If all integers greater than one are colored with a finite number of colors, then at least one color class contains a finite set of numbers whose reciprocals sum to 1.",
+  "implication_form": "If the integers greater than one are partitioned into k subsets, then at least one subset contains a finite subset with reciprocals summing to 1.",
+  "posed_by": [
+    "Paul Erdős",
+    "Ronald Graham"
+  ],
+  "solved_by": "The original coloring conjecture was proven by Erich S. Croot; the density version remains unsolved.",
+  "year_originated": 50,
+  "explained": "The Erdős–Graham problem concerns the coloring of integers greater than one with a finite number of colors. The conjecture states that in any such coloring, at least one color class must contain a finite subset of integers whose reciprocals sum to 1. This original coloring version of the conjecture has been proven true. The density version, which states that any set of integers with positive asymptotic density must contain such a subset, remains an open problem.",
+  "terms": [
+    "Egyptian fractions",
+    "Ramsey theory",
+    "asymptotic density",
+    "subset sum",
+    "finite subsets",
+    "reciprocals",
+    "coloring"
+  ],
+  "related_conjectures": [
+    "Erdős–Ginzburg–Ziv theorem",
+    "Schur's theorem",
+    "Erdős–Turán conjecture",
+    "Cap set problem"
+  ],
+  "subjects": [
+    "Number theory",
+    "Combinatorics",
+    "Additive combinatorics",
+    "Ramsey theory",
+    "Diophantine approximation"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "45405eb7-7be9-4d92-805f-9aa218298538",
+  "name": "Gauss circle problem",
+  "link": "https://en.wikipedia.org/wiki/Gauss_circle_problem",
+  "rephrased": "The problem asks how many points with integer coordinates lie inside a circle of radius r centered at the origin, and how the actual count differs from the circle's area (πr²).",
+  "implication_form": "If r is a positive real number, then the difference between the number of lattice points inside the circle of radius r centered at the origin and the area πr² is bounded by some function of r (though the exact bound is still unknown).",
+  "posed_by": "Carl Friedrich Gauss",
+  "solved_by": "unsolved",
+  "year_originated": 220,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

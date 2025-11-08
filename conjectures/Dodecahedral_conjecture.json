@@ -1,0 +1,29 @@
+{
+  "uuid": "92f88bd4-6c21-4196-8714-c8f983046fe4",
+  "name": "Dodecahedral conjecture",
+  "link": "https://en.wikipedia.org/wiki/Dodecahedral_conjecture",
+  "rephrased": "In any packing of identical spheres, the volume of the space surrounding a single sphere is minimized when the shape of that space is a regular dodecahedron.",
+  "implication_form": "If there exists a packing of unit spheres in three-dimensional Euclidean space, then the volume of the Voronoi cell associated with any sphere is at least the volume of a regular dodecahedron with inradius one.",
+  "posed_by": "László Fejes Tóth",
+  "solved_by": "Thomas Hales and Sean McLaughlin",
+  "year_originated": 80,
+  "explained": "The Dodecahedral Conjecture states that in any packing of congruent unit spheres in three-dimensional Euclidean space, the volume of the Voronoi cell associated with each sphere is at least the volume of a regular dodecahedron with an inradius of one.",
+  "terms": [
+    "Voronoi cell",
+    "inradius",
+    "dodecahedron",
+    "sphere packing",
+    "unit sphere",
+    "volume",
+    "unit density"
+  ],
+  "related_conjectures": [
+    "Kepler Conjecture"
+  ],
+  "subjects": [
+    "Geometry",
+    "Discrete Geometry",
+    "Packing Problems",
+    "Discrete Mathematics"
+  ]
+}

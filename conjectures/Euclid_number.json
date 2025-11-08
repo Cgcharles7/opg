@@ -1,0 +1,14 @@
+{
+  "uuid": "cc807fdc-04e1-4fef-a1e5-10edb2d3c3d9",
+  "name": "Euclid number",
+  "link": "https://en.wikipedia.org/wiki/Euclid_number",
+  "rephrased": "A Euclid number is defined as the primorial of the nth prime number plus one.",
+  "implication_form": "If n is a natural number, then the nth Euclid number is the primorial of the nth prime plus one.",
+  "posed_by": "Euclid (named after)",
+  "solved_by": "unsolved",
+  "year_originated": 2300,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

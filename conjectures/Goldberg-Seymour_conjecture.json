@@ -1,0 +1,33 @@
+{
+  "uuid": "6b10cfa6-9df2-4872-9d8b-c940211a8554",
+  "name": "Goldberg–Seymour conjecture",
+  "link": "https://en.wikipedia.org/wiki/Goldberg%E2%80%93Seymour_conjecture",
+  "rephrased": "In any multigraph, the minimum number of colors needed to color the edges (without adjacent edges sharing the same color) is at most the larger of one plus the highest degree any vertex has, or the average degree of the graph.",
+  "implication_form": "If G is a multigraph, then χ′(G) ≤ max(1 + Δ(G), Γ(G)).",
+  "posed_by": [
+    "C. Goldberg",
+    "P. Seymour"
+  ],
+  "solved_by": [
+    "Neil Robertson",
+    "Paul Seymour",
+    "Robin Thomas"
+  ],
+  "year_originated": 40,
+  "explained": "The Goldberg–Seymour conjecture is a statement in graph theory about edge coloring in multigraphs. It proposes that for any multigraph G, the edge chromatic number χ'(G) (the minimum number of colors needed to color the edges so that no two adjacent edges share the same color) is at most the maximum value between Δ(G) + 1 (where Δ(G) is the maximum degree of G) and Γ(G) (where Γ(G) is the clique number of G, defined as the maximum number of edges incident to any vertex).",
+  "terms": [
+    "Edge chromatic number",
+    "Edge coloring",
+    "Maximum degree (Δ)",
+    "Clique number (Γ)",
+    "Multigraph",
+    "Bipartite graph"
+  ],
+  "related_conjectures": [
+    "Delta-Woodall conjecture"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics"
+  ]
+}

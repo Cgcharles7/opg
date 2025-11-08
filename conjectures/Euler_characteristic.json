@@ -1,0 +1,14 @@
+{
+  "uuid": "5f246473-4317-414a-8744-59775ff08705",
+  "name": "Euler characteristic",
+  "link": "https://en.wikipedia.org/wiki/Euler_characteristic",
+  "rephrased": "The Euler characteristic is a numerical value calculated from a shape's vertices, edges, and faces (V - E + F) and remains constant regardless of how the shape is smoothly deformed.",
+  "implication_form": "If a shape is a polyhedron or a two-dimensional surface, then its Euler characteristic is given by the formula V - E + F.",
+  "posed_by": "Leonhard Euler",
+  "solved_by": "Euler",
+  "year_originated": 270,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

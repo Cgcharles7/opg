@@ -1,0 +1,29 @@
+{
+  "uuid": "0f1e9aad-39a0-4d6b-b307-80904a57ec4f",
+  "name": "Erdős–Gyárfás conjecture",
+  "link": "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Gy%C3%A1rf%C3%A1s_conjecture",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "The Erdős–Gyárfás conjecture states that every finite graph with a minimum degree of at least three (δ(G) ≥ 3) must contain a cycle whose length is a power of two (i.e., a cycle of length 2ᵏ for some integer k ≥ 0). In logical terms, the conjecture can be restated as: If a graph has minimum degree at least three, then it contains a cycle of length a power of two.",
+  "terms": [
+    "Graph theory",
+    "Cycle",
+    "Cycle length",
+    "Minimum degree (δ)",
+    "Power of two (2ᵏ)",
+    "P10-free graph"
+  ],
+  "related_conjectures": [
+    "Erdős–Gallai theorem (a different conjecture in graph theory)",
+    "Ramsey theory",
+    "Existence of Hamiltonian cycles (cycles visiting every vertex)"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Discrete mathematics"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "cc70c22a-0c3e-4a72-b354-d4fb670a762d",
+  "name": "Erdős–Turán conjecture on additive bases",
+  "link": "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Tur%C3%A1n_conjecture_on_additive_bases",
+  "rephrased": "A set of integers that covers all sufficiently large numbers as sums of two of its elements must have some numbers represented as such sums in arbitrarily many ways.",
+  "implication_form": "If a set A of non-negative integers is an asymptotic additive basis of order 2, then the number of ways to represent integers as sums of two elements from A must be unbounded.",
+  "posed_by": "Paul Erdős and Pál Turán",
+  "solved_by": "unsolved",
+  "year_originated": 82,
+  "explained": "The Erdős–Turán conjecture on additive bases states that if a set A of non-negative integers is an asymptotic additive basis of order 2 (meaning every sufficiently large integer can be expressed as the sum of two elements from A), then the number of ways to represent sufficiently large integers as the sum of two elements from A must be unbounded. In other words, there exist integers that can be written as a sum of two elements from A in arbitrarily many ways.",
+  "terms": [
+    "Additive basis",
+    "Asymptotic",
+    "Order 2",
+    "Representations",
+    "Additive number theory"
+  ],
+  "related_conjectures": [
+    "Erdős–Ginzburg–Ziv theorem",
+    "Goldbach conjecture",
+    "Waring's problem"
+  ],
+  "subjects": [
+    "Number theory",
+    "Additive combinatorics",
+    "Combinatorial number theory"
+  ]
+}

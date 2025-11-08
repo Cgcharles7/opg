@@ -1,0 +1,30 @@
+{
+  "uuid": "27a3ae32-fea6-4d42-b853-c2f467528ca6",
+  "name": "Gaussian prime number",
+  "link": "https://en.wikipedia.org/wiki/Gaussian_integer",
+  "rephrased": "A Gaussian integer is a complex number where both the real and imaginary parts are integers.",
+  "implication_form": "None (this is a definition, not a conjecture)",
+  "posed_by": "Carl Friedrich Gauss",
+  "solved_by": "N/A (this is a definition, not a conjecture)",
+  "year_originated": 1800,
+  "explained": "A Gaussian prime is a Gaussian integer (a complex number of the form a + bi where a and b are integers) that cannot be factored nontrivially within the ring of Gaussian integers Z[i]. This means it is irreducible in Z[i]. A Gaussian integer π is prime (or Gaussian prime) if it is not a unit (units are 1, -1, i, -i) and its only divisors in Z[i] are the unit factors of itself. The norm of a Gaussian integer a + bi, defined as N(a + bi) = a² + b², plays a crucial role: if π is a Gaussian prime, then its norm N(π) is a prime number in the integers or the square of a prime number in the integers (but π itself is not the square of another Gaussian integer). This concept extends the idea of prime numbers to the Gaussian integers, forming part of algebraic number theory.",
+  "terms": [
+    "Gaussian integer",
+    "Norm",
+    "Irreducible element",
+    "Unit",
+    "Integral domain",
+    "Algebraic number theory",
+    "Complex numbers"
+  ],
+  "related_conjectures": [
+    "Fermat's Two Squares Theorem",
+    "Unique Factorization Conjecture (in other rings)",
+    "Riemann Hypothesis (related through zeta functions)"
+  ],
+  "subjects": [
+    "Algebraic Number Theory",
+    "Number Theory",
+    "Complex Analysis"
+  ]
+}

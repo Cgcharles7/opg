@@ -1,0 +1,34 @@
+{
+  "uuid": "68975467-9972-4fd4-9cb8-1ade10d9b554",
+  "name": "Fuglede's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Fuglede%27s_conjecture",
+  "rephrased": "Every measurable set in R^d with positive finite Lebesgue measure is a spectral set (meaning its characteristic function is a basis for the space of square-integrable functions) if and only if it tiles R^d by integer translations.",
+  "implication_form": "If a set tiles R^d by integer translations, then it is a spectral set.",
+  "posed_by": "Bent Fuglede",
+  "solved_by": "unsolved",
+  "year_originated": 50,
+  "explained": "Fuglede's conjecture, proposed by Bent Fuglede in 1974, is a fundamental open problem in harmonic analysis. It posits that a bounded measurable subset \\( \\Omega \\subset \\mathbb{R}^d \\) with positive Lebesgue measure is a **spectral set** (meaning its characteristic function can be expanded in an orthogonal basis consisting of complex exponentials) if and only if it is a **tiling set** (meaning it can be translated periodically to tile the entire \\( \\mathbb{R}^ (d \\) without overlap or gaps). In other words, \\( \\Omega \\) is spectral if and only if it tiles \\( \\mathbb{R}^d \\) by translations.",
+  "terms": [
+    "Spectral set",
+    "Fourier basis",
+    "Orthogonal basis of characters",
+    "Tiling set",
+    "Translation",
+    "Fourier transform",
+    "Harmonic analysis",
+    "Gabor frame",
+    "Bent Fuglede"
+  ],
+  "related_conjectures": [
+    "Density theorem for tilings (which holds in \\( \\mathbb{R}^d \\) for d=1,2 but not necessarily in higher dimensions for spectral sets)",
+    "Characterization of all spectral sets",
+    "Connection to the theory of Gabor frames"
+  ],
+  "subjects": [
+    "Harmonic Analysis",
+    "Fourier Analysis",
+    "Wavelet Theory",
+    "Additive Combinatorics",
+    "Commutative Harmonic Analysis"
+  ]
+}

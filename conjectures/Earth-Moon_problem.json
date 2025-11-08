@@ -1,0 +1,28 @@
+{
+  "uuid": "0d158e46-c369-4c73-8331-383f3105c0d3",
+  "name": "Earth–Moon problem",
+  "link": "https://en.wikipedia.org/wiki/Earth%E2%80%93Moon_problem",
+  "rephrased": "Find the minimum number of colors needed to color all regions in two overlapping maps (like Earth and Moon) such that: (1) Each region in the first map has a unique corresponding region in the second map; (2) Corresponding regions must share the same color; (3) Adjacent regions within either map must have different colors.",
+  "implication_form": "If two regions are adjacent (share a border) on either map, then they must be colored differently.",
+  "posed_by": "Originator not definitively identified, associated with research on planar graph coloring (e.g., related to the four-color theorem)",
+  "solved_by": "unsolved",
+  "year_originated": "estimate: 1960s or 1970s",
+  "explained": "The Earth–Moon problem is a conjecture in graph theory concerning the chromatic number of a specific type of graph called a biplanar graph. It asks for the minimum number of colors required to color a map consisting of regions on both the Earth and the Moon, where each Earth region has a corresponding colony on the Moon. The coloring must ensure that each region and its colony share the same color, and any two regions (on Earth or the Moon) that share a border must have different colors.",
+  "terms": [
+    "Biplanar graph",
+    "Chromatic number",
+    "Map coloring",
+    "Graph theory",
+    "Planar graph",
+    "Colony constraint"
+  ],
+  "related_conjectures": [
+    "Four Color Theorem"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Topology",
+    "Computational complexity"
+  ]
+}

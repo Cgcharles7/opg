@@ -1,0 +1,14 @@
+{
+  "uuid": "60faf67d-f86b-48cc-a8c6-7980abe7997d",
+  "name": "Falconer's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Falconer%27s_conjecture",
+  "rephrased": "If a set of points in d-dimensional space is sufficiently large (with a Hausdorff dimension exceeding d/2), then the set of all possible distances between points in that set must be significant (have positive Lebesgue measure).",
+  "implication_form": "If a compact subset E of R^d (d ≥ 2) has Hausdorff dimension greater than d/2, then the set { |x - y| : x, y ∈ E } has positive Lebesgue measure.",
+  "posed_by": "Keith Falconer",
+  "solved_by": "unsolved",
+  "year_originated": 38,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

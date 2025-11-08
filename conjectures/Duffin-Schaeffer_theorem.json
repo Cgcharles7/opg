@@ -1,0 +1,14 @@
+{
+  "uuid": "a3c6a48b-0c92-47c3-80b1-950e88a40bcb",
+  "name": "Duffin–Schaeffer theorem",
+  "link": "https://en.wikipedia.org/wiki/Duffin%E2%80%93Schaeffer_theorem",
+  "rephrased": "A function f(q) allows almost all real numbers to be well approximated by rationals a/q (with gcd(a,q)=1) infinitely often if the series ∑ φ(q)f(q)/q diverges.",
+  "implication_form": "If the series ∑_{q=1}^{∞} φ(q)f(q)/q diverges, then for almost all real numbers x, there are infinitely many integers q and a (with gcd(a,q)=1) such that |x - a/q| < f(q).",
+  "posed_by": "R. J. Duffin and A. C. Schaeffer",
+  "solved_by": "Dimitris Koukoulopoulos and James Maynard",
+  "year_originated": 83,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}
