@@ -18,7 +18,7 @@ function buildCategoryTree(conjs) {
 
   conjs.forEach(c => {
     // Normalize categories (c.terms may be array or comma-separated string)
-    const cats = Array.isArray(c.terms)
+    const cats = Array.isArray(${c.terms})
       ? c.terms.map(x => x.trim()).filter(Boolean)
       : c.terms
           ? c.terms.toString().split(',').map(x => x.trim()).filter(Boolean)
