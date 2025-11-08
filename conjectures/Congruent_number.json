@@ -1,0 +1,27 @@
+{
+  "uuid": "e019f104-0c7a-46ff-b3ff-f560593bf108",
+  "name": "Congruent number",
+  "link": "https://en.wikipedia.org/wiki/Congruent_number",
+  "rephrased": "A congruent number is a positive integer that can be expressed as the area of a right-angled triangle with three rational number sides.",
+  "implication_form": "If a positive integer n can be expressed as the area of a rational-sided right-angled triangle, then n is a congruent number.",
+  "posed_by": "Euler (popularized, though the problem is ancient)",
+  "solved_by": "Unsolved",
+  "year_originated": 2000,
+  "explained": "A positive integer n is congruent if and only if there exists a right-angled triangle with rational side lengths whose area is equal to n.",
+  "terms": [
+    "Congruent number",
+    "Rational right triangle",
+    "Elliptic curve",
+    "Torsion-free module",
+    "Rank of an elliptic curve",
+    "Congruent number problem",
+    "3-Selmer group"
+  ],
+  "related_conjectures": [
+    "Birch and Swinnerton-Dyer Conjecture"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Algebraic Geometry"
+  ]
+}

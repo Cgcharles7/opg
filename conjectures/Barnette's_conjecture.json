@@ -1,0 +1,14 @@
+{
+  "uuid": "7a9be7d8-6829-4473-a45a-98c2350e54e5",
+  "name": "Barnette's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Barnette%27s_conjecture",
+  "rephrased": "A Hamiltonian cycle exists in any graph that is cubic (each vertex has degree 3), 3-connected, bipartite, and planar.",
+  "implication_form": "If a graph is cubic, 3-connected, bipartite, and planar, then it is Hamiltonian.",
+  "posed_by": "David Barnette",
+  "solved_by": "unsolved",
+  "year_originated": 50,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

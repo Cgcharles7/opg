@@ -1,0 +1,14 @@
+{
+  "uuid": "a24f6952-5b89-48df-a6c7-a49b1ec835dc",
+  "name": "Abundance conjecture",
+  "link": "https://en.wikipedia.org/wiki/Abundance_conjecture",
+  "rephrased": "If a projective variety with Kawamata log terminal singularities has a nef canonical bundle, then some sufficiently large multiple of that bundle is base-point free.",
+  "implication_form": "If a projective variety X with Kawamata log terminal singularities has a nef canonical bundle, then the canonical bundle is semi-ample.",
+  "posed_by": "Unknown (not specified in the text)",
+  "solved_by": "No one fully solved it yet, but Caucher Birkar has established important cases",
+  "year_originated": "30-40 years (estimated)",
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "57eadefd-d2d3-44a6-8226-80a4f0c4c2ff",
+  "name": "Dickson's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Dickson%27s_conjecture",
+  "rephrased": "If a finite set of linear forms (like n+b1, n+b2, etc.) doesn't have any 'local obstacle' (such as divisibility issues by small primes) that always prevents them from all being prime for some n, then there are infinitely many integers n where all forms evaluate to prime numbers.",
+  "implication_form": "If a finite set of linear forms (ai*n + bi) has no congruence condition preventing all forms from being simultaneously prime for some integer n, then there are infinitely many integers n for which all forms evaluate to prime numbers.",
+  "posed_by": "Leonard Dickson",
+  "solved_by": "unsolved",
+  "year_originated": 124,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

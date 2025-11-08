@@ -1,0 +1,31 @@
+{
+  "uuid": "c418ebc6-3d11-4b92-a16d-58348b3288c6",
+  "name": "Banach space",
+  "link": "https://en.wikipedia.org/wiki/Banach_space",
+  "rephrased": "A Banach space is a vector space equipped with a norm where every Cauchy sequence converges to a point within the space.",
+  "implication_form": "If a vector space is normed and complete (i.e., every Cauchy sequence converges within the space), then it is a Banach space.",
+  "posed_by": "Stefan Banach (though the concept builds on earlier work by others like Fréchet; the term 'Banach space' was coined by Banach)",
+  "solved_by": "Unsolved (as it is a foundational concept rather than a specific conjecture to be solved)",
+  "year_originated": 1920,
+  "explained": "A Banach space is a complete normed vector space. This means it is a vector space equipped with a norm (a function that assigns a strictly positive length or size to each vector) and is complete under the metric induced by the norm. Completeness here means that every Cauchy sequence (a sequence where the elements become arbitrarily close to each other as the sequence progresses) in the space converges to a limit that is also within the space. This property ensures the space has no 'holes' and is fundamental for many areas of mathematical analysis.",
+  "terms": [
+    "Normed vector space",
+    "Cauchy sequence",
+    "Completeness",
+    "Metric",
+    "Convergence",
+    "Vector space",
+    "Norm"
+  ],
+  "related_conjectures": [
+    "Banach Fixed-Point Theorem",
+    "Hahn-Banach Theorem",
+    "Open Mapping Theorem",
+    "Uniform Boundedness Principle"
+  ],
+  "subjects": [
+    "Functional Analysis",
+    "Mathematical Analysis",
+    "Operator Theory"
+  ]
+}

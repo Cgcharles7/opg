@@ -1,0 +1,35 @@
+{
+  "uuid": "85742401-6d7d-42f9-ab43-c4796e85bf57",
+  "name": "Carpenter's rule problem",
+  "link": "https://en.wikipedia.org/wiki/Carpenter%27s_rule_problem",
+  "rephrased": "Given a polygonal linkage (a collection of rigid rods connected by hinges), is it possible to fold it into a straight line segment of a specified length without the rods intersecting?",
+  "implication_form": "If a polygonal linkage can be folded into a straight line segment of a given length without self-intersection, then the folding problem for that linkage is solved.",
+  "posed_by": "Attributed to carpenters and early mechanical engineers working with hinges and folding structures (exact originators not precisely identified)",
+  "solved_by": "Robert Connelly, Uli Hakerim, and Günter Rote (for the complexity aspect and key results)",
+  "year_originated": "1700",
+  "explained": "The Carpenter's Rule problem, specifically its 'folding' aspect, is a conjecture (now a theorem for simple polygons but a conjecture for general linkages) concerning the computational complexity of determining the minimum length into which a given linkage (a collection of rigid edges connected by hinged vertices) can be folded without self-intersection. It is conjectured that this problem is NP-complete for linkages with more than a fixed number of hinges (typically 4 or 5). This means that finding the shortest possible configuration is likely computationally very difficult, as the time required grows faster than any polynomial function of the input size (the description of the linkage).",
+  "terms": [
+    "Carpenter's Rule",
+    "Linkage",
+    "Rigid edges",
+    "Hinged vertices",
+    "Folding",
+    "Folding number",
+    "Minimum length",
+    "Self-avoiding",
+    "Computational complexity",
+    "NP-complete"
+  ],
+  "related_conjectures": [
+    "Protein Folding Problem",
+    "Bell-shaped Folding Conjecture",
+    "Computational Origami Conjectures"
+  ],
+  "subjects": [
+    "Computational Geometry",
+    "Algorithmic Complexity",
+    "Complexity Theory",
+    "Discrete Mathematics",
+    "Topology"
+  ]
+}

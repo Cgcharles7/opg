@@ -1,0 +1,28 @@
+{
+  "uuid": "69fc0040-d65d-4942-84be-be02ea71eedf",
+  "name": "Abelian extension",
+  "link": "https://en.wikipedia.org/wiki/Abelian_extension",
+  "rephrased": "An abelian extension is a type of field extension that is Galois (meaning it is a normal and separable extension) and has an abelian group of symmetries (the Galois group).",
+  "implication_form": "If a field extension is Galois and its Galois group is abelian, then it is an abelian extension.",
+  "posed_by": "unknown",
+  "solved_by": "unsolved",
+  "year_originated": 200,
+  "explained": "An abelian extension is a Galois extension where the Galois group is abelian. A cyclic extension is a specific type of abelian extension where the Galois group is cyclic. Solvable extensions are Galois extensions with a solvable Galois group, which includes all abelian extensions (since abelian groups are solvable) but is a broader category.",
+  "terms": [
+    "Galois extension",
+    "Abelian group",
+    "Cyclic group",
+    "Galois group",
+    "Solvable group",
+    "Solvable extension"
+  ],
+  "related_conjectures": [
+    "Inverse Galois Problem",
+    "Kronecker-Weber theorem"
+  ],
+  "subjects": [
+    "Number theory",
+    "Algebra",
+    "Field theory"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "uuid": "9fb3f223-8094-4412-8709-05e8b4feb138",
+  "name": "Deligne conjecture",
+  "link": "https://en.wikipedia.org/wiki/Pierre_Deligne",
+  "rephrased": "The conjecture, now a theorem, states that the special value of an L-function associated with a motive, when evaluated at a specific 'critical' integer, is equal to the determinant of the period matrix of that motive.",
+  "implication_form": "If a motive exists and its L-function is evaluated at a critical integer, then the value of the L-function equals the determinant of the motive's period matrix.",
+  "posed_by": "Pierre Deligne",
+  "solved_by": "The conjecture was proven by mathematicians (various proofs exist for the different formulations, e.g., related to the Kashiwara-Schapira work for the operad part and others for the L-function part).",
+  "year_originated": "50-60 years",
+  "explained": "Deligne's conjecture primarily addresses two interconnected aspects. First, it proposes a formula relating the absolute value of an L-function associated with a motive (a fundamental object in arithmetic geometry) at a positive integer (the 'special value') to an invariant derived from the Hodge structure (period matrix) of that motive. This relates to the broader conjectures about special values of L-functions. Second, it states that the Hochschild cochain complex of an associative algebra naturally carries the structure of a dg-algebra over the operad of chains of the little disks operad. This second part has been proven, while the first part concerning L-functions is more deeply rooted in the theory of motives and Hodge structures.",
+  "terms": [
+    "Motives",
+    "L-functions",
+    "Special values",
+    "Period matrices",
+    "Hodge structures",
+    "Hochschild cohomology",
+    "Hochschild cochain complex",
+    "Associative algebra",
+    "dg-algebra",
+    "Little disks operad",
+    "Operad",
+    "Chromatic filtration",
+    "Derived categories"
+  ],
+  "related_conjectures": [
+    "Birch and Swinnerton-Dyer Conjecture",
+    "Beilinson Conjectures",
+    "Bloch-Kato Conjecture",
+    "Fontaine-Mazur Conjecture",
+    "Langlands Program"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Algebraic Geometry",
+    "Homotopy Theory",
+    "Algebraic Topology",
+    "Representation Theory"
+  ]
+}

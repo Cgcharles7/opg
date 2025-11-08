@@ -1,0 +1,14 @@
+{
+  "uuid": "62b66796-e083-4366-a7f9-f7759e13fb66",
+  "name": "Dedekind number",
+  "link": "https://en.wikipedia.org/wiki/Dedekind_number",
+  "rephrased": "Dedekind numbers are a sequence of integers that count the number of ways to color the corners of an n-dimensional cube with two colors (white and red) such that no white corner is above a red one, or equivalently, the number of monotone Boolean functions of n variables.",
+  "implication_form": "None",
+  "posed_by": "Richard Dedekind",
+  "solved_by": "unsolved",
+  "year_originated": 150,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

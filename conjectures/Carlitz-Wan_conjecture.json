@@ -1,0 +1,14 @@
+{
+  "uuid": "9883639c-cdf5-480e-a315-cf874d2a1943",
+  "name": "Carlitz–Wan conjecture",
+  "link": "https://en.wikipedia.org/wiki/Carlitz%E2%80%93Wan_conjecture",
+  "rephrased": "A polynomial cannot be a permutation polynomial (which rearranges the elements of a finite field) of degree d over a finite field with q elements if the greatest common divisor of d and q-1 is greater than 1.",
+  "implication_form": "If a polynomial has degree d over a finite field with q elements and the greatest common divisor of d and q-1 is greater than 1, then it cannot be a permutation polynomial.",
+  "posed_by": "Leonard Carlitz",
+  "solved_by": "Hendrik Lenstra",
+  "year_originated": 52,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

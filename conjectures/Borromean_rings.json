@@ -1,0 +1,28 @@
+{
+  "uuid": "0717d34a-1c80-40d2-b077-ad5124fbde8b",
+  "name": "Borromean rings",
+  "link": "https://en.wikipedia.org/wiki/Borromean_rings",
+  "rephrased": "Three rings are interlocked such that removing any one causes the others to separate.",
+  "implication_form": "If three rings are interlocked in the Borromean configuration, then removing any one ring will cause the entire structure to fall apart.",
+  "posed_by": "Borromeo family",
+  "solved_by": "unsolved",
+  "year_originated": 463,
+  "explained": "Borromean rings are defined as a specific configuration of three unlinked rings that are interlocked such that the removal of any one ring causes the entire structure to fall apart. This configuration demonstrates a unique form of interdependence where the rings are linked, yet pairwise unlinked. The rings are typically depicted as oval-shaped and arranged symmetrically. Borromean rings are a prime example of a Brunnian link of rank three.",
+  "terms": [
+    "Borromean rings",
+    "Brunnian link",
+    "Interdependence",
+    "Interlocked",
+    "Topology"
+  ],
+  "related_conjectures": [
+    "Tricolore knot",
+    "Brunnian links",
+    "Conjectures on the properties of Borromean rings in higher dimensions"
+  ],
+  "subjects": [
+    "Topology",
+    "Low-dimensional topology",
+    "Algebraic topology"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "a27c8672-2b32-4f0d-8445-24345a395e32",
+  "name": "Dedekind zeta function",
+  "link": "https://en.wikipedia.org/wiki/Dedekind_zeta_function",
+  "rephrased": "The Dedekind zeta function is a complex function attached to an algebraic number field, constructed from a sum over the norms of its ideals. The conjecture states that this function can be continued analytically to the entire complex plane and possesses a simple pole only at s=1.",
+  "implication_form": "If an algebraic number field is given, then its associated Dedekind zeta function can be analytically continued to the complex plane and has a simple pole only at s=1.",
+  "posed_by": "Richard Dedekind",
+  "solved_by": "Unsolved",
+  "year_originated": 142,
+  "explained": "The Dedekind zeta function is **defined** for a given algebraic number field K. It is a complex function ζ_K(s) that can be expressed as a Dirichlet series: ζ_K(s) = ∑_{I ⊂ O_K} N(I)^{-s}, where the sum runs over all non-zero integral ideals I of the ring of integers O_K, and N(I) denotes the norm of the ideal I. Crucially, this function can be meromorphically continued to the entire complex plane and satisfies a functional equation relating ζ_K(s) and ζ_K(1-s). It is not itself a conjecture but a fundamental object in algebraic number theory. Conjectures often arise concerning its properties, such as the location of its zeros (a generalization of the Riemann Hypothesis) or its connection to arithmetic invariants of the field.",
+  "terms": [
+    "Algebraic number field",
+    "Ring of integers",
+    "Integral ideal",
+    "Norm of an ideal",
+    "Dirichlet series",
+    "Analytic continuation",
+    "Meromorphic continuation",
+    "Functional equation",
+    "Riemann zeta function",
+    "L-function"
+  ],
+  "related_conjectures": [
+    "Riemann Hypothesis (generalized to Dedekind zeta functions)",
+    "Birch and Swinnerton-Dyer Conjecture (relating L-functions to arithmetic)",
+    "Artin Conjecture (for L-functions associated to representations)",
+    "Langlands Program (relating automorphic forms to L-functions including Dedekind zeta functions)"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Algebraic Number Theory",
+    "Complex Analysis",
+    "Automorphic Forms"
+  ]
+}

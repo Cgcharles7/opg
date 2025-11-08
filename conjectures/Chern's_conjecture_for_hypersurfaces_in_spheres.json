@@ -1,0 +1,34 @@
+{
+  "uuid": "0f83fd62-6884-419d-a0a2-5f13607a007c",
+  "name": "Chern's conjecture for hypersurfaces in spheres",
+  "link": "https://en.wikipedia.org/wiki/Chern%27s_conjecture_for_hypersurfaces_in_spheres",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "Chern's conjecture for hypersurfaces in spheres states that any compact, minimal hypersurface embedded in a sphere with constant scalar curvature must be isoparametric. This means that such a hypersurface must have constant principal curvatures and satisfy specific conditions related to its shape and curvature properties.",
+  "terms": {
+    "Compact hypersurface": "A hypersurface that is compact (finite in extent) and without boundary.",
+    "Minimal hypersurface": "A hypersurface with zero mean curvature everywhere, meaning it is a critical point for the volume functional.",
+    "Embedded": "The hypersurface is smoothly and injectively immersed in the sphere.",
+    "Sphere": "A hypersurface itself in a higher-dimensional space, typically denoted as S^{n} for n-dimensional hypersurfaces.",
+    "Scalar curvature": "A measure of the curvature at a point on the hypersurface, derived from the Ricci curvature tensor.",
+    "Constant scalar curvature": "The scalar curvature is the same at every point on the hypersurface.",
+    "Isoparametric hypersurface": "A hypersurface in a sphere characterized by having constant mean curvature and constant principal curvatures (or a specific number of distinct principal curvatures with constant multiplicity). These hypersurfaces are highly symmetric and well-studied.",
+    "Principal curvatures": "The eigenvalues of the shape operator (second fundamental form) of the hypersurface.",
+    "Second fundamental form": "A tensor that measures how the hypersurface bends within the ambient sphere."
+  },
+  "related_conjectures": [
+    "Isoparametric conjecture for hypersurfaces in spheres (which is often considered equivalent or very closely related to Chern's conjecture).",
+    "Rigidity conjectures for minimal hypersurfaces with constant mean curvature or other curvature conditions in spheres.",
+    "Isoperimetric conjecture (related to minimizing boundary volume)."
+  ],
+  "subjects": [
+    "Differential Geometry",
+    "Riemannian Geometry",
+    "Global Differential Geometry",
+    "Geometry of Spheres",
+    "Minimal Surfaces"
+  ]
+}

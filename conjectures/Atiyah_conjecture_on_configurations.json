@@ -1,0 +1,29 @@
+{
+  "uuid": "58859d8a-7194-49c4-8180-0378d73030cb",
+  "name": "Atiyah conjecture on configurations",
+  "link": "https://en.wikipedia.org/wiki/Atiyah_conjecture_on_configurations",
+  "rephrased": "A specific matrix constructed from n points in three-dimensional space is always invertible, regardless of the points' positions.",
+  "implication_form": "If there are n points in R³, then the matrix defined by the conjecture is non-singular.",
+  "posed_by": "Michael Atiyah",
+  "solved_by": "unsolved",
+  "year_originated": 22,
+  "explained": "The Atiyah conjecture on configurations states that for any set of n distinct points in three-dimensional Euclidean space (R³), a specific n by n matrix constructed from these points is always non-singular (invertible). However, the exact form of the matrix is not fully specified in the provided summary. The conjecture claims that regardless of the configuration of the points, this particular matrix remains invertible.",
+  "terms": [
+    "Atiyah conjecture",
+    "configuration",
+    "matrix",
+    "non-singular",
+    "points in R³",
+    "singularity",
+    "geometry"
+  ],
+  "related_conjectures": [
+    "Atiyah-Singer Index Theorem",
+    "Kadison-Singer Problem"
+  ],
+  "subjects": [
+    "Geometry",
+    "Linear Algebra",
+    "Operator Theory"
+  ]
+}

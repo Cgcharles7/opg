@@ -1,0 +1,30 @@
+{
+  "uuid": "906418e0-a10d-4246-8dfc-42208c1ff920",
+  "name": "Artin's conjecture on primitive roots",
+  "link": "https://en.wikipedia.org/wiki/Artin%27s_conjecture_on_primitive_roots",
+  "rephrased": "Certain integers (those that aren't perfect squares or -1) are primitive roots modulo infinitely many prime numbers.",
+  "implication_form": "If the Artin conjecture is true for a given integer a, then a is a primitive root modulo infinitely many primes.",
+  "posed_by": "Emil Artin",
+  "solved_by": "unsolved",
+  "year_originated": 97,
+  "explained": "Artin's conjecture on primitive roots states that if a is an integer that is neither a perfect square nor equal to −1, then a is a primitive root modulo infinitely many primes p. Furthermore, the conjecture assigns an asymptotic density, or Dirichlet density, to the set of such primes. This density is conjectured to be equal to Artin's constant, which is defined as the product over all primes q of (1 - 1/q^2) divided by the product over all prime ideals in the maximal unramified abelian extension of Q containing a, evaluated at s=1, but simplified in terms of the prime q-splitting behavior related to a.",
+  "terms": [
+    "primitive root",
+    "Dirichlet density",
+    "Artin constant",
+    "Dirichlet L-function",
+    "squares",
+    "-1",
+    "prime modulus"
+  ],
+  "related_conjectures": [
+    "Riemann Hypothesis (often assumed for the conjecture to hold in full generality)",
+    "Conjecture on the density of primes for which 2 is a primitive root",
+    "Conjecture on the density of primes for which -1 is a primitive root"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Analytic Number Theory",
+    "Algebraic Number Theory"
+  ]
+}

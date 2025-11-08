@@ -1,0 +1,29 @@
+{
+  "uuid": "867b6644-0de1-48b9-9983-e4b2fe66ff6d",
+  "name": "Bellman's lost-in-a-forest problem",
+  "link": "https://en.wikipedia.org/wiki/Bellman%27s_lost-in-a-forest_problem",
+  "rephrased": "Given a region of a known shape, find a path that minimizes the maximum distance you must travel to escape, assuming you start at any unknown point inside the region and face any unknown direction.",
+  "implication_form": "If there exists a region of a given shape, then there exists a path such that no matter the starting point within the region or the starting direction, the maximum distance required to escape is minimized.",
+  "posed_by": "Richard Bellman",
+  "solved_by": "unsolved",
+  "year_originated": 70,
+  "explained": "The Bellman 'lost in a forest' problem is an unsolved minimax geometric optimization problem. It requires finding, for a given known-shaped planar region (the 'forest'), a path (a function from time and angle to position) that guarantees escape (exiting the region) starting from any unknown point inside the region and facing any unknown direction. The 'best' path is defined as the one that minimizes the maximum distance traveled to escape in the worst-case scenario. This worst-case escape distance depends on the starting point and initial direction. The goal is to find a path that minimizes this maximum escape distance over all possible starting positions and orientations within the region. While optimal strategies exist for simple shapes like circles and squares, the problem remains open for more complex regions.",
+  "terms": [
+    "Optimal path",
+    "Minimax path",
+    "Guaranteed escape",
+    "Worst-case scenario",
+    "Voronoi diagram (related concept for escape regions)",
+    "Escape path",
+    "Starting position uncertainty",
+    "Orientation uncertainty",
+    "Worst-case distance"
+  ],
+  "related_conjectures": [],
+  "subjects": [
+    "Geometry",
+    "Optimization",
+    "Computational Geometry",
+    "Dynamical Systems"
+  ]
+}

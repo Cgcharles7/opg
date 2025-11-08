@@ -1,0 +1,14 @@
+{
+  "uuid": "9a9a0b66-d8f9-4dfd-9d36-53d3ecf404d1",
+  "name": "Büchi's problem",
+  "link": "https://en.wikipedia.org/wiki/B%C3%BCchi%27s_problem",
+  "rephrased": "A sequence of squares with constant second difference 2 must consist of consecutive squares.",
+  "implication_form": "If a sequence of squares has a constant second difference of 2 and has length greater than or equal to M, then it consists of consecutive squares.",
+  "posed_by": "René Betti",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

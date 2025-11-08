@@ -1,0 +1,32 @@
+{
+  "uuid": "9be77924-656c-424c-84d6-44614827cc51",
+  "name": "Determinant",
+  "link": "https://en.wikipedia.org/wiki/Determinant",
+  "rephrased": "The determinant is a scalar value from a square matrix that represents the scaling factor of the linear transformation it describes. A determinant of zero indicates the matrix is singular and not invertible.",
+  "implication_form": "If the determinant of a square matrix is zero, then the matrix is singular.",
+  "posed_by": "multiple mathematicians (Leibniz, Vandermonde, Lagrange, etc.)",
+  "solved_by": "multiple mathematicians (developed over time)",
+  "year_originated": 350,
+  "explained": "A determinant is a scalar value that can be calculated from the entries of a square matrix. It represents the scaling factor by which areas (in two dimensions) or volumes (in higher dimensions) are transformed under the linear transformation represented by the matrix. A determinant of zero indicates that the matrix is singular, meaning it does not have an inverse and does not represent a volume-preserving transformation (the vectors are linearly dependent). The determinant also carries information about the orientation of the transformation (positive for preserving orientation, negative for reversing it). It is defined recursively for 1x1 matrices and extended via methods like cofactor expansion or the Leibniz formula for larger matrices. Determinants are fundamental in various areas of mathematics and its applications, such as solving systems of linear equations via Cramer's rule, computing eigenvalues, and characterizing invertible matrices.",
+  "terms": [
+    "Determinant",
+    "Square matrix",
+    "Linear transformation",
+    "Invertible matrix",
+    "Singular matrix",
+    "Volume",
+    "Orientation",
+    "Cofactor",
+    "Cofactor expansion",
+    "Leibniz formula",
+    "Eigenvalue",
+    "Trace"
+  ],
+  "related_conjectures": [],
+  "subjects": [
+    "Linear Algebra",
+    "Abstract Algebra",
+    "Geometry",
+    "Analysis"
+  ]
+}

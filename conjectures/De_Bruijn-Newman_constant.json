@@ -1,0 +1,31 @@
+{
+  "uuid": "6798f237-9ad5-4b0e-b673-606b7461b9dd",
+  "name": "De Bruijn–Newman constant",
+  "link": "https://en.wikipedia.org/wiki/De_Bruijn%E2%80%93Newman_constant",
+  "rephrased": "The De Bruijn–Newman constant is the largest number λ such that all zeros of the function H(λ, z) are real.",
+  "implication_form": "If the De Bruijn–Newman constant is less than or equal to zero, then the Riemann hypothesis holds.",
+  "posed_by": "N.G. de Bruijn and Carl Newman",
+  "solved_by": "Unsolved",
+  "year_originated": 75,
+  "explained": "The De Bruijn–Newman constant, denoted by \\(\\Lambda\\), is a conjectured real number that characterizes the behavior of the function \\(H(\\lambda, z)\\), defined as \\(H(\\lambda, z) = \\int_{-\\infty}^{\\infty} e^{it\\ z}  \\Phi(\\lambda, t)  dt\\), where \\(\\Phi(\\lambda, t)\\) is an entire function. This function \\(H(\\lambda, z)\\) is closely related to the Riemann zeta function. The conjecture states that \\(\\Lambda\\) is the smallest real number such that all zeros of \\(H(\\lambda, z)\\) are real for \\(\\lambda \\geq \\Lambda\\). For \\(\\lambda < \\Lambda\\), some zeros are complex. A major implication is that the Riemann hypothesis, which posits that all non-trivial zeros of the Riemann zeta function are real, is equivalent to \\(\\Lambda \\leq 0\\).",
+  "terms": [
+    "De Bruijn–Newman constant (\\(\\Lambda\\))",
+    "De Bruijn–Newman function (\\(H(\\lambda, z)\\))",
+    "Riemann zeta function",
+    "Zeros of a function",
+    "Riemann hypothesis",
+    "Complex analysis",
+    "Analytic number theory"
+  ],
+  "related_conjectures": [
+    "Riemann hypothesis",
+    "Lindelöf hypothesis",
+    "GUE hypothesis (for zeros of zeta)"
+  ],
+  "subjects": [
+    "Complex analysis",
+    "Analytic number theory",
+    "Differential equations",
+    "Fourier analysis"
+  ]
+}

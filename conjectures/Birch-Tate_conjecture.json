@@ -1,0 +1,31 @@
+{
+  "uuid": "271f4658-4c9c-41e9-aa5b-30dd22ab7e8e",
+  "name": "Birch–Tate conjecture",
+  "link": "https://en.wikipedia.org/wiki/Birch%E2%80%93Tate_conjecture",
+  "rephrased": "The size (order) of the K2 group for a totally real number field's ring of integers is mathematically linked to the value of its Dedekind zeta function at s=-1.",
+  "implication_form": "If the absolute value of the Dedekind zeta function ζ_F(-1) (adjusted by a power of 2) equals the order of the K2 group K₂(O_F), then the Birch–Tate conjecture holds.",
+  "posed_by": "B Birch and J Tate",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": "The Birch–Tate conjecture, formulated for a totally real number field F, proposes that the order (the number of elements) of the algebraic K-group K₂(𝒪_F) (where 𝒱_F is the ring of integers of F) is equal in absolute value to the value of the Dedekind zeta function ζ_F(s) evaluated at s = -1, adjusted by a power of two. This conjecture remains unproven in general but has been confirmed for specific cases.",
+  "terms": [
+    "K-theory",
+    "Algebraic K-theory",
+    "Dedekind zeta function",
+    "Number field",
+    "Totally real number field",
+    "Ring of integers",
+    "Order of a group",
+    "K₂-group"
+  ],
+  "related_conjectures": [
+    "Birch and Swinnerton-Dyer conjecture",
+    "Tamagawa number conjecture",
+    "Beilinson conjectures"
+  ],
+  "subjects": [
+    "Algebraic number theory",
+    "Algebraic K-theory",
+    "Zeta functions"
+  ]
+}

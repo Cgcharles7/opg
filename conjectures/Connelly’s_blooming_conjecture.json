@@ -1,0 +1,29 @@
+{
+  "uuid": "24c2939d-f93f-4b35-b0b7-47f035e780a3",
+  "name": "Connelly’s blooming conjecture",
+  "link": "https://en.wikipedia.org/wiki/Blooming_(geometry)",
+  "rephrased": "Every convex polyhedron has at least one net that can be bloomed (folded without overlap) into the polyhedron.",
+  "implication_form": "If a polyhedron is convex, then there exists a net that can be bloomed into the polyhedron.",
+  "posed_by": "Robert Connelly",
+  "solved_by": "unsolved",
+  "year_originated": 24,
+  "explained": "Connelly's blooming conjecture states that every net of a convex polyhedron admits a blooming. A net is a connected plane polygon (possibly with holes) obtained by cutting along edges of the polyhedron and unfolding it. A blooming is a continuous, one-to-one mapping from the net to a convex polyhedron that maps edges to edges, faces to faces, and vertices to vertices, and whose image is the entire polyhedron. The conjecture asserts that for any net of a convex polyhedron, there exists a way to fold it continuously into a convex polyhedron without self-intersection, forming a proper embedding.",
+  "terms": [
+    "Net: A connected plane polygon obtained by cutting along edges of a polyhedron and unfolding it.",
+    "Blooming: A continuous, one-to-one mapping from a net to a polyhedron that maps edges to edges, faces to faces, and vertices to vertices, with the image being the entire polyhedron.",
+    "Convex Polyhedron: A polyhedron where all dihedral angles are less than 180 degrees and the surface is locally convex.",
+    "Proper Embedding: The resulting polyhedron from blooming is non-degenerate and matches the original polyhedron's combinatorial and metric properties."
+  ],
+  "related_conjectures": [
+    "Bellows Conjecture: States that any flexible polyhedron with a spherical surface is rigid in terms of its combinatorial structure and cannot flex while maintaining its face shapes.",
+    "Net Enumeration Problem: The problem of counting the number of distinct nets for a given polyhedron.",
+    "Steinitz's Theorem: Relates the combinatorial structure of polyhedra to their geometric realization in 3D space."
+  ],
+  "subjects": [
+    "Discrete Geometry",
+    "Combinatorial Geometry",
+    "Topology",
+    "Origami Mathematics",
+    "Computational Geometry"
+  ]
+}

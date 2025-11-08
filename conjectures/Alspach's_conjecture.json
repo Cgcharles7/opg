@@ -1,0 +1,27 @@
+{
+  "uuid": "bee7cf51-16b2-45e0-af58-58e6d1e39e95",
+  "name": "Alspach's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Alspach%27s_conjecture",
+  "rephrased": "Every complete graph with n vertices and a set of cycle lengths summing to n has a disjoint cycle cover consisting exactly of cycles of those specified lengths.",
+  "implication_form": "If a complete graph K_n has a multiset of cycle lengths C_1, C_2, ..., C_k such that C_1 + C_2 + ... + C_k = n, then K_n has a disjoint cycle cover consisting of cycles of lengths C_1, C_2, ..., C_k.",
+  "posed_by": "Brian Alspach",
+  "solved_by": "Darryn Bryant, Daniel Horsley, and William Pettersson",
+  "year_originated": 42,
+  "explained": "Alspach's conjecture states that for any complete graph K_n (where n is the number of vertices), and any partition of the integers from 1 to n-1 into parts each of which is the length of a cycle (or a set of cycles) that satisfy certain conditions, there exists a decomposition of the edges of K_n into edge-disjoint cycles whose lengths correspond exactly to the parts of the partition.",
+  "terms": [
+    "cycle decomposition",
+    "complete graph",
+    "cycle",
+    "disjoint cycles",
+    "edge-disjoint decomposition"
+  ],
+  "related_conjectures": [
+    "Decomposition problems for complete graphs",
+    "Existence of cycle decompositions in graph theory"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Graph theory",
+    "Discrete mathematics"
+  ]
+}

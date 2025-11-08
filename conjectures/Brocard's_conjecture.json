@@ -1,0 +1,28 @@
+{
+  "uuid": "66d23105-d82d-4737-9fee-f34e9534e07e",
+  "name": "Brocard's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Brocard%27s_conjecture",
+  "rephrased": "Between the squares of consecutive prime numbers, there are at least four prime numbers.",
+  "implication_form": "If n is at least 2, then there are at least four primes between the squares of the nth and (n+1)th prime.",
+  "posed_by": "Henri Brocard",
+  "solved_by": "unsolved",
+  "year_originated": 135,
+  "explained": "Brocard's conjecture states that for any integer n ≥ 2, where pn is the n-th prime number, there are at least four prime numbers strictly between the squares of pn and the square of the next prime, pn+1.",
+  "terms": [
+    "Prime numbers",
+    "Prime square",
+    "nth prime",
+    "Consecutive primes",
+    "Prime gap",
+    "Interval between primes"
+  ],
+  "related_conjectures": [
+    "Legendre's conjecture",
+    "Oppermann's conjecture"
+  ],
+  "subjects": [
+    "Number theory",
+    "Prime numbers",
+    "Distribution of primes"
+  ]
+}
