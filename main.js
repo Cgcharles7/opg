@@ -17,25 +17,20 @@ function groupConjecturesByCategory(conjs) {
   const categories = {};
 
   conjs.forEach(c => {
-    // Normalize subjects (array or comma-separated string)
     const subs = Array.isArray(c.subjects)
-      ? c.subjects.map(x => String(x).trim().toUpperCase()).filter(Boolean)
+      ? c.subjects.map(x => String(x).trim()).filter(Boolean)
       : c.subjects
         ? String(c.subjects).split(',').map(x => x.trim()).filter(Boolean)
         : [];
 
-    // If no subjects, assign to 'Uncategorized'
     if (subs.length === 0) {
-      if (!categories["Uncategorized"]) categories["Uncategorized"] = [];
-      categories["Uncategorized"].push(c);
+      (categories["UNCATEGORIZED"] ??= []).push(c);
       return;
     }
 
-    // Add conjecture under all relevant subjects
     subs.forEach(sub => {
-      const cleanSub = String(sub).trim();
-      if (!categories[cleanSub]) categories[cleanSub] = [];
-      categories[cleanSub].push(c);
+      const cleanSub = sub.toUpperCase();
+      (categories[cleanSub] ??= []).push(c);
     });
   });
 
