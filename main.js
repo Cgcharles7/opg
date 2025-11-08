@@ -49,56 +49,39 @@ function inferType(name) {
   return 'definition';
 }
 
-function buildMenu(tree, parent) {
-  Object.keys(tree).sort().forEach(cat => {
-    if (cat === "__items") return;
+function buildMenu(categories, parent) {
+  // Sort categories alphabetically
+  Object.keys(categories).sort().forEach(cat => {
+    // Create a category header
+    const catDiv = document.createElement('div');
+    catDiv.classList.add('menu-category');
+    catDiv.textContent = cat;
+    parent.appendChild(catDiv);
 
-    const div = document.createElement('div');
-    div.classList.add('menu-item');
-    div.textContent = cat;
+    // Create container for conjecture items
+    const listDiv = document.createElement('div');
+    listDiv.classList.add('menu-list');
+    listDiv.style.paddingLeft = '15px';
+    parent.appendChild(listDiv);
 
-    // Toggle open/close
-    div.onclick = (e) => {
-      e.stopPropagation();
-      const next = div.nextElementSibling;
-      if (next && next.classList.contains('submenu')) {
-        next.style.display = next.style.display === 'none' ? 'block' : 'none';
-      }
-    };
-
-    parent.appendChild(div);
-
-    const submenu = document.createElement('div');
-    submenu.classList.add('submenu');
-    submenu.style.display = 'none';
-    submenu.style.paddingLeft = '15px';
-    parent.appendChild(submenu);
-
-    // Recursively build child branches
-    buildMenu(tree[cat], submenu);
-
-    // --- Group items by inferred type ---
-    const conjs = tree[cat].__items || [];
+    // Group conjectures by inferred type (optional)
     const groups = { definition: [], theorem: [], conjecture: [] };
 
-    conjs.forEach(c => {
+    categories[cat].forEach(c => {
       const t = inferType(c.name || c.title);
       groups[t].push(c);
     });
 
+    // Render each group (Definition, Theorem, Conjecture)
     Object.entries(groups).forEach(([type, items]) => {
       if (items.length === 0) return;
 
       const typeHeader = document.createElement('div');
-      typeHeader.textContent = type.charAt(0).toUpperCase() + type.slice(1) + 's';
+      typeHeader.textContent = `${type.charAt(0).toUpperCase() + type.slice(1)}s`;
       typeHeader.classList.add('menu-subtype');
       typeHeader.style.fontStyle = 'italic';
       typeHeader.style.marginTop = '5px';
-      submenu.appendChild(typeHeader);
-
-      const typeList = document.createElement('div');
-      typeList.style.paddingLeft = '10px';
-      submenu.appendChild(typeList);
+      listDiv.appendChild(typeHeader);
 
       items.forEach(c => {
         const leaf = document.createElement('div');
@@ -108,7 +91,7 @@ function buildMenu(tree, parent) {
           e.stopPropagation();
           showConjecture(c);
         };
-        typeList.appendChild(leaf);
+        listDiv.appendChild(leaf);
       });
     });
   });
