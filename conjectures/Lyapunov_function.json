@@ -10,9 +10,9 @@
   "explained": "In the theory of ordinary differential equations (ODEs) and dynamical systems, a Lyapunov function (or Lyapunov's function or Lyapun. function) is a scalar function defined on a set containing an equilibrium point of an autonomous system. If this function satisfies certain conditions, it can be used to prove the stability (Lyapunov stability) of that equilibrium point. Specifically, a continuously differentiable function V(x) is a Lyapunov function for an equilibrium point (typically the origin) if: 1) V(x) is positive definite (V(x) > 0 for all x ≠ 0, and V(0) = 0), and 2) The time derivative of V along the trajectories of the system, V̇(x) = ∇V(x) · f(x), is negative semi-definite (V̇(x) ≤ 0 for all x). If V̇(x) is negative definite (V̇(x) < 0 for all x ≠ 0), then the equilibrium is asymptotically stable. The concept generalizes to Markov chains as a Foster-Lyapunov function for proving positive recurrence and stability.",
   "terms": [
     "Equilibrium point",
-    "Stability (Lyapunov stability)",
+    "Stability",
     "Asymptotic stability",
-    "Ordinary differential equation (ODE)",
+    "Ordinary differential equation",
     "Autonomous system",
     "Positive definite function",
     "Negative definite function",
@@ -21,7 +21,7 @@
     "Dynamical system",
     "Control theory",
     "Time derivative",
-    "Gradient (∇)",
+    "Gradient",
     "Foster-Lyapunov function"
   ],
   "related_conjectures": [
@@ -38,4 +38,5 @@
     "Mathematical physics",
     "Probability theory (Markov chains)"
   ]
+
 }
