@@ -1,0 +1,26 @@
+{
+  "uuid": "5513ae82-6fca-4398-8c04-9ac33d06a00a",
+  "name": "Lehmer's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Lehmer%27s_conjecture",
+  "rephrased": "For any polynomial with integer coefficients, if it is not a monomial (like x^n or c*x^n), then the product of the absolute values of its roots that lie outside the unit circle (the Mahler measure) must be greater than some fixed constant μ > 1.",
+  "implication_form": "If a polynomial with integer coefficients is not a monomial, then its Mahler measure is greater than some absolute constant μ > 1.",
+  "posed_by": "Derrick Henry Lehmer",
+  "solved_by": "unsolved",
+  "year_originated": 95,
+  "explained": "Lehmer's conjecture asserts that there exists an absolute constant μ > 1 such that every polynomial with integer coefficients, P(x) ∈ ℤ[x], that is not a product of cyclotomic polynomials, has a Mahler measure greater than μ. The Mahler measure of a polynomial is defined as the product of the absolute values of its roots that lie outside the closed unit disk. Cyclotomic polynomials, which have all roots on the unit circle, have a Mahler measure of 1. The conjecture claims that any other polynomial with integer coefficients must have a Mahler measure bounded below by some constant greater than 1.",
+  "terms": [
+    "Cyclotomic polynomials",
+    "Mahler measure",
+    "Salem numbers",
+    "Pisot numbers"
+  ],
+  "related_conjectures": [
+    "Grand Riemann Hypothesis",
+    "Polynomial time versions in computational number theory"
+  ],
+  "subjects": [
+    "Number theory",
+    "Algebra",
+    "Dynamical systems"
+  ]
+}

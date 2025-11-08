@@ -1,0 +1,43 @@
+{
+  "uuid": "70b53b9d-2c95-4f3a-b872-376393b2d617",
+  "name": "Maulik–Nekrasov–Okounkov–Pandharipande conjecture",
+  "link": "https://en.wikipedia.org/wiki/Donaldson%E2%80%93Thomas_theory",
+  "rephrased": "The Maulik–Nekrasov–Okounkov–Pandharipande (MNOP) conjecture proposes a deep connection between two types of invariants in algebraic geometry: Donaldson–Thomas invariants, which count sheaves on Calabi–Yau threefolds using virtual fundamental classes, and Gromov–Witten invariants, which count curves via symplectic geometry. It suggests that DT invariants can be expressed as weighted sums of GW invariants.",
+  "implication_form": "If certain conditions are met for Calabi–Yau threefolds, then the Donaldson–Thomas invariants equal a specific weighted sum related to the Gromov–Witten invariants.",
+  "posed_by": [
+    "Andrea Ferrari",
+    "Natalia Alexeevna Nekrasov",
+    "Alexander Okounkov",
+    "Reinhardt Hans Wilhelm Barends"
+  ],
+  "solved_by": "unsolved",
+  "year_originated": 21,
+  "explained": "The Maulik–Nekrasov–Okounkov–Pandharipande (MNOP) conjecture, formulated by Maulik, Nekrasov, Okounkov, and Pandharipande, proposes a deep equivalence between two seemingly different approaches to counting curves in Calabi-Yau threefolds. It states that the generating function for Gromov-Witten invariants (counting curves using intersection cohomology theory) with certain insertions (Gopakumar-Vafa invariants) is equal to the generating function for the Euler characteristics (or more precisely, the integral of the class 1) of the moduli spaces of stable coherent sheaves (counted via Donaldson-Thomas invariants) in the Gopakumar-Vafa presentation. In essence, the MNOP conjecture claims that the Donaldson-Thomas invariants, which are defined via the virtual fundamental class of the moduli space of stable sheaves, count the same enumerative information as the Gromov-Witten invariants do, specifically when expressed in terms of the Gopak-umar-Vafa BPS invariants, under certain conditions (typically requiring the moduli space to be proper and the stability condition to be generic).",
+  "terms": [
+    "Donaldson-Thomas Invariant",
+    "Gromov-Witten Invariant",
+    "Calabi-Yau Threefold",
+    "Stable Coherent Sheaf",
+    "Moduli Space of Sheaves",
+    "Virtual Fundamental Class",
+    "Gopakumar-Vafa Conjecture",
+    "BPS Invariant",
+    "Generating Function",
+    "Enumerative Geometry",
+    "String Theory (Connects physical concepts of BPS states)"
+  ],
+  "related_conjectures": [
+    "Gopakumar-Vafa Conjecture (which MNOP builds upon and provides evidence for)",
+    "Pandharipande-Thomas Conjecture (which provides an alternative, mathematically rigorous definition of curve counting using stable pairs, and is related via wall-crossing arguments)",
+    "Donaldson-Thomas / Pandharipande-Thomas wall-crossing conjecture (relating different stability conditions in sheaf theory)",
+    "Mirror Symmetry (provides another framework for counting curves, often used to compute invariants and test conjectures)"
+  ],
+  "subjects": [
+    "Algebraic Geometry",
+    "Symplectic Geometry",
+    "Differential Geometry",
+    "Enumerative Geometry",
+    "Mathematical Physics",
+    "String Theory"
+  ]
+}

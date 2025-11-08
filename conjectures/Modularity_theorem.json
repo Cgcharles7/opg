@@ -1,0 +1,32 @@
+{
+  "uuid": "68493b83-20e0-4b00-ae76-6db148013c8e",
+  "name": "Modularity theorem",
+  "link": "https://en.wikipedia.org/wiki/Modularity_theorem",
+  "rephrased": "Every elliptic curve defined over the rational numbers is associated with a specific modular form.",
+  "implication_form": "If an elliptic curve is defined over the field of rational numbers, then it is modular.",
+  "posed_by": "Jean-Pierre Serre (conjectured the 'BSD conjecture' which includes the modularity conjecture for semistable curves), Yves Hellegouarch, Gerhard Frey, and others.",
+  "solved_by": "Andrew Wiles (with Richard Taylor) for semistable elliptic curves (enough for FLT), Brian Conrad, Fred Diamond, Christophe Breuil, and Richard Taylor (completed the proof).",
+  "year_originated": 50,
+  "explained": "The Modularity Theorem (formerly known as the Taniyama–Shimura–Weil conjecture) states that every rational elliptic curve is modular, meaning it can be associated with a modular form (specifically, a weight 2 newform for the principal congruence subgroup). More precisely, it asserts that for any elliptic curve E defined over the field of rational numbers, there exists a modular form f (of weight 2 and level N, the conductor of E) such that the L-function of E matches the L-function of f (up to finitely many factors). This connection links the algebraic properties of elliptic curves to the analytic properties of modular forms.",
+  "terms": [
+    "Modular Form",
+    "Elliptic Curve",
+    "Rational Numbers",
+    "Galois Representation",
+    "Modularity",
+    "Semistable Reduction",
+    "Conductor",
+    "L-function",
+    "Hecke Operator"
+  ],
+  "related_conjectures": [
+    "Langlands Program",
+    "Birch and Swinnerton-Dyer Conjecture",
+    "Artin Conjecture"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Algebraic Geometry",
+    "Arithmetic Geometry"
+  ]
+}

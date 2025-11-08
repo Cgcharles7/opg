@@ -1,0 +1,35 @@
+{
+  "uuid": "7cf7432d-6b89-41b5-a15f-5c1d969c91f8",
+  "name": "Pentagonal tiling",
+  "link": "https://en.wikipedia.org/wiki/Pentagonal_tiling",
+  "rephrased": "It is impossible to tile the Euclidean plane using regular pentagons.",
+  "implication_form": "If one attempts to tile the Euclidean plane with regular pentagons, then it is impossible.",
+  "posed_by": "No specific person, it is a known impossibility",
+  "solved_by": "Not applicable",
+  "year_originated": 1850,
+  "explained": "The conjecture states that a regular pentagonal tiling of the Euclidean plane is impossible. This impossibility arises because the internal angle of a regular pentagon (108°) does not divide 360° evenly, preventing the regular pentagons from fitting together without gaps or overlaps to cover the entire plane. While regular pentagons cannot tile the Euclidean plane, they can tile the hyperbolic plane (with four pentagons meeting at each vertex) and the sphere (with three pentagons meeting at each vertex).",
+  "terms": [
+    "Pentagonal tiling",
+    "Regular pentagon",
+    "Internal angle",
+    "Euclidean plane",
+    "Hyperbolic plane",
+    "Spherical geometry",
+    "Tiling",
+    "Vertex configuration",
+    "Angle defect"
+  ],
+  "related_conjectures": [
+    "Existence of irregular pentagonal tilings",
+    "Kissing number problem",
+    "Kepler conjecture",
+    "Penrose tiling"
+  ],
+  "subjects": [
+    "Geometry",
+    "Tiling theory",
+    "Combinatorics",
+    "Discrete mathematics",
+    "Hyperbolic geometry"
+  ]
+}

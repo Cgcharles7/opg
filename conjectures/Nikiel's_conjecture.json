@@ -1,0 +1,25 @@
+{
+  "uuid": "f586470c-eb5d-4514-84e4-2232ec5ec1c4",
+  "name": "Nikiel's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Nikiel%27s_conjecture",
+  "rephrased": "A compact topological space can be mapped continuously onto a totally ordered set if and only if it is monotonically normal.",
+  "implication_form": "If a compact topological space is monotonically normal, then it is the continuous image of a total order.",
+  "posed_by": "Jacek Nikiel",
+  "solved_by": "Mary Ellen Rudin",
+  "year_originated": 38,
+  "explained": "Nikiel's conjecture states that a compact topological space is the continuous image of a compact Hausdorff total order (i.e., a compact linearly ordered topological space) if and only if it is a monotonically normal space. This characterization was formulated by Jacek Nikiel in 1986 and proven by Mary Ellen Rudin in 1999. The conjecture provides a topological characterization (in terms of monotonic normality) of spaces that arise as continuous images of compact linear orders.",
+  "terms": [
+    "Compact space",
+    "Total order",
+    "Continuous image",
+    "Monotonically normal space",
+    "Compact linearly ordered topological space"
+  ],
+  "related_conjectures": [],
+  "subjects": [
+    "General topology",
+    "Compact spaces",
+    "Order theory",
+    "Normal spaces"
+  ]
+}

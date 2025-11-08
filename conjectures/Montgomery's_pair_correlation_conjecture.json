@@ -1,0 +1,14 @@
+{
+  "uuid": "62fb30ee-8570-4c86-b994-321d23c988d9",
+  "name": "Montgomery's pair correlation conjecture",
+  "link": "https://en.wikipedia.org/wiki/Montgomery%27s_pair_correlation_conjecture",
+  "rephrased": "The zeros of the Riemann zeta function (when normalized to have a unit average spacing) tend to behave statistically like the eigenvalues of a random Hermitian matrix from the Gaussian Unitary Ensemble (GUE).",
+  "implication_form": "If the zeros of the Riemann zeta function are normalized to have unit average spacing, then their two-point correlation function (pair correlation) approaches the sine-squared function correlation function of GUE eigenvalues as the height along the critical line goes to infinity.",
+  "posed_by": "Hugh Montgomery",
+  "solved_by": "unsolved",
+  "year_originated": 51,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

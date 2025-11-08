@@ -1,0 +1,32 @@
+{
+  "uuid": "2809d2ee-babe-4dac-bf5f-e7eb691a4505",
+  "name": "Poincaré conjecture",
+  "link": "https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture",
+  "rephrased": "A finite, simply connected 3D shape with no holes is like a sphere.",
+  "implication_form": "If a finite, simply connected 3D shape has all loops contractible, then it is a 3-sphere.",
+  "posed_by": "Henri Poincaré",
+  "solved_by": "Grigori Perelov",
+  "year_originated": 120,
+  "explained": "The Poincaré conjecture, now proven as a theorem, states that any three-dimensional manifold that is compact, simply connected (meaning every loop can be continuously contracted to a point), and has no holes (i.e., its fundamental group is trivial) is topologically equivalent to the three-dimensional sphere (3-sphere). In simpler terms, it suggests that the only 'bounded' three-dimensional space that is 'sphere-like' (without any handles or holes) is actually a sphere itself.",
+  "terms": [
+    "3-Sphere",
+    "Manifold",
+    "Simply connected",
+    "Compact manifold",
+    "Homotopy",
+    "Homology",
+    "Handle decomposition",
+    "Ricci flow"
+  ],
+  "related_conjectures": [
+    "Generalized Poincaré conjecture (for higher dimensions)",
+    "Riemann hypothesis",
+    "Yang-Mills existence and mass gap",
+    "BSD conjecture"
+  ],
+  "subjects": [
+    "Topology",
+    "Geometry",
+    "Geometric analysis"
+  ]
+}

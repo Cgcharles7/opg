@@ -1,0 +1,33 @@
+{
+  "uuid": "d0faaf3b-ddf4-430a-b06c-c36502b55e14",
+  "name": "Orchard-planting problem",
+  "link": "https://en.wikipedia.org/wiki/Orchard-planting_problem",
+  "rephrased": "What is the maximum number of lines containing exactly three points that can be achieved by arranging n points in the plane?",
+  "implication_form": "If a configuration of n points in the plane is given, then the maximum number of lines containing exactly three points is less than some asymptotic bound involving n.",
+  "posed_by": "Hallard T. Croft and Paul Erdős",
+  "solved_by": "unsolved",
+  "year_originated": 50,
+  "explained": "The original orchard-planting problem (or tree-planting problem) is a question in combinatorial geometry. It asks for the maximum number of lines (termed 'k-point lines' or simply 'lines' when k=3) that can be formed by connecting at least k points in a set of n points in the plane, with the condition that no three collinear points are left out (i.e., every line with at least two points is counted if it has at least k points). Hallard T. Croft and Paul Erdős proved that for any fixed k, there exists a constant c_k > 0 such that the maximum number t_k(n) of k-point lines satisfies t_k(n) > c_k * n for sufficiently large n.",
+  "terms": [
+    "Combinatorial Geometry",
+    "Discrete Geometry",
+    "Point-Line Configuration",
+    "k-point Line",
+    "Orchard Planting Problem",
+    "Tree Planting Problem",
+    "Maximum Number of Lines",
+    "Linear Lower Bound"
+  ],
+  "related_conjectures": [
+    "Szemerédi–Trotter Theorem",
+    "Erdős–Ginzburg–Ziv Theorem",
+    "Erdős–Szekeres Theorem",
+    "Erdős–Faber–Lovász Conjecture"
+  ],
+  "subjects": [
+    "Combinatorial Geometry",
+    "Discrete Mathematics",
+    "Extremal Set Theory",
+    "Combinatorial Number Theory"
+  ]
+}

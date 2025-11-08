@@ -1,0 +1,30 @@
+{
+  "uuid": "0ade5f88-5246-42d9-9981-e4ebb6df5b31",
+  "name": "Monomial conjecture",
+  "link": "https://en.wikipedia.org/wiki/Monomial_conjecture",
+  "rephrased": "For a commutative ring with enough structure (being Noetherian and local), if you have a set of parameters that define its dimension, then raising these parameters to high enough powers and considering certain algebraic combinations, you can never get something non-zero.",
+  "implication_form": "If A is a Noetherian local ring of dimension d with parameters x1,...,xd, then for all positive integers t, the Tor module Tor_A^d(A/(x1,...,xd), A/(x1,...,xd)) tensored with the ring localized by the product of the xi's, raised to the power t, is zero.",
+  "posed_by": "Melvin Hochster",
+  "solved_by": "Bhattacharya and Huneke",
+  "year_originated": 50,
+  "explained": "The Monomial Conjecture, proposed by Melvin L. Hochster, addresses the structure of certain ideals in commutative algebra. It states: Let A be a Noetherian local ring of Krull dimension d, and let x₁, ..., xₖ be a system of parameters for A (meaning (x₁, ..., xₖ) is an ideal defining the ring, and A/(x₁, ..., xₖ) is an Artinian ring). Then, for all positive integers t, the monomial x₁ᵗ ⋯ xₖᵗ is annihilated by the ideal (x₁, ..., xₖ). In other words, x₁ᵗ ⋯ xₖᵗ lies in the annihilator of the ideal (x₁, ..., xₖ) in A. This means that multiplication by x₁ᵗ ⋯ xₖᵗ sends every element of the ideal (x₁, ..., xₖ) to 0 in A.",
+  "terms": [
+    "Noetherian local ring",
+    "Krull dimension",
+    "System of parameters",
+    "Artinian ring",
+    "Ideal",
+    "Annihilator",
+    "Commutative algebra",
+    "Monomial"
+  ],
+  "related_conjectures": [
+    "New Foundations for Algebraic Geometry (Hochster's Work)",
+    "Homological Conjectures (Collection of conjectures by various mathematicians, many related to properties of local rings and their homology)"
+  ],
+  "subjects": [
+    "Commutative Algebra",
+    "Homological Algebra",
+    "Algebraic Geometry"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "uuid": "861c8ff6-7e32-443f-bab7-92873c4f873d",
+  "name": "Normal scalar curvature conjecture",
+  "link": null,
+  "rephrased": "If a surface in a Riemannian manifold has constant mean curvature, then its scalar curvature is bounded above by the scalar curvature of the ambient manifold.",
+  "implication_form": "If a surface in a Riemannian manifold has constant mean curvature, then its scalar curvature is bounded above by the scalar curvature of the ambient manifold.",
+  "posed_by": "Jim Simons",
+  "solved_by": "unsolved",
+  "year_originated": 50,
+  "explained": "The Normal Scalar Curvature Conjecture is a significant hypothesis in differential geometry, primarily concerning the topology of Riemannian manifolds with positive scalar curvature. It proposes a relationship between the existence of such a metric on a closed manifold and certain obstruction invariants derived from the manifold's topology. While the exact statement can vary depending on the formulation, the core idea is that a closed manifold admits a Riemannian metric of positive scalar curvature if and only if certain topological invariants (like the Rosenberg invariant or index invariants) vanish. The conjecture essentially states that the vanishing of these invariants is equivalent to the existence of a positive scalar curvature metric.",
+  "terms": [
+    "Riemannian manifold",
+    "Scalar curvature",
+    "Positive scalar curvature",
+    "Topological invariant",
+    "Index theory",
+    "K-theory",
+    "Rosenberg invariant",
+    "Spin manifold"
+  ],
+  "related_conjectures": [
+    "Positive Scalar Curvature Conjecture",
+    "Gromov-Lawson Rigidity Conjecture",
+    "Kreck-Leichtnam-Trace-Nistor Conjecture (about positive curvature on spin manifolds)",
+    "Hitchin-Thorpe Conjecture (positive curvature on 4-manifolds)"
+  ],
+  "subjects": [
+    "Differential Geometry",
+    "Riemannian Geometry",
+    "Global Analysis",
+    "Topology",
+    "Index Theory",
+    "K-theory"
+  ]
+}

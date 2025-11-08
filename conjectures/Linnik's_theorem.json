@@ -1,0 +1,29 @@
+{
+  "uuid": "f37352c1-2d34-41aa-b9fc-952ffd568133",
+  "name": "Linnik's theorem",
+  "link": "https://en.wikipedia.org/wiki/Linnik%27s_theorem",
+  "rephrased": "There are universal constants c and L such that for any arithmetic progression defined by a + n*d (where n is a positive integer), with a and d coprime integers and 1 ≤ a < d, the smallest prime in this progression is at most d^L * (log(d))^c.",
+  "implication_form": "If a and d are coprime positive integers with 1 ≤ a ≤ d-1, then there exists a prime p such that p = a + n*d for some positive integer n and p ≤ d^L * (log(d))^c.",
+  "posed_by": "Edmund Linnik",
+  "solved_by": "Edmund Linnik",
+  "year_originated": 80,
+  "explained": "Linnik's theorem states that there exist positive constants c and L such that for any coprime positive integers a and d with 1 ≤ a ≤ d - 1, the arithmetic progression a + nd (where n runs through the positive integers) contains a prime p satisfying p ≤ c * d^L. This theorem provides a quantitative bound on the smallest prime in such an arithmetic progression, complementing Dirichlet's theorem which guarantees infinitely many primes but does not specify their size.",
+  "terms": [
+    "Arithmetic progression",
+    "Prime number",
+    "Modulus",
+    "Dirichlet's theorem",
+    "Linnik constant",
+    "Exponential sums",
+    "Sieve methods"
+  ],
+  "related_conjectures": [
+    "Generalized Riemann Hypothesis (GRH)",
+    "k-tuple conjecture",
+    "Elliott-Halberstam conjecture"
+  ],
+  "subjects": [
+    "Analytic number theory",
+    "Number theory"
+  ]
+}

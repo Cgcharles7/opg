@@ -1,0 +1,36 @@
+{
+  "uuid": "bb5ff4e5-3225-472d-86bf-7a9c1dcd78ba",
+  "name": "PCF theory",
+  "link": "https://en.wikipedia.org/wiki/Pcf_theory",
+  "rephrased": "PCF theory, developed by Saharon Shelah, is a framework that provides upper bounds on the sizes of power sets of certain infinite sets (singular cardinals) by analyzing the possible ways sequences can be cofinally extended in their order.",
+  "implication_form": "If the cofinality structure of an ultrafilter or a set of ordered structures satisfies certain properties, then the cardinality of the power set of a singular cardinal is bounded above by a specific value derived from that structure.",
+  "posed_by": "Saharon Shelah (1978)",
+  "solved_by": "unsolved",
+  "year_originated": 45,
+  "explained": "PCF theory, introduced by Saharon Shelah in 1978, is a foundational theory in set theory that analyzes the structure of the set of possible cofinalities of ultraproducts (or more generally, reduced products) of chains of ordered sets. Its central aim is to provide a structure theorem for the set `pcf(S)` for any set `S` of regular cardinals. The theory culminates in the 'pcf theorem,' which guarantees the existence of a 'supporting' set of functions and an associated 'good' ultrapower embedding that captures the structure of `pcf(S)`. A key consequence is the 'theorem on the size of the continuum' (or more generally, bounding the power set of singular cardinals). Specifically, for any singular cardinal `λ`, the size of its power set `2^λ` is bounded by the maximum of `λ^cf(λ)` and the `pcf(S)` structure for `S` being the set of cofinality of all singular cardinals below `λ` or related sets. This theory provides deep upper bounds on the continuum function at singular cardinals, significantly advancing our understanding beyond results like Easton's theorem for regular cardinals.",
+  "terms": [
+    "pcf",
+    "Singular cardinal",
+    "Cofinality (cf)",
+    "Ultraproduct",
+    "Reduced product",
+    "Regular cardinal",
+    "Cardinal arithmetic",
+    "Continuum problem",
+    "Easton's theorem",
+    "Cofinality of the continuum"
+  ],
+  "related_conjectures": [
+    "Woodin's axiom",
+    "V=L",
+    "The continuum hypothesis",
+    "The generalized continuum hypothesis",
+    "Projective determinacy"
+  ],
+  "subjects": [
+    "Set theory",
+    "Model theory",
+    "Combinatorial set theory",
+    "Mathematical logic"
+  ]
+}

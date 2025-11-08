@@ -1,0 +1,28 @@
+{
+  "uuid": "42d3a10c-cf89-4450-a28a-a451d979f7ce",
+  "name": "Mahler's 3/2 problem",
+  "link": "https://en.wikipedia.org/wiki/Mahler%27s_3/2_problem",
+  "rephrased": "A Z-number is a nonzero real number that remains in the interval [0, 0.5) for all its fractional parts when repeatedly multiplied by (3/2).",
+  "implication_form": "If a nonzero real number x satisfies the condition that the fractional part of x * (3/2)^n is less than 0.5 for all positive integers n, then x is a Z-number.",
+  "posed_by": "Kurt Mahler",
+  "solved_by": "Jason Sondow",
+  "year_originated": 70,
+  "explained": "Mahler's 3/2 problem is a conjecture concerning the existence of 'Z-numbers'. A Z-number is defined as any nonzero real number x such that the fractional part of x multiplied by (3/2)^n is strictly less than 1/2 for every positive integer n. The conjecture, associated with mathematician Kurt Mahler, asks whether any such nonzero real numbers exist.",
+  "terms": [
+    "Z-number",
+    "Fractional part",
+    "(3/2)^n",
+    "Diophantine approximation",
+    "Iterated fractional parts"
+  ],
+  "related_conjectures": [
+    "3^c2 conjecture",
+    "Problems involving fractional parts with irrational bases",
+    "Questions about the distribution of sequences defined by iterated multiplication"
+  ],
+  "subjects": [
+    "Number theory",
+    "Dynamical systems",
+    "Diophantine approximation"
+  ]
+}

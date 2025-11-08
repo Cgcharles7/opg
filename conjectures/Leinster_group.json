@@ -1,0 +1,41 @@
+{
+  "uuid": "5e1e1788-6734-4ad0-8b68-1424714dea26",
+  "name": "Leinster group",
+  "link": "https://en.wikipedia.org/wiki/Leinster_group",
+  "rephrased": "A finite group is a Leinster group if its order equals the sum of the orders of its proper normal subgroups.",
+  "implication_form": "If a finite group has an order equal to the sum of the orders of its proper normal subgroups, then it is a Leinster group.",
+  "posed_by": "Tom Leinster",
+  "solved_by": "unsolved",
+  "year_originated": 29,
+  "explained": "A Leinster group is a finite group G for which the order of G equals the sum of the orders of all its proper normal subgroups. Formally, if N(G) denotes the set of proper normal subgroups of G (excluding G itself but including the trivial subgroup), then |G| = σ(N(G)), where σ denotes the sum of the orders of the elements in the set.",
+  "terms": [
+    "Normal subgroup",
+    "Group order",
+    "Proper subgroup",
+    "Sum of orders",
+    "Immaculate group"
+  ],
+  "related_conjectures": [
+    {
+      "name": "Simplicity Conjecture",
+      "description": "A conjecture concerning the probability that a randomly selected p-group is simple."
+    },
+    {
+      "name": "Ore's Conjecture",
+      "description": "The conjecture that every element of a finite non-abelian simple group is a commutator."
+    },
+    {
+      "name": "Thompson's Conjecture",
+      "description": "A conjecture regarding finite simple groups, specifically about the existence of certain subgroups."
+    },
+    {
+      "name": "Schreier Conjecture",
+      "description": "A conjecture that the Schreier conjecture is true if and only if every finite simple group has a trivial center."
+    }
+  ],
+  "subjects": [
+    "Group Theory",
+    "Abstract Algebra",
+    "Finite Groups"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "8a98a246-76d4-4905-a7c3-ab967a52a597",
+  "name": "Preda Mihăilescu",
+  "link": "https://en.wikipedia.org/wiki/Preda_Mih%C4%83ilescu",
+  "rephrased": "Catalan's conjecture states that the only consecutive perfect powers in the natural numbers are 8 and 9.",
+  "implication_form": "If two perfect powers are consecutive, then they must be 8 and 9.",
+  "posed_by": "Eugène Catalan",
+  "solved_by": "Preda Mihăilescu",
+  "year_originated": 184,
+  "explained": "Catalan's conjecture, proposed by Eugène Charles Catalan in 1848 and proven by Preda Mihăilescu in 2002, states that the only solution in the natural numbers for the equation x^a - y^b = 1, where a and b are exponents greater than 1, is the trivial solution x=3, a=2, y=2, b=3 (i.e., 3^2 - 2^3 = 1).",
+  "terms": [
+    "Perfect powers",
+    "Consecutive integers",
+    "Diophantine equation",
+    "Natural numbers",
+    "Exponents"
+  ],
+  "related_conjectures": [
+    "Fermat's Last Theorem",
+    "Beal's Conjecture",
+    "Ribet's Theorem (connecting Fermat-Last Theorem to the modularity theorem)"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Diophantine Equations",
+    "Algebraic Number Theory",
+    "Arithmetic Geometry"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uuid": "577d7d71-eecd-4445-9e52-9d2b27639f9c",
+  "name": "Opaque forest problem",
+  "link": "https://en.wikipedia.org/wiki/Opaque_set",
+  "rephrased": "Find the minimal total length of a set of curves that block all lines of sight between points inside a given polygon.",
+  "implication_form": "If a polygon requires an opaque set to block all lines of sight, then the minimal total length of such a set is the objective.",
+  "posed_by": "Frederick Bagemihl",
+  "solved_by": "unsolved",
+  "year_originated": 64,
+  "explained": "The Opaque Forest Conjecture, also known as the Barany-Katchalski conjecture, states that for any convex body K in d-dimensional space, there exists a set of line segments (an opaque forest) contained within K that intersects every ray that starts from a point outside K and passes through K. Furthermore, it conjectures that the minimum total length of such an opaque forest is proportional to the surface area of K. In two dimensions, this means that for any convex polygon, there is a finite set of line segments lying inside it that block the view from any point outside the polygon to any other point inside the polygon, and the minimal total length of these segments is bounded by a constant times the perimeter of the polygon.",
+  "terms": [
+    "Opaque Forest",
+    "Opaque Set",
+    "Barany-Katchalski Conjecture",
+    "Visibility",
+    "Line Segment",
+    "Convex Body",
+    "Ray",
+    "Surface Area",
+    "Perimeter",
+    "Blocking Set"
+  ],
+  "related_conjectures": [
+    "Art Gallery Problem",
+    "Cup Problem",
+    "Bezdek-Perens conjecture",
+    "Visibility Complex"
+  ],
+  "subjects": [
+    "Discrete Geometry",
+    "Computational Geometry",
+    "Geometric Graph Theory",
+    "Combinatorial Geometry",
+    "Optimization"
+  ]
+}

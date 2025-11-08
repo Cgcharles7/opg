@@ -1,0 +1,14 @@
+{
+  "uuid": "6f10e524-eba2-45d7-9d75-f82fabfb674b",
+  "name": "Quadrisecant",
+  "link": "https://en.wikipedia.org/wiki/Quadrisecant",
+  "rephrased": "For generic space curves, any straight line intersects the curve at most four points, and a quadrisecant is a line that intersects exactly four points.",
+  "implication_form": "If a curve is generic, then it has quadrisecants (lines intersecting it at four points).",
+  "posed_by": "Unknown (not specified in the summary)",
+  "solved_by": "Unsolved (not specified in the summary)",
+  "year_originated": 100,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

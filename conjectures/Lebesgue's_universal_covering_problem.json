@@ -1,0 +1,35 @@
+{
+  "uuid": "3df35419-d94e-4b36-8bc4-1e06d5afa6f6",
+  "name": "Lebesgue's universal covering problem",
+  "link": "https://en.wikipedia.org/wiki/Lebesgue%27s_universal_covering_problem",
+  "rephrased": null,
+  "implication_form": "If there exists a convex shape of area S that can contain every set of diameter one, then the minimal such area is S.",
+  "posed_by": "Henri Lebesgue",
+  "solved_by": "unsolved",
+  "year_originated": 110,
+  "explained": "Lebesgue's universal covering problem seeks the convex shape of minimal area that can contain any planar set with a diameter of one, regardless of its shape, after allowing for rotation, translation, and reflection. The diameter of a set is defined as the supremum of the distances between any two points within it. The covering shape must be congruent to a convex set and must be able to enclose a set of diameter one via some combination of rotation, translation, and reflection. The goal is to find the convex set with the smallest possible area that satisfies this universal covering property for all sets of diameter one.",
+  "terms": [
+    "Diameter (of a set)",
+    "Convex set",
+    "Congruent subset",
+    "Reflection",
+    "Rotation",
+    "Translation",
+    "Lebesgue measure (Area)",
+    "Supremum",
+    "Universal cover",
+    "Geometric optimization"
+  ],
+  "related_conjectures": [
+    "Moving Sofa Problem",
+    "Kakeya Problem",
+    "Inscribed Square Problem"
+  ],
+  "subjects": [
+    "Geometric optimization",
+    "Convex geometry",
+    "Metric geometry",
+    "Combinatorial geometry",
+    "Measure theory"
+  ]
+}

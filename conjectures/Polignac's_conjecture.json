@@ -1,0 +1,28 @@
+{
+  "uuid": "555b57bd-3ccb-4676-a484-d4dfc166eb55",
+  "name": "Polignac's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Polignac%27s_conjecture",
+  "rephrased": "For any even positive number n, there are infinitely many pairs of consecutive prime numbers that differ by n.",
+  "implication_form": "If Polignac's conjecture is true, then for any even positive integer n, there are infinitely many pairs of consecutive primes differing by n.",
+  "posed_by": "Alphonse de Polignac",
+  "solved_by": "unsolved",
+  "year_originated": 170,
+  "explained": "Polignac's conjecture, proposed by Alphonse de Polignac in 1849, addresses the occurrence of prime gaps. It states that for any positive even number `n`, there exist infinitely many prime gaps of size `n`. This means that there are infinitely many pairs of consecutive prime numbers whose difference is exactly `n`. In formal terms, for any even `k`, the limit inferior of the `k`-th prime gap as the primes grow larger is `k`. Formally, for any even `k`, \\(\\lim_{n \\to \\infty} \\inf g_n = k\\), where \\(g_n\\) is the gap between the \\(n\\)-th and \\((n+1)\\)-th prime.",
+  "terms": [
+    "prime gap",
+    "consecutive primes",
+    "even number",
+    "prime number",
+    "limit inferior"
+  ],
+  "related_conjectures": [
+    "Twin Prime Conjecture (a special case for n=2)",
+    "Goldbach Conjecture (related to even numbers and primes)",
+    "Polignac's Conjecture (also related to even numbers and primes)"
+  ],
+  "subjects": [
+    "Number theory",
+    "Prime number theory",
+    "Analytic number theory"
+  ]
+}

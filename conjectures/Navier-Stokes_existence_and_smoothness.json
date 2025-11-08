@@ -1,0 +1,40 @@
+{
+  "uuid": "9888905e-95f7-4719-9b65-9cfc12382364",
+  "name": "Navier–Stokes existence and smoothness",
+  "link": "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness",
+  "rephrased": "Smooth, infinite-time solutions exist for all initial conditions in three-dimensional space.",
+  "implication_form": "If the initial conditions are smooth, then the solutions remain smooth for all time.",
+  "posed_by": "Claire Navier, George Gabriel Stokes, and others (formalized by the Clay Mathematics Institute as a Millennium Prize Problem)",
+  "solved_by": "unsolved",
+  "year_originated": 180,
+  "explained": "The Navier–Stokes existence and smoothness problem is one of the Clay Mathematics Institute's Millennium Prize Problems. It asks for a proof that solutions to the Navier–Stokes equations, which describe the motion of viscous incompressible fluids, remain smooth (i.e., infinitely differentiable) for all time and for all initial conditions with finite kinetic energy, when the Reynolds number is positive. Equivalently, it requires proof that if a solution becomes singular (develops a singularity), it must occur only at finite time or under conditions where the initial data violates the assumptions (e.g., infinite energy or non-viscosity). The problem is to rigorously establish the global existence and smoothness of solutions to these equations under standard physical assumptions.",
+  "terms": [
+    "Navier–Stokes equations",
+    "Partial differential equations (PDEs)",
+    "Turbulence",
+    "Smoothness",
+    "Solutions",
+    "Existence",
+    "Uniqueness",
+    "Reynolds number",
+    "Viscosity",
+    "Incompressible flow",
+    "Kinetic energy",
+    "Millennium Prize Problem"
+  ],
+  "related_conjectures": [
+    "Riemann Hypothesis",
+    "P vs NP Problem",
+    "Birch and Swinnerton-Dyer Conjecture",
+    "P versus NP problem (related to computational complexity)",
+    "Kolmogorov's conjectures on turbulence"
+  ],
+  "subjects": [
+    "Partial Differential Equations",
+    "Fluid Dynamics",
+    "Mathematical Physics",
+    "Harmonic Analysis",
+    "Fourier Analysis",
+    "Numerical Analysis"
+  ]
+}

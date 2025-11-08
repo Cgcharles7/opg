@@ -1,0 +1,31 @@
+{
+  "uuid": "55822c08-1035-425e-9250-50310d4d919b",
+  "name": "Map folding",
+  "link": "https://en.wikipedia.org/wiki/Map_folding",
+  "rephrased": null,
+  "implication_form": "Cannot be directly rewritten as 'If P, then Q' as the original statement is more of a definition or counting problem.",
+  "posed_by": "Émile Lemoine",
+  "solved_by": "unsolved",
+  "year_originated": 130,
+  "explained": "Map folding refers to the problem of counting the number of distinct ways a piece of paper can be folded, where the paper is divided by creases and all folds must occur along these creases. There are two main variants: the stamp folding problem, which involves folding a strip of stamps (each a unit square) separated by creases, and the map folding problem, which involves folding a map (typically a rectangular grid of smaller rectangles) along its creases. The folding sequences must result in a compact shape, often a single point or a small area, and different sequences or resulting shapes are considered distinct foldings.",
+  "terms": [
+    "Permutations",
+    "Combinatorics",
+    "Folding Sequences",
+    "Crease Patterns",
+    "Counting",
+    "Arrangements"
+  ],
+  "related_conjectures": [
+    "Pancake Sorting Problem",
+    "Origami Design",
+    "Crease Pattern Enumeration"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Discrete Mathematics",
+    "Geometry",
+    "Computer Science",
+    "Origami Mathematics"
+  ]
+}

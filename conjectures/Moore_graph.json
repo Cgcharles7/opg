@@ -1,0 +1,31 @@
+{
+  "uuid": "9d8ea104-3fde-4255-9138-aacd2ae35eed",
+  "name": "Moore graph",
+  "link": "https://en.wikipedia.org/wiki/Moore_graph",
+  "rephrased": "A Moore graph is a regular graph where the shortest cycle (girth) is strictly greater than twice the maximum distance (diameter) between any two vertices.",
+  "implication_form": "If a graph is regular with degree d and diameter k, then its girth is exactly 2k + 1, and its number of vertices equals 1 + d + d*(d-1) + d*(d-1)^2 + ... + d*(d-1)^(k-1).",
+  "posed_by": "J. J. Moore",
+  "solved_by": "Unsolved (except for specific cases like d=2, k=2; d=3, k=2; d=7, k=2; d=57, k=2, etc.)",
+  "year_originated": 60,
+  "explained": "A Moore graph is a regular graph with parameters (d,k) where d is the degree (number of edges per vertex) and k is the diameter (the longest shortest path between any two vertices). It is characterized by having a girth (the length of the shortest cycle) of exactly 2k + 1. Moore graphs are maximally connected graphs with a given degree and diameter. The maximum number of vertices a graph with maximum degree d and diameter k can have is given by the Moore bound. A Moore graph achieves this bound. For a Moore graph with degree d and diameter k, the number of vertices n is given by n = 1 + d + d(d-1) + d(d-1)^2 + ... + d(d-1)^k. This geometric series simplifies to n = 1 + d*((d-1)^{k+1} - 1)/(d-1) for d > 1.",
+  "terms": [
+    "Regular graph",
+    "Girth",
+    "Diameter",
+    "Moore bound",
+    "Moore graph",
+    "Degree",
+    "Vertices",
+    "Geometric series",
+    "Maximum degree"
+  ],
+  "related_conjectures": [
+    "Hoffman-Singleton conjecture",
+    "Degree-Diameter problem",
+    "Girth conjectures"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics"
+  ]
+}

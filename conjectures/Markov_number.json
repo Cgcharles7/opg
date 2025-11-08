@@ -1,0 +1,29 @@
+{
+  "uuid": "29108797-07a8-40ae-9b8f-bbbd3afc86fd",
+  "name": "Markov number",
+  "link": "https://en.wikipedia.org/wiki/Markov_number",
+  "rephrased": null,
+  "implication_form": "If x, y, and z are integers satisfying the equation x² + y² + z² = 3xyz, then each of x, y, and z is a Markov number.",
+  "posed_by": "Andrey Markov",
+  "solved_by": "unsolved",
+  "year_originated": 130,
+  "explained": "A Markov number is a positive integer that appears in any solution to the Markov Diophantine equation x² + y² + z² = 3xyz, where x, y, z are positive integers. The solutions to this equation are generated recursively from the seed solution (1,1,1) using a greedy algorithm. The Markov numbers are all the positive integers that appear in any such solution triple.",
+  "terms": [
+    "Markov equation",
+    "Markov number",
+    "Markov Diophantine equation",
+    "recursion",
+    "Diophantine equation",
+    "positive integers"
+  ],
+  "related_conjectures": [
+    "Distribution of Markov numbers",
+    "Sequence of Markov numbers",
+    "Occurrence of prime numbers in Markov numbers"
+  ],
+  "subjects": [
+    "Number theory",
+    "Diophantine equations",
+    "Combinatorics"
+  ]
+}

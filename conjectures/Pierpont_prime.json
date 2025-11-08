@@ -1,0 +1,27 @@
+{
+  "uuid": "f7017692-1011-4e1d-b372-b58d7bff472d",
+  "name": "Pierpont prime",
+  "link": "https://en.wikipedia.org/wiki/Pierpont_prime",
+  "rephrased": "Pierpont primes are prime numbers that can be written as 2 raised to some nonnegative integer power u, multiplied by 3 raised to some nonnegative integer power v, and then adding one.",
+  "implication_form": "There is no 'If P, then Q' form because the definition itself states the condition for a number to be a Pierpont prime.",
+  "posed_by": "James Pierpont",
+  "solved_by": "unsolved",
+  "year_originated": 120,
+  "explained": "In number theory, a Pierpont prime is a prime number of the form 2ᵘ * 3ᵛ + 1 for some nonnegative integers u and v. That is, they are the prime numbers p for which p − 1 is a 3-smooth number (i.e., its prime factors are only 2 and 3). They are named after the mathematician James Pierpont, who used them to characterize polygons that can be constructed with compass, straightedge, and a marked ruler (also known as a straightedge and compass with a fixed angle).",
+  "terms": [
+    "Prime number",
+    "3-smooth number",
+    "Fermat prime",
+    "Marked ruler",
+    "Geometric construction"
+  ],
+  "related_conjectures": [
+    "Infinitude of primes of the form 2ᵘ * 3ᵛ + 1",
+    "Catalan's conjecture (now a theorem)"
+  ],
+  "subjects": [
+    "Number theory",
+    "Geometry",
+    "Combinatorics"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uuid": "9bba6259-e789-48e6-bff9-8bef11d291d1",
+  "name": "Pascal's triangle",
+  "link": "https://en.wikipedia.org/wiki/Pascal%27s_triangle",
+  "rephrased": "Pascal's triangle is an infinite triangular array where each number is the sum of the two numbers directly above it, with the top row being 1, and it represents the binomial coefficients.",
+  "implication_form": "If a row in Pascal's triangle is known, then the next row can be constructed by adding adjacent elements from the previous row.",
+  "posed_by": "Blaise Pascal (though studied earlier by others)",
+  "solved_by": "unsolved",
+  "year_originated": 700,
+  "explained": "Pascal's triangle is an infinite, triangular array of numbers used to represent binomial coefficients. It is constructed by starting with a single 1 at the top (row 0). Each subsequent row begins and ends with 1, and any other number in the triangle is the sum of the two numbers directly above it in the previous row. The entry in row n and column k (both starting from 0) is the binomial coefficient C(n, k), which equals n! / (k! * (n-k)!) and represents the coefficient of the x^k term in the binomial expansion of (x + y)^n.",
+  "terms": [
+    "Binomial coefficient",
+    "Combinatorics",
+    "Natural numbers",
+    "Algebra",
+    "Binomial theorem",
+    "Triangular numbers"
+  ],
+  "related_conjectures": [
+    "Singmaster's conjecture (concerning the maximum frequency of a number appearing in Pascal's triangle)",
+    "Conjecture regarding the infinitude of primes in Pascal's triangle positions",
+    "Patterns and symmetries observed in Pascal's triangle"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Algebra",
+    "Number theory",
+    "Probability theory"
+  ]
+}

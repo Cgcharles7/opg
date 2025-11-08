@@ -1,0 +1,27 @@
+{
+  "uuid": "88a98a9b-88e2-473a-9820-6eaad8b678bc",
+  "name": "Lychrel number",
+  "link": "https://en.wikipedia.org/wiki/Lychrel_number",
+  "rephrased": "A Lychrel number is a natural number that never forms a palindrome after repeated reversal of its digits and addition.",
+  "implication_form": "If a natural number does not form a palindrome through iterative reverse-and-add operations, then it is a Lychrel number.",
+  "posed_by": "Originated as a concept related to the 196-algorithm",
+  "solved_by": "Unsolved",
+  "year_originated": 30,
+  "explained": "A Lychrel number is a natural number that does not form a palindrome through an iterative process involving repeatedly reversing its digits and adding the original number and the reversed number. This process is known as the reverse-and-add operation. The term 'Lychrel' was coined by Wade Van Landingham, referencing the anagram 'Cheryl'. While the reverse-and-add process is well-defined, it remains unproven whether any natural numbers exist that never produce a palindrome through this process in base 10, although many such numbers, including 196, are strongly suspected to be Lychrel numbers based on heuristic and statistical evidence.",
+  "terms": [
+    "palindrome",
+    "reverse-and-add process",
+    "reverse-and-add",
+    "196-algorithm",
+    "196",
+    "heuristics",
+    "statistical evidence"
+  ],
+  "related_conjectures": [
+    "The existence of Lych. rel numbers in base 10"
+  ],
+  "subjects": [
+    "Number theory",
+    "Computational mathematics"
+  ]
+}

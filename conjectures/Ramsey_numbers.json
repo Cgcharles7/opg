@@ -1,0 +1,30 @@
+{
+  "uuid": "29f5b396-f8ae-470c-8f28-92a170425647",
+  "name": "Ramsey numbers",
+  "link": "https://en.wikipedia.org/wiki/Ramsey%27s_theorem",
+  "rephrased": "For any two colors and any two positive integers r and s, there exists a minimum number R(r, s) such that any complete graph with R(r, s) vertices, whose edges are colored with the two colors, must contain a monochromatic clique of size r or s.",
+  "implication_form": "If a complete graph with at least R(r, s) vertices is edge-colored with two colors, then it contains a monochromatic clique of size r or s.",
+  "posed_by": "Frank P. Ramsey",
+  "solved_by": "unsolved",
+  "year_originated": 94,
+  "explained": "Ramsey's theorem, in its basic graph-theoretic form, asserts that for any two positive integers r and s, there exists a minimal integer R(r, s) such that any complete graph with at least R(r, s) vertices, whose edges are colored with two colors (e.g., blue and red), must contain either a blue complete subgraph (clique) on r vertices or a red complete subgraph on s vertices. This R(r, s) is known as the Ramsey number for r and s.",
+  "terms": [
+    "Ramsey number",
+    "Ramsey theory",
+    "Complete graph",
+    "Clique",
+    "Edge coloring",
+    "Monochromatic clique",
+    "Ramsey number R(r, s)"
+  ],
+  "related_conjectures": [
+    "Erdős–Szekeres theorem",
+    "van der Waerden's theorem",
+    "Schur's theorem"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Graph theory",
+    "Extremal set theory"
+  ]
+}

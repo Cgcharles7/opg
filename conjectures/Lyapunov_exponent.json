@@ -1,0 +1,52 @@
+{
+  "uuid": "f22ad00d-5e72-486e-bb90-e697c7c4d1cd",
+  "name": "Lyapunov exponent",
+  "link": "https://en.wikipedia.org/wiki/Lyapunov_exponent",
+  "rephrased": "The Lyapunov exponent measures how quickly two very similar starting points in a system diverge over time.",
+  "implication_form": "If two trajectories start very close, then their separation grows exponentially over time.",
+  "posed_by": "Andrey Lyapunov",
+  "solved_by": "Various mathematicians (rigorous definition by Oseledets' theorem, estimation problem addressed by Ruelle, Eckmann, etc.)",
+  "year_originated": "1940s",
+  "explained": "The Lyapunov exponent (or Lyapunov characteristic exponent) is a fundamental concept in the theory of dynamical systems. It quantifies the exponential rate at which infinitesimally close trajectories in a system diverge or converge over time. For a dynamical system, one or more Lyapunov exponents are defined, characterizing the average growth or decay rates of infinitesimal perturbations starting from a given point in the phase space. Formally, for a dynamical system defined by a map f or a flow Φ_t, the Lyapunov exponent λ for an orbit is defined as the limit (where it exists) of the average logarithmic growth rate of the distance between points infinitesimally close to the orbit. Positive exponents indicate exponential divergence (chaotic behavior in the vicinity), negative exponents indicate exponential convergence (stability), and zero exponents indicate neutral behavior.",
+  "terms": [
+    {
+      "term": "Dynamical System",
+      "explanation": "A system governed by one or more ordinary differential equations (continuous time) or a difference equation (discrete time), describing the evolution of points in a geometric space."
+    },
+    {
+      "term": "Phase Space",
+      "explanation": "A space in which all possible states of a system are represented, typically with the system's variables as axes. The evolution of the system is represented by a flow or a trajectory in this space."
+    },
+    {
+      "term": "Trajectory",
+      "explanation": "The path traced by a point in the phase space under the action of the dynamical system over time."
+    },
+    {
+      "term": "Infinitesimally Close Trajectories",
+      "explanation": "Trajectories that start very close to each other in the phase space, differing by an arbitrarily small initial separation vector δ₀."
+    },
+    {
+      "term": "Lyapunov Stability",
+      "explanation": "A concept in dynamical systems where a fixed point or invariant set is stable if, for any neighborhood of the point, there exists another neighborhood such that any point within the first neighborhood remains in the second neighborhood for all forward time. Lyapunov exponents provide a quantitative measure related to stability."
+    },
+    {
+      "term": "Chaotic Dynamics",
+      "explanation": "The behavior of certain dynamical systems that are highly sensitive to initial conditions (exhibited by positive Lyapunov exponents), leading to complex, aperiodic long-term behavior."
+    },
+    {
+      "term": "Oseledets Theorem",
+      "explanation": "A fundamental theorem in ergodic theory that provides conditions under which the Lyapunov exponents exist almost surely and their values can be determined for ergodic systems."
+    }
+  ],
+  "related_conjectures": [
+    "Properties of Lyapunov exponents in non-uniformly hyperbolic systems.",
+    "Relations between Lyapunov exponents and entropy or dimension in complex systems.",
+    "Conjectures regarding the simplicity (distinctness) of Lyapunov exponents for generic systems."
+  ],
+  "subjects": [
+    "Dynamical Systems Theory",
+    "Ergodic Theory",
+    "Chaos Theory",
+    "Statistical Mechanics"
+  ]
+}

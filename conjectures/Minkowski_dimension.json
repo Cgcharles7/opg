@@ -1,0 +1,32 @@
+{
+  "uuid": "fca617ae-714e-42a8-9d54-41bdd6ac99fc",
+  "name": "Minkowski dimension",
+  "link": "https://en.wikipedia.org/wiki/Minkowski%E2%80%93Bouligand_dimension",
+  "rephrased": "A method to measure how 'rough' a surface is by counting how many boxes of a given size are needed to cover it, and seeing how that number changes as the box size gets smaller.",
+  "implication_form": "If a set S in R^n is covered by a certain number of boxes of side length ε, then its Minkowski dimension can be defined as the limit (as ε approaches 0) of the logarithm of the number of boxes divided by the logarithm of 1/ε.",
+  "posed_by": "Hermann Minkowski and Pierre Bouligand",
+  "solved_by": "unsolved (it's a definition, not a conjecture to be solved)",
+  "year_originated": 1928,
+  "explained": "The Minkowski–Bouligand dimension, commonly known as the Minkowski dimension or box-counting dimension, is a defined method for quantifying the fractal dimension of a bounded set \\(S\\) within a Euclidean space \\(\\mathbb{R}^n\\), or more generally within a metric space \\((X, d)\\). It is calculated by determining how the number of boxes of a given size needed to cover the set \\(S\\) changes as the box size decreases. Specifically, if \\(N(\\epsilon)\\) denotes the minimum number of \\(\\epsilon\\)-diameter boxes (or cubes in \\(\\mathbb{R}^n\\)) required to cover \\(S\\), then the Minkowski dimension \\(D_M\\) is defined as the limit (if it exists) of \\(D_M = \\lim_{\\epsilon \\to 0^+} \\frac{\\log N(\\epsilon)}{\\log (1/\\epsilon)}\\). This limit provides a measure of the 'roughness' or 'complexity' of the set \\(S\\), often coinciding with the Hausdorff dimension but is generally easier to compute.",
+  "terms": [
+    "Minkowski dimension",
+    "Box-counting dimension",
+    "Fractal dimension",
+    "Bounded set",
+    "Euclidean space",
+    "Metric space",
+    "Hausdorff dimension",
+    "Covering",
+    "Box-counting",
+    "\\(\\epsilon\\)-diameter boxes"
+  ],
+  "related_conjectures": [
+    "Hausdorff Dimension Conjecture (in various contexts, e.g., Julia sets, self-similar sets)"
+  ],
+  "subjects": [
+    "Fractal Geometry",
+    "Geometric Measure Theory",
+    "Metric Geometry",
+    "Analysis"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "db3d2384-9294-4647-bd8e-127ad19c2a48",
+  "name": "Problems in loop theory and quasigroup theory",
+  "link": "https://en.wikipedia.org/wiki/List_of_problems_in_loop_theory_and_quasigroup_theory",
+  "rephrased": "Loop theory and quasigroup theory are active research areas with many open problems, which are often presented at professional conferences.",
+  "implication_form": "If one is studying loop theory or quasigroup theory, then one may encounter many open problems.",
+  "posed_by": "Loop theorists and quasigroup theorists (collective effort, not attributed to a single person)",
+  "solved_by": "Unsolved",
+  "year_originated": 54,
+  "explained": "This entry describes a category of open mathematical problems within the fields of loop theory and quasigroup theory. These are active research areas in abstract algebra, characterized by many unresolved questions. The specific problems mentioned often stem from prominent conferences like the Loops (Prague) and Mile High (Denver) gatherings, though no single, unified conjecture statement is provided here. The focus is on the collection of challenging questions driving current research in these structures.",
+  "terms": [
+    "Loops",
+    "Quasigroups",
+    "Abstract algebra",
+    "Isotopy",
+    "Morphisms",
+    "Torsors",
+    "Inverse properties",
+    "Left/Right identities",
+    "Nilpotency",
+    "Automorphisms"
+  ],
+  "related_conjectures": [
+    "Classification problems in Lie theory",
+    "Isomorphism problems in universal algebra",
+    "Structural conjectures in group theory"
+  ],
+  "subjects": [
+    "Abstract algebra",
+    "Algebraic structures",
+    "Combinatorial algebra"
+  ]
+}

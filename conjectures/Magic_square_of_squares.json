@@ -1,0 +1,28 @@
+{
+  "uuid": "76823cd3-3674-4c5a-ad49-aec60d9ea53d",
+  "name": "Magic square of squares",
+  "link": "https://en.wikipedia.org/wiki/Magic_square_of_squares",
+  "rephrased": "Is there a three-by-three magic square where every number is a perfect square?",
+  "implication_form": "If a three-by-three magic square can be constructed with all square numbers, then it satisfies the magic square conditions.",
+  "posed_by": "Martin LaBar",
+  "solved_by": "unsolved",
+  "year_originated": 40,
+  "explained": "The Magic Square of Squares conjecture asks whether it is possible to construct a 3x3 magic square where all 9 elements are distinct perfect squares. A magic square is an arrangement of distinct numbers in a 3x3 grid such that the sum of the numbers in each row, each column, and both main diagonals is the same, known as the magic constant. The conjecture specifically requires all elements to be perfect squares. Despite numerous attempts, no such magic square has been found, nor has it been proven impossible.",
+  "terms": [
+    "Magic square",
+    "Perfect square",
+    "Magic constant",
+    "Diophantine equations",
+    "Combinatorics"
+  ],
+  "related_conjectures": [
+    "The existence of a 3x3 magic square with distinct positive integers (standard magic square problem)",
+    "Euler's 36 officers problem (related to Latin squares, which are combinatorial analogues)",
+    "Sum of three squares (problem of representing numbers as sums of squares, relevant to the magic constant)"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Combinatorics",
+    "Algebra"
+  ]
+}

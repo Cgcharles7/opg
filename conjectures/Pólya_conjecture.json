@@ -1,0 +1,25 @@
+{
+  "uuid": "302d7070-edbb-4bea-922a-ffce4e95cac4",
+  "name": "Pólya conjecture",
+  "link": "https://en.wikipedia.org/wiki/P%C3%B3lya_conjecture",
+  "rephrased": "Pólya conjectured that more than half of the natural numbers less than any given number have an odd number of prime factors.",
+  "implication_form": "If n is sufficiently large, then the number of integers less than n with an odd number of prime factors is greater than the number with an even number.",
+  "posed_by": "George Pólya",
+  "solved_by": "C. Brian Haselgrove",
+  "year_originated": 104,
+  "explained": "The Pólya conjecture, proposed by George Pólya in 1.919, concerns the natural numbers. It states that for sufficiently large N, a majority (more than 50%) of the natural numbers less than N have an odd number of prime factors (counting multiplicity). Equivalently, it posits that the Liouville function, which is +1 if a number has an even number of prime factors and -1 if odd, takes values that sum to a negative number for large N. The conjecture was proven false in 1958 by C. Brian Haselgrove, who demonstrated that the sum of the Liouville function does eventually become positive for sufficiently large N, meaning that there are more numbers with an even number of prime factors than with an odd number for sufficiently large thresholds.",
+  "terms": [
+    "Prime factor",
+    "Prime factors counting multiplicity",
+    "Liouville function",
+    "Natural numbers"
+  ],
+  "related_conjectures": [
+    "Riemann Hypothesis",
+    "Prime Number Theorem"
+  ],
+  "subjects": [
+    "Number theory",
+    "Analytic number theory"
+  ]
+}

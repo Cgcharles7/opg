@@ -1,0 +1,40 @@
+{
+  "uuid": "72bc5280-703b-4c33-aa17-890f840e01fa",
+  "name": "Novikov conjecture",
+  "link": "https://en.wikipedia.org/wiki/Novikov_conjecture",
+  "rephrased": "Higher signatures, numerical invariants derived from the Pontryagin classes, are homotopy invariants of smooth manifolds.",
+  "implication_form": "If a smooth manifold has a certain higher signature, then that signature remains the same whenever the manifold is continuously deformed.",
+  "posed_by": "Sergei Novikov",
+  "solved_by": "unsolved",
+  "year_originated": 58,
+  "explained": "The Novikov conjecture states that the higher signatures (or higher signatures associated with a cycle) of a closed oriented manifold, defined using a representation ρ of its fundamental group into a unitary group, are homotopy invariants. More precisely, if two closed oriented manifolds M and N are homotopy equivalent, and there exist real analytic structures on them and a homotopy equivalence f: M → N that preserves the fundamental classes and lifts to an isometry between the respective Dirac operators (or equivalently, the L-genus evaluated on the fundamental class), then the higher signatures agree. In simpler terms, certain numerical invariants derived from the Pontryagin classes and the fundamental group are invariant under homotopy equivalence.",
+  "terms": [
+    "Novikov conjecture",
+    "Higher signature",
+    "Homotopy invariant",
+    "Pontryagin class",
+    "Fundamental group",
+    "Homotopy equivalence",
+    "Manifold",
+    "Real analytic structure",
+    "Dirac operator",
+    "L-genus",
+    "Signature",
+    "Unitary group representation"
+  ],
+  "related_conjectures": [
+    "Sullivan conjecture",
+    "Borel conjecture",
+    "Kervaire-Milnor conjecture",
+    "Gromov conjecture",
+    "Anosov conjecture"
+  ],
+  "subjects": [
+    "Differential Topology",
+    "Geometric Topology",
+    "Algebraic Topology",
+    "K-Theory",
+    "Index Theory",
+    "Global Analysis"
+  ]
+}

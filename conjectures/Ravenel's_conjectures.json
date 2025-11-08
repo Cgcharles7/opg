@@ -1,0 +1,32 @@
+{
+  "uuid": "4f191471-129d-4438-90ca-89be0c4736d8",
+  "name": "Ravenel's conjectures",
+  "link": "https://en.wikipedia.org/wiki/Ravenel%27s_conjectures",
+  "rephrased": "A set of conjectures concerning the structure of the stable homotopy category, particularly regarding the behavior of certain spectra and their relationship to formal groups, which were foundational in developing chromatic homotopy theory.",
+  "implication_form": "",
+  "posed_by": "Douglas Ravenel",
+  "solved_by": "Various mathematicians solved most conjectures; the 'telescope conjecture' remains unresolved.",
+  "year_originated": 43,
+  "explained": "Douglas Ravenel's 1984 paper proposed seven conjectures related to the structure of the stable homotopy groups of spheres and the behavior of certain spectral sequences in chromatic homotopy theory. These conjectures aimed to refine and extend the insights provided by chromatic homotopy theory, particularly concerning the existence and properties of 'chromatic redshift' phenomena and the resolution of the telescope conjecture. Each conjecture addressed specific aspects of the relationship between formal groups, complex-oriented cohomology theories, and the structure of the stable homotopy category. The conjectures were: 1. The Telescope Conjecture (for the Adams spectral sequence), 2. The Redshift Conjecture (relating to the vanishing of certain Ext groups in the category of E(n)-local spectra), 3. The Vanishing Conjecture (for Ext groups in the category of E(n)-local spectra), 4. The Chromatic Splitting Conjecture (relating to the decomposition of E(n)-local spectra), 5. The Slice Conjecture (regarding the relationship between the slice filtration and chromatic filtration), 6. The Morava E-theory conjecture (concerning the structure of Ext groups over Morava E-theories), and 7. The Conjecture on the vanishing of certain elements in Ext groups.",
+  "terms": [
+    "Adams spectral sequence",
+    "Chromatic homotopy theory",
+    "E(n)-local spectrum",
+    "Formal group",
+    "Morava E-theory",
+    "Slice filtration",
+    "Telescope conjecture"
+  ],
+  "related_conjectures": [
+    "Nilpotence Theorem (which resolved aspects related to Ravenel's work on self-maps of spheres)",
+    "Adams Conjecture",
+    "Telescope Conjecture"
+  ],
+  "subjects": [
+    "Algebraic Topology",
+    "Stable Homotopy Theory",
+    "Chromatic Homotopy Theory",
+    "Homotopy Theory",
+    "Mathematics"
+  ]
+}

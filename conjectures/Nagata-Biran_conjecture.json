@@ -1,0 +1,38 @@
+{
+  "uuid": "b02b2544-ecb0-471d-80e3-2c3b0fe49a81",
+  "name": "Nagata–Biran conjecture",
+  "link": "https://en.wikipedia.org/wiki/Nagata%E2%80%93Biran_conjecture",
+  "rephrased": "The Nagata–Biran conjecture is a generalization of Nagata's work on curves, stating that for any polarised surface (a surface with an ample divisor class), the minimal number needed to resolve singularities via a divisorial contraction (flipping or blowing down curves) is related to the genus of the surface and the polarization.",
+  "implication_form": "If a polarised surface exists, then the minimal number of curves required for a divisorial contraction is determined by a specific formula involving the polarization and the genus.",
+  "posed_by": [
+    "Masayoshi Nagata",
+    "Paul Biran"
+  ],
+  "solved_by": "unsolved",
+  "year_originated": 30,
+  "explained": "The Nagata–Biran conjecture posits a connection between the existence of curves with high multiplicity (or very ample line bundles) on a polarised surface and the surface being of general type. More formally, it states that a polarised surface is not of general type if and only if it contains a curve with a certain numerical condition related to its genus or degree, analogous to the conditions in Nagata's original conjecture but generalized to surfaces. It suggests that surfaces that are not 'too curved' (i.e., not of general type) must contain special curves with specific properties.",
+  "terms": [
+    "polarised surface",
+    "general type",
+    "birational equivalence",
+    "Fano variety",
+    "terminal singularity",
+    "minimal model",
+    "genus",
+    "degree",
+    "line bundle",
+    "ample divisor"
+  ],
+  "related_conjectures": [
+    "Nagata's Conjecture (on curves)",
+    "Kawamata–Morrison Conjecture",
+    "ACC conjecture",
+    "Mori's program"
+  ],
+  "subjects": [
+    "Algebraic geometry",
+    "Birational geometry",
+    "Complex geometry",
+    "Differential geometry (aspects of minimal surfaces related to Fano varieties)"
+  ]
+}

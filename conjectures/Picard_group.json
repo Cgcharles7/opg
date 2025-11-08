@@ -1,0 +1,37 @@
+{
+  "uuid": "5912aa97-2a33-4ef6-9682-c2bf4a3e9d92",
+  "name": "Picard group",
+  "link": "https://en.wikipedia.org/wiki/Picard_group",
+  "rephrased": "The Picard group classifies all the 'twisted sheaves' (invertible sheaves) on a ringed space, combining them into a group structure using tensor products.",
+  "implication_form": "Not applicable (This is a definition, not a conjecture to be proved or disproved).",
+  "posed_by": "Émile Picard",
+  "solved_by": "It is a defined object, not a conjecture.",
+  "year_originated": 1900,
+  "explained": "The Picard group is not a conjecture but a fundamental construction in mathematics, specifically in algebraic geometry and the theory of complex manifolds. It is defined for a ringed space X (such as a scheme or complex manifold) as follows: The Picard group, denoted Pic(X), is the group of isomorphism classes of invertible sheaves (also known as line bundles) on X. The group operation is given by the tensor product of sheaves. This construction generalizes the concept of the ideal class group from ring theory and provides crucial information about the geometry of the space X. Alternatively, for certain types of spaces (like schemes), the Picard group can also be defined as the sheaf cohomology group H¹(X, Pic₀(X)), although the isomorphism classes with tensor product is the more standard and intuitive definition.",
+  "terms": [
+    "Invertible sheaf",
+    "Line bundle",
+    "Sheaf cohomology",
+    "Tensor product",
+    "Isomorphism classes",
+    "Ringed space",
+    "Scheme",
+    "Complex manifold",
+    "Divisor",
+    "Cartier divisor",
+    "Weil divisor"
+  ],
+  "related_conjectures": [
+    "Mordell–Weil theorem (classifies rational points on abelian varieties, whose Picard group plays a role)",
+    "Brauer–Siegel theorem (relates to the Picard group of moduli spaces)",
+    "Tate conjecture (involves the Picard group of algebraic varieties over number fields)"
+  ],
+  "subjects": [
+    "Algebraic geometry",
+    "Complex geometry",
+    "Algebraic number theory",
+    "Homological algebra",
+    "Sheaf theory",
+    "K-theory"
+  ]
+}

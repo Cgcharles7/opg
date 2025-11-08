@@ -1,0 +1,34 @@
+{
+  "uuid": "5f8b68e5-4d99-40e7-9b2d-1cd58dde50eb",
+  "name": "Lenstra–Pomerance–Wagstaff conjecture",
+  "link": "https://en.wikipedia.org/wiki/Mersenne_conjectures",
+  "rephrased": "The Lenstra–Pomerance–Wagstaff conjecture states that there are infinitely many Sophie Germain primes, which are primes p such that 2p + 1 is also prime.",
+  "implication_form": "If p is prime and 2p + 1 is prime (i.e., p is a Sophie Germain prime), then there exist infinitely many such primes.",
+  "posed_by": [
+    "Harry G. Lenstra, Jr.",
+    "Carl Pomerance",
+    "Robert D. Wagstaff, Jr."
+  ],
+  "solved_by": "unsolved",
+  "year_originated": 1982,
+  "explained": "The Lenstra–Pomerance–Wagstaff (LPW) conjecture addresses the density of Mersenne primes. It proposes a conjectural asymptotic estimate for the number of Mersenne primes less than a given bound x. The conjecture is based on the connection between Mersenne numbers (M_p = 2^p - 1 for prime p) and certain prime factors called Germain primes (or Sophie Germain primes). It conjectures that the number of primes p (called 'good' primes in this context) for which 2p + 1 divides the Mersenne number M_p is approximately c * x / (log x)^2, where c is a positive constant. This density is analogous to the conjectured density of Sophie Germain primes themselves, as stated in the Bateman–Horn conjecture.",
+  "terms": [
+    "Mersenne prime",
+    "Mersenne number",
+    "Sophie Germain prime",
+    "Germain prime",
+    "Prime number theorem for primes in arithmetic progressions",
+    "Asymptotic density"
+  ],
+  "related_conjectures": [
+    "Bateman–Horn conjecture",
+    "Hardy-Littlewood conjectures",
+    "Artin reciprocity conjecture",
+    "Infinitude of Mersenne primes"
+  ],
+  "subjects": [
+    "Number theory",
+    "Analytic number theory",
+    "Prime number theory"
+  ]
+}

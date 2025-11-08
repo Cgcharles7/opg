@@ -1,0 +1,30 @@
+{
+  "uuid": "14828d10-aee9-46e6-b948-0cf2b48af51a",
+  "name": "Painlevé conjecture",
+  "link": "https://en.wikipedia.org/wiki/Painlev%C3%A9_conjecture",
+  "rephrased": "In the n-body problem of celestial mechanics, there exist solutions where all bodies collapse to a single point (singularity) without any two bodies colliding, for systems with four or more bodies.",
+  "implication_form": "If the system involves four or more bodies, then there exist solutions where all bodies collapse to a single point without any collision occurring.",
+  "posed_by": "Painlevé (likely referring to the French mathematician Paul Painlevé)",
+  "solved_by": "The conjecture was proven for n ≥ 5 by Jeff Xia in 1988 and for n = 4 by Jinxin Xue in 2014.",
+  "year_originated": "Approximately 120 years ago (likely early 1900s)",
+  "explained": "The Painlevé conjecture, initially proposed concerning the n-body problem in celestial mechanics, stated that there exist noncollision singularities (solutions where bodies reach infinite velocities or collide in finite time without prior collisions) for the gravitational n-body problem with n ≥ 4 bodies. This conjecture suggested that the system could reach a 'singularity' where the motion becomes infinite without all bodies necessarily colliding directly. However, it is crucial to note that this specific *statement regarding the existence of such singularities for all configurations* was later proven to be false in a general sense, as shown by Xia (n≥5) and Xue (n=4). Their work demonstrated specific configurations leading to singularities, but the original conjecture's broad claim was disproven. The term 'Painlevé conjecture' specifically refers to this initial hypothesis about the existence of noncollision singularities.",
+  "terms": [
+    "n-body problem",
+    "singularities",
+    "noncollision singularity",
+    "celestial mechanics",
+    "gravitational dynamics"
+  ],
+  "related_conjectures": [
+    "The nature and classification of singularities in the n-body problem",
+    "The stability of the solar system (related to long-term predictability)",
+    "The existence of periodic orbits in the n-body problem",
+    "Conjectures related to the BBV conjecture (Birkhoff conjecture, Butcher-Vance conjecture) regarding singularities"
+  ],
+  "subjects": [
+    "Celestial Mechanics",
+    "Dynamical Systems",
+    "Mathematical Physics",
+    "Differential Equations"
+  ]
+}

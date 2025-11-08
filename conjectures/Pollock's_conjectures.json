@@ -1,0 +1,29 @@
+{
+  "uuid": "9d4b358d-b0b2-41e5-ad95-e9b90a2f8ea2",
+  "name": "Pollock's conjectures",
+  "link": "https://en.wikipedia.org/wiki/Pollock%27s_conjectures",
+  "rephrased": "Every positive integer can be expressed as the sum of at most three three-dimensional figurate numbers (such as tetrahedral numbers or octahedral numbers).",
+  "implication_form": "If a positive integer can be expressed as the sum of three three-dimensional figurate numbers, then every positive integer can be expressed as the sum of at most three three-dimensional figurate numbers (though this is circular and not a standard implication form for the conjecture).",
+  "posed_by": "Frederick Pollock",
+  "solved_by": "unsolved",
+  "year_originated": 174,
+  "explained": "Pollock's conjectures are two related statements in additive number theory regarding the representation of integers using three-dimensional figurate numbers.\n\nConjecture 1: Every positive integer greater than 946 can be expressed as the sum of at most three three-dimensional figurate numbers (more specifically, triangular pyramidal numbers or tetrahedral numbers).\n\nConjecture 2: Every positive integer greater than 21 is a sum of at most three three-dimensional square pyramidal numbers.",
+  "terms": [
+    "Three-dimensional figurate numbers",
+    "Triangular pyramidal numbers (Tetrahedral numbers)",
+    "Square pyramidal numbers",
+    "Additive number theory",
+    "Integer representation",
+    "Polygonal numbers"
+  ],
+  "related_conjectures": [
+    "Fermat's polygonal number theorem",
+    "Euler's conjectures (particularly concerning sums of powers)"
+  ],
+  "subjects": [
+    "Additive number theory",
+    "Number theory",
+    "Combinatorics",
+    "Diophantine analysis"
+  ]
+}

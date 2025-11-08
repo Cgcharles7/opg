@@ -1,0 +1,30 @@
+{
+  "uuid": "f0382b8b-c783-4389-92e8-906e109c2bfe",
+  "name": "Parshin's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Parshin%27s_conjecture",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "Parshin's conjecture (also referred to as the Beilinson–Parshin conjecture) is a statement in algebraic geometry concerning the vanishing of certain higher algebraic K-groups for smooth projective varieties defined over finite fields. The conjecture asserts that for any such variety X and for all integers i > 0, the tensor product of the i-th algebraic K-group of X with the rational numbers Q is trivial, i.e., Kᵢ(X) ⊗ ℚ = 0.",
+  "terms": [
+    "Algebraic K-theory",
+    "Smooth projective variety",
+    "Finite field",
+    "Higher K-groups",
+    "Étale cohomology",
+    "Motivic cohomology"
+  ],
+  "related_conjectures": [
+    "Beilinson conjectures",
+    "Milnor conjecture (on K-theory of fields)",
+    "Bloch-Kato conjecture"
+  ],
+  "subjects": [
+    "Algebraic Geometry",
+    "Number Theory",
+    "Algebraic Topology",
+    "Arithmetic Geometry"
+  ]
+}

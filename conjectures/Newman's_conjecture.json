@@ -1,0 +1,27 @@
+{
+  "uuid": "0a0fe56f-5401-4df3-ada2-2fa185aa122b",
+  "name": "Newman's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Newman%27s_conjecture",
+  "rephrased": "The partition function p(n), which counts the number of ways to write n as a sum of positive integers, is equidistributed modulo any integer m. This means that for any modulus m and any residue r between 0 and m-1, there are infinitely many positive integers n such that p(n) modulo m equals r.",
+  "implication_form": "If m is any positive integer, then for any residue r modulo m, there are infinitely many positive integers n such that p(n) ≡ r (mod m).",
+  "posed_by": "Newman",
+  "solved_by": "Ken Ono",
+  "year_originated": 40,
+  "explained": "Newman's conjecture, now a theorem, pertains to the partition function p(n), which counts the number of ways to write n as a sum of positive integers. It states that for any positive integer m and any integer r satisfying 0 ≤ r ≤ m-1, there exist infinitely many positive integers n such that the partition function p(n) is congruent to r modulo m. In other words, the partition function is equidistributed modulo any integer m.",
+  "terms": [
+    "Partition function p(n)",
+    "Modular arithmetic",
+    "Congruence",
+    "Equidistribution",
+    "Asymptotic analysis"
+  ],
+  "related_conjectures": [
+    "Hardy-Ramanujan Asymptotic Formula (for p(n))",
+    "Riemann Hypothesis (related via the proof's connection to complex analysis and the partition function's asymptotic growth)"
+  ],
+  "subjects": [
+    "Analytic Number Theory",
+    "Combinatorics",
+    "Asymptotic Analysis"
+  ]
+}

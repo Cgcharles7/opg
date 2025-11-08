@@ -1,0 +1,34 @@
+{
+  "uuid": "4e5f8867-53ee-4e0a-adb7-6ee83212ff5f",
+  "name": "Pontryagin class",
+  "link": "https://en.wikipedia.org/wiki/Pontryagin_class",
+  "rephrased": "The Pontryagin classes are characteristic classes associated with real vector bundles, taking values in cohomology groups where the degree is a multiple of four.",
+  "implication_form": "None",
+  "posed_by": "Lev Pontryagin",
+  "solved_by": "None",
+  "year_originated": 70,
+  "explained": "The Pontryagin classes are defined as characteristic classes for real vector bundles. Given a real vector bundle E over a base space X, the Pontryagin classes are defined via the classifying map f: X → BO, where BO is the classifying space for real vector bundles. Specifically, they are obtained by pulling back the universal Pontryagin classes defined on BO. These classes, denoted p_k(E) for k = 1, 2, ..., and lying in the real cohomology groups H^{4k}(X; ℤ) or more precisely the image of H^{4k}(BO; ℤ) in the cohomology with real coefficients (or often considered modulo torsion), provide topological invariants of the bundle. They are defined using the curvature form of a connection on the bundle, similar to how Chern classes are defined for complex bundles. For the tangent bundle of a smooth manifold, the Pontryagin classes are used to define the Pontryagin characteristic classes of the manifold, playing a crucial role in areas like the Hirzebruch Signature Theorem.",
+  "terms": [
+    "Characteristic classes",
+    "Chern classes",
+    "Stiefel-Whitney classes",
+    "Real vector bundles",
+    "Classifying space",
+    "BO",
+    "Tangent bundle",
+    "Connection (differential geometry)",
+    "Curvature form",
+    "Cohomology groups",
+    "Real coefficients"
+  ],
+  "related_conjectures": [
+    "Hirzebruch Signature Theorem",
+    "Rokhlin Invariant",
+    "Novikov Conjecture"
+  ],
+  "subjects": [
+    "Algebraic Topology",
+    "Differential Topology",
+    "K-Theory"
+  ]
+}

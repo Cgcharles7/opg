@@ -1,0 +1,31 @@
+{
+  "uuid": "7c51f290-f2ce-42c5-b519-de471d397e65",
+  "name": "Leopoldt's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Leopoldt%27s_conjecture",
+  "rephrased": "The p-adic regulator of a number field does not vanish.",
+  "implication_form": "If Leopoldt's conjecture holds, then the p-adic regulator does not vanish.",
+  "posed_by": "H.-W. Leopoldt",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": "Leopoldt's conjecture, formulated by H.-W. Leopoldt in 1962 and further developed in 1975, pertains to number fields in algebraic number theory. It states that for any algebraic number field K, any prime number p, and any sufficiently large integer n, the p-adic regulator (an analogue of the classical regulator defined using p-adic logarithms introduced by Leopoldt himself) does not vanish. This means that the p-adic regulator is a non-zero element in the ring of p-adic integers, indicating that the units in the ring of integers of K have a specific p-adic logarithmic independence property. The conjecture is crucial as it implies that the p-adic logarithm map from the group of units modulo roots of unity to the p-adic logarithm of the ideal class group has full rank.",
+  "terms": [
+    "algebraic number theory",
+    "number field",
+    "p-adic regulator",
+    "p-adic logarithm",
+    "Tate's theorem",
+    "p-adic numbers",
+    "units (algebraic number theory)",
+    "roots of unity",
+    "ideal class group"
+  ],
+  "related_conjectures": [
+    "Kummer's conjecture (on the vanishing of the real regulator)",
+    "Iwasawa theory (deals with p-adic numbers and has connections to Leopoldt's conjecture)"
+  ],
+  "subjects": [
+    "Algebraic Number Theory",
+    "Arithmetic Geometry",
+    "p-adic Analysis"
+  ]
+}

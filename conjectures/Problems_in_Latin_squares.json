@@ -1,0 +1,34 @@
+{
+  "uuid": "021ba683-d2ff-45be-927b-101ea255ead0",
+  "name": "Problems in Latin squares",
+  "link": "https://en.wikipedia.org/wiki/Problems_in_Latin_squares",
+  "rephrased": "The theory of Latin squares continues to present numerous unsolved problems, despite being an active area of mathematical research.",
+  "implication_form": "null (No specific implication form derivable from the summary)",
+  "posed_by": "Researchers in the theory of Latin squares (collectively)",
+  "solved_by": "unsolved",
+  "year_originated": 300,
+  "explained": "The theory of Latin squares is a vibrant area of combinatorial mathematics with numerous unresolved questions. A Latin square of order n is an n × n array filled with n different symbols, each occurring exactly once in each row and exactly once in each column. The active research area stems from the abundance of fundamental, yet challenging, open problems in this domain. These problems arise from attempts to construct specific types of Latin squares (e.g., with certain transversal properties), characterize their existence, or understand their structure and relationships (e.g., orthogonal Latin squares). Many of these open problems have been presented at specialized conferences like the Loops conferences (Prague) and the Milehigh conferences (Denver), indicating their significance to researchers. The lack of a single, overarching conjecture belies the complexity of the field, where multiple distinct, challenging questions drive the research.",
+  "terms": [
+    "Latin square",
+    "Orthogonal Latin squares",
+    "Transversal",
+    "Quasigroup",
+    "Isotopy",
+    "Latin square design",
+    "Combinatorial design",
+    "Finite geometry"
+  ],
+  "related_conjectures": [
+    "Existence of Latin squares of certain types (e.g., with high transversal count)",
+    "Problem of mutually orthogonal Latin squares (MOLS) of maximum order",
+    "Conjectures related to Latin squares and finite geometries",
+    "Characterization problems for Latin squares"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Design Theory",
+    "Finite Geometry",
+    "Group Theory",
+    "Algebraic Structures (Loops, Quasigroups)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "dc46c445-89e2-4376-963e-cfa2527ccbc5",
+  "name": "Latin squares",
+  "link": "https://en.wikipedia.org/wiki/Latin_square",
+  "rephrased": "A Latin square is an n × n grid filled with n distinct symbols, each appearing exactly once in every row and column.",
+  "implication_form": "If n is a positive integer, then there exists an n × n Latin square.",
+  "posed_by": "Leonhard Euler",
+  "solved_by": "Existence for all n except 2 is proven; Euler's specific conjecture about orders 4n+2 was disproven.",
+  "year_originated": 250,
+  "explained": "A Latin square of order n is an n × n array where each cell contains one of n distinct symbols, such that each symbol appears exactly once in each row and exactly once in each column. Formally, for symbols S = {1, 2, ..., n}, a Latin square can be represented as a function L: {1, 2, ..., n} × {1, 2, ..., n} → S, such that for each fixed i, the map j ↦ L(i,j) is a bijection from {1, 2, ..., n} to S, and for each fixed k, the map i ↦ L(i,k) is a bijection from {1, 2, ..., n} to S.",
+  "terms": [
+    "Orthogonal Latin squares",
+    "Latin square of side n",
+    "Latin square design",
+    "Symbol",
+    "Row",
+    "Column"
+  ],
+  "related_conjectures": [
+    "Existence of Latin squares for all orders n (which holds except for n=2 and n=3, but it's known they exist for all n ≥ 1 except possibly some small cases, though the original text mentions Euler beginning work on the problem, likely referring to the existence question or orthogonal Latin squares)."
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Design Theory",
+    "Finite Geometry",
+    "Experimental Design"
+  ]
+}

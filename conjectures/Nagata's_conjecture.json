@@ -1,0 +1,28 @@
+{
+  "uuid": "204dc355-b7c1-4572-9f36-4fbc20a7dcd8",
+  "name": "Nagata's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Nagata%27s_conjecture",
+  "rephrased": "The automorphism defined by Nagata in the ring of polynomials in three variables is wild.",
+  "implication_form": "It is not possible to rephrase the conjecture in the form 'If P, then Q' meaningfully.",
+  "posed_by": "M. Nagata",
+  "solved_by": "Ualbai U. Umirbaev and Ivan P. Shestakov",
+  "year_originated": 52,
+  "explained": "Nagata's conjecture (proposed by Masayoshi Nagata in 1972) states that the specific automorphism ϕ of the polynomial ring k[x,y,z] defined by ϕ(x) = x − 2Δy − (Δ²/z) * (some expression involving y and z), ϕ(y) = y, and ϕ(z) = z is a wild automorphism. This means that it cannot be expressed as a composition of elementary automorphisms. The conjecture was later proved true by Ualbai U. Umirbaev and Ivan P. Shestakov in 2004.",
+  "terms": [
+    "Wild automorphism",
+    "Nagata automorphism",
+    "Automorphism group",
+    "Polynomial ring",
+    "Affine algebraic varieties",
+    "Elementary automorphisms"
+  ],
+  "related_conjectures": [
+    "Linearization problem",
+    "Abhyankar-Sathaye conjecture"
+  ],
+  "subjects": [
+    "Algebra",
+    "Commutative Algebra",
+    "Algebraic Geometry"
+  ]
+}

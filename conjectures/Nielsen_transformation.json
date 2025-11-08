@@ -1,0 +1,32 @@
+{
+  "uuid": "2bcd5bef-b731-447c-8eb8-422263e21632",
+  "name": "Nielsen transformation",
+  "link": "https://en.wikipedia.org/wiki/Nielsen_transformation",
+  "rephrased": "Nielsen transformations are specific automorphisms of free groups that allow for the manipulation of group presentations, acting as a non-commutative analogue of row reduction operations on matrices.",
+  "implication_form": "If a finite basis is given for a free group, then applying a sequence of Nielsen transformations to that basis results in another basis for the same free group.",
+  "posed_by": "Originated by: Nielsen",
+  "solved_by": "Unsolved",
+  "year_originated": 100,
+  "explained": "Nielsen transformations are a set of elementary operations that generate the automorphism group of a free group. The conjecture (or statement) regarding Nielsen transformations typically addresses the question of whether these elementary operations indeed generate all automorphisms of a free group of rank n. More precisely, it concerns the structure and generation of Aut(F_n) using Nielsen transformations. While the fact that elementary Nielsen transformations generate Aut(F_n) is a theorem proven by Jakob Nielsen, the exploration of this generation process and its properties remains a central topic in combinatorial group theory.",
+  "terms": [
+    "Free group",
+    "Automorphism",
+    "Basis",
+    "Transvection",
+    "De-transvection",
+    "Inversion",
+    "Automorphism group",
+    "Combinatorial group theory"
+  ],
+  "related_conjectures": [
+    "Grushko's theorem",
+    "Magnus conjecture",
+    "Kervaire-Linking problem"
+  ],
+  "subjects": [
+    "Combinatorial group theory",
+    "Geometric group theory",
+    "Low-dimensional topology",
+    "Algebra"
+  ]
+}

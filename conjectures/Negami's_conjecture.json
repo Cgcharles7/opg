@@ -1,0 +1,30 @@
+{
+  "uuid": "8990e60e-4d7e-4b42-b263-31260436cd5e",
+  "name": "Negami's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Planar_cover",
+  "rephrased": "A finite graph has a planar cover (a finite planar graph that maps onto it in a specific way) if and only if it can be embedded into the projective plane.",
+  "implication_form": "If a graph can be embedded into the projective plane, then it has a planar cover.",
+  "posed_by": "Seiya Negami",
+  "solved_by": "unsolved",
+  "year_originated": 35,
+  "explained": "Negami's conjecture states that a finite graph has a planar cover if and only if it can be embedded into the projective plane. A planar cover is a finite covering graph of the original graph that is itself planar. This conjecture proposes a deep equivalence between the existence of a planar covering and the projective planarity of a graph.",
+  "terms": [
+    "Graph theory",
+    "Graph embedding",
+    "Projective plane",
+    "Planar graph",
+    "Covering graph",
+    "Planar cover",
+    "Minor-closed property",
+    "Forbidden minors"
+  ],
+  "related_conjectures": [
+    "Wagner's theorem (characterizes non-planar graphs)",
+    "Grotzner's theorem (characterizes projective-planar graphs)"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Topological graph theory",
+    "Combinatorics"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uuid": "031bda61-6a04-44de-9d35-58768569695f",
+  "name": "Reinhardt cardinal",
+  "link": "https://en.wikipedia.org/wiki/Reinhardt_cardinal",
+  "rephrased": "A Reinhardt cardinal is a type of large cardinal that cannot exist within ZFC set theory (ZF + Axiom of Choice), but can be considered in ZF set theory without the Axiom of Choice.",
+  "implication_form": "If there exists a Reinhardt cardinal, then Zermelo–Fraenkel set theory with the Axiom of Choice (ZFC) is inconsistent.",
+  "posed_by": "William Nelson Reinhardt",
+  "solved_by": "Proven inconsistent (thus effectively solved) by subsequent set theory results (specific solver not specified)",
+  "year_originated": 57,
+  "explained": "A Reinhardt cardinal is defined as a cardinal \\(\\kappa\\) that is the critical point of an elementary embedding \\(j: \\text{Set} \\to \\text{Set}\\) (where \\(\\text{Set}\\) is the universe of all sets), such that \\(j(\\kappa) = \\kappa\\) and \\(j\\) moves some set. This concept arises within Zermelo–Fraenkel set theory (ZF) without the Axiom of Choice (AC). The existence of such an embedding implies that \\(\\kappa\\) is a cardinal and a limit cardinal with many large cardinal properties. However, it is a theorem (due to Kenneth Kunen, 1970) that no such embedding exists within Zermelo–Fraenicle set theory with the Axiom of Choice (ZFC), making Reinhardt cardinals inconsistent with ZFC. Thus, Reinhardt cardinals are studied as axioms within ZF alone, representing a very strong large cardinal axiom that cannot be proven consistent relative to ZFC.",
+  "terms": [
+    "elementary embedding",
+    "critical point",
+    "ZF set theory",
+    "ZFC set theory",
+    "Axiom of Choice (AC)",
+    "large cardinal",
+    "cardinal",
+    "limit cardinal"
+  ],
+  "related_conjectures": [
+    "Berkeley cardinal",
+    "Other variants of Reinhardt cardinals in constructive set theory or other foundational systems",
+    "Inconsistency results for other strong large cardinals"
+  ],
+  "subjects": [
+    "Set theory",
+    "Large cardinal axioms",
+    "Foundational studies",
+    "Mathematical logic"
+  ]
+}

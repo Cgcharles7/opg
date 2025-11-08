@@ -1,0 +1,14 @@
+{
+  "uuid": "1674e7c2-cd17-4eb3-8883-56326bcdd0d5",
+  "name": "Nearby Lagrangian conjecture",
+  "link": "https://en.wikipedia.org/wiki/Nearby_Lagrangian_conjecture",
+  "rephrased": "In the context of symplectic geometry, the Nearby Lagrangian Conjecture suggests that any Lagrangian submanifold (a special type of submanifold) that is 'close' to the zero section (the base space itself) within a cotangent bundle can be smoothly deformed into the zero section using a specific type of path (called a Hamiltonian isotopy).",
+  "implication_form": "If a closed exact Lagrangian submanifold exists within a cotangent bundle, then it is Hamiltonian isotopic to the zero section.",
+  "posed_by": "Vladimir Arnold",
+  "solved_by": "unsolved",
+  "year_originated": 1960,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

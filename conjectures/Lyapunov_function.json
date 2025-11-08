@@ -1,0 +1,41 @@
+{
+  "uuid": "bfa6ae1d-a6a3-454b-a717-cf47a869f962",
+  "name": "Lyapunov function",
+  "link": "https://en.wikipedia.org/wiki/Lyapunov_function",
+  "rephrased": "A Lyapunov function is a scalar-valued function used to determine the stability of an equilibrium point in a system of ordinary differential equations by ensuring the function decreases along solutions of the system.",
+  "implication_form": "If a continuously differentiable function exists that is positive definite at the equilibrium point and its derivative is negative semi-definite, then the equilibrium point is stable.",
+  "posed_by": "Aleksandr Lyapunov",
+  "solved_by": "Not a problem to be solved; a method/tool",
+  "year_originated": 130,
+  "explained": "In the theory of ordinary differential equations (ODEs) and dynamical systems, a Lyapunov function (or Lyapunov's function or Lyapun. function) is a scalar function defined on a set containing an equilibrium point of an autonomous system. If this function satisfies certain conditions, it can be used to prove the stability (Lyapunov stability) of that equilibrium point. Specifically, a continuously differentiable function V(x) is a Lyapunov function for an equilibrium point (typically the origin) if: 1) V(x) is positive definite (V(x) > 0 for all x ≠ 0, and V(0) = 0), and 2) The time derivative of V along the trajectories of the system, V̇(x) = ∇V(x) · f(x), is negative semi-definite (V̇(x) ≤ 0 for all x). If V̇(x) is negative definite (V̇(x) < 0 for all x ≠ 0), then the equilibrium is asymptotically stable. The concept generalizes to Markov chains as a Foster-Lyapunov function for proving positive recurrence and stability.",
+  "terms": [
+    "Equilibrium point",
+    "Stability (Lyapunov stability)",
+    "Asymptotic stability",
+    "Ordinary differential equation (ODE)",
+    "Autonomous system",
+    "Positive definite function",
+    "Negative definite function",
+    "Negative semi-definite function",
+    "Scalar function",
+    "Dynamical system",
+    "Control theory",
+    "Time derivative",
+    "Gradient (∇)",
+    "Foster-Lyapunov function"
+  ],
+  "related_conjectures": [
+    "LaSalle's Invariance Principle",
+    "Lyapunov's Direct Method",
+    "Lyapunov's Indirect Method",
+    "Invariance Principle (related to control theory)"
+  ],
+  "subjects": [
+    "Dynamical systems theory",
+    "Control theory",
+    "Ordinary differential equations (ODEs)",
+    "Stability theory",
+    "Mathematical physics",
+    "Probability theory (Markov chains)"
+  ]
+}

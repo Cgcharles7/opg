@@ -1,0 +1,43 @@
+{
+  "uuid": "f51c77e5-2809-41db-808d-76fbe90a69df",
+  "name": "Maass wave form",
+  "link": "https://en.wikipedia.org/wiki/Maass_wave_form",
+  "rephrased": "Maass forms are smooth, complex-valued functions on the upper half-plane that transform under a discrete subgroup of SL(2,R) and are eigenfunctions of the hyperbolic Laplacian.",
+  "implication_form": "If a smooth, complex-valued function on the upper half-plane transforms under a discrete subgroup of SL(2,R) and satisfies certain invariance conditions, then it is an eigenfunction of the hyperbolic Laplacian.",
+  "posed_by": "Edward Maass",
+  "solved_by": "unsolved",
+  "year_originated": 77,
+  "explained": "Maass forms (or Maass wave forms) are complex-valued smooth functions defined on the upper half-plane \\(\\mathbb{H}\\), which are eigenfunctions of the hyperbolic Laplacian with eigenvalue \\(\\lambda \\neq 0\\) and transform like automorphic forms under the action of a discrete subgroup \\(\\Gamma\\) of \\(\\mathrm{SL}(2,\\mathbb{R})\\). Specifically, a Maass form for \\(\\Gamma\\) is a function \\(f: \\mathbb{H} \\to \\mathbb{C}\\) satisfying the following conditions:\\n\\n1. **Transformation Property:** For all \\(\\gamma = \\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix} \\in \\Gamma\\) and \\(z \\in \\mathbb{H}\\), \\(f\\left(\\frac{az + b}{cz + d}\\right) = (cz + d)^0 f(z)\\), where the exponent 0 indicates no additional factor (contrasted with non-zero exponents for holomorphic modular forms).\\n\\n2. **Eigenfunction of the Laplacian:** It satisfies the eigenvalue equation \\(\\Delta f = \\lambda f\\), where \\(\\lambda \\neq 0\\) and the hyperbolic Laplacian is given by \\(\\Delta = -\\left(\\frac{1}{y^2} \\frac{\\partial^2}{\\partial x^2} + \\frac{1}{y^2} \\frac{\\partial^2}{\\partial y^2} + \\frac{2i}{y} \\frac{\\partial}{\\partial x}\\right)\\) (often defined with a negative sign, making \\(\\lambda\\) positive).\\n\\n3. **Smoothness:** \\(f\\) is smooth (infinitely differentiable) on \\(\\mathbb{H}\\).\\n\\n4. **Growth Condition (Implicit):** While not always explicitly stated in the minimal definition, functions that are eigenfunctions of the Laplacian and invariant under \\(\\Gamma\\) are necessarily bounded if \\(\\Gamma\\) is non-compact (like \\(\\mathrm{SL}(2,\\mathbb{Z})\\)), due to the spectral theorem for the Laplacian on \\(\\Gamma\\backslash\\mathbb{H}\\). Fourier expansions of Maass forms involve hyperbolic Bessel functions and have a Fourier expansion of the form \\(f(z) = \\sum_{n=1}^\\infty c_n \\sqrt{y} K_{2\\sqrt{\\lambda} i n}(2\\pi n z)\\), where \\(K_\\nu\\) is the modified Bessel function of the second kind.",
+  "terms": [
+    "Automorphic Form",
+    "Discrete Subgroup",
+    "SL(2,R)",
+    "Hyperbolic Laplacian",
+    "Eigenfunction",
+    "Eigenvector",
+    "Eigenvalue",
+    "Laplacian (Mathematics)",
+    "Modular Form",
+    "Fourier Expansion (Hyperbolic Space)",
+    "Bessel Function",
+    "K-Bessel Function",
+    "Maass Spectra",
+    "Laplacian Eigenvalues"
+  ],
+  "related_conjectures": [
+    "Ramanujan-Petersson Conjecture (relates to bounding Fourier coefficients and eigenvalues)",
+    "Langlands Program (relates Maass forms to Galois representations and L-functions)",
+    "Non-Abelian Langlands Program",
+    "Selberg Eigenvalue Conjecture (predicts that all non-trivial eigenvalues of the Laplacian on \\(\\Gamma=\\mathrm{SL}(2,\\mathbb{Z})\\backslash\\mathbb{H}\\) are positive)"
+  ],
+  "subjects": [
+    "Automorphic Forms",
+    "Number Theory",
+    "Harmonic Analysis",
+    "Representation Theory",
+    "Ergodic Theory",
+    "Spectral Theory",
+    "Algebraic Geometry",
+    "Lie Theory"
+  ]
+}

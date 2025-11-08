@@ -1,0 +1,31 @@
+{
+  "uuid": "70e09dee-aa00-40c6-a2a9-e6ec14b63e66",
+  "name": "Petersen graph",
+  "link": "https://en.wikipedia.org/wiki/Petersen_graph",
+  "rephrased": "The Petersen graph is a 3-regular, non-planar graph with 10 vertices and 15 edges, serving as a fundamental counterexample in graph theory.",
+  "implication_form": "Not applicable",
+  "posed_by": "Julius Petersen",
+  "solved_by": "unsolved",
+  "year_originated": 138,
+  "explained": "The Petersen graph is a specific, well-defined undirected graph with 10 vertices and 15 edges, not a conjecture itself. It is characterized as a cubic graph (each vertex has degree 3), bridgeless (no edges whose removal disconnects the graph), and non-3-edge-colorable (it cannot be properly edge-colored with three colors). It is named after Julius Petersen, who described it in 1898.",
+  "terms": [
+    "Graph theory",
+    "Cubic graph",
+    "10-vertex graph",
+    "15-edge graph",
+    "Bridgeless graph",
+    "Non-3-edge-colorable graph",
+    "Chromatic index (4)",
+    "Undirected graph"
+  ],
+  "related_conjectures": [
+    "Petersen Graph Hypothesis (infinite graph theory)",
+    "Four Color Theorem",
+    "NP-completeness (used in complexity proofs)"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Theoretical computer science"
+  ]
+}

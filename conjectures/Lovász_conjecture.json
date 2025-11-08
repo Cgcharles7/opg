@@ -1,0 +1,26 @@
+{
+  "uuid": "6fd2dbbd-27c2-4aae-9204-8f574e9da3df",
+  "name": "Lovász conjecture",
+  "link": "https://en.wikipedia.org/wiki/Lov%C3%A1sz_conjecture",
+  "rephrased": "Every finite, connected graph where all vertices are equivalent (vertex-transitive) contains a path that visits every vertex exactly once (a Hamiltonian path).",
+  "implication_form": "If a graph is finite, connected, and vertex-transitive, then it has a Hamiltonian path.",
+  "posed_by": "László Lovász",
+  "solved_by": "unsolved",
+  "year_originated": 54,
+  "explained": "The Lovász conjecture (1969), now standardly stated, asserts that every finite, connected graph that is vertex-transitive contains a Hamiltonian path. A Hamiltonian path visits each vertex exactly once. Although László Lovász originally posed the problem in the opposite form, the current formulation—that vertex-transitive graphs possess Hamiltonian paths—has become widely accepted and studied.",
+  "terms": [
+    "Vertex-transitive graph",
+    "Hamiltonian path",
+    "Finite graph",
+    "Connected graph"
+  ],
+  "related_conjectures": [
+    "Babai's conjecture (1996)"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Group theory",
+    "Algorithms"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "uuid": "f8fcdea7-d6be-43fa-907d-e499a47a50ac",
+  "name": "Osserman manifold",
+  "link": "https://en.wikipedia.org/wiki/Osserman_manifold",
+  "rephrased": "A Riemannian manifold is called an Osserman manifold if the characteristic polynomial of its Jacobi operator is constant across all unit tangent vectors.",
+  "implication_form": "If a Riemannian manifold has a constant characteristic polynomial for its Jacobi operator on the unit tangent bundle, then it is an Osserman manifold.",
+  "posed_by": "Robert Osserman",
+  "solved_by": "unsolved",
+  "year_originated": 65,
+  "explained": "An Osserman manifold is a Riemannian manifold (M, g) defined by the property that the characteristic polynomial of the Jacobi operator acting on the tangent space at each point is constant across all unit tangent vectors at that point. Formally, for each point p ∈ M, the Jacobi operator J: T_pM → End(T_pM) defined by J(v) = ∇_v ∇_v R(v, ⋅)⋅⋅⋅ (where ∇ is the Levi-Civita connection and R is the curvature tensor) has a characteristic polynomial det(λI - J(v)) that is independent of the unit vector v ∈ S(T_pM).",
+  "terms": [
+    "Riemannian manifold",
+    "Unit tangent bundle",
+    "Jacobi operator",
+    "Curvature tensor",
+    "Levi-Civita connection",
+    "Characteristic polynomial",
+    "Eigenvalue",
+    "Spectral geometry"
+  ],
+  "related_conjectures": [
+    "Yamabe problem",
+    "Gauss-Bonnet theorem",
+    "Positive curvature conjectures (e.g., Grove–Petersen conjecture)",
+    "Conformal geometry conjectures (e.g., conjectures related to the conformal Laplacian)"
+  ],
+  "subjects": [
+    "Differential geometry",
+    "Riemannian geometry",
+    "Spectral geometry",
+    "Global analysis",
+    "Algebraic topology (via characteristic classes or characteristic polynomials)"
+  ]
+}

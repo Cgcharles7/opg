@@ -1,0 +1,33 @@
+{
+  "uuid": "226010cf-eb7b-4b4e-b111-f618c16097db",
+  "name": "Nagata's conjecture on curves",
+  "link": "https://en.wikipedia.org/wiki/Nagata%27s_conjecture_on_curves",
+  "rephrased": "The minimal degree of a plane algebraic curve needed to pass through a set of very general points, each with a specified multiplicity, is greater than the sum of the square roots of the multiplicities.",
+  "implication_form": "It is difficult to express Nagata's conjecture in a simple 'If P, then Q' form due to its existential nature regarding the minimal degree and the generality of points. It essentially states that for a collection of points and multiplicities, the condition of the curve passing through them with those multiplicities forces the degree to satisfy a lower bound.",
+  "posed_by": "Masayoshi Nagata",
+  "solved_by": "unsolved",
+  "year_originated": "at least 60",
+  "explained": "Nagata's conjecture on curves addresses the minimal degree required for a plane algebraic curve to satisfy certain conditions. Specifically, it states that for a collection of distinct points in the complex projective plane \\(\\mathbb{P}^2_\\mathbb{C}\\), with multiplicities \\(m_1, m_2, \\dots, m_k\\), the minimal degree \\(d\\) of a curve passing through all these points with at least the specified multiplicities must satisfy \\(d^2 > \\sum_{i=1}^k m_i^2\\). More precisely, the conjecture asserts that the minimal degree \\(d\\) is given by \\(d = \\sqrt{\\sum m_i^2 + \\epsilon}\\) for some \\(\\epsilon > 0\\), meaning that \\(d^2 = \\sum m_i^2 + \\epsilon\\) for some positive \\(\\epsilon\\). This minimal degree is achieved for a very general choice of points (generic points) with the given multiplicities.",
+  "terms": [
+    "Plane algebraic curve",
+    "Projective plane",
+    "Multiplicity",
+    "Minimal degree",
+    "Very general points",
+    "Brill-Noether theory",
+    "Interpolation problems",
+    "Linear systems",
+    "Rational curves"
+  ],
+  "related_conjectures": [
+    "The conjectured formula for the minimal degree of curves passing through general points with general multiplicities",
+    "Other interpolation conjectures in algebraic geometry",
+    "Minimal degree problems for curves in higher-dimensional spaces"
+  ],
+  "subjects": [
+    "Algebraic geometry",
+    "Commutative algebra",
+    "Complex geometry",
+    "Computational algebraic geometry"
+  ]
+}

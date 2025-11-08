@@ -1,0 +1,34 @@
+{
+  "uuid": "12d24bc5-1e54-4f94-a5c2-d8ab6ebbae7a",
+  "name": "Lindelöf hypothesis",
+  "link": "https://en.wikipedia.org/wiki/Lindel%C3%B6f_hypothesis",
+  "rephrased": "The Lindelöf hypothesis states that the Riemann zeta function, when evaluated on the critical line (where the real part is 1/2), does not grow too quickly as the imaginary part becomes large. Specifically, its size is bounded by a very slow-growing function of the imaginary part.",
+  "implication_form": "If the Riemann hypothesis is true, then the Lindelöf hypothesis holds.",
+  "posed_by": "Ernst Leonard Lindelöf",
+  "solved_by": "unsolved",
+  "year_originated": 120,
+  "explained": "The Lindelöf hypothesis is a conjecture concerning the growth of the Riemann zeta function ζ(s) on the critical line, where s = 1/2 + it for real t. It states that for any ε > 0, ζ(1/2 + it) does not grow faster than any positive power of |t| as |t| approaches infinity. More formally, it asserts that lim sup_{|t| → ∞} |ζ(1/2 + it)| / |t|^ε = 1. This means that ζ(1/2 + it) is bounded by a constant times |t|^ε for large |t| and any ε > 0.",
+  "terms": [
+    "Riemann zeta function",
+    "Dirichlet series",
+    "L-functions",
+    "Hardy-Littlewood circle method",
+    "Fourier analysis",
+    "Complex analysis",
+    "Riemann hypothesis"
+  ],
+  "related_conjectures": [
+    "Riemann hypothesis",
+    "Bui-Jutila conjecture",
+    "Sub-Weyl bound",
+    "Weyl's bound",
+    "Growth of L-functions"
+  ],
+  "subjects": [
+    "Number theory",
+    "Complex analysis",
+    "Analytic number theory",
+    "Dirichlet series",
+    "L-functions"
+  ]
+}

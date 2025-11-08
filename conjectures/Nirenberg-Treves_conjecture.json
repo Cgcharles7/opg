@@ -1,0 +1,34 @@
+{
+  "uuid": "f9cb8aa3-88fe-4ab6-a1ba-071f3e2e4bfa",
+  "name": "Nirenberg–Treves conjecture",
+  "link": null,
+  "rephrased": "A pseudo-differential operator with a symbol satisfying specific conditions (related to its oscillatory behavior) is invertible if it is almost periodic.",
+  "implication_form": "If a pseudo-differential operator has a symbol in the class considered and is almost periodic, then it is invertible.",
+  "posed_by": "Louis Nirenberg and François Treves",
+  "solved_by": "Charles Fefferman",
+  "year_originated": 55,
+  "explained": "The Nirenberg–Treves conjecture, formulated by Serge Nirenberg and François Treves, addresses the relationship between the local solvability of a linear partial differential operator and the geometric properties of its characteristic variety. It proposes that an operator is locally solvable if and only if its characteristic variety is of finite type. The 'characteristic variety' refers to the variety defined by the vanishing of the principal symbol, while 'finite type' means that at each point in the characteristic variety, there exists a finite set of vector fields generating its tangent space. 'Locally solvable' means that the operator can be inverted modulo compact operators locally. This conjecture was specifically investigated for the Cauchy-Riemann operator in several complex variables, which is a fundamental object in several complex variables and CR geometry. However, the conjecture was ultimately disproven by a counterexample constructed by J.J. Kohn and Andrew G. Tartakoff in dimensions greater than two.",
+  "terms": [
+    "Differential operator",
+    "Partial differential equation (PDE)",
+    "Local solvability",
+    "Hypoellipticity",
+    "Characteristic variety",
+    "Finite type",
+    "Principal symbol",
+    "Cauchy-Riemann operator",
+    "Several complex variables",
+    "CR geometry"
+  ],
+  "related_conjectures": [
+    "Hörmander's sum of squares conjecture",
+    "Kohn–Nirenberg conjecture"
+  ],
+  "subjects": [
+    "Partial differential equations",
+    "Several complex variables",
+    "Complex analysis",
+    "Singularities",
+    "Microlocal analysis"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "uuid": "480d29a7-8d38-403a-814b-44e162bc62ea",
+  "name": "Lucas–Wieferich prime",
+  "link": "https://en.wikipedia.org/wiki/Wieferich_prime",
+  "rephrased": "A Lucas–Wieferich prime is a prime number that satisfies a specific condition related to Lucas sequences and is analogous to the concept of a Wieferich prime.",
+  "implication_form": "If a prime satisfies the Lucas–Wieferich condition, then it is a Lucas–Wieferich prime.",
+  "posed_by": "Arthur Wieferich (in the context of Fermat's Last Theorem, though the specific Lucas–Wieferich concept may have been formalized later)",
+  "solved_by": "Unsolved",
+  "year_originated": 1909,
+  "explained": "A Wieferich prime is a prime number p such that p² divides 2^{p-1} - 1. This condition is stronger than Fermat's Little Theorem, which states that for any odd prime p, p divides 2^{p-1} - 1. Wieferich primes were first described by Arthur Wieferich in 1909 in works pertaining to Fermat's Last Theorem. There are only two known Wieferich primes: 1093 and 3511.",
+  "terms": [
+    "Fermat's Last Theorem",
+    "Fermat quotient",
+    "Pseudoprime",
+    "Repunit prime",
+    "Wall-Sun-Sun prime"
+  ],
+  "related_conjectures": [
+    "Artin's conjecture on primitive roots",
+    "Properties of generalized Fermat pseudoprimes",
+    "Conjectures related to repunit primes"
+  ],
+  "subjects": [
+    "Number theory",
+    "Prime numbers",
+    "Diophantine equations",
+    "Cryptography"
+  ]
+}

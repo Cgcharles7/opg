@@ -1,0 +1,37 @@
+{
+  "uuid": "674ede17-a3b5-4006-a3dd-81f04638bff1",
+  "name": "Quillen–Lichtenbaum conjecture",
+  "link": "https://en.wikipedia.org/wiki/Quillen%E2%80%93Lichtenbaum_conjecture",
+  "rephrased": "The conjecture connects étale cohomology to algebraic K-theory, specifically asserting that their ranks and orders at prime numbers match for certain algebraic structures.",
+  "implication_form": "If the algebraic K-theory groups are isomorphic to étale cohomology groups, then their ranks and orders at prime numbers are equal.",
+  "posed_by": "Daniel Quillen and Stephen Lichtenbaum",
+  "solved_by": "Vladimir Voevodsky (using the Bloch-Kato conjecture)",
+  "year_originated": 48,
+  "explained": "The Quillen–Lichtenbaum conjecture proposes a deep connection between étale cohomology and algebraic K-theory for schemes, particularly regular schemes over Dedekind domains. It predicts that the algebraic K-theory of a regular scheme X, localized at a prime p, is related to its étale cohomology via an isomorphism involving inverse limits. Specifically, for a regular scheme X proper over a strictly Henselian discrete valuation ring or a field, the Quillen–Lichtenbaum conjecture states that the pro-group completion of the algebraic K-theory of X is isomorphic to the étale cohomology of X, shifted appropriately. In simpler terms, it suggests that the higher regulators from algebraic K-theory can be understood via étale cohomology, providing a bridge between number-theoretic and topological invariants.",
+  "terms": [
+    "Étale cohomology",
+    "Algebraic K-theory",
+    "Chern character",
+    "Regular scheme",
+    "Dedekind domain",
+    "Discrete valuation ring",
+    "Inverse limit",
+    "Pro-group completion",
+    "Higher regulator",
+    "Number theory",
+    "Algebraic geometry"
+  ],
+  "related_conjectures": [
+    "Bloch–Kato conjecture",
+    "Milnor conjecture (now proven part of Bloch-Kato)",
+    "Beilinson conjectures",
+    "B Bloch–Souda conjecture",
+    "Lichtenbaum conjecture (often considered a special case or related formulation)"
+  ],
+  "subjects": [
+    "Algebraic Geometry",
+    "Number Theory",
+    "Algebraic Topology",
+    "Homotopy Theory"
+  ]
+}

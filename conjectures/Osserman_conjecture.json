@@ -1,0 +1,33 @@
+{
+  "uuid": "44bf089f-fa57-4fc2-8b90-f3552ba09774",
+  "name": "Osserman conjecture",
+  "link": "https://en.wikipedia.org/wiki/Osserman_manifold",
+  "rephrased": "A Riemannian manifold is an Osserman manifold if the characteristic polynomial of its Jacobi operator, evaluated on unit tangent vectors, is constant across the entire unit tangent bundle.",
+  "implication_form": "If a Riemannian manifold has a constant characteristic polynomial for its Jacobi operator on the unit tangent bundle, then it is an Osserman manifold.",
+  "posed_by": "Robert Osserman",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": "The Osserman conjecture, formulated by mathematician Robert Osserman, addresses Riemannian manifolds known as Osserman manifolds. An Osserman manifold is defined by the condition that the characteristic polynomial of the Jacobi operator, evaluated on unit tangent vectors, is constant across the entire unit tangent bundle. The conjecture itself posits that any Riemannian manifold satisfying this Osserman condition (i.e., being an Osserman manifold) must be conformally flat. In other words, the underlying metric can be transformed by a conformal change to a flat metric. This conjecture connects the algebraic properties related to curvature (encoded in the Jacobi operator) to the global geometric property of conformal flatness.",
+  "terms": [
+    "Riemannian manifold",
+    "Unit tangent bundle",
+    "Jacobi operator",
+    "Characteristic polynomial",
+    "Conformal flatness",
+    "Conformal geometry",
+    "Curvature tensor",
+    "Einstein manifold"
+  ],
+  "related_conjectures": [
+    "Hitchin–Thorpe conjecture (relates to the existence of Einstein metrics on 4-manifolds, which often relate to special curvature conditions like those in Osserman manifolds)",
+    "Differentiable Sphere theorem (addresses conditions under which a manifold with positive curvature is homeomorphic to a sphere, contrasting with the conformal flatness conclusion of the Osserman conjecture)",
+    "Conformal geometry conjectures (e.g., conjectures regarding conformal invariants or metrics with constant curvature)"
+  ],
+  "subjects": [
+    "Differential Geometry",
+    "Riemannian Geometry",
+    "Conformal Geometry",
+    "Global Geometry",
+    "Partial Differential Equations (in the context of curvature conditions)"
+  ]
+}

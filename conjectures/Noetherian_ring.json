@@ -1,0 +1,14 @@
+{
+  "uuid": "f42ce4b5-d753-4931-ad04-58e528c6a779",
+  "name": "Noetherian ring",
+  "link": "https://en.wikipedia.org/wiki/Noetherian_ring",
+  "rephrased": "A Noetherian ring is one where any collection of ideals can be built from a finite number by taking intersections and summing up, or equivalently, where any ascending sequence of ideals eventually stabilizes.",
+  "implication_form": "If a ring satisfies the ascending chain condition on its ideals (or left/right ideals), then it is a Noetherian ring.",
+  "posed_by": "Emmy Noether",
+  "solved_by": "The concept is foundational in ring theory and is considered solved; it's a cornerstone definition.",
+  "year_originated": 1921,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

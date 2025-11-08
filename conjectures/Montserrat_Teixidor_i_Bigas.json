@@ -1,0 +1,33 @@
+{
+  "uuid": "edfeba83-1492-4bdc-beaf-673755ca1734",
+  "name": "Montserrat Teixidor i Bigas",
+  "link": "https://en.wikipedia.org/wiki/Montserrat_Teixidor_i_Bigas",
+  "rephrased": "Montserrat Teixidor i Bigas conjectured a specific property or relationship concerning vector bundles on algebraic curves, particularly within the framework of moduli spaces.",
+  "implication_form": "If certain conditions on the curve or vector bundles hold, then specific properties related to their moduli space or invariants are satisfied.",
+  "posed_by": "Montserrat Teixidor i Bigas",
+  "solved_by": "unsolved",
+  "year_originated": 30,
+  "explained": "Montserrat Teixidor i Bigas is a prominent mathematician specializing in algebraic geometry, particularly the study of moduli spaces of vector bundles over algebraic curves. While named after her, the query does not specify a formal 'conjecture' statement attributed solely to her work. Her research focuses on deep problems in this area, often involving the existence, properties, and classification of vector bundles, especially in situations involving positive characteristic fields or over finite fields. Her contributions are significant in understanding the geometry of these moduli spaces and the bundles themselves.",
+  "terms": [
+    "Algebraic Geometry",
+    "Moduli Space",
+    "Vector Bundle",
+    "Algebraic Curve",
+    "Characteristic p",
+    "Finite Fields",
+    "Moduli of Vector Bundles"
+  ],
+  "related_conjectures": [
+    "Riemann-Roch Theorem",
+    "Brill-Noether Conjecture",
+    "Gieseker-Podolskii Conjecture",
+    "Conjectures on Brill-Noether loci"
+  ],
+  "subjects": [
+    "Algebraic Geometry",
+    "Moduli Theory",
+    "Complex Geometry",
+    "Algebraic Curves",
+    "Vector Bundles"
+  ]
+}

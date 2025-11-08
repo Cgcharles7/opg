@@ -1,0 +1,27 @@
+{
+  "uuid": "1b86f24a-f1ee-482e-9d5a-e1bc9d71cdca",
+  "name": "Legendre's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Legendre%27s_conjecture",
+  "rephrased": "For every positive integer n, there is at least one prime number between n² and (n+1)².",
+  "implication_form": "If n is a positive integer, then there exists a prime number between n² and (n+1)².",
+  "posed_by": "Adrien-Marie Legendre",
+  "solved_by": "unsolved",
+  "year_originated": 225,
+  "explained": "Legendre's conjecture states that for every positive integer n, there exists at least one prime number p such that n² < p < (n+1)².",
+  "terms": [
+    "Prime number",
+    "Square number",
+    "Prime gap",
+    "Prime distribution"
+  ],
+  "related_conjectures": [
+    "Bertrand's postulate (which guarantees a prime between n and 2n)",
+    "Goldbach conjecture (concerning even numbers as sums of primes)",
+    "Prime number theorem (describing the asymptotic distribution of primes)"
+  ],
+  "subjects": [
+    "Number theory",
+    "Prime numbers",
+    "Analytic number theory"
+  ]
+}

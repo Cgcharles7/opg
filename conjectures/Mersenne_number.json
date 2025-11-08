@@ -1,0 +1,26 @@
+{
+  "uuid": "11322e24-2cf9-4104-aeb3-fb2d298518d3",
+  "name": "Mersenne number",
+  "link": "https://en.wikipedia.org/wiki/Mersenne_prime",
+  "rephrased": "A Mersenne prime is a prime number that is one less than a power of two with a prime exponent.",
+  "implication_form": "If 2^n - 1 is prime, then n must be prime.",
+  "posed_by": "Marin Mersenne",
+  "solved_by": "unsolved",
+  "year_originated": 379,
+  "explained": "A Mersenne number is defined as a number of the form Mn = 2^n - 1. A Mersenne prime is a Mersenne number that is prime. The key conjecture associated with this form is that the primality of Mn depends solely on the primality of n (i.e., if n is composite, then Mn is composite), which is not entirely proven but strongly supported. The main open question is whether there are infinitely many Mersenne primes.",
+  "terms": [
+    "Mersenne number",
+    "Mersenne prime",
+    "Perfect number",
+    "Primality testing"
+  ],
+  "related_conjectures": [
+    "Infinitude of Mersenne primes",
+    "Connection between Mersenne primes and other conjectures (e.g., Artin's conjecture on primitive roots, Riemann Hypothesis via Miller's test)"
+  ],
+  "subjects": [
+    "Number theory",
+    "Primality testing",
+    "Digital methods"
+  ]
+}

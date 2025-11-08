@@ -1,0 +1,31 @@
+{
+  "uuid": "729e3a0e-b7c1-45ee-956e-d44a9632b408",
+  "name": "McKay conjecture",
+  "link": "https://en.wikipedia.org/wiki/McKay_conjecture",
+  "rephrased": "For any finite group and any prime number p, the number of irreducible complex characters of the group that are not divisible by p equals the number of such characters in the normalizer of any Sylow p-subgroup.",
+  "implication_form": "",
+  "posed_by": "John McKay",
+  "solved_by": "unsolved",
+  "year_originated": 50,
+  "explained": "The McKay conjecture, formulated by John McKay, asserts that for any finite group G and any prime number p, the number of irreducible complex characters of G whose degrees are not divisible by p is equal to the number of irreducible complex characters of the normalizer N_G(P) of any Sylow p-subgroup P of G whose degrees are not divisible by p. In other words, | Irr(G | p') | = | Irr(N_G(P) | p') |, where p' denotes that the degree is coprime to p.",
+  "terms": [
+    "Finite group theory",
+    "Sylow p-subgroup",
+    "Normalizer (group theory)",
+    "Irreducible complex character",
+    "Degree of a character",
+    "p'-degree"
+  ],
+  "related_conjectures": [
+    "Feit–Thompson theorem",
+    "Alperin's weight conjecture",
+    "Langlands program (in finite fields)",
+    "Block theory of finite groups"
+  ],
+  "subjects": [
+    "Finite group theory",
+    "Representation theory of finite groups",
+    "Character theory",
+    "Modular representation theory"
+  ]
+}

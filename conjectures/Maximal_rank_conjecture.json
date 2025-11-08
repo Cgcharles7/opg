@@ -1,0 +1,35 @@
+{
+  "uuid": "2a78ec9f-3e0f-4f94-b92d-aa42394fc064",
+  "name": "Maximal rank conjecture",
+  "link": null,
+  "rephrased": "For a general curve of genus g, the expected dimension of the space of sections of the canonical bundle is achieved, meaning the map from the space of global sections to the space of sections has maximal rank.",
+  "implication_form": "If a curve is general of genus g, then the map from H^0(K_C) to H^0(L_C) has maximal rank (i.e., its dimension equals its rank).",
+  "posed_by": "David Eisenbud and Joe Harris",
+  "solved_by": "unsolved",
+  "year_originated": 44,
+  "explained": "The Maximal Rank Conjecture is a foundational conjecture in algebraic geometry and enumerative geometry. It concerns the dimension of the moduli space of curves (more precisely, stable maps) in a smooth projective variety (like a complex projective variety) that satisfy certain incidence conditions. The conjecture predicts that for a general curve (or a general stable map from a curve) and a general target variety, the expected dimension of the space of such curves (or maps) passing through a given set of points (or more generally, satisfying given conditions) is equal to the maximal possible rank of the relevant cohomology groups (or obstruction theories) involved. In simpler terms, it posits that the enumerative geometry of curves in a variety behaves in its 'largest possible' dimension, without unexpected obstructions reducing the dimension further than anticipated by standard intersection theory calculations.",
+  "terms": [
+    "Brill-Noether theory",
+    "Gromov-Witten invariants",
+    "Brill-Noether variety",
+    "Brill-Noether locus",
+    "Moduli space of stable maps",
+    "Enumerative geometry",
+    "Kontsevich-Zagier conjecture",
+    "Kontsevich conjecture",
+    "Curve in a variety"
+  ],
+  "related_conjectures": [
+    "Kontsevich's conjecture on enumerative geometry",
+    "Clemens' conjecture on isolated curves",
+    "The very general Kontsevich conjecture",
+    "Conjectures regarding the Kodaira dimension of moduli spaces"
+  ],
+  "subjects": [
+    "Algebraic geometry",
+    "Enumerative geometry",
+    "Complex geometry",
+    "Symplectic geometry",
+    "Moduli theory"
+  ]
+}

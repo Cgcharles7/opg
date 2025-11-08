@@ -1,0 +1,28 @@
+{
+  "uuid": "bb640c41-8632-40ea-b458-666cdd5d4001",
+  "name": "Mandelbrot set",
+  "link": "https://en.wikipedia.org/wiki/Mandelbrot_set",
+  "rephrased": "The Mandelbrot set consists of all complex numbers 'c' for which the sequence defined by 'z₀ = 0' and 'z_{n+1} = z_n² + c' does not diverge to infinity.",
+  "implication_form": "If the sequence defined by iterating the function f(z) = z² + c starting from 0 remains bounded, then the complex number c belongs to the Mandelbrot set.",
+  "posed_by": "Benoît Mandelbrot",
+  "solved_by": "unsolved",
+  "year_originated": 40,
+  "explained": "The Mandelbrot set is a mathematical set of complex numbers c for which the function f_c(z) = z² + c, when iterated starting from z = 0, does not diverge to infinity. A complex number c is in the Mandelbrot set if the sequence defined by z_0 = 0, z_{n+1} = z_n² + c remains bounded (does not escape to infinity) for all n. It is defined in the complex plane and is one of the most famous examples of a fractal, characterized by an infinitely repeating, jagged boundary.",
+  "terms": [
+    "Complex numbers",
+    "Iteration",
+    "Fractal",
+    "Escape criterion",
+    "Julia set",
+    "Bounded orbit"
+  ],
+  "related_conjectures": [
+    "The Mandelbrot-Siegel conjecture (regarding the Hausdorff dimension of the boundary)",
+    "The density of the Mandelbrot set in the sense that hyperbolic components are dense in its boundary"
+  ],
+  "subjects": [
+    "Complex dynamics",
+    "Fractal geometry",
+    "Dynamical systems"
+  ]
+}

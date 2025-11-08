@@ -1,0 +1,28 @@
+{
+  "uuid": "d99fe0f3-d3f5-4b98-838a-57cbeb5d99e3",
+  "name": "Pierce–Birkhoff conjecture",
+  "link": "https://en.wikipedia.org/wiki/Pierce%E2%80%93Birkhoff_conjecture",
+  "rephrased": "Any function that is piecewise defined by polynomials can be expressed as the maximum over a finite set of minima, where each minimum is taken over a finite set of polynomials.",
+  "implication_form": "If a function is piecewise-polynomial, then it can be expressed as the maximum of finite minima of finite collections of polynomials.",
+  "posed_by": "Garrett Birkhoff and Richard S. Pierce (initially stated informally), Melvin Henriksen and John R. Isbell (formalized the rigorous statement)",
+  "solved_by": "unsolved",
+  "year_originated": 67,
+  "explained": "The Pierce-Birkhoff conjecture, formulated in the context of lattice-ordered rings (l-rings) or f-rings, states that any piecewise-polynomial function defined on a compact interval (typically [0,1]) can be expressed as the supremum (maximum) of a finite collection of infima (minima) of finite collections of polynomials.",
+  "terms": [
+    "Piecewise-polynomial function",
+    "Lattice-ordered ring (l-ring)",
+    "f-ring",
+    "Supremum (maximum)",
+    "Infimum (minimum)",
+    "Polynomial"
+  ],
+  "related_conjectures": [
+    "Skolem Problem (Note: While both are conjectures in mathematics, the Skolem Problem is unrelated to the Pierce-Birkhoff conjecture and pertains to linear recurrence sequences.)"
+  ],
+  "subjects": [
+    "Abstract algebra",
+    "Lattice theory",
+    "Real algebraic geometry",
+    "Ordered algebraic structures"
+  ]
+}

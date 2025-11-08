@@ -1,0 +1,31 @@
+{
+  "uuid": "bce87ba9-ba01-46a0-9f1a-877d54499a37",
+  "name": "Pompeiu problem",
+  "link": "https://en.wikipedia.org/wiki/Pompeiu_problem",
+  "rephrased": "If a continuous function's integral over every rotated and translated copy of a simply connected Lipschitz domain K is zero, then K must be a ball.",
+  "implication_form": "If the integral of a nonzero continuous function vanishes on every congruent copy of a simply connected Lipschitz domain K, then K is a ball.",
+  "posed_by": "Dimitrie Pompeiu",
+  "solved_by": "unsolved",
+  "year_originated": 94,
+  "explained": "The Pompeiu problem is a conjecture in integral geometry. It states that if a nonzero continuous function f defined on a Euclidean space has the property that its integral vanishes (i.e., is zero) over every congruent copy (i.e., every translation, rotation, and scaling) of a given simply connected Lipschitz domain K, then the domain K itself must be a ball (in the Euclidean space).",
+  "terms": [
+    "Integral geometry",
+    "Lipschitz domain",
+    "Simply connected",
+    "Congruent copies",
+    "Euclidean space",
+    "Integral of a function",
+    "Schiffer's conjecture"
+  ],
+  "related_conjectures": [
+    "Schiffer's conjecture",
+    "The Soap Bubble Conjecture",
+    "The Pompeiu-Schiffer conjecture"
+  ],
+  "subjects": [
+    "Integral geometry",
+    "Harmonic analysis",
+    "Partial differential equations",
+    "Geometric analysis"
+  ]
+}

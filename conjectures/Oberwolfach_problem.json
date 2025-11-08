@@ -1,0 +1,36 @@
+{
+  "uuid": "b8e5bc43-a627-4975-8661-454433dc9312",
+  "name": "Oberwolfach problem",
+  "link": "https://en.wikipedia.org/wiki/Oberwolfach_problem",
+  "rephrased": "The Oberwolfach problem asks whether it is possible to schedule a dinner party where a set of people (represented as vertices) are seated around tables (cycles) such that everyone sits with everyone else exactly once, or equivalently, whether a complete graph with an even number of vertices can be decomposed into edge-disjoint cycles each covering all vertices.",
+  "implication_form": "If a complete graph K_{2n} (with an even number of vertices) exists, then it can be decomposed into edge-disjoint Hamiltonian cycles.",
+  "posed_by": "Gerhard Ringel",
+  "solved_by": "unsolved",
+  "year_originated": 56,
+  "explained": "The Oberwolfach problem is an open question in graph theory concerning the existence of certain cycle covers in complete graphs. Abstractly, it asks: for given integers n (number of vertices) and k (cycle length), and a collection of cycle lengths {l1, l2, ..., lm} such that their sum is n, does the complete graph Kn always admit a decomposition of its edges into cycles of lengths l1, l2, ..., lm? In the scheduling interpretation, it involves arranging n people for n-1 meals (or sometimes n meals) such that at each meal, the diners are seated at a round table (cycle) of a specified length, and over the meals, every pair of diners sits together exactly once (or under other constraints depending on the specific variant). The problem is named after the Oberwolfach Research Institute for Mathematics where it was formulated in 1967 by Gerhard Ringel. It is known that the conjecture holds for sufficiently large complete graphs Kn.",
+  "terms": [
+    "Cycle cover",
+    "Decomposition",
+    "Complete graph",
+    "Kn",
+    "Hamiltonian cycle",
+    "Euler tour",
+    "Round table",
+    "Seating arrangement",
+    "Scheduling",
+    "Combinatorial design",
+    "Edge decomposition"
+  ],
+  "related_conjectures": [
+    "Hamiltonian cycle problem",
+    "Eulerian path conjecture (related to decomposing into cycles/euler tours)",
+    "Decomposition problems of complete graphs",
+    "Graceful labeling conjectures"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Combinatorial design",
+    "Theoretical computer science (in relation to complexity of finding decompositions)"
+  ]
+}

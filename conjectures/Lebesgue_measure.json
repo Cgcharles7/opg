@@ -1,0 +1,34 @@
+{
+  "uuid": "fd02babc-2789-4b75-9e84-8fc4d65a09bc",
+  "name": "Lebesgue measure",
+  "link": "https://en.wikipedia.org/wiki/Lebesgue_measure",
+  "rephrased": "A way to assign a 'size' (like length, area, or volume) to sets in Euclidean space, generalizing the standard measures for one, two, and three dimensions.",
+  "implication_form": "If one defines a measure on subsets of Euclidean space satisfying certain properties, then it coincides with the Lebesgue measure for simple geometric shapes and can be used to define the Lebesgue integral.",
+  "posed_by": "Henri Lebesgue",
+  "solved_by": "unsolved",
+  "year_originated": 1902,
+  "explained": "The Lebesgue measure is a fundamental concept in measure theory, not a conjecture but a standard construction. It assigns a measure (length in 1D, area in 2D, volume in 3D, and higher-dimensional analogues) to subsets of Euclidean space ℝⁿ. For n=1,2,3, it coincides with the standard notions of length, area, and volume. The construction involves defining the measure on intervals (or boxes) first and then extending it to all measurable sets via the concept of outer measure, sigma-algebras, and sigma-additivity. A set is Lebesgue-measurable if its boundary is 'small' in a precise sense, and the Lebesgue measure is the unique complete measure extending the standard volume on bounded rectangles.",
+  "terms": [
+    "Measure theory",
+    "Measure",
+    "Length",
+    "Area",
+    "Volume",
+    "Outer measure",
+    "Sigma-algebra",
+    "Sigma-additivity",
+    "Measurable set",
+    "Euclidean space",
+    "Probability",
+    "Integration"
+  ],
+  "related_conjectures": [
+    "The nature of the axiom of choice and its implications for measure theory (e.g., Banach-Tarski paradox highlights the necessity of restricting measurability)."
+  ],
+  "subjects": [
+    "Measure theory",
+    "Real analysis",
+    "Probability theory",
+    "Functional analysis"
+  ]
+}

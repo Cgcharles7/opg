@@ -1,0 +1,27 @@
+{
+  "uuid": "f34ccbcf-35e4-4ba9-b86c-8a91c54e2097",
+  "name": "Mersenne prime",
+  "link": "https://en.wikipedia.org/wiki/Mersenne_prime",
+  "rephrased": "A Mersenne prime is a prime number that can be written as 2 raised to the power of a prime minus one.",
+  "implication_form": "If n is composite, then 2^n - 1 is composite.",
+  "posed_by": "Marin Mersenne",
+  "solved_by": "unsolved",
+  "year_originated": 400,
+  "explained": "A Mersenne prime is a prime number that can be expressed in the form 2^n - 1, where n is an integer. These primes are named after Marin Mersenne, who studied them. An important property is that if n is a composite number, then 2^n - 1 is also composite. Therefore, known Mersenne primes correspond to prime exponents n (though not all prime exponents yield Mersenne primes).",
+  "terms": [
+    "Mersenne prime",
+    "prime number",
+    "power of two",
+    "composite number",
+    "exponent"
+  ],
+  "related_conjectures": [
+    "Riemann Hypothesis",
+    "Infinitude of Primes",
+    "P Versus NP Problem"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Computational Mathematics"
+  ]
+}

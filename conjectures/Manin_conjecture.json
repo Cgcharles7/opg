@@ -1,0 +1,31 @@
+{
+  "uuid": "cc5e6240-ee47-4b56-8038-5dac99f5ecc0",
+  "name": "Manin conjecture",
+  "link": "https://en.wikipedia.org/wiki/Manin_conjecture",
+  "rephrased": "The Manin conjecture predicts how many rational points with a certain bounded 'size' (measured by a height function) there are on a given algebraic variety, suggesting that the count grows roughly like the volume of a certain geometric shape.",
+  "implication_form": "If the height function is appropriately chosen for an algebraic variety, then the number of rational points with bounded height grows asymptotically like the volume of a certain region defined by the variety and the height function.",
+  "posed_by": "Yuri I. Manin and collaborators",
+  "solved_by": "unsolved",
+  "year_originated": 34,
+  "explained": "The Manin conjecture, formulated by Yuri I. Manin and his collaborators in 1989, addresses the asymptotic distribution of rational points on algebraic varieties defined over the field of rational numbers. It posits that for a smooth, projective, geometrically irreducible variety X defined over the rationals, the number of points with Weil height at most H grows asymptotically as c * H^{1/2} * (log H)^k for some constant c and some integer k depending on the variety and the height function. In simpler terms, the density of rational points increases, but not too rapidly, as one considers larger and larger denominators or heights.",
+  "terms": [
+    "Height function",
+    "Rational points",
+    "Algebraic variety",
+    "Arithmetic geometry",
+    "Diophantine approximation",
+    "Fano variety",
+    "Counting lattice points"
+  ],
+  "related_conjectures": [
+    "Faltings' theorem (Mordell-Lang conjecture)",
+    "Bombieri-Lang conjecture",
+    "Batyrev-Manin conjecture (refinement of Manin's conjecture)"
+  ],
+  "subjects": [
+    "Number theory",
+    "Algebraic geometry",
+    "Arithmetic geometry",
+    "Diophantine geometry"
+  ]
+}

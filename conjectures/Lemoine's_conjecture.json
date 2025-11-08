@@ -1,0 +1,25 @@
+{
+  "uuid": "be2406b9-f7e1-49af-b90d-ae79123ccad4",
+  "name": "Lemoine's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Lemoine%27s_conjecture",
+  "rephrased": "Every odd integer greater than 5 can be written as the sum of an odd prime and an even semiprime.",
+  "implication_form": "If an odd integer is greater than 5, then it can be expressed as the sum of an odd prime and an even semiprime.",
+  "posed_by": "Émile Lemoine and Hyman Levy",
+  "solved_by": "unsolved",
+  "year_originated": 150,
+  "explained": "Lemoine's conjecture, also known as Levy's conjecture, states that every odd integer greater than 5 can be expressed as the sum of an odd prime and an even semiprime.",
+  "terms": [
+    "Odd integer",
+    "Odd prime",
+    "Even semiprime",
+    "Semiprime"
+  ],
+  "related_conjectures": [
+    "Goldbach's conjecture",
+    "Wilson's theorem"
+  ],
+  "subjects": [
+    "Number theory",
+    "Prime numbers"
+  ]
+}

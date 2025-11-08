@@ -1,0 +1,37 @@
+{
+  "uuid": "b6a74469-39ab-44ef-a666-075c7c08467d",
+  "name": "Lie group",
+  "link": "https://en.wikipedia.org/wiki/Lie_group",
+  "rephrased": "A Lie group is a mathematical structure that combines the properties of a group (a set with an associative operation, identity, and inverses) with those of a geometric surface (a manifold, which looks locally like flat space). This means you can perform smooth, continuous operations like multiplication and inversion on the group elements.",
+  "implication_form": "If a mathematical object is a group and also a smooth manifold, then it is a Lie group.",
+  "posed_by": "Sophus Lie",
+  "solved_by": "Unsolved (as a definition/concept)",
+  "year_originated": "1870",
+  "explained": "A Lie group is a mathematical structure that combines the algebraic concepts of a group with the geometric concepts of a differentiable manifold. Formally, it is a finite-dimensional real smooth manifold G (a Hausdorff space that is locally Euclidean) equipped with a group structure (a binary operation ·, identity element e, and inversion map ·↦¹⁻¹) such that the multiplication map (g,h)↦g·h: G×G→G and the inversion map g↦g⁻¹: G→G are both smooth (infinitely differentiable) maps. This smooth structure makes Lie groups fundamental objects in the study of continuous symmetries.",
+  "terms": [
+    "Manifold",
+    "Differentiable manifold",
+    "Smooth manifold",
+    "Group",
+    "Lie algebra",
+    "Group action",
+    "Representation theory",
+    "Differential geometry",
+    "Symmetry"
+  ],
+  "related_conjectures": [
+    "Poincaré Conjecture (Topology)",
+    "Langlands Program (Number Theory/Representation Theory)",
+    "Yang-Mills Existence and Mass Gap (Mathematical Physics)",
+    "Classification of finite simple groups (Group Theory)",
+    "Uniformization Conjecture (Complex Geometry)"
+  ],
+  "subjects": [
+    "Differential Geometry",
+    "Lie Theory",
+    "Algebraic Topology",
+    "Representation Theory",
+    "Mathematical Physics",
+    "Topology"
+  ]
+}

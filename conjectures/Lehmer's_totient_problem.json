@@ -1,0 +1,27 @@
+{
+  "uuid": "952d8a5b-54db-4ada-a6f2-0c22b2d99991",
+  "name": "Lehmer's totient problem",
+  "link": "https://en.wikipedia.org/wiki/Lehmer%27s_totient_problem",
+  "rephrased": "No composite number n exists such that φ(n) divides n-1.",
+  "implication_form": "If n is composite, then φ(n) does not divide n-1.",
+  "posed_by": "D. H. Lehmer",
+  "solved_by": "unsolved",
+  "year_originated": 90,
+  "explained": "Lehmer's totient problem is an unsolved conjecture in number theory that asks whether there exists any composite number n such that Euler's totient function φ(n) divides n − 1. It is known that φ(n) = n − 1 if and only if n is prime. Therefore, the conjecture posits that for composite numbers, φ(n) does not divide n − 1, and all composite numbers fail to satisfy this divisibility condition.",
+  "terms": [
+    "Euler's totient function (φ(n))",
+    "Composite number",
+    "Divisor",
+    "n-1",
+    "φ(n)"
+  ],
+  "related_conjectures": [
+    "Carmichael's conjecture",
+    "The problem of whether φ(n) divides n-1 only for primes"
+  ],
+  "subjects": [
+    "Number theory",
+    "Cryptography",
+    "Group theory"
+  ]
+}

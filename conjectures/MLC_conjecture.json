@@ -1,0 +1,29 @@
+{
+  "uuid": "d4d54887-cd6a-4743-9a60-eff2a415b953",
+  "name": "MLC conjecture",
+  "link": "https://en.wikipedia.org/wiki/Mandelbrot_set",
+  "rephrased": "The Mandelbrot set consists of all complex numbers c for which the iteration of the function f_c(z) = z² + c remains bounded.",
+  "implication_form": "If the iteration of f_c(z) = z² + c remains bounded, then c is in the Mandelbrot set.",
+  "posed_by": "Benoît Mandelbrot",
+  "solved_by": "unsolved",
+  "year_originated": 40,
+  "explained": "The Mandelbrot Set Locating Conjecture (MLC) posits that the Mandelbrot set is locally connected. This means that every point in the Mandelbrot set has a neighborhood that is entirely contained within the set and that the set is connected in a local sense. The conjecture is crucial because it relates to the connectivity of the Julia sets associated with points in the Mandelbrot set. Specifically, if the Mandelbrot set is locally connected, then the Julia set of a quadratic polynomial is connected if and only if the parameter is in the Mandelbrot set. Despite its fundamental importance, the MLC remains unproven.",
+  "terms": [
+    "Mandelbrot set",
+    "Julia set",
+    "Locally connected",
+    "Connectedness",
+    "Quasiconformal mapping",
+    "Complex dynamics"
+  ],
+  "related_conjectures": [
+    "Density of Hyperbolicity conjecture",
+    "Invariant Ergodic Measure conjecture",
+    "Mandelbrot set is not a filled Julia set"
+  ],
+  "subjects": [
+    "Complex Dynamics",
+    "Fractal Geometry",
+    "Dynamical Systems"
+  ]
+}

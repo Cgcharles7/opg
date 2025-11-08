@@ -1,0 +1,31 @@
+{
+  "uuid": "b0a6cdf3-96d4-42c4-aed7-6431b63ccca1",
+  "name": "No-three-in-line problem",
+  "link": "https://en.wikipedia.org/wiki/No-three-in-line_problem",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "The no-three-in-line problem is a classic question in discrete geometry. It asks for the maximum number of points that can be placed on an n × n grid such that no three of these points lie on the same straight line. The problem considers all possible lines, including those with any slope (positive, negative, zero, infinite), not just the grid-aligned lines. Henry Dudeney introduced it in 1900. It explores the limits of arranging points on a lattice without creating certain linear dependencies, specifically forbidding any three points from being collinear.",
+  "terms": [
+    "No-three-in-line problem",
+    "Discrete geometry",
+    "Lattice points",
+    "Grid",
+    "Collinear points",
+    "Combinatorial geometry",
+    "Arrangement of points"
+  ],
+  "related_conjectures": [
+    "Orchard-planting problem",
+    "No Four In A Row problem",
+    "Distinct distances problem (Erdős)"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Discrete Geometry",
+    "Extremal Set Theory",
+    "Combinatorial Geometry"
+  ]
+}

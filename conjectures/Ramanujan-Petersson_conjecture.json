@@ -1,0 +1,36 @@
+{
+  "uuid": "33e5209d-dc88-4ae1-b6ed-4b3cf3776307",
+  "name": "Ramanujan–Petersson conjecture",
+  "link": "https://en.wikipedia.org/wiki/Ramanujan%E2%80%93Petersson_conjecture",
+  "rephrased": "A conjecture about how quickly the numbers appearing in certain mathematical objects called modular forms can grow. It states that the coefficients of these forms don't grow faster than a specific power of the number of terms.",
+  "implication_form": "If a modular form has coefficients that grow too rapidly, then it might not be a typical example of a cusp form, but the conjecture says they shouldn't grow faster than n^{k/2-1} for large n.",
+  "posed_by": "Srinivasa Ramanujan and Hans Petersson",
+  "solved_by": "Luo, Rudnick, Sarnak, Ngô Bảo Châu, and Kenichi Takemura",
+  "year_originated": 95,
+  "explained": "The Ramanujan-Petersson conjecture addresses the growth rate of the Fourier coefficients of certain types of mathematical objects called modular forms and more generally, automorphic forms. In its simplest form for modular forms, it states that for a non-zero holomorphic cusp form of weight k on the full modular group, the Fourier coefficients λ(n) satisfy |λ(n)| ≤ d(n) * n^{(k-1)/2 + ε} for all ε > 0, where d(n) is the number of divisors of n. This bound essentially says the coefficients cannot grow too rapidly. More generally, for an automorphic form on a reductive group, the conjecture bounds the supremum of |λ(π)(n)| / n^{(k- (d-r)/2) + ε} over all n, where λ(π)(n) are the Fourier coefficients, k is the weight (or analogous parameter for higher rank), d is the dimension of the ambient space, and r is the rank of the group. The conjecture was first formulated by Srinivasa Ramanujan for the specific case of the Ramanujan tau function (associated with the discriminant modular form) and later generalized by Hans Petersson to all modular forms. It essentially asserts that the L-functions associated with these automorphic forms satisfy a weak form of the Generalized Riemann Hypothesis or are 'as orthogonal as possible'.",
+  "terms": [
+    "Automorphic Forms",
+    "Cusp Forms",
+    "Fourier Coefficients",
+    "Modular Forms",
+    "Holomorphic Modular Forms",
+    "L-functions",
+    "Ramanujan Tau Function",
+    "Satake Parameters",
+    "Sup-norm Bound"
+  ],
+  "related_conjectures": [
+    "Langlands Program",
+    "Sato-Tate Conjecture",
+    "Generalized Riemann Hypothesis (GRH)",
+    "Lindelöf Hypothesis",
+    "Borcherds Automorphic Forms"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Automorphic Forms",
+    "Representation Theory",
+    "Algebraic Geometry",
+    "Algebraic Number Theory"
+  ]
+}

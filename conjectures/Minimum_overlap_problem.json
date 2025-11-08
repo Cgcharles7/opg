@@ -1,0 +1,35 @@
+{
+  "uuid": "8a7cd1fc-c66a-4173-b7ee-278799904c62",
+  "name": "Minimum overlap problem",
+  "link": "https://en.wikipedia.org/wiki/Minimum_overlap_problem",
+  "rephrased": "Find a simplified way to describe sets with minimal intersection under certain conditions.",
+  "implication_form": "Cannot be rephrased as an implication without the original conjecture statement.",
+  "posed_by": "Paul Erdős",
+  "solved_by": "unsolved",
+  "year_originated": 68,
+  "explained": "The Minimum Overlap Problem, proposed by Paul Erdős in 1955, concerns the minimal possible maximum overlap (i.e., the size of the intersection) between two or more sets when they are used to cover or represent elements from a universe, or more generally, when considering the overlap structure of a family of sets. The precise statement often involves finding a family of sets with specific properties (like fixed size or being subsets of a given universe) that minimizes the maximum pairwise intersection size or the overall overlap structure. While the exact statement can vary depending on the specific formulation being considered, the core idea is to find configurations where overlapping elements are minimized, often relating to extremal set theory or problems in combinatorial number theory.",
+  "terms": [
+    "Covering Problem",
+    "Intersection",
+    "Overlap",
+    "Discrepancy Theory",
+    "Extremal Set Theory",
+    "Set System",
+    "Universe",
+    "Combinatorial Number Theory"
+  ],
+  "related_conjectures": [
+    "Erdős–Ginzburg–Ziv Theorem",
+    "Erdős–Faber–Lovász Conjecture",
+    "Kakeya Conjecture",
+    "Erdős–Stone Theorem",
+    "The Erdős–Ko–Rado Theorem"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Set Theory",
+    "Number Theory",
+    "Extremal Set Theory",
+    "Discrepancy Theory"
+  ]
+}

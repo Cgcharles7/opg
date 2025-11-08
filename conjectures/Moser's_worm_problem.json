@@ -1,0 +1,28 @@
+{
+  "uuid": "4d188f1d-33b4-4859-9809-07b4c47f6dbb",
+  "name": "Moser's worm problem",
+  "link": "https://en.wikipedia.org/wiki/Moser%27s_worm_problem",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": "Leo Moser",
+  "solved_by": "unsolved",
+  "year_originated": 57,
+  "explained": "Moser's worm problem, also known as the mother worm's blanket problem, is an unsolved problem in geometry. It asks for the shape of smallest area that can accommodate any plane curve of length 1. A curve is said to be accommodated by a region if it can be rotated and translated (moved around) to fit entirely within that region. The challenge is to find the minimal area required to contain any curve of length 1, regardless of its shape.",
+  "terms": [
+    "plane curve",
+    "length",
+    "accommodate",
+    "area",
+    "rotation",
+    "translation"
+  ],
+  "related_conjectures": [
+    "Moving sofa problem (though different objective)",
+    "Convex hull problem (related concept)"
+  ],
+  "subjects": [
+    "Geometry",
+    "Optimization",
+    "Mathematical analysis"
+  ]
+}
