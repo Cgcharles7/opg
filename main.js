@@ -50,29 +50,36 @@ function inferType(name) {
 }
 
 function buildMenu(categories, parent) {
-  // Sort categories alphabetically
   Object.keys(categories).sort().forEach(cat => {
-    // Create a category header
+    // --- Category Header ---
     const catDiv = document.createElement('div');
     catDiv.classList.add('menu-category');
     catDiv.textContent = cat;
+    catDiv.style.cursor = 'pointer';
+    catDiv.style.fontWeight = 'bold';
+    catDiv.style.marginTop = '8px';
     parent.appendChild(catDiv);
 
-    // Create container for conjecture items
+    // --- Container for the items (hidden by default) ---
     const listDiv = document.createElement('div');
     listDiv.classList.add('menu-list');
+    listDiv.style.display = 'none';
     listDiv.style.paddingLeft = '15px';
     parent.appendChild(listDiv);
 
-    // Group conjectures by inferred type (optional)
-    const groups = { definition: [], theorem: [], conjecture: [] };
+    // --- Toggle visibility when clicking the category ---
+    catDiv.onclick = () => {
+      listDiv.style.display = listDiv.style.display === 'none' ? 'block' : 'none';
+    };
 
+    // --- Group conjectures by inferred type (optional) ---
+    const groups = { definition: [], theorem: [], conjecture: [] };
     categories[cat].forEach(c => {
       const t = inferType(c.name || c.title);
       groups[t].push(c);
     });
 
-    // Render each group (Definition, Theorem, Conjecture)
+    // --- Render groups ---
     Object.entries(groups).forEach(([type, items]) => {
       if (items.length === 0) return;
 
@@ -87,8 +94,9 @@ function buildMenu(categories, parent) {
         const leaf = document.createElement('div');
         leaf.classList.add('menu-leaf');
         leaf.textContent = c.name || c.title;
+        leaf.style.cursor = 'pointer';
         leaf.onclick = (e) => {
-          e.stopPropagation();
+          e.stopPropagation(); // Don’t collapse when clicking inside
           showConjecture(c);
         };
         listDiv.appendChild(leaf);
