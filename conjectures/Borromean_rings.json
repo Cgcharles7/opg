@@ -2,24 +2,15 @@
   "uuid": "0717d34a-1c80-40d2-b077-ad5124fbde8b",
   "name": "Borromean rings",
   "link": "https://en.wikipedia.org/wiki/Borromean_rings",
-  "summary": "Borromean rings are three interlinked rings that fall apart if any single ring is removed, symbolizing strength in unity and interdependence. This symbol has been used to represent the Christian Trinity (as the \"Trinity Rings\"), the aristocratic Borromeo family's coat of arms, and more broadly, the interconnectedness of life and causality. Historically, a similar symbol appeared in ancient Norse art as the valknut.  ",
+  "summary": "In mathematics, the Borromean rings are three simple closed curves in three-dimensional space that are topologically linked and cannot be separated from each other, but that break apart into two unknotted and unlinked loops when any one of the three is cut or removed. Most commonly, these rings are drawn as three circles in the plane, in the pattern of a Venn diagram, alternatingly crossing over and under each other at the points where they cross. Other triples of curves are said to form the Bor",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
   "references": [],
   "kwds": [
+    "Unsolved problems",
     "Euclidean geometry",
     "Geometry"
   ],
-  "authors": [], 
-  "status": "definition",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
-
+  "authors": []
 }

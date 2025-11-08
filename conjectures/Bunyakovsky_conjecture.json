@@ -2,8 +2,8 @@
   "uuid": "ad05720f-4f7c-4b89-971f-e926b7b53401",
   "name": "Bunyakovsky conjecture",
   "link": "https://en.wikipedia.org/wiki/Bunyakovsky_conjecture",
-  "summary": "The Bunyakovsky conjecture is a proposal in number theory that states a polynomial with integer coefficients will produce infinitely many prime numbers if it meets three conditions: the leading coefficient is positive, the polynomial is irreducible over the rationals, and there is no common factor greater than 1 for all values of the polynomial as the input varies. In simpler terms, the conjecture is a generalization of Dirichlet's theorem on arithmetic progressions to polynomials of higher degree. ",
-  "head": "\\(f(x)\\) is a non-constant polynomial with integer coefficients that satisfies the following three conditions: The leading coefficient of \\(f(x)\\) is positive.\\(f(x)\\) is irreducible over the integers (it cannot be factored into two non-constant polynomials with integer coefficients).The values \\(f(n)\\) for positive integers \\(n\\) have no common prime factor greater than 1 (equivalently, the greatest common divisor of all values \\(f(n)\\) for \\(n\\in \\mathbb{Z}^{+}\\) is 1). ",
+  "summary": "A polynomial {\displaystyle f(x)} in one variable with integer coefficients must satisfy the Bunyakovsky conjecture (also known as the Bouniakowsky conjecture) in order to yield an endless number of prime values in the series {\displaystyle f(1),f(2),f(3),\ldots.} For {\displaystyle f(x)} to possess the intended prime-producing feature, the following three prerequisites must be met:<br><br>For all the infinitely many values {\displaystyle f(1),f(2),f(3),\ldots }, there is no common factor, the leading coefficient is positive, and the polynomial is irreducible over rationals (and integers). (Specifically, {\displaystyle f(x)}'s coefficients ought to be comparatively prime. The values of f(n) do not have to be pairwise relatively prime.)<br><br>These requirements are adequate, according to Bunyakovsky's conjecture: {\displaystyle f(n)} is prime for an unlimited number of positive integers {\displaystyle n} if {\displaystyle f(x)} fulfills (1)–(3).",
+  "head": null,
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,8 +12,8 @@
     "Unsolved problems",
     "Prime numbers"
   ],
-  "authors": ["Viktor Bunyakovsky."],
-"status": "active",  
+  "authors": ["Viktor Bunyakovsky"],
+    "status": "active",  
   "history": [
     {
       "action": "created",
@@ -22,4 +22,5 @@
       "note": "Initial submission"
     }
   ]
+
 }

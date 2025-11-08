@@ -2,7 +2,7 @@
   "uuid": "58859d8a-7194-49c4-8180-0378d73030cb",
   "name": "Atiyah conjecture on configurations",
   "link": "https://en.wikipedia.org/wiki/Atiyah_conjecture_on_configurations",
-  "summary": "A specific n by n matrix[which?] based on n points in R3 is always non-singular, according to the Atiyah conjecture on configurations, which was first proposed by Atiyah (2000, 2001).",
+  "summary": "In mathematics, the Atiyah conjecture on configurations is a conjecture introduced by Atiyah (2000, 2001) stating that a certain n by n matrix depending on n points in R3 is always  non-singular.",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -12,16 +12,5 @@
     "Euclidean geometry",
     "Geometry"
   ],
-  "authors": ["Michael Atiyah"], 
-    "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
-
-
+  "authors": []
 }

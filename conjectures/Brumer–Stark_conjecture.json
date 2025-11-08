@@ -1,0 +1,26 @@
+{
+  "uuid": "0e5bfd64-0a2e-43ba-a5a8-6a47fe01755e",
+  "name": "Brumer–Stark conjecture",
+  "link": "https://en.wikipedia.org/wiki/Brumer%E2%80%93Stark_conjecture",
+  "summary": "The Brumer–Stark conjecture is a conjecture in algebraic number theory that provides a rough generalization of Stickelberger's theorem regarding the factorization of Gauss sums as well as the analytic class number formula for Dedekind zeta functions. It bears Harold Stark and Armand Brumer's names.<br><br>When the point in the extension that splits entirely is finite, it appears as a special instance (abelian and first-order) of Stark's conjecture. The validity of the conjecture is known to exist in extremely few circumstances. For example, its relationship to Hilbert's twelfth problem makes it significant.",
+  "head": null,
+  "count": 0,
+  "previous_conjectures": [],
+  "references": [],
+  "kwds": [
+    "Algebraic number theory",
+    "Number theory",
+    "Unsolved problems"
+  ],
+  "authors": ["Harold Stark", "Armand Brumer"], 
+    "status": "active",  
+  "history": [
+    {
+      "action": "created",
+      "user": "cgcharles7",
+      "timestamp": "2025-11-02T14:12Z",
+      "note": "Initial submission"
+    }
+  ]
+
+}

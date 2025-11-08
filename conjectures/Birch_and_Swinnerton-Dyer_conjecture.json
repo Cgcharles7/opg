@@ -2,9 +2,8 @@
   "uuid": "839a5925-ee90-4e87-a9c0-88eaac37aaa2",
   "name": "Birch and Swinnerton-Dyer conjecture",
   "link": "https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture",
-  "summary": "The Birch and Swinnerton-Dyer (BSD) conjecture relates the number of rational solutions to an elliptic curve to a property of the curve's L-function at \\(s=1\\). Specifically, it states that the rank of an elliptic curve (the number of independent rational solutions) is equal to the \"order of vanishing\" of its L-function at \\(s=1\\). This is a central problem in number theory and one of the Clay Mathematics Institute's Millennium Prize Problems. ",
-  "head": "The L-function \\(L(E,s)\\) has a zero of order \\(r\\) at the central point \\(s=1\\)",
-  "tail": "The Mordell-Weil group of rational points \\(E(\\mathbb{Q})\\) has rank \\(r\\).",
+  "summary": "In mathematics, the Birch and Swinnerton-Dyer conjecture (often called the  Birch–Swinnerton-Dyer conjecture) describes the set of rational solutions to equations defining an elliptic curve. It is an open problem in the field of number theory and is widely recognized as one of the most challenging mathematical problems. It is named after mathematicians Bryan John Birch and Peter Swinnerton-Dyer, who developed the conjecture during the first half of the 1960s with the help of machine computation.",
+  "head": null,
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -15,16 +14,5 @@
     "Unsolved problems",
     "Number theory"
   ],
-  "authors": ["Bryan John Birch", "Peter Swinnerton-Dyer"], 
-  "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
-
+  "authors": []
 }
-

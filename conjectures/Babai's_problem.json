@@ -2,7 +2,7 @@
   "uuid": "5a86011f-b112-4a0a-9c4f-7843b4729d82",
   "name": "Babai's problem",
   "link": "https://en.wikipedia.org/wiki/Babai%27s_problem",
-  "summary": "Babai's problem from 1979 refers to an unsolved problem in algebraic graph theory regarding the intersection of the longest cycles in a graph. More specifically, it asks whether in a \\(3\\)-connected graph with a longest cycle of length \\(c\\), any two longest cycles must intersect in at least \\(f(c)\\) vertices, where \\(f(c)\\rightarrow \\infty \\) as \\(c\\rightarrow \\infty \\). The term is also associated with a different problem in computer science, the graph isomorphism problem, which László Babai worked on and made a breakthrough in 2015. ",
+  "summary": "Babai's problem is a problem in algebraic graph theory first proposed in 1979 by László Babai.",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -13,16 +13,5 @@
     "Unsolved problems",
     "Algebraic graph theory"
   ],
-  "authors": ["László Babai"], 
-    "status": "active",  
-  "history": [
-    {
-      "action": "created",
-      "user": "cgcharles7",
-      "timestamp": "2025-11-02T14:12Z",
-      "note": "Initial submission"
-    }
-  ]
-
-
+  "authors": []
 }

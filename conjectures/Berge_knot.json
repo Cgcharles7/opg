@@ -2,7 +2,7 @@
   "uuid": "57f4d09a-fadb-461b-a711-c05b94cf1c8e",
   "name": "Berge knot",
   "link": "https://en.wikipedia.org/wiki/Berge_knot",
-  "summary": "A Berge knot is a specific class of knots in the 3-sphere (\\(S^{3}\\)) that are related to lens space surgeries. A key characteristic is that when a non-trivial Dehn surgery is performed along the knot, the resulting manifold is a lens space. They are also known as doubly primitive knots because they can be described as a simple closed curve on a genus 2 Heegaard surface that is primitive in each of the two handlebodies. ",
+  "summary": "In the mathematical theory of knots, a Berge knot (named after mathematician John Berge) or doubly primitive knot is any member of a particular family of knots in the 3-sphere. A Berge knot K is defined by the conditions:\n\nK lies on a genus two Heegaard surface S\nin each handlebody bound by S, K meets some meridian disc exactly once.\nJohn Berge constructed these knots as a way of creating knots with lens space surgeries and classified all the Berge knots. Cameron Gordon conjectured these were th",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -11,7 +11,7 @@
     "Topology",
     "Unsolved problems"
   ],
-  "authors": ["John Berge"], 
+  "authors": [], 
     "status": "active",  
   "history": [
     {
@@ -21,6 +21,5 @@
       "note": "Initial submission"
     }
   ]
-
 
 }

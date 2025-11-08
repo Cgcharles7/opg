@@ -2,8 +2,8 @@
   "uuid": "5dfb6324-56b5-45b1-987e-e4a38954800e",
   "name": "Burnside problem",
   "link": "https://en.wikipedia.org/wiki/Burnside_problem",
-  "summary": "The Burnside problem is a question in group theory: must a finitely generated group where every element has finite order be a finite group? Posed by William Burnside in 1902, this question was answered negatively for the general case by a 1964 counter-example from Golod and Shafarevich. Variations of the problem have also been studied extensively, such as the restricted Burnside problem which specifies that all elements have an order that is a divisor of a fixed integer \\(n\\). ",
-  "head": "a group is finitely generated (P), and every element in the group has finite order (P continued)",
+  "summary": "The Burnside problem asks whether a finitely generated group in which every element has finite order must necessarily be a finite group. It was posed by William Burnside in 1902, making it one of the oldest questions in group theory, and was influential in the development of combinatorial group theory. It is known to have a negative answer in general, as Evgeny Golod and Igor Shafarevich provided a counter-example in 1964. The problem has many refinements and variants that differ in the addition",
+  "head": null,
   "count": 0,
   "previous_conjectures": [],
   "references": [],
@@ -12,7 +12,7 @@
     "Unsolved problems",
     "Group theory"
   ],
-  "authors": ["William Burnside"], 
+  "authors": [],
   "status": "active",  
   "history": [
     {

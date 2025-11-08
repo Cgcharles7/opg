@@ -2,7 +2,7 @@
   "uuid": "d31fdb2c-390f-4b1a-80b0-86aa49c0a3f4",
   "name": "Arnold–Givental conjecture",
   "link": "https://en.wikipedia.org/wiki/Arnold_conjecture",
-  "summary": "The Arnold conjecture is a statement in symplectic geometry that the number of fixed points of a Hamiltonian diffeomorphism on a closed symplectic manifold is bounded below by the minimal number of critical points of a smooth function on that manifold. The conjecture is a generalization of the Poincaré-Birkhoff theorem and has inspired much research, particularly in the development of Floer homology. While it has been proven in many cases, particularly when the manifold is a surface, the full conjecture is not true for all Hamiltonian homeomorphisms in higher dimensions. ",
+  "summary": "The Arnold conjecture, named after mathematician Vladimir Arnold, is a mathematical conjecture in the field of symplectic geometry, a branch of differential geometry.",
   "head": null,
   "count": 0,
   "previous_conjectures": [],
@@ -11,8 +11,8 @@
     "Dynamical systems",
     "Unsolved problems"
   ],
-  "authors": ["Vladimir Arnold"], 
-    "status": "active",  
+  "authors": [], 
+  "status": "active",  
   "history": [
     {
       "action": "created",
@@ -21,6 +21,5 @@
       "note": "Initial submission"
     }
   ]
-
 
 }
