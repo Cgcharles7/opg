@@ -1,0 +1,30 @@
+{
+  "uuid": "1bdff66c-6822-440a-a203-5b34f0b59530",
+  "name": "Szymanski's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Szymanski%27s_conjecture",
+  "rephrased": "In a bidirectional n-dimensional hypercube graph, any permutation of the vertices can be decomposed into edge-disjoint directed paths from each vertex to its image.",
+  "implication_form": "If there exists a permutation on the vertices of an n-dimensional doubly directed hypercube graph, then there exist edge-disjoint directed paths from each vertex to its image.",
+  "posed_by": "Ted H. Szymanski",
+  "solved_by": "unsolved",
+  "year_originated": 34,
+  "explained": "Szymanski's conjecture, named after Ted H. Szymanski and formulated in 1989, states that for the n-dimensional doubly directed hypercube graph (where vertices represent all binary strings of length n, and edges exist in both directions between vertices differing in exactly one bit), every permutation σ of its vertices can be realized by a set of edge-disjoint directed paths. Specifically, for each vertex v, there exists a directed path from v to σ(v), and no two such paths share an edge in the same direction.",
+  "terms": [
+    "Hypercube",
+    "Permutation",
+    "Edge-disjoint paths",
+    "Directed graph",
+    "Routing",
+    "Doubly directed hypercube"
+  ],
+  "related_conjectures": [
+    "Hypercube Routing Conjectures",
+    "Routing in Directed Graphs",
+    "Edge-Disjoint Paths Conjectures"
+  ],
+  "subjects": [
+    "Graph Theory",
+    "Combinatorics",
+    "Theoretical Computer Science",
+    "Discrete Mathematics"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "uuid": "3b09aadc-d6aa-41ed-aa5c-fb86137d1606",
+  "name": "Sumner's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Sumner%27s_conjecture",
+  "rephrased": "Any tree with n vertices, when oriented (each edge directed), can be found as a subgraph within a tournament of 2n-2 vertices.",
+  "implication_form": "If a graph is an orientation of an n-vertex tree, then it is a subgraph of every (2n-2)-vertex tournament.",
+  "posed_by": "David Sumner",
+  "solved_by": "unsolved",
+  "year_originated": 50,
+  "explained": "Sumner's conjecture (also known as Sumner's universal tournament conjecture) is a conjecture in extremal graph theory. It states that for any positive integer n and any orientation of any n-vertex tree, this oriented tree is isomorphic to a subtournament of every tournament on 2n-2 vertices.",
+  "terms": [
+    "tournament",
+    "oriented tree",
+    "extremal graph theory",
+    "subgraph",
+    "graph orientation"
+  ],
+  "related_conjectures": [
+    "Kelly's conjecture (on tournament subtrees)",
+    "Havet-Thomassé conjecture (a generalization of Sumner's conjecture to digraphs)"
+  ],
+  "subjects": [
+    "Extremal graph theory",
+    "Tournament theory",
+    "Graph orientations"
+  ]
+}

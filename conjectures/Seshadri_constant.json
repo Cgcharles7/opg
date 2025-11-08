@@ -1,0 +1,29 @@
+{
+  "uuid": "b2120ad7-3c22-45fb-80ab-3edec6d60e75",
+  "name": "Seshadri constant",
+  "link": "https://en.wikipedia.org/wiki/Seshadri_constant",
+  "rephrased": "The Seshadri constant measures how well an ample line bundle can be approximated by its tensor powers at a specific point on an algebraic variety, relating to the existence of singular curves.",
+  "implication_form": "If the Seshadri constant at P is less than the square root of the dimension, then Nagata's conjecture holds for that variety.",
+  "posed_by": "Jean-Pierre Demailly",
+  "solved_by": "unsolved",
+  "year_originated": "1990",
+  "explained": "The Seshadri constant conjecture concerns the existence of positive constants associated with an ample line bundle L on an algebraic variety X. Specifically, for a fixed point P on X, the conjecture states that there exist constants c and d (depending on X, L, and P) such that for sufficiently large k, the line bundle L^k is k-d-ample at P. This means that for any integer m, there exist homogeneous polynomials of degree k m that separate points and tangent vectors in a neighborhood of P, with the separation constant related to c and d. Equivalently, it asserts the nonvanishing of certain cohomology groups related to the jet bundles of sections of L^k at P. This conjecture is closely linked to the Fujita conjecture, which predicts that L^m ⊗ O_X(K_X + D) is ample for m sufficiently large, where D is an effective divisor.",
+  "terms": [
+    "Ample line bundle",
+    "Seshadri constant",
+    "k-d-ample",
+    "Jet bundle",
+    "Fujita conjecture",
+    "Nagata's conjecture",
+    "Algebraic variety"
+  ],
+  "related_conjectures": [
+    "Fujita conjecture",
+    "Nagata's conjecture"
+  ],
+  "subjects": [
+    "Algebraic geometry",
+    "Complex geometry",
+    "Birational geometry"
+  ]
+}

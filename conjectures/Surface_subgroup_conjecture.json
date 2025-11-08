@@ -1,0 +1,31 @@
+{
+  "uuid": "7f937ab9-cf31-43f5-8586-8740655bfd8a",
+  "name": "Surface subgroup conjecture",
+  "link": "https://en.wikipedia.org/wiki/Surface_subgroup_conjecture",
+  "rephrased": "Every closed, irreducible 3-manifold with an infinite fundamental group must contain a subgroup isomorphic to the fundamental group of a closed surface (not a sphere).",
+  "implication_form": "If a closed, irreducible 3-manifold has an infinite fundamental group, then it has a surface subgroup.",
+  "posed_by": "Friedhelm Waldhausen",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": "The Surface Subgroup Conjecture, proposed by Friedhelm Waldhausen, states that the fundamental group of every closed, irreducible 3-manifold with an infinite fundamental group contains a surface subgroup. A surface subgroup is defined as a subgroup isomorphic to the fundamental group of a closed surface that is not the 2-sphere (i.e., a closed surface of genus at least one or the projective plane). This conjecture is significant in the study of 3-manifold topology and group theory. After the proof of the Geometrization Conjecture, the conjecture is now understood to be largely resolved, with the main remaining open case being for closed hyperbolic 3-manifolds with infinite fundamental group.",
+  "terms": [
+    "Fundamental group",
+    "Surface subgroup",
+    "3-manifold",
+    "Closed manifold",
+    "Irreducible 3-manifold",
+    "Hyperbolic 3-manifold",
+    "Geometrization Conjecture",
+    "Poincaré Conjecture"
+  ],
+  "related_conjectures": [
+    "Geometrization Conjecture",
+    "Poincaré Conjecture"
+  ],
+  "subjects": [
+    "Geometric topology",
+    "3-manifold topology",
+    "Geometric group theory",
+    "Low-dimensional topology"
+  ]
+}

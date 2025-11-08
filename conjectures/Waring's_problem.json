@@ -1,0 +1,29 @@
+{
+  "uuid": "726d61bd-75a6-4057-b071-bd48f688d288",
+  "name": "Waring's problem",
+  "link": "https://en.wikipedia.org/wiki/Waring%27s_problem",
+  "rephrased": "For any whole number exponent k, there exists some number s such that every natural number can be written as the sum of at most s perfect kth powers.",
+  "implication_form": "If k is a positive integer, then there exists a positive integer s such that every natural number is the sum of at most s kth powers.",
+  "posed_by": "Edward Waring",
+  "solved_by": "David Hilbert",
+  "year_originated": 248,
+  "explained": "Waring's conjecture (now known as Waring's problem) states that for every integer power k ≥ 2, there exists a corresponding positive integer s (often denoted as g(k)) such that every natural number can be expressed as the sum of at most s perfect kth powers. In other words, for each k, there is a number s(k) such that the set of natural numbers is the union of s(k) copies of the set of kth powers of natural numbers.",
+  "terms": [
+    "Waring base",
+    "Waring's constant",
+    "g(k)",
+    "Hilbert-Waring theorem",
+    "kth powers",
+    "additive basis"
+  ],
+  "related_conjectures": [
+    "The four squares conjecture (a specific case for k=2)",
+    "The problem for cubes (k=3) and higher powers",
+    "The conjecture regarding Waring bases for non-integer exponents"
+  ],
+  "subjects": [
+    "Number theory",
+    "Additive number theory",
+    "Diophantine analysis"
+  ]
+}

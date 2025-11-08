@@ -1,0 +1,34 @@
+{
+  "uuid": "48968dae-89df-4281-8cf0-8c145e442c58",
+  "name": "Ryser's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Ryser%27s_conjecture",
+  "rephrased": "In hypergraphs, the maximum size of a matching (a set of edges with no common vertices) is always at least the minimum size of a transversal (a set of vertices that intersects every edge) minus one.",
+  "implication_form": "If a hypergraph has a minimum transversal size of t, then it must have a matching of size at least t - 1.",
+  "posed_by": "J. R. Henderson",
+  "solved_by": "Unsolved",
+  "year_originated": 52,
+  "explained": "Ryser's conjecture pertains to r-uniform hypergraphs, which are hypergraphs where every edge contains exactly r vertices. It states that the maximum matching number (denoted ν, the size of the largest matching) is at most the transversal number (denoted τ, the minimum number of vertices that intersect all edges) minus r plus one. In mathematical terms, for any r-uniform hypergraph, ν ≤ τ ≤ r - 1 * ν + 1. This bound connects the fundamental parameters of matching and transversal in hypergraphs. The conjecture was stated by Herbert Ryser in 1969, although it first appeared in J. R. Henderson's Ph.D. thesis in 1971.",
+  "terms": [
+    "Hypergraph",
+    "Matching",
+    "Transversal",
+    "Vertex Cover",
+    "Uniform Hypergraph",
+    "Matching Number",
+    "Transversal Number",
+    "Vertex Cover Number",
+    "Fractional Transversal",
+    "Fractional Matching"
+  ],
+  "related_conjectures": [
+    "Hall's Marriage Theorem",
+    "Erdős–Ko–Rado Theorem",
+    "Vertex Cover Number (τ) Conjectures"
+  ],
+  "subjects": [
+    "Graph Theory",
+    "Hypergraph Theory",
+    "Extremal Set Theory",
+    "Combinatorial Optimization"
+  ]
+}

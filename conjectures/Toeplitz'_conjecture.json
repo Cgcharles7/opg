@@ -1,0 +1,32 @@
+{
+  "uuid": "941cdde6-fee3-4896-9c49-ddf967c532d4",
+  "name": "Toeplitz' conjecture",
+  "link": "https://en.wikipedia.org/wiki/Inscribed_square_problem",
+  "rephrased": "Every simple closed curve contains at least one inscribed square.",
+  "implication_form": "If a curve is a simple closed curve, then it contains an inscribed square.",
+  "posed_by": "Otto Toeplitz",
+  "solved_by": "unsolved",
+  "year_originated": 113,
+  "explained": "Every simple closed curve in the plane contains the four vertices of some square.",
+  "terms": [
+    "simple closed curve",
+    "square",
+    "inscribed square",
+    "plane",
+    "vertices",
+    "convex curve",
+    "piecewise smooth curve",
+    "square peg problem",
+    "Toeplitz conjecture"
+  ],
+  "related_conjectures": [
+    "Inscribed Square Problem",
+    "Inscribed Rectangle Problem",
+    "Inscribed Quadrilateral Problem"
+  ],
+  "subjects": [
+    "Geometry",
+    "Topology",
+    "Analysis"
+  ]
+}

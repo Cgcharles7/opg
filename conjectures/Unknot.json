@@ -1,0 +1,27 @@
+{
+  "uuid": "27a7222c-cc7d-41ac-8f35-7ff677a3fe83",
+  "name": "Unknot",
+  "link": "https://en.wikipedia.org/wiki/Unknot",
+  "rephrased": "A closed loop is the unknot if it can be continuously deformed into a standard circle without cutting the loop.",
+  "implication_form": "If a closed loop in 3D space is ambient isotopic to a circle, then it is the unknot.",
+  "posed_by": "Wolfgang Haken",
+  "solved_by": "Joel Hass, William P. Thurston, Abigail Thompson",
+  "year_originated": 62,
+  "explained": "The provided text describes the definition of the unknot, not a conjecture about its properties. The unknot is defined as the simplest closed curve without any knots, specifically the embedded topological circle in the 3-sphere that is ambient isotopic to a standard geometric circle. A key characterization mentioned is that the unknot is the only knot that bounds an embedded disk. There is no specific mathematical statement or conjecture being formulated in the provided text beyond these defining properties.",
+  "terms": [
+    "knot",
+    "unknot",
+    "trivial knot",
+    "ambient isotopy",
+    "embedded disk",
+    "3-sphere",
+    "topological circle",
+    "geometrically round circle"
+  ],
+  "related_conjectures": [],
+  "subjects": [
+    "Knot Theory",
+    "Geometric Topology",
+    "Low-dimensional Topology"
+  ]
+}

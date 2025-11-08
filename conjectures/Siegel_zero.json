@@ -1,0 +1,30 @@
+{
+  "uuid": "b04d92e1-3503-462f-9407-1b55065f794d",
+  "name": "Siegel zero",
+  "link": "https://en.wikipedia.org/wiki/Siegel_zero",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "The Siegel zero conjecture (or the non-existence of Siegel zeros) addresses potential counterexamples to the Generalized Riemann Hypothesis (GRH) for Dirichlet L-functions associated with real primitive characters. Specifically, it states that for a Dirichlet L-function L(s, χ) attached to a real primitive character χ modulo q, there is no zero in the complex plane located in the interval (1 - ε(q), 1) for any fixed ε(q) > 0 that depends only on q. A Siegel zero would be a zero very close to s=1, but not necessarily at s=1 itself. The conjecture asserts that no such zero exists for any real primitive character χ.",
+  "terms": [
+    "Dirichlet L-function",
+    "Generalized Riemann Hypothesis (GRH)",
+    "Real primitive character",
+    "Exceptional zero",
+    "Quantifiable nearness",
+    "s=1"
+  ],
+  "related_conjectures": [
+    "Generalized Riemann Hypothesis (GRH)",
+    "Twin prime conjecture",
+    "Goldbach conjecture",
+    "Artin reciprocity conjecture"
+  ],
+  "subjects": [
+    "Analytic number theory",
+    "Algebraic number theory",
+    "Complex analysis"
+  ]
+}

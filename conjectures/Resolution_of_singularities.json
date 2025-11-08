@@ -1,0 +1,29 @@
+{
+  "uuid": "93fbb535-331c-43b4-948c-9f1456d065c5",
+  "name": "Resolution of singularities",
+  "link": "https://en.wikipedia.org/wiki/Resolution_of_singularities",
+  "rephrased": "Any algebraic variety with singularities can be transformed into a smooth variety via a specific type of map called a proper birational map.",
+  "implication_form": "If an algebraic variety has singularities, then there exists a non-singular variety and a proper birational map from it to the original variety.",
+  "posed_by": "Hironaka resolved the characteristic zero case, but the core idea originates from earlier work in algebraic geometry.",
+  "solved_by": "Hironaka for varieties over fields of characteristic zero; unsolved for varieties of dimension at least 4 over fields of characteristic p.",
+  "year_originated": 70,
+  "explained": "The resolution of singularities problem addresses whether every algebraic variety V (over a field, typically assumed algebraically closed) has a resolution. A resolution is a proper birational morphism π: W → V, where W is a non-singular (smooth) variety, and birational means that π restricts to an isomorphism between dense open subsets of W and V. Hironaka's theorem proves this is possible for varieties over fields of characteristic zero, but the question remains open for varieties of dimension at least 4 over fields of positive characteristic.",
+  "terms": [
+    "Algebraic variety",
+    "Birational map",
+    "Proper morphism",
+    "Non-singular variety",
+    "Singularity",
+    "Blow-up"
+  ],
+  "related_conjectures": [
+    "Minimal Model Program",
+    "Log Minimal Model Program",
+    "Abundance Conjecture",
+    "Existence of Flips"
+  ],
+  "subjects": [
+    "Algebraic Geometry",
+    "Commutative Algebra"
+  ]
+}

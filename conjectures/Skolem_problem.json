@@ -1,0 +1,35 @@
+{
+  "uuid": "c0e35c6e-4ea0-4337-9a2d-b7124e8689ca",
+  "name": "Skolem problem",
+  "link": "https://en.wikipedia.org/wiki/Skolem_problem",
+  "rephrased": "Given a linear recurrence relation with constant coefficients, is there an algorithm that can determine whether zero appears as one of the terms in the sequence?",
+  "implication_form": "If there exists an algorithm that can always decide whether zero appears in any linear recurrence sequence, then the problem is solvable for all such sequences.",
+  "posed_by": "Thoralf Skolem",
+  "solved_by": "unsolved",
+  "year_originated": 90,
+  "explained": "The Skolem problem concerns the decidability of whether a zero value appears in a specific class of sequences defined by linear recurrence relations. A sequence satisfies a linear recurrence relation of order k if each term from the (k+1)-th onward can be expressed as a linear combination of the previous k terms, using constant coefficients. The Skolem problem asks: Given a linear recurrence relation with integer coefficients and integer initial conditions, does there exist an algorithm that can determine whether zero appears in the sequence for some position? This problem is also considered for sequences over rational numbers and algebraic numbers, but the integer case is the most prominent. The key question is whether such a universal algorithm exists that can solve this problem for any given recurrence relation. It is widely believed that no such algorithm exists, making the problem undecidable, although this has not been proven rigorously for all cases.",
+  "terms": [
+    "Constant-recursive sequence",
+    "Linear recurrence relation",
+    "Deterministic algorithm",
+    "Decidability (mathematics)",
+    "Computability theory",
+    "Computational complexity",
+    "Integer sequence",
+    "Algebraic number",
+    "Rational number",
+    "Floquet theory",
+    "Stability (dynamical systems)"
+  ],
+  "related_conjectures": [
+    "Hilbert's 10th Problem (concerns the solvability of Diophantine equations)",
+    "Undecidability of the Halting Problem (a fundamental result in computability theory)",
+    "Invariant Subspace Problem (an open problem in functional analysis concerning linear operators)"
+  ],
+  "subjects": [
+    "Linear Algebra",
+    "Dynamical Systems",
+    "Number Theory",
+    "Computability Theory"
+  ]
+}

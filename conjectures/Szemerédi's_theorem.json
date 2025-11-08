@@ -1,0 +1,30 @@
+{
+  "uuid": "efbb5473-70fb-4085-98ec-03a6e56cca23",
+  "name": "Szemerédi's theorem",
+  "link": "https://en.wikipedia.org/wiki/Szemer%C3%A9di%27s_theorem",
+  "rephrased": "If a subset of the integers has positive density, then it contains arithmetic progressions of arbitrary length.",
+  "implication_form": "If a subset of the integers has positive natural density, then it contains a k-term arithmetic progression for every k.",
+  "posed_by": "Paul Erdős and Pál Turán",
+  "solved_by": "Endre Szemerédi",
+  "year_originated": 1936,
+  "explained": "Szemerédi's theorem states that any subset of the integers with positive upper density contains arbitrarily long arithmetic progressions. In other words, if a subset A of the integers has positive density (a concept rigorously defined in additive combinatorics), then for any integer k, A contains a k-term arithmetic progression.",
+  "terms": [
+    "density",
+    "arithmetic progression",
+    "natural density",
+    "positive density",
+    "subset of integers",
+    "k-term arithmetic progression",
+    "combinatorics"
+  ],
+  "related_conjectures": [
+    "Erdős–Turán conjecture",
+    "Green–Tao theorem"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Number theory",
+    "Ergodic theory",
+    "Additive combinatorics"
+  ]
+}

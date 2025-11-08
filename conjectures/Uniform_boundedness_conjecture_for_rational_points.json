@@ -1,0 +1,29 @@
+{
+  "uuid": "b4a82b06-0fbf-4b60-aee3-81b088a7fc4f",
+  "name": "Uniform boundedness conjecture for rational points",
+  "link": "https://en.wikipedia.org/wiki/Uniform_boundedness_conjecture_for_rational_points",
+  "rephrased": "For curves of fixed genus at least 2 defined over a fixed number field, the number of rational points is uniformly bounded.",
+  "implication_form": "If a curve has genus at least 2 and is defined over a fixed number field, then the number of its rational points is bounded by a constant depending only on the number field and the genus.",
+  "posed_by": "Boris Manin (among others)",
+  "solved_by": "Unsolved",
+  "year_originated": 50,
+  "explained": "The Uniform Boundedness Conjecture for Rational Points states that for a fixed number field K and a fixed genus g ≥ 2, there exists a positive integer N(K, g) (depending only on K and g) such that every smooth, projective, geometrically connected curve of genus g defined over K that has at least one K-rational point has at most N(K, g) K-rational points. In other words, the number of rational points on such curves with a rational point is uniformly bounded across all curves of that genus over the fixed number field.",
+  "terms": [
+    "Number field",
+    "Rational point",
+    "Genus",
+    "Arithmetic geometry",
+    "Curve (algebraic geometry)",
+    "Jacobian variety"
+  ],
+  "related_conjectures": [
+    "Faltings' Theorem (Mordell-Lang Conjecture for curves)",
+    "Lang's Conjecture",
+    "Mordell-Tate Conjecture"
+  ],
+  "subjects": [
+    "Arithmetic Geometry",
+    "Number Theory",
+    "Algebraic Geometry"
+  ]
+}

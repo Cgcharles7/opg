@@ -1,0 +1,33 @@
+{
+  "uuid": "98f92f35-1367-4a38-912d-2f2462fc6afe",
+  "name": "Schinzel's hypothesis H",
+  "link": "https://en.wikipedia.org/wiki/Schinzel%27s_hypothesis_H",
+  "rephrased": "There are infinitely many integers t such that for a set of polynomials with integer coefficients, each irreducible and positive for large t, all these polynomials evaluated at t are prime.",
+  "implication_form": "If there exists a set of polynomials with integer coefficients, each irreducible and positive for large t, then there are infinitely many integers t such that all these polynomials evaluated at t are prime.",
+  "posed_by": "Andrzej Schinzel",
+  "solved_by": "unsolved",
+  "year_originated": 65,
+  "explained": "Schinzel's hypothesis H is a profound conjecture in number theory concerning the existence of infinitely many integer solutions to systems of equations defined by polynomials. It states that if one has a finite set of irreducible (primitive) polynomials with integer coefficients, positive leading coefficients, and such that for every prime p, there does not exist a fixed residue class modulo p that all polynomials simultaneously avoid (i.e., no fixed prime p divides all values of the polynomials for some integer input), then there exists a positive integer n such that all the polynomials evaluated at n yield prime numbers. Furthermore, there should be infinitely many such integers n. This conjecture is a generalization that subsumes many other famous conjectures about prime numbers, such as the twin prime conjecture (which corresponds to the polynomial set {x, x+2}).",
+  "terms": [
+    "Irreducible polynomial",
+    "Primitive polynomial",
+    "Prime number",
+    "Integer solutions",
+    "Diophantine equation",
+    "Primitive root",
+    "Positive leading coefficient",
+    "Arithmetic obstruction",
+    "Coprime content"
+  ],
+  "related_conjectures": [
+    "Twin prime conjecture",
+    "The conjecture concerning primes of the form x² + y⁴",
+    "The conjecture about primes of the form x³ + y³",
+    "The conjecture regarding primes of the form x² + 2y⁴"
+  ],
+  "subjects": [
+    "Number theory",
+    "Analytic number theory",
+    "Arithmetic geometry"
+  ]
+}

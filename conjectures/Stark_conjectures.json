@@ -1,0 +1,41 @@
+{
+  "uuid": "430bd362-ee70-4cfb-a6ce-95b795690b4c",
+  "name": "Stark conjectures",
+  "link": "https://en.wikipedia.org/wiki/Stark_conjectures",
+  "rephrased": "The Stark conjectures generalize the analytic class number formula by predicting the leading coefficient of the Taylor expansion of an Artin L-function at 0 for a Galois extension, expressing it in terms of regulators and other invariants.",
+  "implication_form": "If the Stark conjecture holds for a given Galois extension and Artin character, then the leading coefficient of the L-function's Taylor expansion at 0 can be expressed in a specific form involving regulators.",
+  "posed_by": "Helmut Stark, with contributions from John Tate",
+  "solved_by": "unsolved",
+  "year_originated": "around 50 years",
+  "explained": "The Stark conjectures, formulated by Harold Stark and expanded upon by John Tate, provide conjectural formulas for the leading coefficient of the Taylor expansion of an Artin L-function L(s, χ) associated with a Galois extension K/k of algebraic number fields at the point s = 0. This leading coefficient is predicted to be expressed as a product involving various invariants related to the extension, the base field, and the Artin character. These conjectures generalize the analytic class number formula, which gives a similar expression for the leading coefficient of the Dedekind zeta function (a special case when considering the trivial character) of a base number field k. The conjecture predicts the value of this coefficient based on the Galois group, the base field k, the extension K, and the Artin character χ.",
+  "terms": [
+    "Artin L-function",
+    "Galois extension",
+    "Algebraic number field",
+    "Leading coefficient",
+    "Taylor expansion",
+    "Analytic class number formula",
+    "Dedekind zeta function",
+    "Regulator",
+    "Class number",
+    "Dirichlet character",
+    "Epsilon conjecture",
+    "Epsilon element",
+    "K-theory",
+    "Base field",
+    "Trivial character"
+  ],
+  "related_conjectures": [
+    "Birch and Swinnerton-Dyer conjecture",
+    "Iwasawa theory conjectures",
+    "Tamagawa number conjecture",
+    "Epsilon conjecture (Stark)",
+    "Conjectures of Tate"
+  ],
+  "subjects": [
+    "Number theory",
+    "Algebraic number theory",
+    "Arithmetic geometry",
+    "Representation theory"
+  ]
+}

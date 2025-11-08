@@ -1,0 +1,30 @@
+{
+  "uuid": "866a731a-0754-4a2f-8aa1-5c0583777e52",
+  "name": "Ulam number",
+  "link": "https://en.wikipedia.org/wiki/Ulam_number",
+  "rephrased": "The Ulam sequence starts with 1 and 2. Each subsequent term is the smallest number that can be uniquely expressed as the sum of two distinct earlier terms in the sequence and is larger than all previous terms.",
+  "implication_form": "This is a definition, not a conjecture of the form 'If P, then Q'.",
+  "posed_by": "Stanisław Ulam",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": "The Ulam sequence is a mathematical sequence defined recursively. It begins with U1 = 1 and U2 = 2. Each subsequent term Un (for n > 2) is the smallest positive integer larger than all previous terms that can be expressed as the sum of two distinct earlier terms in exactly one way. This definition generates a specific sequence, sometimes referred to as the (1,2)-Ulam sequence. It is important to note that this is a definition generating a specific sequence, not necessarily a conjecture about its properties.",
+  "terms": [
+    "Sequence",
+    "Recursion",
+    "Additive basis",
+    "Sum of two distinct terms",
+    "Minimal elements",
+    "Uniqueness condition"
+  ],
+  "related_conjectures": [
+    "Van der Waerden theorem (regarding arithmetic progressions in sequences)",
+    "Collatz conjecture (comparing deterministic iterative processes)",
+    "Thue-Morse sequence (comparing other recursively defined sequences)",
+    "Erdős–Szekeres theorem (related to properties of sequences)"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Number Theory",
+    "Dynamical Systems (conceptual analogy)"
+  ]
+}

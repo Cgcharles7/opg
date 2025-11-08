@@ -1,0 +1,37 @@
+{
+  "uuid": "8f8793d9-929b-4849-bf3b-4c0995fef6fc",
+  "name": "Sphere packing",
+  "link": "https://en.wikipedia.org/wiki/Sphere_packing",
+  "rephrased": "Arranging identical spheres without overlapping in a given space.",
+  "implication_form": "Cannot be rewritten as 'If P, then Q' as no specific hypothesis/conclusion is provided.",
+  "posed_by": "Unknown",
+  "solved_by": "Unsolved",
+  "year_originated": 400,
+  "explained": "The Sphere Packing Conjecture, often referred to in relation to the Kepler conjecture, addresses the problem of arranging identical spheres in three-dimensional Euclidean space to achieve the maximum possible density. It states that the maximum density achievable is approximately 74.05% (π/(3√2) ≈ 0.7405), and this maximum can be attained by packing the spheres in a face-centered cubic (FCC) or hexagonal close-packed (HCP) lattice arrangement. These arrangements are known to achieve the highest packing density.",
+  "terms": [
+    "Sphere Packing",
+    "Packing Density",
+    "Face-Centered Cubic (FCC)",
+    "Hexagonal Close-Packed (HCP)",
+    "Kissing Number",
+    "Voronoi Cell",
+    "Lattice",
+    "Crystallography",
+    "Kepler Conjecture",
+    "Non-overlapping"
+  ],
+  "related_conjectures": [
+    "Kepler Conjecture",
+    "Hales-Fejes Tóth Proof",
+    "Sphere Covering Problem",
+    "Kissing Number Problem"
+  ],
+  "subjects": [
+    "Geometry",
+    "Discrete Geometry",
+    "Packing Problems",
+    "Combinatorics",
+    "Crystallography",
+    "Number Theory (aspects of density)"
+  ]
+}

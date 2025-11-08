@@ -1,0 +1,43 @@
+{
+  "uuid": "a8ea2265-8483-40c4-80b8-ff6dee29f532",
+  "name": "Vlasov–Maxwell equations",
+  "link": "https://en.wikipedia.org/wiki/Vlasov_equation",
+  "rephrased": "An equation describing how the distribution of charged particles in a plasma evolves over time, accounting for their electromagnetic interactions.",
+  "implication_form": "If the distribution function of particles in a plasma and the electromagnetic fields are known at a given time, then the future evolution of both can be determined.",
+  "posed_by": "Anatoly Vlasov",
+  "solved_by": "unsolved",
+  "year_originated": 85,
+  "explained": "The Vlasov–Maxwell equations constitute a system of coupled partial differential equations that describe the evolution of a collisionless plasma. The system consists of the Vlasov equation for the distribution function f(\\mathbf{x}, \\mathbf{v}, t) (or phase space density) of particles (ions and electrons) in phase space (position \\mathbf{x} and velocity \\mathbf{v}), coupled with Maxwell's equations for the electromagnetic field \\mathbf{E}(\\mathbf{x}, t) and \\mathbf{B}(\\mathbf{x}, t). The equations are:\\n\\n1.  **Vlasov Equation:** Describes the time evolution of the distribution function f due to the Lorentz force (or other relevant force, e.g., electric and magnetic fields derived from Maxwell's equations).\\n\\n\\(\\frac{\\partial f}{\\partial t} + \\mathbf{v} \\cdot \\nabla_{\\mathbf{x}} f + \\frac{\\mathbf{F}}{m} \\cdot \\nabla_{\\mathbf{v}} f = 0\\)\\n\\nwhere \\(\\mathbf{F} = q(\\mathbf{E} + \\mathbf{v} \\times \\mathbf{B})\\) is the force on a particle with charge q and mass m, moving in the electromagnetic field.\\n\\n2.  **Maxwell's Equations:** Govern the evolution of the electromagnetic field, with sources given by the plasma current density and charge density derived from f.\\n\\n\\(\\nabla_{\\mathbf{x}} \\cdot \\mathbf{E} = \\rho / \\epsilon_0\\)\\n\\(\\nabla_{\\mathbf{x}} \\times \\mathbf{E} = -\\partial_t \\mathbf{B}\\)\\n\\(\\nabla_{\\mathbf{x}} \\cdot \\mathbf{B} = 0\\)\\n\\(\\nabla_{\\mathbf{x}} \\times \\mathbf{B} = \\mu_0 \\mathbf{J} + \\mu_0 \\epsilon_0 \\partial_t \\mathbf{E}\\)\\n\\nwhere the charge density \\(\\rho(\\mathbf{x}, t) = \\int f \\, d\\mathbf{v}\\) and current density \\(\\mathbf{J}(\\mathbf{x}, t) = \\int \\mathbf{v} f \\, d\\mathbf{v}\\) are obtained by integrating the Vlasov equation over velocity space.\\n\\nThese equations are used to model a wide range of plasma phenomena, from space plasma physics to fusion research, assuming negligible collisions.",
+  "terms": [
+    "Distribution function (f)",
+    "Phase space density",
+    "Vlasov equation",
+    "Maxwell's equations",
+    "Electromagnetic field (E, B)",
+    "Charge density (ρ)",
+    "Current density (J)",
+    "Collisionless plasma",
+    "Force (F)",
+    "Lorentz force",
+    "Coulomb interaction",
+    "Phase space",
+    "Kinetic theory of plasmas",
+    "Plasma physics"
+  ],
+  "related_conjectures": [
+    "Landau damping",
+    "Weibel instability",
+    "Two-stream instability",
+    "Gyrokinetic theory (a reduction of the Vlasov-Maxwell equations)",
+    "Fluid models derived from kinetic theory (e.g., magnetohydrodynamics, two-fluid models)",
+    "Mathematical well-posedness of the Cauchy problem for Vlasov-Maxwell",
+    "Vlasov-Poisson equations (the electrostatic limit, neglecting magnetic fields)"
+  ],
+  "subjects": [
+    "Plasma physics",
+    "Partial differential equations (PDEs)",
+    "Mathematical physics",
+    "Kinetic theory",
+    "Fluid dynamics"
+  ]
+}

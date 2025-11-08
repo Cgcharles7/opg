@@ -1,0 +1,27 @@
+{
+  "uuid": "264d5c80-23e4-41d4-aa57-f2aa8820a432",
+  "name": "Sierpiński number",
+  "link": "https://en.wikipedia.org/wiki/Sierpi%C5%84ski_number",
+  "rephrased": "An odd natural number is a Sierpiński number if all numbers of the form k multiplied by 2 raised to any power plus one are composite.",
+  "implication_form": "If k is an odd natural number such that k × 2^n + 1 is composite for all natural numbers n, then k is a Sierpiński number.",
+  "posed_by": "Wacław Sierpiński",
+  "solved_by": "unsolved",
+  "year_originated": 63,
+  "explained": "The Sierpiński number conjecture refers to the definition of a Sierpiński number (an odd natural number k such that k × 2^n + 1 is composite for all natural numbers n) and the subsequent observation or conjecture (now known) that there are infinitely many such numbers. It is distinct from the 'Inverse Sierpiński problem' which seeks to find an odd k for which k × 2^n + 1 is prime for some n.",
+  "terms": [
+    "Sierpiński number",
+    "Proth number",
+    "Covering system",
+    "Composite number",
+    "Primality testing"
+  ],
+  "related_conjectures": [
+    "Inverse Sierpiński problem",
+    "Riesel number conjecture"
+  ],
+  "subjects": [
+    "Number theory",
+    "Combinatorial number theory",
+    "Primality testing"
+  ]
+}

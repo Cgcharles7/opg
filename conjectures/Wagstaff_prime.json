@@ -1,0 +1,26 @@
+{
+  "uuid": "ef0e02c3-9625-4e4f-8cf3-6dd3e1fc7ece",
+  "name": "Wagstaff prime",
+  "link": "https://en.wikipedia.org/wiki/Wagstaff_prime",
+  "rephrased": "A Wagstaff prime is a prime number that can be expressed as (2 raised to an odd prime exponent plus one) divided by three.",
+  "implication_form": "null",
+  "posed_by": "Samuel S. Wagstaff Jr.",
+  "solved_by": "unsolved",
+  "year_originated": 50,
+  "explained": "A Wagstaff prime is a prime number of the form (2^p + 1)/3, where p is an odd prime. These primes were named after Samuel S. Wagstaff Jr., with the term coined by François Morain.",
+  "terms": [
+    "Prime numbers",
+    "Exponentiation",
+    "Generalized repunits",
+    "Fermat numbers"
+  ],
+  "related_conjectures": [
+    "Primality proving under the generalized Riemann hypothesis",
+    "Infinitude of primes of specific forms"
+  ],
+  "subjects": [
+    "Number theory",
+    "Computer science",
+    "Computational mathematics"
+  ]
+}

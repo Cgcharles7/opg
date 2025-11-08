@@ -1,0 +1,34 @@
+{
+  "uuid": "a3ac7476-3319-4815-b0d3-7f5dfeb7e449",
+  "name": "Wall–Sun–Sun prime",
+  "link": "https://en.wikipedia.org/wiki/Wall%E2%80%93Sun%E2%80%93Sun_prime",
+  "rephrased": "A Wall–Sun–Sun prime is a prime number p for which F_{p-1} is divisible by p², where F_n is the nth Fibonacci number. It is unknown whether any such primes exist.",
+  "implication_form": "If there exists a prime p such that F_{p-1} ≡ 0 (mod p²), then a Wall–Sun–Sun prime exists.",
+  "posed_by": "Ronald Wall, Zhi Hong Sun, Shao Hua Sun",
+  "solved_by": "unsolved",
+  "year_originated": 55,
+  "explained": "A Wall–Sun–Sun prime is a prime number p > 5 that satisfies a specific condition related to the Fibonacci sequence. It is defined by the congruence: F_{p - (p mod 5)} ≡ 0 \\pmod{p^2}, where F_n denotes the nth Fibonacci number. This condition is analogous to the definition of a Wieferich prime (which relates to Fermat's Last Theorem) but applied to the Fibonacci sequence and modulo p squared. The existence of such primes is conjectured, although none have been found to date. The condition involves the Fibonacci entry point, which is the smallest positive integer k such that F_k ≡ 0 \\pmod{p}.",
+  "terms": [
+    "Fibonacci number",
+    "Fibonacci sequence",
+    "Fibonacci entry point",
+    "primality",
+    "modular arithmetic",
+    "congruence",
+    "Wieferich prime",
+    "pseudoprime",
+    "period"
+  ],
+  "related_conjectures": [
+    "Infinitude of primes",
+    "Existence of infinitely many Wall–Sun–Sun primes",
+    "Existence of infinitely many Wieferich primes",
+    "Properties of Fibonacci numbers modulo primes"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Sequences and Recurrences",
+    "Primality Theory",
+    "Modular Forms"
+  ]
+}

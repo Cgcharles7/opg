@@ -1,0 +1,37 @@
+{
+  "uuid": "d6c3a5c9-ccf2-4ca7-b59c-5166ac915aa0",
+  "name": "Spherical space form conjecture",
+  "link": "https://en.wikipedia.org/wiki/Spherical_space_form_conjecture",
+  "rephrased": "A finite group can be realized as a symmetry group of the 3-sphere.",
+  "implication_form": "If a finite group acts faithfully on the 3-sphere, then it is conjugate to a subgroup of the isometry group of the 3-sphere.",
+  "posed_by": "Heinz Bieberbach",
+  "solved_by": "Grigory Perel'man",
+  "year_originated": 90,
+  "explained": "The Spherical Space Form Conjecture, now a theorem proven primarily by Ludwig Bieberbach (1933, 1935), Wu-Hsiang Hsiang (1966), and Jeff Cheeger and Michael Gromov (1987), states that if a finite group G acts effectively on the 3-sphere S³ by isometries (i.e., preserving the standard Riemannian metric), then G is conjugate to a finite subgroup of the orthogonal group O(4) (or equivalently, of SO(4), since S³ is the group of unit quaternions). This means G must be a finite subgroup of the isometry group of S³. The theorem classifies all finite groups that can act faithfully by isometries on the 3-sphere.",
+  "terms": [
+    "Finite group",
+    "Group action",
+    "Effective action",
+    "3-Sphere (S³)",
+    "Isometry",
+    "Riemannian metric",
+    "Orthogonal group (O(4))",
+    "Special orthogonal group (SO(4))",
+    "Conjugacy",
+    "Bieberbach group",
+    "Elliptic space"
+  ],
+  "related_conjectures": [
+    "Geometrization Conjecture (now proven by Grigori Perel'man)",
+    "Classification of Finite Groups",
+    "Elliptization Conjecture (a consequence of the Geometrization Conjecture for spherical 3-manifolds)",
+    "Bieberbach Conjecture (about the infinitesimal rigidity of crystallographic groups)"
+  ],
+  "subjects": [
+    "Geometric Topology",
+    "Differential Geometry",
+    "Group Theory",
+    "Lie Theory",
+    "Low-dimensional Topology"
+  ]
+}

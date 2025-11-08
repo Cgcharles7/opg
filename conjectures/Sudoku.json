@@ -1,0 +1,35 @@
+{
+  "uuid": "f7e9e5e6-305d-4c43-b9c0-536b7d28be43",
+  "name": "Sudoku",
+  "link": "https://en.wikipedia.org/wiki/Sudoku",
+  "rephrased": "Fill a 9x9 grid with digits 1-9 such that each row, column, and 3x3 box contains all digits 1-9 exactly once, given some starting numbers.",
+  "implication_form": "If a partially filled 9x9 grid satisfies the Sudoku rules and has exactly one solution, then it is a valid Sudoku puzzle.",
+  "posed_by": "originator not specified",
+  "solved_by": "unsolved",
+  "year_originated": 1986,
+  "explained": "Sudoku is a combinatorial puzzle defined on a 9×9 grid, divided into nine 3×3 subgrids (boxes). The objective is to fill the grid with digits 1 through 9 such that each row, each column, and each box contains each digit exactly once. A Sudoku puzzle is presented with a partially filled grid, and the challenge is to complete it according to these rules. The term 'conjecture' may be misleading here, as Sudoku is primarily a puzzle format, but the question of whether certain configurations (like minimal clues) lead to unique solutions is an area of combinatorial study.",
+  "terms": [
+    "Latin square",
+    "Combinatorial design",
+    "Backtracking algorithm",
+    "Grid",
+    "Row",
+    "Column",
+    "Box",
+    "Subgrid",
+    "Isomorphism",
+    "Clue"
+  ],
+  "related_conjectures": [
+    "The minimal number of clues problem (conjectured to be 17 for a unique solution)",
+    "Counting the number of Sudoku grids",
+    "Sudoku as a Latin square with additional constraints"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Discrete mathematics",
+    "Theoretical computer science",
+    "Algorithm design",
+    "Combinatorial design theory"
+  ]
+}

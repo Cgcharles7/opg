@@ -1,0 +1,27 @@
+{
+  "uuid": "568e4d63-af53-4be4-9500-7d2f085feb97",
+  "name": "Twin prime conjecture",
+  "link": "https://en.wikipedia.org/wiki/Twin_prime",
+  "rephrased": "There are infinitely many pairs of prime numbers that differ by two.",
+  "implication_form": "If N is a positive integer, then there exists a pair of twin primes both greater than N.",
+  "posed_by": "19th-century mathematicians (attributed to observations by Euclid and formalized by figures like Alphonse de Racine)",
+  "solved_by": "Unsolved",
+  "year_originated": 223,
+  "explained": "A twin prime is a prime number that is either 2 less or 2 more than another prime number, forming a pair (p, p+2) where both p and p+2 are prime. The Twin Prime Conjecture states that there are infinitely many such pairs. In other words, there are infinitely many primes p such that p+2 is also prime. This conjecture is one of the oldest unsolved problems in number theory.",
+  "terms": [
+    "Prime number",
+    "Prime gap",
+    "Prime pair",
+    "Infinitely many",
+    "Consecutive odd numbers"
+  ],
+  "related_conjectures": [
+    "Goldbach's Conjecture",
+    "Riemann Hypothesis",
+    "Polignac's Conjecture"
+  ],
+  "subjects": [
+    "Number theory",
+    "Analytic number theory"
+  ]
+}

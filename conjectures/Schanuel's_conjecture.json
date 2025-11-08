@@ -1,0 +1,14 @@
+{
+  "uuid": "b380ba2c-41a1-4e19-afa7-1b7e4d779bed",
+  "name": "Schanuel's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Schanuel%27s_conjecture",
+  "rephrased": "If you take n complex numbers and their natural logarithms, arrange them in a special way (like putting the logs of some numbers and the numbers themselves together), then this set of 2n numbers is so 'independent' over the rational numbers that at most n of them can be expressed using basic arithmetic operations starting from the rational numbers.",
+  "implication_form": "If there exists a set of n complex numbers and their natural logarithms arranged in a specific way, then the resulting set of 2n numbers has a high transcendence degree over the rationals (specifically, its transcendence degree is at least n).",
+  "posed_by": "Stephen Schanuel",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

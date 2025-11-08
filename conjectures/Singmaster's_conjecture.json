@@ -1,0 +1,26 @@
+{
+  "uuid": "a3096543-ea72-4571-aee2-3d9c43a125c0",
+  "name": "Singmaster's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Singmaster%27s_conjecture",
+  "rephrased": "All numbers in Pascal's triangle (except 1) appear only a limited number of times.",
+  "implication_form": "If an entry appears in Pascal's triangle and is not 1, then it appears only finitely many times.",
+  "posed_by": "David Singmaster",
+  "solved_by": "unsolved",
+  "year_originated": 52,
+  "explained": "Singmaster's conjecture, proposed by David Singmaster in 1971, addresses the maximum number of times any single number (except 1) appears in Pascal's triangle. Pascal's triangle is constructed by starting with a 1 at the top and adding two adjacent numbers to get the number below them. The conjecture states that despite the infinite repetition of 1 in the triangle, all other numbers occur only a finite number of times. In other words, there exists some fixed integer N such that no number greater than 1 appears more than N times in the entire triangle.",
+  "terms": [
+    "Pascal's triangle",
+    "Binomial coefficient",
+    "Multiplicity",
+    "Combinatorial number theory"
+  ],
+  "related_conjectures": [
+    "Erdős–Szekeres theorem",
+    "Graham's conjecture",
+    "Erdős square-free conjecture"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Number theory"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "c0264119-f348-40a8-a70e-b98a233556a2",
+  "name": "Vinogradov's mean-value theorem",
+  "link": "https://en.wikipedia.org/wiki/Vinogradov%27s_mean-value_theorem",
+  "rephrased": "Vinogradov's Mean-Value Theorem estimates the number of solutions to a system of k equations, each being the sum of s k-th powers, for variables ranging up to X.",
+  "implication_form": "If J_{s,k}(X) counts the number of solutions to the system of k equations, each being the sum of s k-th powers, for variables ranging up to X, then J_{s,k}(X) is bounded by X^{k + s(k-1)/k} times some logarithmic factor or power, depending on s and k.",
+  "posed_by": "Ivan Matveyevich Vinogradov",
+  "solved_by": "Bourgain, Demeter, Guth",
+  "year_originated": 1937,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

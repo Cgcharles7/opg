@@ -1,0 +1,31 @@
+{
+  "uuid": "5aabcac7-6b42-4d8b-bc79-a5909d004da0",
+  "name": "Selberg's 1/4 conjecture",
+  "link": "https://en.wikipedia.org/wiki/Selberg%27s_1/4_conjecture",
+  "rephrased": "Selberg's conjecture states that certain special functions called Maass wave forms, which satisfy specific symmetry conditions, must have a Laplacian eigenvalue at least 1/4.",
+  "implication_form": "If a function is a Maass wave form on a congruence subgroup, then its Laplacian eigenvalue is at least 1/4.",
+  "posed_by": "Atle Selberg",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": "Selberg's 1/4 conjecture pertains to the eigenvalues of the Laplace-Beltrami operator acting on Maass wave forms (eigenfunctions with no zeros) for congruence subgroups of SL(2,ℤ). It posits that all such eigenvalues λ satisfy λ ≥ 1/4. Attributed to Atle Selberg, who proved the foundational bound λ ≥ 3/16, subsequent mathematical developments have refined this lower bound, with the current best known bound being 975/4096 ≈ 0.238..., established by Sangchul Kim and Peter Sarnak in 2003. The conjecture is deeply connected to the theory of automorphic forms, and the generalized Ramanujan conjecture for GL(2) implies Selberg's eigenvalue conjecture.",
+  "terms": [
+    "Maass wave form",
+    "Laplace-Beltrami operator",
+    "Congruence subgroup",
+    "Automorphic form",
+    "Eigenvalue",
+    "Selberg trace formula",
+    "Ramanujan-Petersson conjecture"
+  ],
+  "related_conjectures": [
+    "Generalized Ramanujan conjecture",
+    "Langlands program"
+  ],
+  "subjects": [
+    "Number theory",
+    "Automorphic forms",
+    "Representation theory",
+    "Harmonic analysis",
+    "Spectral theory"
+  ]
+}

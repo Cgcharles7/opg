@@ -1,0 +1,27 @@
+{
+  "uuid": "8161514b-d110-480f-9727-720c32448f2b",
+  "name": "Vaught conjecture",
+  "link": "https://en.wikipedia.org/wiki/Vaught_conjecture",
+  "rephrased": "The number of non-isomorphic countable models of a complete first-order theory in a countable language cannot be exactly ℵ1 unless the continuum hypothesis holds.",
+  "implication_form": "If a complete first-order theory in a countable language has uncountably many countable models, then the number of such models must be equal to 2^ℵ0.",
+  "posed_by": "Robert Lawson Vaught",
+  "solved_by": "Morley solved it except for the case of ℵ1 models when the continuum hypothesis fails; Knight addressed the remaining case.",
+  "year_originated": 63,
+  "explained": "The Vaught conjecture, proposed by Robert Lawson Vaught in 1961, addresses the possible number of non-isomorphic countable models associated with a complete first-order theory using a countable language. It conjectures that the number of such countable models must be finite, countable (ℵ₀), or the cardinality of the continuum (2ℵ₀). This was later refined by Morley's theorem, which showed that the number is indeed one of these four possibilities, but the specific case of the number being ℵ₁ (when the continuum hypothesis is false) remains unresolved under the current axioms of set theory.",
+  "terms": [
+    "Countable model",
+    "Complete first-order theory",
+    "Countable language",
+    "Non-isomorphic models",
+    "Cardinality (ℵ₀, ℵ₁, 2ℵ₀)",
+    "Continuum Hypothesis (CH)",
+    "Model theory"
+  ],
+  "related_conjectures": [
+    "Continuum Hypothesis (CH)"
+  ],
+  "subjects": [
+    "Model Theory",
+    "Set Theory"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "uuid": "b7ea293d-fb24-4fab-9094-cbe825776522",
+  "name": "Riesel number",
+  "link": "https://en.wikipedia.org/wiki/Riesel_number",
+  "rephrased": "An odd natural number k is a Riesel number if all numbers of the form k multiplied by 2 raised to any natural number n and then subtracted 1 are composite.",
+  "implication_form": "It is challenging to express this as a simple 'If P, then Q' implication, as it primarily defines a property (being a Riesel number) based on a condition (all k*2^n -1 being composite). However, one could say: If k is an odd natural number and for all natural numbers n, k*2^n -1 is composite, then k is a Riesel number.",
+  "posed_by": "Hans Riesel",
+  "solved_by": "unsolved",
+  "year_originated": 90,
+  "explained": "A Riesel number is an odd natural number k such that the expression k × 2^n - 1 is composite for every natural number n.",
+  "terms": [
+    "prime",
+    "composite",
+    "sequence",
+    "primality testing",
+    "odd natural numbers",
+    "exponential expressions"
+  ],
+  "related_conjectures": [
+    "Sierpiński number"
+  ],
+  "subjects": [
+    "Number theory",
+    "Computational number theory",
+    "Primality testing"
+  ]
+}

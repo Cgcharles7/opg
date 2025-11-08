@@ -1,0 +1,33 @@
+{
+  "uuid": "e4ef4aa3-8400-4670-ae19-a7c2112f6d96",
+  "name": "Tripod packing",
+  "link": "https://en.wikipedia.org/wiki/Tripod_packing",
+  "rephrased": "Pack as many disjoint 'tripods' as possible in a three-dimensional grid, where a tripod consists of three infinite rays extending from a single point along the positive directions of the x, y, and z axes.",
+  "implication_form": "Cannot be restated in the 'If P, then Q' form as presented.",
+  "posed_by": "Sherman K. Stein",
+  "solved_by": "unsolved",
+  "year_originated": 56,
+  "explained": "The Tripod packing conjecture, formulated by Sherman K. Stein in 1967, concerns the maximum density achievable by packing the three-dimensional integer lattice \\(\\mathbb{Z}^3\\) with disjoint copies of a specific infinite polycube shape called a 'tripod' (or 'semicross' or 'Stein corner'). A tripod is defined as the union of all grid cubes along three infinite rays emanating from a single apex cube, one along each of the positive x, y, and z-axes. The conjecture posits that it is possible to pack the lattice with tripods achieving a certain positive asymptotic density.",
+  "terms": [
+    "Packing problem",
+    "Combinatorial geometry",
+    "Polycube",
+    "Tripod",
+    "Semicross",
+    "Stein corner",
+    "Asymptotic density",
+    "Discrete geometry",
+    "Grid packing"
+  ],
+  "related_conjectures": [
+    "Stein's tetrahedral packing conjecture",
+    "Other polyomino/polyform packing density problems",
+    "Packing problems in \\(\\mathbb{Z}^3\\)"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Discrete Geometry",
+    "Computational Geometry",
+    "Packing Theory"
+  ]
+}

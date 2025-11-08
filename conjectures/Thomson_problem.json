@@ -1,0 +1,14 @@
+{
+  "uuid": "a67e33cf-50c1-4f0c-9842-5d55b729799a",
+  "name": "Thomson problem",
+  "link": "https://en.wikipedia.org/wiki/Thomson_problem",
+  "rephrased": "Find the best arrangement of N charged particles on a sphere to minimize their mutual repulsion energy.",
+  "implication_form": "If a configuration minimizes the electrostatic potential energy of N repelling charges on a sphere, then it satisfies certain geometric conditions.",
+  "posed_by": "J. J. Thomson",
+  "solved_by": "unsolved",
+  "year_originated": 119,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

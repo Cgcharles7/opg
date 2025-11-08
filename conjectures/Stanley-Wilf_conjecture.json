@@ -1,0 +1,34 @@
+{
+  "uuid": "45246286-d342-4a6d-8340-6e4a507ba8e3",
+  "name": "Stanley–Wilf conjecture",
+  "link": "https://en.wikipedia.org/wiki/Stanley%E2%80%93Wilf_conjecture",
+  "rephrased": "No proper permutation class can have a growth rate faster than exponential.",
+  "implication_form": "If a permutation class is proper, then its growth rate is singly exponential.",
+  "posed_by": [
+    "Richard P. Stanley",
+    "Herbert Wilf"
+  ],
+  "solved_by": [
+    "Adam Marcus",
+    "Gábor Tardos"
+  ],
+  "year_originated": 35,
+  "explained": "The Stanley–Wilf conjecture, formulated by Richard P. Stanley and Herbert Wilf in the late 1980s, stated that for any permutation pattern σ, the size of the largest permutation class avoiding σ (or any set of permutations forming a basis for a permutation class) is bounded by a constant raised to the power of n, where n is the length of the permutation. In other words, the growth rate of every proper permutation class is singly exponential. This conjecture was proven by Adam Marcus and Gábor Tardos in 2004, and the theorem they proved (which was originally conjectured by Zoltán Füredi and Péter Hajnal in 1992) implies the Stanley–Wilf conjecture.",
+  "terms": [
+    "permutation class",
+    "growth rate",
+    "singly exponential",
+    "avoiding a permutation",
+    "permutation pattern"
+  ],
+  "related_conjectures": [
+    "Erdős–Szekeres theorem",
+    "Füredi–Hajnal conjecture (now a theorem)"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Extremal combinatorics",
+    "Permutation patterns",
+    "Enumeration"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "uuid": "cd563765-c7e4-4bc9-aba8-62d45e201734",
+  "name": "Twin prime",
+  "link": "https://en.wikipedia.org/wiki/Twin_prime",
+  "rephrased": "A twin prime is a prime number that is either 2 less or 2 more than another prime, forming pairs like (17, 19). The conjecture states that there are infinitely many such pairs.",
+  "implication_form": "If there are infinitely many primes, then there are infinitely many twin prime pairs.",
+  "posed_by": "Unknown",
+  "solved_by": "Unsolved",
+  "year_originated": "Ancient",
+  "explained": "Twin primes are defined as pairs of prime numbers that differ by two (e.g., (3, 5), (5, 7), (11, 13), (17, 19), (29, 31), etc.). The twin prime conjecture is the unproven hypothesis that there are infinitely many such pairs. In other words, despite primes becoming less frequent as numbers get larger, there should be infinitely many occurrences of primes that are two units apart.",
+  "terms": [
+    "Prime gap",
+    "Prime counting function",
+    "Prime number theorem",
+    "Prime pair"
+  ],
+  "related_conjectures": [
+    "Goldbach's conjecture",
+    "Riemann Hypothesis"
+  ],
+  "subjects": [
+    "Number theory",
+    "Analytical number theory"
+  ]
+}

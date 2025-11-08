@@ -1,0 +1,39 @@
+{
+  "uuid": "ee5b4a08-7bec-4d5e-9f1c-f8823fc3e5d9",
+  "name": "Weaire–Phelan structure",
+  "link": "https://en.wikipedia.org/wiki/Weaire%E2%80%93Phelan_structure",
+  "rephrased": "The Weaire–Phelan structure is a space-filling arrangement of two different shapes made from equal-sized bubbles, designed to minimize the total surface area by having bubbles of the same volume.",
+  "implication_form": "If the goal is to tile space with identical-volume cells of minimal surface area (Kelvin problem), then the Weaire–Phelan structure provides a better solution than the Kelvin structure.",
+  "posed_by": "Denis Weaire and Robert Phelan",
+  "solved_by": "unsolved",
+  "year_originated": 30,
+  "explained": "The Weaire–Phelan structure is a specific arrangement of three-dimensional polyhedral cells that represents a solution to the Kelvin problem. This problem, proposed by Lord Kelvin, asks for the ideal way to divide space into equal-volume regions (cells) while minimizing the total surface area of the bounding walls between them. In 1993, Denis Weaire and Robert Phelan discovered a structure consisting of two distinct types of cells (a dodecahedron and a capped dodecahedron sharing faces) that has a lower surface area than the previously accepted Kelvin structure (a more complex arrangement of irregular polyhedra). While not proven to be the absolute minimum surface area configuration, it is significantly more efficient than Kelvin's structure and remains a prominent candidate for solving the Kelvin problem.",
+  "terms": [
+    "Kelvin problem",
+    "Kelvin structure",
+    "Weaire–Phelan structure",
+    "Kelvin foam",
+    "Weaire–Phelan foam",
+    "surface area minimization",
+    "equal-volume cells",
+    "tessellation",
+    "polyhedral tiling",
+    "three-dimensional geometry"
+  ],
+  "related_conjectures": [
+    "Kepler conjecture (sphere packing)",
+    "Sphere eversion",
+    "Hales' proof of Kepler conjecture",
+    "Tiling conjectures (e.g., existence of aperiodic tiles)",
+    "Problem of the Kelvin",
+    "Deja vu conjecture (in dynamical systems, unrelated contextually)"
+  ],
+  "subjects": [
+    "Geometry",
+    "Combinatorics",
+    "Optimization",
+    "Tiling",
+    "Three-dimensional topology",
+    "Mathematical physics (foam analogies)"
+  ]
+}

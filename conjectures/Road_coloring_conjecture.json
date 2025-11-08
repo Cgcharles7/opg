@@ -1,0 +1,32 @@
+{
+  "uuid": "20ad7e0f-262e-49d0-9d20-1da60bd8bf06",
+  "name": "Road coloring conjecture",
+  "link": "https://en.wikipedia.org/wiki/Road_coloring_theorem",
+  "rephrased": "Is there a finite sequence of labels (colors) that can be used to reach a specific node from any starting point in a finite, strongly connected directed graph where each vertex has equal in-degree and out-degree?",
+  "implication_form": "If the graph is Eulerian (each vertex has equal in-degree and out-degree) and strongly connected, then there exists a finite sequence of labels (a synchronizing word) that, regardless of the starting node, leads to a specific target node.",
+  "posed_by": "Victor Klee",
+  "solved_by": "Anisohlar, Beža, Kambites, Trakhtenbrot",
+  "year_originated": 47,
+  "explained": "The Road Coloring Conjecture states that any strongly connected, aperiodic directed graph with a finite number of vertices possesses a universal edge-coloring (assigning colors to edges). This coloring has the property that, from any starting vertex, following a specific sequence of instructions (based on the color sequence) leads unambiguously to a designated target vertex, regardless of the initial position.",
+  "terms": [
+    "Directed Graph",
+    "Strongly Connected Graph",
+    "Aperiodic Graph",
+    "Eulerian Graph",
+    "Edge-Coloring",
+    "Universal Coloring",
+    "Synchronized Instructions",
+    "Automaton",
+    "Symbolic Dynamics"
+  ],
+  "related_conjectures": [
+    "Uniformization Problem",
+    "Conjectures related to symbolic dynamics and shift spaces"
+  ],
+  "subjects": [
+    "Graph Theory",
+    "Combinatorics",
+    "Theoretical Computer Science",
+    "Symbolic Dynamics"
+  ]
+}

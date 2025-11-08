@@ -1,0 +1,14 @@
+{
+  "uuid": "b2349f0f-214a-4220-a981-db1430538b31",
+  "name": "Tate conjecture",
+  "link": "https://en.wikipedia.org/wiki/Tate_conjecture",
+  "rephrased": "The Tate conjecture states that certain mathematical objects called 'algebraic cycles' on a geometric shape (variety) can be detected using simpler mathematical tools related to number theory and symmetry (Galois representations on étale cohomology).",
+  "implication_form": "It is not possible to rephrase the Tate conjecture in the form 'If P, then Q' without knowing its exact statement.",
+  "posed_by": "John Tate",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

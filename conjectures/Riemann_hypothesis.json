@@ -1,0 +1,39 @@
+{
+  "uuid": "b206b382-472f-4a4f-99b4-266456b9e126",
+  "name": "Riemann hypothesis",
+  "link": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+  "rephrased": "The non-trivial zeros of the Riemann zeta function all lie on the complex line where the real part is exactly 1/2.",
+  "implication_form": "If a complex number is a non-trivial zero of the Riemann zeta function, then its real part is 1/2.",
+  "posed_by": "Bernhard Riemann",
+  "solved_by": "unsolved",
+  "year_originated": 165,
+  "explained": "The Riemann Hypothesis is a conjecture about the Riemann zeta function, ζ(s), which is defined for complex numbers s = σ + it. The hypothesis states that all non-trivial zeros of the Riemann zeta function have real part exactly 1/2. Non-trivial zeros are those zeros that are not the negative even integers (trivial zeros). This means that if ζ(s) = 0 and s is not a negative even integer, then σ = 1/2. This conjecture is deeply connected to the distribution of prime numbers and is considered one of the most important unsolved problems in mathematics.",
+  "terms": [
+    "Riemann zeta function",
+    "Analytic continuation",
+    "Complex analysis",
+    "Dirichlet series",
+    "Prime number theorem",
+    "Critical line",
+    "Trivial zeros",
+    "Non-trivial zeros",
+    "Complex numbers",
+    "Prime number distribution"
+  ],
+  "related_conjectures": [
+    "P versus NP problem",
+    "Navier–Stokes existence and smoothness",
+    "BSD conjecture (Birch and Swinnerton-Dyer conjecture)",
+    "Poincaré conjecture (now proven)",
+    "Twin prime conjecture",
+    "Goldbach conjecture",
+    "Collatz conjecture"
+  ],
+  "subjects": [
+    "Number theory",
+    "Complex analysis",
+    "Algebraic geometry",
+    "Analytic number theory",
+    "Differential equations"
+  ]
+}

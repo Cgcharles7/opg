@@ -1,0 +1,35 @@
+{
+  "uuid": "7209fbb1-0313-4b10-bba3-c26016886917",
+  "name": "Unknotting problem",
+  "link": "https://en.wikipedia.org/wiki/Unknotting_problem",
+  "rephrased": "Is there an efficient (polynomial time) algorithm to determine if a given knot is the simplest knot (the unknot)?",
+  "implication_form": "If there exists a polynomial time algorithm to recognize the unknot, then the unknotting problem is in the complexity class P.",
+  "posed_by": "The unknotting problem is an open question in mathematics, not attributed to a single person but emerging from research in knot theory.",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": "The unknotting problem is the fundamental algorithmic challenge in knot theory: Given a description of a knot (e.g., a knot diagram or a sequence of moves), determine if it represents the unknot, which is an embedding of a circle in 3D space that is not twisted into a more complex shape. The central question is whether this problem can be solved by an algorithm that runs in polynomial time relative to the size of the input description. This is equivalent to asking if the unknotting problem belongs to the complexity class P. While algorithms exist (like Haken's algorithm and more modern normal surface algorithms), the question of whether any algorithm can solve it efficiently for all possible inputs remains unresolved. The complexity class of the problem is unknown (it could be P, NP-complete, or something else).",
+  "terms": [
+    "Knot",
+    "Unknot",
+    "Knot diagram",
+    "Algorithmic recognition",
+    "Polynomial time",
+    "Computational complexity",
+    "Complexity class P",
+    "Decision problem",
+    "Normal surface",
+    "Haken algorithm"
+  ],
+  "related_conjectures": [
+    "P versus NP problem",
+    "Word problem for groups",
+    "Computational complexity of knot invariants"
+  ],
+  "subjects": [
+    "Knot theory",
+    "Computational complexity",
+    "Algorithm design",
+    "Geometric topology",
+    "Theoretical computer science"
+  ]
+}

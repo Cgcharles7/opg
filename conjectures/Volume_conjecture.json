@@ -1,0 +1,40 @@
+{
+  "uuid": "fede7342-8eff-42fb-93f0-d5df9112bab3",
+  "name": "Volume conjecture",
+  "link": "https://en.wikipedia.org/wiki/Volume_conjecture",
+  "rephrased": null,
+  "implication_form": "If the quantum invariant sequence for a hyperbolic knot is evaluated at roots of unity, then the limit of its absolute value as the root of unity approaches infinity is approximately equal to the natural logarithm of the hyperbolic volume of the knot complement.",
+  "posed_by": "Toshishige Kashaev",
+  "solved_by": "unsolved",
+  "year_originated": 28,
+  "explained": "The Volume Conjecture states that for a hyperbolic knot (a knot whose complement admits a complete hyperbolic structure), the hyperbolic volume of its complement can be recovered from the asymptotic behavior of certain quantum invariants. Specifically, for a fixed hyperbolic knot K, the conjecture involves the sequence of values |W(K, ρ_n)|, where ρ_n are representations of the knot complement's fundamental group into PSL(2, C) corresponding to the n-th root of unity, and W(K, ρ_n) is a complex-valued quantum invariant (like the Kashaev invariant, related to the Jones polynomial). The conjecture claims that the hyperbolic volume vol(K) is equal to π times the limit (as n tends to infinity) of the real part of (1/(4π)) * ln|W(K, ρ_n)|. In simpler terms, the growth rate of the absolute value of this quantum invariant sequence, as the representation parameter tends to infinity, determines the hyperbolic volume of the knot complement.",
+  "terms": [
+    "Knot theory",
+    "Hyperbolic geometry",
+    "Quantum invariant",
+    "Hyperbolic volume",
+    "Hyperbolic knot complement",
+    "Fundamental group",
+    "PSL(2, C)",
+    "Root of unity",
+    "Asymptotic behavior",
+    "Growth rate",
+    "Jones polynomial",
+    "Kashaev invariant",
+    "Witten-Reshetikhin-Turaev invariant",
+    "Chern-Simons invariant"
+  ],
+  "related_conjectures": [
+    "Kashaev conjecture",
+    "Asymptotic behavior of the colored Jones polynomial",
+    "Hodgkin Conjecture",
+    "Quantum Volume conjecture (generalizations)"
+  ],
+  "subjects": [
+    "Knot theory",
+    "Hyperbolic geometry",
+    "Quantum topology",
+    "Quantum field theory",
+    "Low-dimensional topology"
+  ]
+}

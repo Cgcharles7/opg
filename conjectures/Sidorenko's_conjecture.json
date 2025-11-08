@@ -1,0 +1,14 @@
+{
+  "uuid": "0c26f00f-e9c8-4d33-83ec-6f8bbff6940b",
+  "name": "Sidorenko's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Sidorenko%27s_conjecture",
+  "rephrased": "For any bipartite graph H, the number of copies of H as a subgraph in a large graph G with n vertices and average degree pn is asymptotically at least (pn)^{|V(H)|} (where |V(H)| is the number of vertices in H).",
+  "implication_form": "If G is a graph on n vertices with average degree pn, then the number of homomorphisms from H to G is asymptotically at least (pn)^{|V(H)|}.",
+  "posed_by": "Alexander Sidorenko",
+  "solved_by": "unsolved",
+  "year_originated": 38,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

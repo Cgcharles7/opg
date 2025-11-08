@@ -1,0 +1,31 @@
+{
+  "uuid": "7b05154e-3f21-424f-8384-3e6ded23004e",
+  "name": "Singular cardinal",
+  "link": "https://en.wikipedia.org/wiki/Regular_cardinal",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "The Singular Cardinal Conjecture (SCC) is a significant hypothesis in set theory concerning the behavior of singular cardinals. It states that if \\( \\kappa \\) is a singular cardinal and \\( \\cf(\\kappa) = \\lambda \\) (the cofinality of \\( \\kappa \\) is \\( \\lambda \\)), then the SCH (singular cardinals hypothesis) holds for \\( \\kappa \\), i.e., \\( 2^{\\kappa} = \\kappa^{++} \\), where \\( \\kappa^{++} \\) is the second successor cardinal after \\( \\kappa \\). In other words, the power set of \\( \\kappa \\) has the same cardinality as the \\( \\aleph \\)-number immediately following the \\( \\aleph \\)-number of \\( \\kappa \\)'s cofinality. König's theorem shows that regular cardinals cannot be singular, but the conjecture addresses the gap for singular cardinals.",
+  "terms": [
+    "Singular Cardinal",
+    "Regular Cardinal",
+    "Cofinality",
+    "Successor Cardinal",
+    "SCH (Singular Cardinals Hypothesis)",
+    "PCF Theory",
+    "Power Set",
+    "Cardinal Exponentiation"
+  ],
+  "related_conjectures": [
+    "Singular Cardinals Hypothesis (SCH)",
+    "Continuum Hypothesis (CH)",
+    "Generalized Continuum Hypothesis (GCH)",
+    "Periodicity of Singular Cardinals Hypothesis (SPH)"
+  ],
+  "subjects": [
+    "Set Theory",
+    "Mathematical Logic"
+  ]
+}

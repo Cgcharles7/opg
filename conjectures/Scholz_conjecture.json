@@ -1,0 +1,17 @@
+{
+  "uuid": "77a8627a-d785-4dc2-b00d-622ce40622fa",
+  "name": "Scholz conjecture",
+  "link": "https://en.wikipedia.org/wiki/Scholz_conjecture",
+  "rephrased": "The shortest addition chain for a number n has a length no more than roughly twice the logarithm base 2 of n.",
+  "implication_form": "If n is a positive integer, then the minimal length of an addition chain for n is at most log₂(2n-1) + 1.",
+  "posed_by": [
+    "Arnold Scholz",
+    "Alfred Brauer (studied it)"
+  ],
+  "solved_by": "unsolved",
+  "year_originated": 86,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

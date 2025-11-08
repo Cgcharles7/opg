@@ -1,0 +1,30 @@
+{
+  "uuid": "45623c99-1919-47f5-9c14-33c6753e2d33",
+  "name": "Robertson–Seymour theorem",
+  "link": "https://en.wikipedia.org/wiki/Robertson%E2%80%93Seymour_theorem",
+  "rephrased": "If a family of graphs is closed under taking minors, then it can be described by forbidding a finite number of specific graphs.",
+  "implication_form": "If a family of graphs is closed under taking minors, then there exists a finite set of graphs such that the family consists exactly of graphs that do not contain any of these forbidden graphs as minors.",
+  "posed_by": "Neil Robertson and Paul Seymour",
+  "solved_by": "Neil Robertson and Paul Seymour",
+  "year_originated": "40",
+  "explained": "The Robertson–Seymour theorem (also known as the graph minors theorem) states that the set of all undirected graphs, ordered by the relation of graph minors, forms a well-quasi-ordering. This means that there are no infinite strictly decreasing sequences of graphs (antichains) and that any property of graphs that is closed under taking minors can be characterized by forbidding a finite set of specific graphs (forbidden minors). In other words, every minor-closed family of graphs can be defined by a finite list of forbidden minors.",
+  "terms": [
+    "Graph minor",
+    "Well-quasi-ordering (WQO)",
+    "Minor-closed family",
+    "Forbidden minor",
+    "Wagner's theorem",
+    "Kruskal's tree theorem",
+    "Order theory"
+  ],
+  "related_conjectures": [
+    "Wagner's theorem (characterizing planar graphs)",
+    "Kruskal's tree theorem (a foundational result in well-quasi-ordering theory for trees)",
+    "Four Color Theorem (historically motivated the search for forbidden minors for planar graphs)"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Order theory"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "uuid": "68082554-80ac-4ad2-a66c-b6486777c811",
+  "name": "Shimura variety",
+  "link": "https://en.wikipedia.org/wiki/Shimura_variety",
+  "rephrased": "A Shimura variety is a geometric object constructed as a quotient of a special type of space (a Hermitian symmetric domain) by a specific subgroup (a congruence subgroup of a reductive algebraic group). It's a way to organize families of algebraic varieties that are important in number theory.",
+  "implication_form": "If a variety is defined as the quotient of a Hermituts symmetric domain by a congruence subgroup of a reductive algebraic group, then it is a Shimura variety.",
+  "posed_by": "Goro Shimura",
+  "solved_by": "unsolved",
+  "year_originated": 50,
+  "explained": "The concept known as a Shimura variety arises from the definition provided. A Shimura variety is not a single conjecture but rather a specific type of geometric object in mathematics. It is defined as a quotient variety obtained by taking a Hermitian symmetric domain (which is the base point of a reductive algebraic group G defined over Q, equipped with a conjugate-antilinear involution) and dividing it by a congruence subgroup of the associated arithmetic group. These varieties are typically not algebraic varieties themselves but rather complex analytic spaces that parametrize families of algebraic varieties (such as abelian varieties with certain additional structures or polarizations). They play a crucial role in the Langlands program and number theory.",
+  "terms": [
+    "Reductive algebraic group",
+    "Hermitian symmetric domain",
+    "Congruence subgroup",
+    "Arithmetic group",
+    "Quotient variety",
+    "Algebraic variety",
+    "Modular curve",
+    "Hilbert modular surface",
+    "Siegel modular variety",
+    "Abelian variety",
+    "Langlands program"
+  ],
+  "related_conjectures": [
+    "Langlands program"
+  ],
+  "subjects": [
+    "Number theory",
+    "Algebraic geometry",
+    "Arithmetic geometry",
+    "Representation theory"
+  ]
+}

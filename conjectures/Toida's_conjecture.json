@@ -1,0 +1,26 @@
+{
+  "uuid": "008923be-d976-4da3-8fac-15e0ca2f9a46",
+  "name": "Toida's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Toida%27s_conjecture",
+  "rephrased": "A conjecture about the labeling of cubic graphs, refining Ádám's earlier conjecture which was disproven.",
+  "implication_form": "If a graph satisfies certain conditions (not specified here), then it must be isomorphic to a specific type of cubic graph (not specified here).",
+  "posed_by": "Shunichi Toida",
+  "solved_by": "unsolved",
+  "year_originated": 47,
+  "explained": "Toida's conjecture states that a tournament (a complete graph with directed edges) with an odd number of vertices has a cyclic rotational symmetry if and only if the number of vertices is a power of 2. In other words, such a tournament admits a cyclic group of automorphisms acting regularly (i.e., transitively and freely) if and only if the order of the tournament is a power of 2.",
+  "terms": [
+    "Tournament (graph theory)",
+    "Cyclic rotational symmetry",
+    "Automorphism group",
+    "Regular action",
+    "Combinatorial design"
+  ],
+  "related_conjectures": [
+    "Ádám's conjecture"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Graph theory",
+    "Finite geometry"
+  ]
+}

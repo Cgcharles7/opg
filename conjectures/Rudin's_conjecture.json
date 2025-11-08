@@ -1,0 +1,30 @@
+{
+  "uuid": "099614ff-0098-4d7e-baf1-159d4433bfa3",
+  "name": "Rudin's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Rudin%27s_conjecture",
+  "rephrased": "Rudin's conjecture states that the number of squares in a finite arithmetic progression with N terms, common difference q, and first term a is bounded by a function of N and q.",
+  "implication_form": "If an arithmetic progression with N terms, common difference q, and first term a contains many squares, then the parameters N and q must satisfy a specific inequality.",
+  "posed_by": "Walter Rudin",
+  "solved_by": "unsolved",
+  "year_originated": 63,
+  "explained": "Rudin's conjecture concerns the maximum number of perfect squares that can be contained in a finite arithmetic progression. Specifically, for given positive integers N (length of the progression), q (common difference), and a (first term), the conjecture states that the number of squares in the arithmetic progression starting at a with common difference q and containing N terms is bounded above by a function that grows no faster than a constant times (log N)^4, under certain conditions on q and a.",
+  "terms": [
+    "Arithmetic progression",
+    "Common difference",
+    "Perfect squares",
+    "Finite sequence",
+    "Additive combinatorics",
+    "Elementary number theory"
+  ],
+  "related_conjectures": [
+    "Erdős–Turán conjecture",
+    "Kneser's conjecture",
+    "Szemerédi theorem"
+  ],
+  "subjects": [
+    "Additive combinatorics",
+    "Elementary number theory",
+    "Combinatorial number theory",
+    "Harmonic analysis"
+  ]
+}

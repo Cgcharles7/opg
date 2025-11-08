@@ -1,0 +1,27 @@
+{
+  "uuid": "0d8be973-2b46-4336-b349-b41959c3dc1d",
+  "name": "Scheinerman's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Scheinerman%27s_conjecture",
+  "rephrased": "Any planar graph can be represented as the intersection graph of a set of line segments in the plane.",
+  "implication_form": "If a graph is planar, then it can be represented as the intersection graph of a set of line segments in the plane.",
+  "posed_by": "E. R. Scheinerman",
+  "solved_by": "Jeremie Chalopin and Daniel Gonçalves",
+  "year_originated": 40,
+  "explained": "Scheinerman's conjecture, now a theorem, states that every planar graph is an intersection graph of a set of line segments in the plane. This means that for any planar graph, there exists a collection of line segments in the Euclidean plane such that two vertices of the graph are adjacent if and only if the corresponding line segments intersect. The conjecture was formulated by E. R. Scheinerman in 1984 and was proven by Jeremie Chalopin and Daniel Gonçalves in 2009.",
+  "terms": [
+    "Planar graph",
+    "Intersection graph",
+    "Line segments",
+    "Graph representation"
+  ],
+  "related_conjectures": [
+    "Heawood conjecture",
+    "Hadwiger conjecture",
+    "Four color theorem"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics",
+    "Geometry"
+  ]
+}

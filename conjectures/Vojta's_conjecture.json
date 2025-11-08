@@ -1,0 +1,37 @@
+{
+  "uuid": "d40fd8dc-ac78-463e-ab40-fd8b7f7c13dd",
+  "name": "Vojta's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Vojta%27s_conjecture",
+  "rephrased": "Vojta's conjecture proposes a deep connection between how well algebraic points can approximate varieties defined over number fields and principles from complex analysis (Nevanlinna theory). This analogy suggests that strong diophantine approximation constraints should hold for points on varieties that are 'too complicated' to be defined by equations with few coefficients.",
+  "implication_form": "If Vojta's conjecture holds, then many other conjectures in diophantine approximation, diophantine equations, and arithmetic geometry must also be true.",
+  "posed_by": "Paul Vojta",
+  "solved_by": "unsolved",
+  "year_originated": 1987,
+  "explained": "Vojta's conjecture is a fundamental conjecture in number theory relating the arithmetic height of points on an algebraic variety over a number field to the geometry of the variety. It predicts that if a variety has a large 'conductor' (a measure of arithmetic complexity) or many subvarieties also with large conductors, then the points on the variety cannot be too 'small' in arithmetic height. The precise statement involves arithmetic height functions, the conductor of the variety, and the sum of conductors of its prime divisors or curves lying over a fixed point. It is often stated in two forms, one involving the conductor and the other involving the discriminant of the variety.",
+  "terms": [
+    "Arithmetic height",
+    "Algebraic variety",
+    "Number field",
+    "Diophantine approximation",
+    "Nevanlinna theory",
+    "abc-conjecture",
+    "Mordell conjecture",
+    "Conductor (algebraic geometry)",
+    "Jacobian",
+    "Hermitian metrics",
+    "Diophantine equations"
+  ],
+  "related_conjectures": [
+    "abc-conjecture",
+    "Mordell-Lang conjecture (formerly Mordell conjecture/Faltings' theorem)",
+    "Lang conjecture",
+    "Bombieri-Lang conjecture"
+  ],
+  "subjects": [
+    "Number theory",
+    "Arithmetic geometry",
+    "Diophantine equations",
+    "Algebraic geometry",
+    "Complex analysis (Nevanlinna theory)"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "uuid": "48e648b0-57ae-4b4b-b17d-745c0181b27f",
+  "name": "Square packing in a square",
+  "link": "https://en.wikipedia.org/wiki/Square_packing",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "The Square packing in a square conjecture concerns the problem of packing the maximum number of identical squares (congruent squares) into a larger square without overlapping. The goal is to determine this maximum number for a given ratio of the side length of the small squares to the side length of the large square, or equivalently, to find the packing density. The conjecture refers to the unresolved question of finding the exact maximum number or the optimal packing arrangement for squares of a fixed size into a larger square, particularly for specific ratios where the optimal packing is not known.",
+  "terms": [
+    "Packing problem",
+    "Square packing",
+    "Circle packing",
+    "Packing density",
+    "Square lattice",
+    "Grid packing",
+    "Congruent squares"
+  ],
+  "related_conjectures": [
+    "Kepler conjecture (sphere packing in 3 dimensions)",
+    "Sphere packing problem",
+    "Circle packing in a square",
+    "Thue–Morse sequence (related to packing arrangements in some cases)",
+    "Kissing number problem"
+  ],
+  "subjects": [
+    "Packing problems",
+    "Discrete geometry",
+    "Combinatorial geometry",
+    "Mathematical optimization",
+    "Geometry"
+  ]
+}

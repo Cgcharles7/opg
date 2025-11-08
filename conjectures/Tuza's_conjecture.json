@@ -1,0 +1,23 @@
+{
+  "uuid": "ee171f5d-4921-4ec6-bd36-707085878056",
+  "name": "Tuza's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Tuza%27s_conjecture",
+  "rephrased": "In any undirected graph, the minimum number of edges needed to touch every triangle (i.e., to form an edge cover for all triangles) is equal to the maximum number of edge-disjoint triangles that can be packed into the graph.",
+  "implication_form": "If a graph has a specific property (e.g., being triangle-free or having a certain structure), then it implies the existence of a certain type of triangle cover (or absence of another structure). [Note: A direct 'If P, then Q' formulation is not straightforwardly derived from the core statement of Tuza's Conjecture.]",
+  "posed_by": "Zsolt Tuza",
+  "solved_by": "unsolved",
+  "year_originated": "1980s",
+  "explained": "Tuza's conjecture states that for any undirected simple graph, the minimum number of edges needed to cover all triangles (i.e., an edge cover for triangles) is equal to the maximum number of edge-disjoint triangles in the graph. This conjecture is still unsolved.",
+  "terms": [
+    "edge cover",
+    "triangle",
+    "edge-disjoint triangles",
+    "hypergraph"
+  ],
+  "related_conjectures": [],
+  "subjects": [
+    "Graph theory",
+    "Extremal graph theory",
+    "Combinatorial optimization"
+  ]
+}

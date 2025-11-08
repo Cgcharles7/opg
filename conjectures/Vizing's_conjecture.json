@@ -1,0 +1,25 @@
+{
+  "uuid": "032e0682-0498-4c3a-a7d7-54b6576f29e4",
+  "name": "Vizing's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Vizing%27s_conjecture",
+  "rephrased": "For any two graphs G and H, the domination number of their Cartesian product is at least the product of their individual domination numbers.",
+  "implication_form": "If G and H are graphs, then the domination number of G ◻ H is at least γ(G) times γ(H).",
+  "posed_by": "Vadim G. Vizing",
+  "solved_by": "unsolved",
+  "year_originated": 55,
+  "explained": "Vizing's conjecture states that for any two graphs G and H, the domination number of their Cartesian product G □ H is at least the product of the domination numbers of G and H. Formally, if γ(G) denotes the domination number of graph G, then γ(G □ H) ≥ γ(G) * γ(H).",
+  "terms": [
+    "Cartesian product of graphs",
+    "Domination number",
+    "Dominating set"
+  ],
+  "related_conjectures": [
+    "Reed's conjecture",
+    "Fajtlowicz's conjecture (about the domination number of the Cartesian product of two complete graphs)",
+    "Grötzner's conjecture"
+  ],
+  "subjects": [
+    "Graph theory",
+    "Combinatorics"
+  ]
+}

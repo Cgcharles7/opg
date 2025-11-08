@@ -1,0 +1,14 @@
+{
+  "uuid": "8751516a-a833-4ac4-bf53-a71273523978",
+  "name": "Tameness conjecture",
+  "link": "https://en.wikipedia.org/wiki/Tameness_theorem",
+  "rephrased": "A complete hyperbolic 3-manifold with a finitely generated fundamental group can be made compact by adding a boundary (it is topologically tame).",
+  "implication_form": "If a complete hyperbolic 3-manifold has a finitely generated fundamental group, then it is topologically tame (i.e., homeomorphic to the interior of a compact 3-manifold).",
+  "posed_by": "Albert Marden",
+  "solved_by": "Ian Agol and Danny Calegari (and David Gabai)",
+  "year_originated": 38,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

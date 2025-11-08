@@ -1,0 +1,32 @@
+{
+  "uuid": "ece695c9-e037-41b5-add0-6dbb0ffd611f",
+  "name": "Torsion conjecture",
+  "link": "https://en.wikipedia.org/wiki/Torsion_conjecture",
+  "rephrased": "The size of the torsion subgroup (points of finite order) of an abelian variety over a number field is bounded by a function depending only on the variety's dimension and the number field's properties.",
+  "implication_form": "If an abelian variety exists over a number field, then the order of its torsion subgroup is bounded by a function of its dimension and the degree of the number field.",
+  "posed_by": "Unknown (not specified in the provided summary)",
+  "solved_by": "Faltings (proved the Mordell-Lang conjecture, which implies the torsion conjecture)",
+  "year_originated": 45,
+  "explained": "The Torsion Conjecture (also known as the Uniform Boundedness Conjecture for Torsion Points) makes two main claims regarding the torsion subgroup of an abelian variety defined over a number field:\n\n1.  **Basic Version:** Let A be an abelian variety of dimension g defined over a number field K. Then the size of the torsion subgroup A(K)[tors] is bounded solely by g. (There is no explicit dependence on the specific number field K or its degree.)\n\n2.  **Stronger Version:** Let A be an abelian variety of dimension g defined over a number field K of degree d (i.e., [K:ℚ] = d). Then the size of the torsion subgroup A(K)[tors] is bounded solely by g and d. (This bound depends explicitly on the degree of the number field.)\n\nA torsion point on A is a point P such that nP = 0 for some positive integer n. The torsion subgroup is the set of all such points under the group operation of A.\n\nThis conjecture asserts a fundamental uniformity in the possible torsion phenomena for abelian varieties over number fields, depending only on their dimension and, in the stronger case, the degree of the number field.",
+  "terms": [
+    "Abelian Variety",
+    "Torsion Point",
+    "Torsion Subgroup",
+    "Number Field",
+    "Dimension (of Abelian Variety)",
+    "Degree (of Number Field)",
+    "Uniform Boundedness",
+    "Mordell-Weil Theorem (which describes the structure of the Mordell-Weil group A(K) as a finitely generated abelian group)"
+  ],
+  "related_conjectures": [
+    "Mordell-Lang Conjecture (Faltings' Theorem): Concerns the intersection of subgroups of a semiabelian variety with algebraic subgroups, and implies the basic torsion conjecture for abelian varieties.",
+    "Manin-Mumford Conjecture: Concerns the torsion points on varieties possessing a pencil of elliptic curves, and is related to the study of torsion in arithmetic geometry.",
+    "Batyrev-Manin Conjecture: Relates to the distribution of rational points on Fano varieties, and has arithmetic consequences related to torsion."
+  ],
+  "subjects": [
+    "Algebraic Geometry",
+    "Number Theory",
+    "Arithmetic Geometry",
+    "Algebraic Number Theory"
+  ]
+}

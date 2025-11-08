@@ -1,0 +1,29 @@
+{
+  "uuid": "735f794a-1497-4edb-b8a2-9eab2c7ad197",
+  "name": "Turán's brick factory problem",
+  "link": "https://en.wikipedia.org/wiki/Tur%C3%A1n%27s_brick_factory_problem",
+  "rephrased": "The Zarankiewicz drawing method minimizes the number of crossings for any complete bipartite graph.",
+  "implication_form": "If a complete bipartite graph is drawn using Zarankiewicz's method, then the number of crossings is the minimum possible.",
+  "posed_by": "Pál Turán",
+  "solved_by": "unsolved",
+  "year_originated": 90,
+  "explained": "The Zarankiewicz crossing number conjecture, also known as Turán's brick factory problem, states that the minimum number of edge crossings required in any drawing of a complete bipartite graph \\(K_{m,n}\\) is achieved by the drawing method proposed by Kazimierz Zarankiewicz. This conjecture asserts that Zarankiewicz's drawing method minimizes the number of crossings for all complete bipartite graphs, with the crossing number being equal to \\(\\frac{m(m-1)n(n-1)}{4}\\) for \\(m, n \\geq 2\\).",
+  "terms": [
+    "Zarankiewicz number",
+    "Zarankiewicz drawing",
+    "Complete bipartite graph",
+    "Crossing number",
+    "Turán's brick factory problem",
+    "Graph drawing"
+  ],
+  "related_conjectures": [
+    "Crossing number conjectures for other graph classes",
+    "The 4-Clouds Conjecture",
+    "The Kővari–Túran–Sós conjecture"
+  ],
+  "subjects": [
+    "Graph Theory",
+    "Extremal Graph Theory",
+    "Combinatorial Geometry"
+  ]
+}

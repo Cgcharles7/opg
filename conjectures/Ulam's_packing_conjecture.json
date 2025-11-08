@@ -1,0 +1,30 @@
+{
+  "uuid": "cfaa705e-799f-41fd-9cbf-8a209ccb90d4",
+  "name": "Ulam's packing conjecture",
+  "link": "https://en.wikipedia.org/wiki/Ulam%27s_packing_conjecture",
+  "rephrased": "Spheres can be packed more densely than any other convex shape.",
+  "implication_form": "If a convex solid has a higher packing density than spheres, then it cannot be the optimal shape for identical convex solids.",
+  "posed_by": "Stanisław Ulam",
+  "solved_by": "unsolved",
+  "year_originated": 64,
+  "explained": "Ulam's packing conjecture, named after Stanisław Ulam, proposes that among all convex three-dimensional bodies, the sphere (or ball) has the greatest optimal packing density in three-dimensional Euclidean space. This means that according to this conjecture, spheres can achieve the densest possible arrangement of identical convex shapes, leaving the smallest fraction of space empty in their optimal packing structure.",
+  "terms": [
+    "sphere packing",
+    "packing density",
+    "convex body",
+    "convex solid",
+    "optimal packing",
+    "three-dimensional space",
+    "density"
+  ],
+  "related_conjectures": [
+    "Kepler conjecture"
+  ],
+  "subjects": [
+    "Packing",
+    "Geometry",
+    "Packing theory",
+    "Convex geometry",
+    "Combinatorial geometry"
+  ]
+}

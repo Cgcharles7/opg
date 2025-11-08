@@ -1,0 +1,14 @@
+{
+  "uuid": "041a0e51-cea7-401f-8c0f-ebb0e9bbe4dc",
+  "name": "Serre's modularity conjecture",
+  "link": "https://en.wikipedia.org/wiki/Serre%27s_modularity_conjecture",
+  "rephrased": "If a two-dimensional Galois representation over a finite field is odd and irreducible, then it arises from a modular form.",
+  "implication_form": "If a Galois representation is odd, irreducible, and two-dimensional over a finite field, then it arises from a modular form.",
+  "posed_by": "Jean-Pierre Serre",
+  "solved_by": "Chandrashekhar Khare and Jean-Pierre Wintenberger",
+  "year_originated": 49,
+  "explained": "Serre's modularity conjecture, proposed by Jean-Pierre Serre in the 1970s, posits a deep connection between two-dimensional Galois representations and modular forms. It states that any odd, irreducible, two-dimensional Galois representation (with certain ramification properties) over a finite field arises from a modular form. A stronger, more precise version specifies the weight and level of the modular form in terms of the representation's properties (such as its Dirichlet character and conductor). This conjecture was proven in stages: the level 1 case (where the representation is unramified outside a finite set) was established by Chandrashekhar Khare in 2005, and the full conjecture, including all levels, was completed by Khare and Jean-Pierre Wintenberger in 2008.",
+  "terms": "Galois representation, modular form, Serre's conjecture, automorphic form, weight, level, conductor, Dirichlet character, Galois group, Serre's conjecture on weight and level, Langlands program",
+  "related_conjectures": "Langlands program, Sato-Tate conjecture, Taniyama-Shimura-Weil conjecture (modularity theorem), conjectures on weight and level (part of Serre's work)",
+  "subjects": "Number theory, algebraic number theory, modular forms, representation theory, automorphic forms, arithmetic geometry"
+}

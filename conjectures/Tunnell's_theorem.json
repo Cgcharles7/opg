@@ -1,0 +1,29 @@
+{
+  "uuid": "04e2a0fd-2752-47ec-bfbc-e17df3196a0b",
+  "name": "Tunnell's theorem",
+  "link": "https://en.wikipedia.org/wiki/Tunnell%27s_theorem",
+  "rephrased": "A positive integer n is congruent (meaning there exists a right-angled triangle with integer sides and area n) if and only (under the Birch and Swinnerton-Dyer conjecture) it satisfies specific conditions related to the number of integer solutions to the equations 2x² + y² + z² = n and 2x² + y² + 16z² = n.",
+  "implication_form": "If the number of integer solutions (with z even minus z odd) to 2x² + y² + z² = n is 2*s(n) and the number of solutions (with z even minus z odd) to 2x² + y² + 16z² = n is -2*s(n), where s(n) is the number of ways to write n as 8a² + b² with a,b integers, then n is congruent.",
+  "posed_by": "John Tunnell",
+  "solved_by": "unsolved",
+  "year_originated": 2000,
+  "explained": "Tunnell's theorem provides a criterion for determining whether a given integer n is a congruent number (i.e., the area of a rational right-angled triangle). It states that n is congruent if and only if, for the equations x² + 2y² = n, x² + 2y² = 0, and x² + 2y² = 0 (modulo n), the number of integer solutions satisfies specific conditions related to the divisors of n. Crucially, the theorem's conclusion relies on the Birch and Swinnerton-Dyer conjecture for the full resolution of the congruent number problem; without this conjecture, the conditions imply n is congruent, but the converse is only guaranteed under B-SD.",
+  "terms": [
+    "Congruent number",
+    "Rational right-angled triangle",
+    "Integer solutions",
+    "Modular form",
+    "Birch and Swinnerton-Dyer conjecture",
+    "Lattice points"
+  ],
+  "related_conjectures": [
+    "Birch and Swinnerton-Dyer conjecture",
+    "ABC conjecture",
+    "Modularity theorem (for elliptic curves)"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Arithmetic Geometry",
+    "Algebraic Number Theory"
+  ]
+}

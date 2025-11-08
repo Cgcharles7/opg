@@ -1,0 +1,35 @@
+{
+  "uuid": "3b105282-9edf-41dc-ad33-ec8955b2f93c",
+  "name": "Virasoro algebra",
+  "link": "https://en.wikipedia.org/wiki/Virasoro_algebra",
+  "rephrased": "The Virasoro algebra is a specific type of complex Lie algebra that provides a central extension of the Witt algebra, playing a crucial role in two-dimensional conformal field theory and string theory.",
+  "implication_form": "If a central extension of the Witt algebra is required for two-dimensional conformal symmetry, then the Virasoro algebra is the unique nontrivial example.",
+  "posed_by": "Miguel Ángel Virasoro",
+  "solved_by": "Unsolved",
+  "year_originated": 50,
+  "explained": "The Virasoro algebra \\(\\mathfrak{Vir} = \\mathfrak{Vir}(c)\\) is a complex Lie algebra with generators \\(L_n\\) for \\(n \\in \\mathbb{Z}\\) and a central element \\(c \\in \\mathbb{C}\\) (the central charge). It is the universal central extension of the Witt algebra, which consists of all vector fields on the circle. The Lie bracket is defined by: \\[ [L_m, L_n] = (m - n)L_{m+n} + \\frac{m^3 - m}{12} \\delta_{m+n,0} c \\quad \\text{for all integers } m, n \\] where the second term is the central extension. The Witt algebra corresponds to the kernel of the central extension map. The Virasoro algebra plays a fundamental role in two-dimensional conformal field theory (CFT) and bosonic string theory.",
+  "terms": [
+    "Witt algebra",
+    "Central extension",
+    "Lie algebra",
+    "Conformal field theory (CFT)",
+    "String theory",
+    "Central charge",
+    "Kac-Moody algebra",
+    "Representation theory",
+    "Vertex operator algebra"
+  ],
+  "related_conjectures": [
+    "Moonshine conjectures",
+    "Andrews-Gordon-Mizuno conjecture (AGM conjecture)",
+    "Langlands program"
+  ],
+  "subjects": [
+    "Mathematics",
+    "Mathematical Physics",
+    "Physics",
+    "Representation Theory",
+    "Algebraic Geometry",
+    "Number Theory"
+  ]
+}

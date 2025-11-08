@@ -1,0 +1,36 @@
+{
+  "uuid": "4f86529d-2ff4-4b8a-a97b-3862ffe688b0",
+  "name": "Tammes problem",
+  "link": "https://en.wikipedia.org/wiki/Tammes_problem",
+  "rephrased": "Arrange a given number of points on a sphere's surface such that the minimum distance between any two points is as large as possible.",
+  "implication_form": "If you wish to maximize the minimum distance between points arranged on a sphere, then arrange them in the configuration that achieves this maximum distance.",
+  "posed_by": "Pieter Merkus Lambertus Tammes",
+  "solved_by": "Various configurations have been determined for small numbers of points (e.g., up to 120), but many cases remain unsolved.",
+  "year_originated": "93",
+  "explained": "The Tammes problem involves determining the optimal arrangement of a given number of points on the surface of a sphere such that the minimum distance between any two points is maximized. It is a discrete sphere packing problem focusing on maximizing the smallest pairwise distance for a fixed number of points. This problem is closely related to the concept of a spherical code, where the points represent codewords and the minimum distance corresponds to the minimum separation.",
+  "terms": [
+    "Sphere",
+    "Sphere Packing",
+    "Spherical Code",
+    "Optimal Configuration",
+    "Minimum Distance",
+    "Maximization",
+    "Spherical Geometry",
+    "Combinatorial Optimization",
+    "Packing Density"
+  ],
+  "related_conjectures": [
+    "Thomson Problem (minimizing Coulomb energy is equivalent for equal charges)",
+    "Kepler Conjecture (concerning the densest packing of identical spheres in 3D space)",
+    "Sphere Packing Problem (in higher dimensions, e.g., the E8 lattice in 8D)",
+    "Ulam Spiral Problem (packing in the plane with excluded regions)"
+  ],
+  "subjects": [
+    "Geometry",
+    "Combinatorics",
+    "Discrete Mathematics",
+    "Sphere Packing",
+    "Coding Theory",
+    "Optimization"
+  ]
+}

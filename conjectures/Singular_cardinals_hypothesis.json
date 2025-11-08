@@ -1,0 +1,32 @@
+{
+  "uuid": "30f38897-21fe-42ea-a02b-d9fb4919bbc6",
+  "name": "Singular cardinals hypothesis",
+  "link": "https://en.wikipedia.org/wiki/Singular_cardinals_hypothesis",
+  "rephrased": "If κ is a singular strong limit cardinal, then the cardinality of its power set is its successor cardinal κ⁺.",
+  "implication_form": "If κ is a singular strong, strong limit cardinal, then 2^κ = κ⁺.",
+  "posed_by": "Robert M. Solovay and Saharon Shelah (building on work by Moti Gitik and others, though the formulation is attributed to Jack H. L. Hunt and Keith A. Mitchell in 1992)",
+  "solved_by": "Unsolved",
+  "year_originated": 31,
+  "explained": "The Singular Cardinals Hypothesis (SCH) is a statement in set theory about cardinal exponentiation. It asserts that if κ is any singular strong limit cardinal, then the cardinality of the power set of κ (2^κ) is equal to the successor cardinal of κ (κ^+). In other words, SCH states that the Generalized Continuum Hypothesis (GCH) holds for singular strong limit cardinals.",
+  "terms": [
+    "Singular Cardinals Hypothesis (SCH)",
+    "Generalized Continuum Hypothesis (GCH)",
+    "Zermelo-Fraenkel set theory with Choice (ZFC)",
+    "Strong limit cardinal",
+    "Singular cardinal",
+    "Successor cardinal (κ^+)",
+    "Cardinal exponentiation (2^κ)"
+  ],
+  "related_conjectures": [
+    "Generalized Continuum Hypothesis (GCH)",
+    "Continuum Hypothesis (CH)",
+    "Forcing axioms (e.g., Martin's Axiom, Proper Forcing Axiom)",
+    "Woodin cardinal axioms",
+    "V=L"
+  ],
+  "subjects": [
+    "Set theory",
+    "Cardinal arithmetic",
+    "Forcing axioms"
+  ]
+}

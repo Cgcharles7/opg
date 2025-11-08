@@ -1,0 +1,30 @@
+{
+  "uuid": "7b8b48ed-b363-4751-a105-126982c9d496",
+  "name": "Rota's basis conjecture",
+  "link": "https://en.wikipedia.org/wiki/Rota%27s_basis_conjecture",
+  "rephrased": "Given a collection of n disjoint bases in a vector space (or matroid of rank n), it is possible to arrange the elements into an n by n matrix such that each row forms one of the bases and each column also forms a basis.",
+  "implication_form": "If there exists a vector space (or matroid) of rank n containing n disjoint bases, then these bases can be arranged into an n × n matrix where each row and each column is a basis.",
+  "posed_by": "Gian-Carlo Rota",
+  "solved_by": "unsolved",
+  "year_originated": "unsolved for about 50 years",
+  "explained": "Rota's basis conjecture states that for any vector space of dimension n or more generally for any matroid of rank n, if there are n disjoint bases (each containing n elements), then it is possible to arrange the elements of these bases into an n × n matrix such that each row forms one of the given bases, and each column also forms a basis.",
+  "terms": [
+    "Matroid",
+    "Basis",
+    "Linear Algebra",
+    "Vector Space",
+    "Dimension",
+    "Column",
+    "Row"
+  ],
+  "related_conjectures": [
+    "Hadwiger-Nelson problem",
+    "Erdős–Ginzburg–Ziv theorem"
+  ],
+  "subjects": [
+    "Linear Algebra",
+    "Matroid Theory",
+    "Combinatorics",
+    "Extremal Set Theory"
+  ]
+}

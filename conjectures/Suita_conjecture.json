@@ -1,0 +1,34 @@
+{
+  "uuid": "a11a9b9b-40f6-4248-8c48-f990ab702192",
+  "name": "Suita conjecture",
+  "link": "https://en.wikipedia.org/wiki/Suita_conjecture",
+  "rephrased": "On a Riemann surface with a nontrivial Green function, the Bergman kernel function satisfies a specific inequality involving the derivative of the Green function.",
+  "implication_form": "If a Riemann surface admits a nontrivial Green function, then its Bergman kernel function is bounded above by a constant times the reciprocal of the derivative of the Green function.",
+  "posed_by": "Shigeyuki Suita",
+  "solved_by": "Takuro Ohsawa (2017)",
+  "year_originated": 51,
+  "explained": "Suita (1972): Let R be a Riemann surface, which admits a nontrivial Green function G_R. Let Ω be a subdomain of R with piecewise smooth boundary. Let ω be a point on the boundary of Ω. Then, for any holomorphic function f defined in a neighborhood of ω, the following inequality holds: |f'(ω)| ≤ (π / G_R(ω)) * ∫∫_Ω |f(z)|^2 dA(z), where dA denotes the area element.",
+  "terms": [
+    "Riemann surface",
+    "Green function",
+    "Holomorphic function",
+    "Subdomain",
+    "Piecewise smooth boundary",
+    "Bergman kernel",
+    "L^2 extension",
+    "Uniformization theorem"
+  ],
+  "related_conjectures": [
+    "Uniformization theorem",
+    "Liouville's theorem",
+    "Grauert's theorem on strong openness",
+    "Ohsawa-Takegoshi extension theorem"
+  ],
+  "subjects": [
+    "Complex analysis",
+    "Riemann surface theory",
+    "Conformal geometry",
+    "Several complex variables",
+    "Partial differential equations"
+  ]
+}

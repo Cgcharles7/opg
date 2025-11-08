@@ -1,0 +1,43 @@
+{
+  "uuid": "20184b5d-ce14-49b0-9d66-55b9a54250c6",
+  "name": "Standard conjectures",
+  "link": "https://en.wikipedia.org/wiki/Standard_conjectures_on_algebraic_cycles",
+  "rephrased": "The standard conjectures propose that certain relationships between algebraic cycles and cohomology in algebraic geometry hold, which would imply that the category of motives is semisimple.",
+  "implication_form": "If the standard conjectures about algebraic cycles and their relationship to cohomology are true, then the Weil conjectures, particularly their Riemann hypothesis part, are also true.",
+  "posed_by": "Alexander Grothendieck",
+  "solved_by": "unsolved",
+  "year_originated": 60,
+  "explained": "The Standard Conjectures, formulated by Alexander Grothendieck, are a set of conjectures concerning the properties of algebraic cycles in algebraic geometry, particularly in relation to Weil cohomology theories. They are stated as follows (using Grothendieck's original phrasing, though often stated slightly differently):\n\n1.  **The Standard Lefschetz Type Conjecture (Conjecture de Lefschetz):** For a smooth projective variety X over a field of characteristic zero, the Lefschetz operator L (cap product with the class of a hyperplane section) acts on the cohomology groups H^k(X) as an isomorphism between H^k(X) and H^{n-k}(X), composed with a sign (-1)^{n-k}, where n is the dimension of X. This implies the decomposition of cohomology into primitive parts.\n\n2.  **The Hard Lefschetz Type Conjecture (Conjecture dite \"Hard Lefschetz\"):** For a smooth projective variety X over a field of characteristic zero and a divisor D (or hyperplane section), the Lefschetz operator L^k (k! times the class of D^k) induces an isomorphism between the primitive cohomology groups P^k(X) and P^{n-k}(X) (or a related isomorphism).\n\n3.  **The Hodge Type Conjecture (Conjecture de Hodge):** This states that for a smooth projective variety X over the complex numbers, the Hodge classes in its cohomology (classes that can be written as intersections of algebraic cycles) are spanned by the classes of algebraic cycles. This is actually the Hodge Conjecture itself, but Grothendieck formulated it as a Standard Conjecture in the Weil cohomology setting.\n\n4.  **The Tate Type Conjecture (Conjecture de Tate):** For a smooth projective variety X over a field F which is finitely generated over its prime field, and for any Weil cohomology theory, the cycle map from algebraic cycles modulo rational equivalence to the cohomology groups, tensored with Q, becomes an isomorphism after tensoring with Q and extending the coefficients appropriately (e.g., Q, Q(l), Z(l), depending on the context). This conjecture also holds for numerical equivalence in many cases. It generalizes the Hodge Conjecture (over C) and the Tate Conjecture (over finite fields).\n\nThese conjectures are fundamental to the theory of motives, which Grothendieck hoped would provide a universal cohomology theory for algebraic varieties. The Standard Conjectures describe essential properties that any such universal cohomology theory (the category of motives) should satisfy.",
+  "terms": [
+    "Algebraic Cycle",
+    "Chow Group",
+    "Weil Cohomology Theory",
+    "Cohomology",
+    "Primitive Cohomology",
+    "Lefschetz Operator",
+    "Hodge Structure",
+    "Tate Twisted Hodge Structure",
+    "Motivic Cohomology",
+    "Grothendieck Ring of Motives",
+    "Numerical Equivalence",
+    "Rational Equivalence",
+    "Hodge Conjecture",
+    "Tate Conjecture",
+    "Birch and Swinnerton-Dyer Conjecture",
+    "Riemann Hypothesis"
+  ],
+  "related_conjectures": [
+    "Hodge Conjecture",
+    "Tate Conjecture",
+    "Birch and Swinnerton-Dyer Conjecture",
+    "Conjectures related to the Riemann Hypothesis",
+    "Coniveau Conjectures",
+    "Motive Conjectures"
+  ],
+  "subjects": [
+    "Algebraic Geometry",
+    "Number Theory",
+    "Algebraic Topology",
+    "Motives"
+  ]
+}

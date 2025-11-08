@@ -1,0 +1,36 @@
+{
+  "uuid": "99b27dda-839a-4e26-8a21-bc41b25fbf86",
+  "name": "Strong perfect graph conjecture",
+  "link": "https://en.wikipedia.org/wiki/Strong_perfect_graph_theorem",
+  "rephrased": "A graph is perfect if and only if it contains no induced cycles of odd length at least 5 (odd holes) and no induced complements of cycles of odd length at least 5 (odd antiholes).",
+  "implication_form": "If a graph has no odd holes and no odd antiholes, then it is a perfect graph.",
+  "posed_by": "Claude Berge",
+  "solved_by": [
+    "Maria Chudnovsky",
+    "Neil Robertson",
+    "Paul Seymour",
+    "Robin Thomas"
+  ],
+  "year_originated": 1961,
+  "explained": "The Strong Perfect Graph Theorem (SPGT), originally conjectured by Claude Berge in 1961 and proven in 2006 by Maria Chudnovsky, Neil Robertson, Paul Seymour, and Robin Thomas, provides a fundamental characterization of perfect graphs. A graph is perfect if and only if it does not contain an induced subgraph that is an *odd hole* (an induced cycle of odd length at least 5) or an *odd antihole* (an induced cycle of odd length at least 5 in the complement graph). This means the graph classifies all graphs where the chromatic number equals the clique number for every induced subgraph.",
+  "terms": [
+    "Perfect graph: A graph in which the chromatic number equals the clique number for every induced subgraph.",
+    "Odd hole: An induced cycle of odd length (e.g., 5, 7, 9) in the graph.",
+    "Odd antihole: An induced cycle of odd length (e.g., 5, 7, 9) in the complement graph.",
+    "Induced subgraph: A subgraph formed by selecting a subset of vertices and all edges present in the original graph between these vertices.",
+    "Complement graph: A graph where two distinct vertices are adjacent if and only if they are not adjacent in the original graph.",
+    "Chromatic number: The minimum number of colors needed to color the vertices of a graph so that no two adjacent vertices share the same color.",
+    "Clique number: The size of the largest clique (subset of vertices where every two distinct vertices are adjacent) in a graph."
+  ],
+  "related_conjectures": [
+    "Gallai-Hasse-Roy-Vishver Conjecture (GHRV): Concerns the structure of perfect graphs, proposing they can be partitioned into a clique and a stable set with specific properties.",
+    "Erdős–Faber–Lovász Conjecture: A conjecture about the chromatic number of intersection graphs of edges in complete graphs.",
+    "Four Color Theorem: A theorem stating that any planar map can be colored with at most four colors, related to coloring problems studied in perfect graphs.",
+    "Berge-Fulkerson Conjecture: A conjecture about edge colorings of certain classes of graphs, including perfect graphs."
+  ],
+  "subjects": [
+    "Graph Theory",
+    "Combinatorics",
+    "Discrete Mathematics"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uuid": "7f7b178b-d169-488a-92ce-e1d438ddd6f0",
+  "name": "Van der Waerden number",
+  "link": "https://en.wikipedia.org/wiki/Van_der_Waerden_number",
+  "rephrased": "No matter how you color the integers from 1 to N using r different colors, if N is large enough (at least W(r,k)), you must find a monochromatic arithmetic progression of length k.",
+  "implication_form": "If you color the integers from 1 to N using r colors, then there exists an arithmetic progression of length k consisting of integers all of the same color.",
+  "posed_by": "Boudewijn de Rooij (alias Bart van der Waerden)",
+  "solved_by": "partially solved (exact values known for small r and k, but general solution unknown)",
+  "year_originated": 1928,
+  "explained": "Van der Waerden's theorem states that for any positive integers r and k, there exists a positive integer N such that for any coloring of the integers {1, 2, ..., N} with r colors, there is a monochromatic arithmetic progression of length k. The van der Waerden number W(r, k) is defined as the smallest such N that guarantees this property regardless of the coloring.",
+  "terms": [
+    "Van der Waerden theorem",
+    "Van der Waerden number",
+    "Arithmetic progression",
+    "Monochromatic subset",
+    "Finite coloring",
+    "Ramsey theory"
+  ],
+  "related_conjectures": [
+    "Szemerédi's theorem (a far-reaching generalization dealing with arbitrarily long arithmetic progressions in subsets of integers with positive density)",
+    "Green-Tao theorem (every sufficiently large set of prime numbers contains arbitrarily long arithmetic progressions)",
+    "Polynomial progressions conjectures (related to finding progressions defined by polynomials)"
+  ],
+  "subjects": [
+    "Combinatorics",
+    "Number theory",
+    "Ramsey theory",
+    "Additive combinatorics"
+  ]
+}

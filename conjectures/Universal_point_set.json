@@ -1,0 +1,30 @@
+{
+  "uuid": "94450139-98f5-4257-9f61-4547ed082a00",
+  "name": "Universal point set",
+  "link": "https://en.wikipedia.org/wiki/Universal_point_set",
+  "rephrased": null,
+  "implication_form": "If a graph is planar and has n vertices, then it can be drawn using a universal point set of order n.",
+  "posed_by": "Unknown",
+  "solved_by": "unsolved",
+  "year_originated": 1990,
+  "explained": "The Universal Point Set conjecture states that for every positive integer n, there exists a set S of n points in the Euclidean plane such that every n-vertex planar graph can be embedded as a straight-line drawing using only points from S. This means that a single set of points can be used to draw all possible n-vertex planar graphs with straight edges, without any two edges crossing (except at vertices). The conjecture is still unproven for all n.",
+  "terms": [
+    "Universal Point Set",
+    "Straight-Line Drawing",
+    "Planar Graph",
+    "Graph Embedding",
+    "Grid Drawing",
+    "Book Embedding",
+    "Point Set"
+  ],
+  "related_conjectures": [
+    "Grid Embedding Conjecture",
+    "Existence of Universal Sets for Different Embeddings"
+  ],
+  "subjects": [
+    "Graph Theory",
+    "Computational Geometry",
+    "Combinatorics",
+    "Discrete Mathematics"
+  ]
+}

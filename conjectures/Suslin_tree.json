@@ -1,0 +1,36 @@
+{
+  "uuid": "6ee54141-5c11-4c32-a75c-b75c66d7c310",
+  "name": "Suslin tree",
+  "link": "https://en.wikipedia.org/wiki/Suslin_tree",
+  "rephrased": "A special type of infinite tree where every chain and antichain is countable.",
+  "implication_form": "If ZFC is consistent, then the existence of a Suslin tree is independent of ZFC.",
+  "posed_by": "Mikhail Yakovlevich Suslin",
+  "solved_by": "unsolved",
+  "year_originated": 94,
+  "explained": "A Suslin tree is a mathematical structure defined within set theory as a tree of height ω1 (the first uncountable ordinal) that satisfies two key properties: every chain (branch) is countable, and every antichain is countable. It is a specific type of Aronszajn tree, which is an uncountable tree with no uncountable chains or antichains, but unlike the general Aronszajn tree, the Suslin tree does not have a certain 'witnessing' property related to dense sets in the definition of a Suslin algebra.",
+  "terms": [
+    "Aronszajn tree",
+    "Zermelo-Fraenkel set theory with the Axiom of Choice (ZFC)",
+    "Suslin line",
+    "Suslin algebra",
+    "Diamond principle (♦)",
+    "Martin's axiom (MA)",
+    "ω1 (the first uncountable ordinal)",
+    "Chain",
+    "Antichain",
+    "Height",
+    "Tree"
+  ],
+  "related_conjectures": [
+    "Continuum Hypothesis (CH)",
+    "Martin's Axiom (MA)",
+    "Diamond Principle (♦)",
+    "Whitehead Problem"
+  ],
+  "subjects": [
+    "Set Theory",
+    "Descriptive Set Theory",
+    "Cardinal Characteristics of the Continuum",
+    "Independence Results in Set Theory"
+  ]
+}

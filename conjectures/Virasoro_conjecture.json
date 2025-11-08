@@ -1,0 +1,32 @@
+{
+  "uuid": "0a306dd5-ca51-4899-aba5-0657a81f9945",
+  "name": "Virasoro conjecture",
+  "link": "https://en.wikipedia.org/wiki/Virasoro_conjecture",
+  "rephrased": "For a smooth projective variety, the generating function of its Gromov-Witten invariants is fixed by an action of a subalgebra of the Virasoro algebra.",
+  "implication_form": "If the generating function encodes Gromov-Witten invariants of a smooth projective variety, then it is fixed by an action of half of the Virasoro algebra.",
+  "posed_by": "Tohru Eguchi, Kentaro Hori, and Chuan-Sheng Xiong",
+  "solved_by": "unsolved",
+  "year_originated": 26,
+  "explained": "The Virasoro conjecture posits that for a smooth projective variety, the descendant Gromov–Witten potential (a generating function encoding descendant Gromov–Witten invariants), evaluated at a point corresponding to the identity element of the completed graph cohomology ring, is invariant under the action of the negative half of the Virasoro algebra. This action arises from the geometry of the variety and the formalism of Gromov–Witten theory.",
+  "terms": [
+    "Gromov–Witten invariants",
+    "Descendant Gromov–Witten invariants",
+    "Generating function (in Gromov–Witten theory)",
+    "Virasoro algebra",
+    "Algebraic geometry",
+    "String theory",
+    "Kontsevich–Witten tau function"
+  ],
+  "related_conjectures": [
+    "Witten conjecture (originally proposed for the moduli space of complex curves)",
+    "Kontsevich–Witten conjecture (identifies the Gromov–Witten potential with the KdV hierarchy tau function)",
+    "Getzler equation (a differential equation derived from the Virasoro conjecture)"
+  ],
+  "subjects": [
+    "Algebraic geometry",
+    "Mathematical physics",
+    "Symplectic geometry",
+    "String theory",
+    "Combinatorics (related to graph cohomology)"
+  ]
+}

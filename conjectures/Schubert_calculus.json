@@ -1,0 +1,34 @@
+{
+  "uuid": "3b9f94cc-c764-46f3-b844-2decdc1d3234",
+  "name": "Schubert calculus",
+  "link": "https://en.wikipedia.org/wiki/Schubert_calculus",
+  "rephrased": "Schubert calculus is a mathematical framework developed to solve counting problems in projective geometry by providing a systematic way to count geometric configurations under specific conditions, and it is closely related to modern concepts like characteristic classes.",
+  "implication_form": "If we use Schubert calculus methods, then we can systematically solve certain enumerative geometry problems.",
+  "posed_by": "Hermann Schubert",
+  "solved_by": "unsolved",
+  "year_originated": 200,
+  "explained": "Schubert calculus is a branch of algebraic geometry that focuses on solving enumerative geometry problems—problems that ask for the number of geometric objects (such as lines, planes, or points) satisfying specific conditions. It was introduced by Hermann Schubert in the 19th century and involves the intersection of subvarieties within spaces like Grassmannians or flag varieties. The field aims to rigorously count solutions to geometric problems using algebraic methods, often employing combinatorial and topological tools. Hilbert's 15th problem, posed in 1900, specifically challenged mathematicians to provide a solid foundation for Schubert calculus. Modern formulations connect it to concepts like characteristic classes, cohomology theories, and intersection theory.",
+  "terms": [
+    "Enumerative geometry",
+    "Algebraic geometry",
+    "Grassmannian",
+    "Flag variety",
+    "Characteristic class",
+    "Cohomology",
+    "Intersection theory",
+    "Schubert varieties",
+    "Schubert polynomials"
+  ],
+  "related_conjectures": [
+    "Hilbert's 15th Problem",
+    "Shapiro Conjecture",
+    "Quantum Cohomology Conjectures"
+  ],
+  "subjects": [
+    "Algebraic geometry",
+    "Combinatorics",
+    "Representation theory",
+    "Enumerative geometry",
+    "Topology"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "uuid": "3a7b5961-8355-4720-b40e-813cfdbecaa0",
+  "name": "Selberg class",
+  "link": "https://en.wikipedia.org/wiki/Selberg_class",
+  "rephrased": "The Selberg class defines a set of Dirichlet series (complex functions) that satisfy four specific axioms (degree, Ramanujan-Paterson conjecture, self-duality, and Euler product). The goal is to classify all such functions.",
+  "implication_form": "If a Dirichlet series satisfies the four axioms of the Selberg class, then it belongs to this class and can be classified based on its properties.",
+  "posed_by": "Atle Selberg",
+  "solved_by": "unsolved",
+  "year_originated": 1970,
+  "explained": "The Selberg class is an axiomatic framework defining a set of Dirichlet series L-functions. An L-function is a member of this class if it satisfies four axioms: (1) It is given by a Dirichlet series with absolutely convergent right half-plane, (2) It satisfies a Ramanujan Conjecture bound on the growth of its coefficients, (3) It is self-dual (its L-function is essentially its own functional equation partner), and (4) It possesses analytic continuation and a functional equation relating its values at s and 1-s. The Selberg class includes the Riemann zeta function and Dirichlet L-functions, and is conjectured to consist entirely of L-functions associated with automorphic representations.",
+  "terms": [
+    "L-function",
+    "Dirichlet series",
+    "Ramanuj.  Conjecture",
+    "Automorphic form",
+    "Self-dual",
+    "Analytic continuation",
+    "Functional equation",
+    "Dirichlet character",
+    "Euler product"
+  ],
+  "related_conjectures": [
+    "Riemann Hypothesis",
+    "Langlands Program",
+    "Birch and Swinnerton-Dyer Conjecture"
+  ],
+  "subjects": [
+    "Number Theory",
+    "Analytic Number Theory",
+    "Automorphic Forms"
+  ]
+}

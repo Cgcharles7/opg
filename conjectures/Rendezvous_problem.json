@@ -1,0 +1,33 @@
+{
+  "uuid": "df7121d8-4223-4821-bcbc-adbc678e8474",
+  "name": "Rendezvous problem",
+  "link": "https://en.wikipedia.org/wiki/Rendezvous_problem",
+  "rephrased": null,
+  "implication_form": null,
+  "posed_by": null,
+  "solved_by": null,
+  "year_originated": null,
+  "explained": "The Rendezvous Problem is a logical dilemma concerning two people who arrive independently at a large park with unknown dimensions and must meet each other. They arrive at the park at random times, and upon arrival, each must decide independently whether to adopt a waiting strategy (remaining stationary) or a searching strategy (moving around the park). The dilemma arises because each person must choose a strategy without knowing the other's choice or arrival time. The goal is to minimize the expected time until they meet (rendezvous time). The challenge lies in coordinating their actions optimally despite the lack of communication and knowledge about the other's strategy.",
+  "terms": {
+    "Arrival Time": "The random time at which each person arrives at the park.",
+    "Waiting Strategy": "A strategy where a person remains stationary at a fixed location.",
+    "Searching Strategy": "A strategy where a person moves around the park in an attempt to find the other.",
+    "Rendezvous Time": "The time elapsed from the later person's arrival until the two meet.",
+    "Rendezvous Problem": "The overarching dilemma described.",
+    "Random Arrival": "The condition that arrival times are unpredictable and independent.",
+    "Symmetric Strategy": "A strategy where both players use the same approach (e.g., both wait or both search).",
+    "Asymmetric Strategy": "A strategy where the two players use different approaches."
+  },
+  "related_conjectures": [
+    "Princess Problem",
+    "Cow Path Problem",
+    "Search Games"
+  ],
+  "subjects": [
+    "Game Theory",
+    "Probability",
+    "Optimization",
+    "Discrete Mathematics",
+    "Algorithm Design"
+  ]
+}

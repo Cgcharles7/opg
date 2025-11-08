@@ -1,0 +1,37 @@
+{
+  "uuid": "6b306407-d719-4a21-96c6-b6e2ebe25286",
+  "name": "Szpiro's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Szpiro%27s_conjecture",
+  "rephrased": "For any elliptic curve, the conductor (a measure of the curve's arithmetic complexity) is roughly proportional to the cube root of the discriminant (a measure of the curve's singularity), with the constant of proportionality depending only on the curve's specific properties.",
+  "implication_form": "If P, then Q (the exact implication isn't provided, but the conjecture is equivalent to the abc conjecture: If a, b, c are coprime positive integers with a+b=c, then c < K * (rad(abc))^ε for all ε > 0 and some constant K depending on ε)",
+  "posed_by": "Lucien Szpiro",
+  "solved_by": "unsolved",
+  "year_originated": 40,
+  "explained": "Szpiro's conjecture, formulated in the 1980s by Lucien Szpiro, concerns elliptic curves defined over the rational numbers. It proposes a bound on the conductor of an elliptic curve in terms of its minimal discriminant. Specifically, for any elliptic curve given by a Weierstrass model, there exists an absolute constant ε > 0 such that for all curves with sufficiently large conductor, the conductor is bounded by its minimal discriminant raised to the power of 1 + ε. A slightly modified version of Szpiro's conjecture is equivalent to the abc conjecture, which deals with the relationship between three integers a, b, c with no common divisor and the product of the distinct prime factors of a*b*c. Szpiro's conjecture has profound implications in number theory, including connections to Roth's theorem, the Mordell-Lang conjecture (now Faltings' theorem), and the Birch and Swinnerton-Dyer conjecture.",
+  "terms": [
+    "Elliptic curve",
+    "Conductor",
+    "Discriminant",
+    "Minimal discriminant",
+    "Weierstrass model",
+    "j-invariant",
+    "abc conjecture",
+    "abc triple",
+    "Radical",
+    "Arithmetic complexity"
+  ],
+  "related_conjectures": [
+    "abc conjecture",
+    "Birch and Swinnerton-Dyer conjecture",
+    "Mordell-Lang conjecture",
+    "Mordell conjecture",
+    "Szemerédi theorem"
+  ],
+  "subjects": [
+    "Number theory",
+    "Elliptic curves",
+    "Diophantine analysis",
+    "Diophantine approximation",
+    "Diophantine equations"
+  ]
+}

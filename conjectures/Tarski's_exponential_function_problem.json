@@ -1,0 +1,27 @@
+{
+  "uuid": "269cc199-16f2-449e-b736-35232eabde99",
+  "name": "Tarski's exponential function problem",
+  "link": "https://en.wikipedia.org/wiki/Tarski%27s_exponential_function_problem",
+  "rephrased": "Is the theory of the real numbers, including the exponential function, decidable?",
+  "implication_form": null,
+  "posed_by": "Alfred Tarski",
+  "solved_by": "unsolved",
+  "year_originated": 75,
+  "explained": "Tarski's exponential function problem is a question in mathematical logic, specifically in model theory. It asks whether the theory of the real numbers, when augmented with the exponential function (i.e., the function xmapsto e^x), remains decidable. Alfred Tarski had previously demonstrated that the elementary theory of the real numbers alone (without the exponential function) is decidable. The conjecture, therefore, concerns the impact of adding this specific transcendental function on the decidability property of the real numbers' theory.",
+  "terms": [
+    "Model Theory",
+    "Real Numbers",
+    "Exponential Function",
+    "e^x",
+    "Decidability (Logic)",
+    "Elementary Theory"
+  ],
+  "related_conjectures": [
+    "Hilbert's Tenth Problem (concerns integer solutions to Diophantine equations, related to the logical complexity of arithmetic)"
+  ],
+  "subjects": [
+    "Model Theory",
+    "Mathematical Logic",
+    "Number Theory"
+  ]
+}

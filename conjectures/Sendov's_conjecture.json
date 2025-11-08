@@ -1,0 +1,14 @@
+{
+  "uuid": "3a0b7111-bd0c-4a86-abde-4c53b9411c9a",
+  "name": "Sendov's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Sendov%27s_conjecture",
+  "rephrased": "If a polynomial with complex coefficients has a root very close to the boundary of the unit disk, then there must be a critical point (point where the derivative is zero) very close to that root.",
+  "implication_form": "If a polynomial f(z) = (z - r1)(z - r2)...(z - rn) (with complex coefficients) has a root at r_i that satisfies |r_i| ≥ 1 - ε (i.e., very close to the unit circle |z| = 1), then there exists a critical point of f(z) within ε of r_i.",
+  "posed_by": "Blagovest Sendov",
+  "solved_by": "unsolved",
+  "year_originated": 56,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}

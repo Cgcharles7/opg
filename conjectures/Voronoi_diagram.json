@@ -1,0 +1,36 @@
+{
+  "uuid": "205d41a0-4226-4956-870c-ff4119169b39",
+  "name": "Voronoi diagram",
+  "link": "https://en.wikipedia.org/wiki/Voronoi_diagram",
+  "rephrased": "A Voronoi diagram divides a plane into regions, where each region (Voronoi cell) contains all points closer to a specific seed point than to any other seed point.",
+  "implication_form": "Not straightforward to express as a simple 'If P, then Q' implication due to its definition-like nature.",
+  "posed_by": "Georgy Voronoi",
+  "solved_by": "Well understood conceptually and computationally",
+  "year_originated": 115,
+  "explained": "A Voronoi diagram is a mathematical method for partitioning a plane (or any metric space) into regions based on the set of objects (typically points). Each region, known as a Voronoi cell, consists of all points closer to its corresponding object (seed or site) than to any other object in the set. The boundaries between regions (Voronoi edges) are the set of points equidistant to two or more seeds, and these boundaries intersect at points equidistant to three or more seeds (Voronoi vertices). Voronoi diagrams are a form of tessellation, meaning they partition the entire plane. They have a dual relationship with Delaunay triangulations, where the edges of the Delaunay triangulation correspond to the Voronoi edges. The diagram can be defined for any set of objects (points, lines, circles, etc.) and in various metrics (Euclidean, Manhattan, etc.).",
+  "terms": [
+    "Voronoi diagram",
+    "Voronoi cell",
+    "Voronoi edge",
+    "Voronoi vertex",
+    "Site",
+    "Seed",
+    "Generator",
+    "Nearest neighbor",
+    "Delaunay triangulation",
+    "Tessellation",
+    "Metric space"
+  ],
+  "related_conjectures": [
+    "Delaunay Triangulation Properties",
+    "Gabriel Graph Conjectures",
+    "Alpha Shapes Properties"
+  ],
+  "subjects": [
+    "Computational Geometry",
+    "Discrete Mathematics",
+    "Metric Geometry",
+    "Numerical Analysis",
+    "Topology"
+  ]
+}

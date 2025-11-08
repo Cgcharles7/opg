@@ -1,0 +1,29 @@
+{
+  "uuid": "0671cacf-563c-4fe4-88e7-8cd085d7fa88",
+  "name": "Reinhardt's conjecture",
+  "link": "https://en.wikipedia.org/wiki/Smoothed_octagon",
+  "rephrased": "The smoothed octagon, constructed by modifying a regular octagon with hyperbolic arcs, is conjectured to have the lowest possible maximum packing density among all centrally symmetric convex shapes when packed into the plane.",
+  "implication_form": "If a shape is centrally symmetric and convex, then its maximum packing density in the plane is at least that of the smoothed octagon.",
+  "posed_by": "Karl Reinhardt",
+  "solved_by": "unsolved",
+  "year_originated": 90,
+  "explained": "Reinhardt's conjecture states that the maximum packing density of the plane for any centrally symmetric convex shape is at least as high as that achievable by the smoothed octagon. Karl Reinhardt conjectured that the smoothed octagon, which is constructed by replacing the corners of a regular octagon with sections of a hyperbola tangent to the adjacent sides and asymptotic to the sides further out, achieves the minimum possible maximum packing density among all such shapes.",
+  "terms": [
+    "Smoothed octagon",
+    "Centrally symmetric convex shape",
+    "Maximum packing density",
+    "Circle packing",
+    "Hyperbola",
+    "Regular octagon",
+    "Asymptote"
+  ],
+  "related_conjectures": [
+    "Kepler's conjecture"
+  ],
+  "subjects": [
+    "Geometry",
+    "Combinatorics",
+    "Packing problems",
+    "Convex geometry"
+  ]
+}

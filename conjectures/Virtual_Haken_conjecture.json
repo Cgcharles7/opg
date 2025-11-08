@@ -1,0 +1,38 @@
+{
+  "uuid": "4a962172-d6d7-4c75-ae16-981bcccd1fa1",
+  "name": "Virtual Haken conjecture",
+  "link": "https://en.wikipedia.org/wiki/Virtually_Haken_conjecture",
+  "rephrased": "Every 'simple' three-dimensional shape (compact, orientable, irreducible) with an infinite number of distinct loops (infinite fundamental group) has a finite covering space that itself has a specific type of structure (is a Haken manifold).",
+  "implication_form": "If a compact, orientable, irreducible three-dimensional manifold has an infinite fundamental group, then it is virtually Haken.",
+  "posed_by": "Friedhelm Waldhausen",
+  "solved_by": "Grigori Perelman (and others) proved the conjecture for hyperbolic 3-manifolds as a consequence of the Geometrization conjecture, leaving the conjecture fully solved.",
+  "year_originated": 50,
+  "explained": "The Virtual Haken Conjecture states that every compact, orientable, irreducible three-dimensional manifold with an infinite fundamental group is virtually Haken. This means that such a manifold has a finite cover (a covering space with a finite-to-one covering map) that is a Haken manifold. A Haken manifold is a compact, orientable, irreducible three-manifold that contains an incompressible two-dimensional topological surface (such as a properly embedded disk, sphere, or annulus).",
+  "terms": [
+    "Compact manifold",
+    "Orientable manifold",
+    "Irreducible manifold",
+    "Three-dimensional manifold",
+    "Fundamental group",
+    "Infinite fundamental group",
+    "Finite cover",
+    "Covering space",
+    "Haken manifold",
+    "Incompressible surface",
+    "Virtual property",
+    "Geometrization conjecture"
+  ],
+  "related_conjectures": [
+    "Geometrization Conjecture",
+    "Poincaré Conjecture",
+    "Sphere Conjecture",
+    "Thurston's Geometrization Conjecture"
+  ],
+  "subjects": [
+    "Topology",
+    "3-Manifold Theory",
+    "Geometric Topology",
+    "Algebraic Topology",
+    "Differential Geometry"
+  ]
+}

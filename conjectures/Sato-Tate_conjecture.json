@@ -1,0 +1,42 @@
+{
+  "uuid": "5f29698a-093a-4925-9ea3-90a50493e3b0",
+  "name": "Sato–Tate conjecture",
+  "link": "https://en.wikipedia.org/wiki/Sato%E2%80%93Tate_conjecture",
+  "rephrased": "The number of points on elliptic curves modulo primes follows a specific statistical pattern.",
+  "implication_form": "If an elliptic curve is reduced modulo a prime, then the distribution of the number of points relates to the distribution of an angle θ.",
+  "posed_by": "Mikio Sato and John Tate",
+  "solved_by": "Richard Taylor, Michael Harris, and others",
+  "year_originated": 64,
+  "explained": "The Sato–Tate conjecture pertains to elliptic curves defined over the rational numbers. For an elliptic curve E defined over the rationals, one considers its reductions modulo prime numbers p. Let Np be the number of points on this reduced curve Ep over the finite field with p elements. Hasse's theorem states that Np = p + 1 - a_p, where a_p is an integer satisfying |a_p| ≤ 2√p. The conjecture provides a probabilistic description for the distribution of the normalized value a_p / √p as p varies over sufficiently large primes. Specifically, it posits that the sequence {θ_p} defined by a_p = 2√p cos(θ_p) is equidistributed with respect to the Haar measure on the Sato–Tate group, which for most elliptic curves is a compact subgroup of SU(2). In other words, the fractional parts {θ_p / (2π)} become uniformly distributed in the interval [0,1) as p runs through primes.",
+  "terms": [
+    "Elliptic curve",
+    "Finite field",
+    "Reduction modulo p",
+    "Hasse's theorem",
+    "L-function",
+    "Euler factor",
+    "Analytic continuation",
+    "Functional equation",
+    "Frobenius element",
+    "Sato–Tate group",
+    "Equidistribution",
+    "Haar measure",
+    "Compact subgroup",
+    "SU(2)",
+    "Galois representation",
+    "Elliptic modular form",
+    "Modular form"
+  ],
+  "related_conjectures": [
+    "Langlands program",
+    "Birch and Swinnerton-Dyer conjecture",
+    "Riemann Hypothesis"
+  ],
+  "subjects": [
+    "Number theory",
+    "Analytic number theory",
+    "Arithmetic geometry",
+    "Elliptic curves",
+    "Modular forms"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uuid": "755ff8bc-752f-4bc1-81f8-c49fa8aef4b5",
+  "name": "Tic-tac-toe variants",
+  "link": "https://en.wikipedia.org/wiki/Tic-tac-toe_variants",
+  "rephrased": "A generalized Tic-tac-toe where players aim to be the first to get k in a row on an arbitrary hypergraph.",
+  "implication_form": "Not applicable",
+  "posed_by": "Not specified",
+  "solved_by": "Unsolved",
+  "year_originated": 50,
+  "explained": "The Tic-tac-toe variants conjecture proposes that all generalized forms of Tic-tac-toe, including the m,n,k-game (where players aim to get k-in-a-row on an m×n grid), Harary's generalized tic-tac-toe (where the winning condition is defined by an arbitrary graph where edges represent possible winning lines), and the nd game (a generalization to higher dimensions), can be unified and analyzed as special cases of a hypergraph game. In this hypergraph framework, the board cells are vertices, and the winning sets (k-in-a-row lines, edges in Harary's graph, etc.) are hyperedges. The conjecture suggests that any such game is an instance of a positional game played on this hypergraph, where players alternately occupy vertices, and the goal is to claim all vertices of some hyperedge.",
+  "terms": [
+    "m,n,k-game",
+    "Harary's generalized tic-tac-toe",
+    "nd game",
+    "Hypergraph",
+    "Positional game",
+    "Maker-breaker game",
+    "Shannon switching game",
+    "Erdős–Selfridge theorem",
+    "Combinatorial game theory",
+    "Graph theory"
+  ],
+  "related_conjectures": [
+    "Shannon switching game conjecture",
+    "General position game conjectures",
+    "Maker-breaker bias conjectures",
+    "Analysis of positional games on hypergraphs"
+  ],
+  "subjects": [
+    "Combinatorial Game Theory",
+    "Graph Theory",
+    "Hypergraph Theory",
+    "Combinatorial Optimization",
+    "Computational Complexity Theory"
+  ]
+}

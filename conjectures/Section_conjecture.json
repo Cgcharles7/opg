@@ -1,0 +1,14 @@
+{
+  "uuid": "454634ff-9ded-40e6-8c3b-4e5f3181855e",
+  "name": "Section conjecture",
+  "link": "https://en.wikipedia.org/wiki/Section_conjecture",
+  "rephrased": "For a curve defined over a number field, the existence of a certain connection (section) between its fundamental group and the Galois group of the base field implies that the curve has a rational point (a point with coordinates in the base field).",
+  "implication_form": "If the homomorphism from the fundamental group of the curve to the Galois group of the base field has a section, then the curve has a rational point.",
+  "posed_by": "Alexander Grothendieck",
+  "solved_by": "unsolved",
+  "year_originated": 40,
+  "explained": null,
+  "terms": null,
+  "related_conjectures": null,
+  "subjects": null
+}
