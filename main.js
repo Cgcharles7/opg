@@ -17,11 +17,15 @@ function buildCategoryTree(conjs) {
   const tree = {};
 
   conjs.forEach(c => {
-    // Normalize categories (c.terms may be array or comma-separated string)
-    const cats = Array.isArray(${c.terms})
-      ? c.terms.map(x => x.trim()).filter(Boolean)
+    // Normalize categories (c.terms may be array, comma-separated string, or null/undefined)
+    
+    // Safely determine 'cats' array:
+    const cats = Array.isArray(c.terms)
+      // If it's an array, map and force each item to string before trimming/filtering
+      ? c.terms.map(x => String(x).trim()).filter(Boolean) 
+      // If not an array (e.g., string, null, undefined)
       : c.terms
-          ? c.terms.toString().split(',').map(x => x.trim()).filter(Boolean)
+          ? String(c.terms).split(',').map(x => x.trim()).filter(Boolean)
           : [];
 
     if (cats.length === 0) {
@@ -34,14 +38,17 @@ function buildCategoryTree(conjs) {
     // Traverse/create the tree hierarchy
     let node = tree;
     cats.forEach((cat, idx) => {
-      if (!node[cat]) node[cat] = {};
+      // Ensure the category name itself is clean and a string before using it as a key
+      const cleanCatName = String(cat).trim(); 
+
+      if (!node[cleanCatName]) node[cleanCatName] = {};
 
       if (idx === cats.length - 1) {
         // Only add __items at the leaf
-        if (!node[cat].__items) node[cat].__items = [];
-        node[cat].__items.push(c);
+        if (!node[cleanCatName].__items) node[cleanCatName].__items = [];
+        node[cleanCatName].__items.push(c);
       } else {
-        node = node[cat];
+        node = node[cleanCatName];
       }
     });
   });
