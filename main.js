@@ -20,12 +20,12 @@ function buildCategoryTree(conjs) {
     // Normalize categories (c.terms may be array, comma-separated string, or null/undefined)
     
     // Safely determine 'cats' array:
-    const cats = Array.isArray(c.terms)
+    const cats = Array.isArray(c.subjects)
       // If it's an array, map and force each item to string before trimming/filtering
-      ? c.terms.map(x => String(x).trim()).filter(Boolean) 
+      ? c.subjects.map(x => String(x).trim()).filter(Boolean) 
       // If not an array (e.g., string, null, undefined)
-      : c.terms
-          ? String(c.terms).split(',').map(x => x.trim()).filter(Boolean)
+      : c.subjects
+          ? String(c.subjects).split(',').map(x => x.trim()).filter(Boolean)
           : [];
 
     if (cats.length === 0) {
