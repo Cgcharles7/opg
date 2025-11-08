@@ -13,32 +13,33 @@ async function loadData() {
   return results;
 }
 
-function buildCategoryTree(conjs) {
-  const tree = {};
+function groupConjecturesByCategory(conjs) {
+  const categories = {};
 
   conjs.forEach(c => {
-    // Normalize the subjects array (safe handling for null/undefined/strings)
-    const subjects = Array.isArray(c.subjects)
+    // Normalize subjects (array or comma-separated string)
+    const subs = Array.isArray(c.subjects)
       ? c.subjects.map(x => String(x).trim()).filter(Boolean)
       : c.subjects
         ? String(c.subjects).split(',').map(x => x.trim()).filter(Boolean)
         : [];
 
-    if (subjects.length === 0) {
-      if (!tree["Uncategorized"]) tree["Uncategorized"] = [];
-      tree["Uncategorized"].push(c);
+    // If no subjects, assign to 'Uncategorized'
+    if (subs.length === 0) {
+      if (!categories["Uncategorized"]) categories["Uncategorized"] = [];
+      categories["Uncategorized"].push(c);
       return;
     }
 
-    // Add each conjecture under all its subjects
-    subjects.forEach(subj => {
-      const cleanSubj = String(subj).trim();
-      if (!tree[cleanSubj]) tree[cleanSubj] = [];
-      tree[cleanSubj].push(c);
+    // Add conjecture under all relevant subjects
+    subs.forEach(sub => {
+      const cleanSub = String(sub).trim();
+      if (!categories[cleanSub]) categories[cleanSub] = [];
+      categories[cleanSub].push(c);
     });
   });
 
-  return tree;
+  return categories;
 }
 
 function inferType(name) {
@@ -133,7 +134,8 @@ function showConjecture(c) {
 
 (async () => {
   const conjs = await loadData();
-  const tree = buildCategoryTree(conjs);
+  const tree = groupConjecturesByCategory(conjs);
+  //  const tree = buildCategoryTree(conjs);
   
   const menu = document.getElementById('menu');
   menu.innerHTML = '';
