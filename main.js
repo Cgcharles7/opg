@@ -19,7 +19,7 @@ function groupConjecturesByCategory(conjs) {
   conjs.forEach(c => {
     // Normalize subjects (array or comma-separated string)
     const subs = Array.isArray(c.subjects)
-      ? c.subjects.map(x => String(x).trim()).filter(Boolean)
+      ? c.subjects.map(x => String(x).trim().toUpperCase()).filter(Boolean)
       : c.subjects
         ? String(c.subjects).split(',').map(x => x.trim()).filter(Boolean)
         : [];
