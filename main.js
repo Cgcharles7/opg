@@ -18,9 +18,9 @@ function buildCategoryTree(conjs) {
 
   conjs.forEach(c => {
     // Normalize keywords
-    const cats = Array.isArray(c.kwds)
-      ? c.kwds.map(x => x.trim()).filter(Boolean)
-      : c.kwds.toString().split(',').map(x => x.trim()).filter(Boolean);
+    const cats = Array.isArray(${c.terms})
+      ? c.terms.map(x => x.trim()).filter(Boolean)
+      : c.terms.toString().split(',').map(x => x.trim()).filter(Boolean);
 
     if (cats.length === 0) {
       if (!tree["Uncategorized"]) tree["Uncategorized"] = { __items: [] };
