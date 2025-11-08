@@ -124,8 +124,13 @@ function showConjecture(c) {
 
   content.innerHTML = `
     <h2>${c.name}</h2>
-    <p>${c.summary}</p>
-    <p><b>Keywords:</b> ${c.kwds}</p>
+    <p>${c.explained}</p>
+    <p>${c.rephrased}</p>
+    <p>${c.implication_form}</p>
+    <p>${c.posed_by}</p>
+    <p>${c.solved_by}</p>
+    <p><b>Terms:</b> ${c.terms}</p>
+    <p>Related Conjectures: ${c.related_conjectures}</p>
     <p><a href="${link}" target="_blank" rel="noopener noreferrer">${c.name}</a></p>
   `;
 }
