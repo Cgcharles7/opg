@@ -7,8 +7,9 @@
   "posed_by": "J. J. Thomson",
   "solved_by": "unsolved",
   "year_originated": 119,
-  "explained": null,
-  "terms": null,
+  "explained": "The problem was posed by the British physicist J. J. Thomson in 1904, as part of his \"plum pudding\" model of the atom. In his model, electrons (negative charges) were embedded in a sphere of uniform positive charge. The mathematical problem he inspired, however, considers only the behavior of identical repulsive charges on the surface of an uncharged sphere. The total potential energy of a configuration of \\(N\\) point charges at positions \\(\\mathbf{r}_{1},\\mathbf{r}_{2},\\dots ,\\mathbf{r}_{N}\\) on a unit sphere is given by Coulomb's law:\\(E=\\sum _{i=1}^{N-1}\\sum _{j=i+1}^{N}\frac{1}{|\\mathbf{r}_{i}-\\mathbf{r}_{j}|}\\)where \\(|\\mathbf{r}_{i}-\\mathbf{r}_{j}|\\) is the distance between the \\(i\\)-th and \\(j\\)-th charges. The problem is a non-linear global optimization challenge to find the specific positions \\((\\mathbf{r}_{1},\\dots ,\\mathbf{r}_{N})\\) that yield the absolute minimum value for this energy function for a given \\(N\\). ",
+  "terms": ["optimization", "polyhedra", "electrostatics", "spherical codes"],
   "related_conjectures": null,
-  "subjects": null
+  "subjects": ["Optimization", "Geometry", "Discrete Geometry", "Combinatorics", "Potential Theory", "Numerical Analysis"]
+
 }
