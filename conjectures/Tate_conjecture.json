@@ -7,8 +7,9 @@
   "posed_by": "John Tate",
   "solved_by": "unsolved",
   "year_originated": 60,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "explained": "The Tate conjecture, proposed by John Tate in 1963, is a central problem in algebraic geometry that connects algebraic cycles on an algebraic variety to a more computable invariant, the Galois representation on its étale cohomology. It predicts that the cycle class map from algebraic cycles to Galois-equivariant cohomology is an isomorphism for varieties over a finite field. It is considered an arithmetic version of the Hodge conjecture. ",
+  "terms": ["algebraic cycles", "étale cohomology", "Galois group", "numerical equivalence", "homological equivalence"],
+  "related_conjectures": ["Hodge Conjecture", "Birch and Swinnerton-Dyer (BSD) Conjecture", "Sato-Tate Conjecture", "Standard Conjectures", "Lichtenbaum's Conjecture"],
+  "subjects": ["arithmetic geometry", "algebraic number theory"]
+
 }
