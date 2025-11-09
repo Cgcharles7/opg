@@ -7,8 +7,9 @@
   "posed_by": "Blagovest Sendov",
   "solved_by": "unsolved",
   "year_originated": 56,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "explained": "Sendov's conjecture states that if all zeros of a polynomial lie in the closed unit disk, then for each zero, there must be a critical point (a zero of the polynomial's derivative) within a distance of 1. This means that every zero of a polynomial is close to a critical point. The conjecture is an open problem, but parts of it have been proven for specific cases and for high-degree polynomials.",
+  "terms": ["complex polynomial", "roots (or zeros)", "critical points", "unit disk", "Gauss-Lucas theorem"],
+  "related_conjectures": ["Ilieff-Sendov conjecture" (a historical misattribution)", "Gauss-Lucas theorem"],
+  "subjects": ["complex analysis", "polynomials", "calculus"]
+
 }
