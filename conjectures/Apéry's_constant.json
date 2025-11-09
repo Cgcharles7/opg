@@ -9,8 +9,9 @@
   "year_originated": 250,
   "explained": null,
   "terms": null,
-  "related_conjectures":["transcendence of \\(\\zeta(3)\\)",  "Irrationality of other odd \\(\zeta\\) values",  "Apéry-like series"],
+  "related_conjectures":["transcendence of \\(\\zeta(3)\\)",  "Irrationality of other odd \\(\\zeta\\) values",  "Apéry-like series"],
   "subjects": ["number theory", "probability", "calculus", "physics"]
 
 }
+
 
