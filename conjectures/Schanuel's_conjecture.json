@@ -8,8 +8,9 @@
   "solved_by": "unsolved",
   "year_originated": 60,
   "explained": "For any set of complex numbers \\(z_{1},\\dots ,z_{n}\\) that are linearly independent over the rational numbers (\\(\\mathbb{Q}\\)), the field \\(\\mathbb{Q}(z_{1},\\dots ,z_{n},e^{z_{1}},\\dots ,e^{z_{n}})\\) has a transcendence degree of at least \\(n\\) over \\(\\mathbb{Q}\\). ",
-  "terms": ["Lindemann-Weierstrass theorem", Baker's theorem on linear independence of logarithms of algebraic num- bers"],
+  "terms": ["Lindemann-Weierstrass theorem", "Baker's theorem on linear independence of logarithms of algebraic num- bers"],
   "related_conjectures": null,
   "subjects": ["algebra", "algebraic geometry" "number theory"]
 
 }
+
