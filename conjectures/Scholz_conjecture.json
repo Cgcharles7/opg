@@ -10,8 +10,9 @@
   ],
   "solved_by": "unsolved",
   "year_originated": 86,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "explained": "The Scholz conjecture is an unsolved problem in mathematics that states for any positive integer \\(n\\), the length of the shortest addition chain for \\(2^{n}-1\\) is less than or equal to the length of the shortest addition chain for \\(n\\) plus \\(n-1\\). In simpler terms, it proposes an upper bound on how difficult it is to construct a sequence of numbers to produce \\(2^{n}-1\\), suggesting it's only slightly more complex than producing \\(n\\). ",
+  "terms": ["addition chain", "length of the addition chain (\\(l(n)\\))", "Mersenne numbers (\\(2^{n}-1\\))"],
+  "related_conjectures": ["Aiello-Subbarao conjecture"],
+  "subjects": ["number theory", "cryptography", "security"]
+
 }
