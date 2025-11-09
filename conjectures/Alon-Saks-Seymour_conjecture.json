@@ -7,8 +7,9 @@
   "posed_by": "Noga Alon, Michael Saks, Paul Seymour",
   "solved_by": "Huang, Sudakov (refuted)",
   "year_originated": 30,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "explained": "The Alon–Saks–Seymour conjecture proposed that if a graph's edges can be partitioned into m edge-disjoint complete bipartite graphs, then the graph's chromatic number is at most m + 1. A key related statement is that a graph formed by the edge-disjoint union of m complete bipartite graphs is (m + 1)-colorable. This conjecture was later shown to be false, with counterexamples found in 2012. ",
+  "terms": ["chromatic number", "complete bipartite graphs", "biclique partition number", "edge-disjoint union", "proper coloring"],
+  "related_conjectures": ["Rank-Coloring Conjecture"],
+  "subjects": ["graph theory", "combinatorics", "computer science", "communication complexity"]
+
 }
