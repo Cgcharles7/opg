@@ -5,10 +5,11 @@
   "rephrased": "The Zariski closure of any set of special points in a Shimura variety is itself a special subvariety.",
   "implication_form": "If a subset of special points in a Shimura variety is sufficiently large or satisfies certain arithmetic conditions, then its Zariski closure is a special subvariety.",
   "posed_by": "Yves André and Frans Oort",
-  "solved_by": "Unsolved",
+  "solved_by": "Jonathan Pila, Ananth Shankar, and Jacob Tsimerman",
   "year_originated": 30,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "explained": "The André-Oort conjecture is a theorem in algebraic geometry that states that if a subvariety of a Shimura variety contains a Zariski-dense set of "special points," then that subvariety must itself be a special subvariety or a Shimura subvariety. Essentially, it describes how "special" points—those with high symmetry or specific properties—are distributed within these complex geometric spaces. The conjecture is a fundamental result in "unlikely intersections" theory and was proven in 2021. ",
+  "terms": ["Shimura varieties", "special points", "special subvarieties", "Zariski closure", "unlikely intersections", " modular curves"],
+  "related_conjectures": ["Manin–Mumford conjecture", "Coleman–Oort conjecture", "Zilber–Pink conjecture"],
+  "subjects": ["arithmetic geometry", "dynamical systems", "Number Theory",  "Complex Variables"]
+
 }
