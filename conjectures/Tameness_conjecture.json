@@ -7,8 +7,9 @@
   "posed_by": "Albert Marden",
   "solved_by": "Ian Agol and Danny Calegari (and David Gabai)",
   "year_originated": 38,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "explained": "The Tameness Conjecture, also known as Marden's Tameness Conjecture, states that any complete hyperbolic 3-manifold with a finitely generated fundamental group is \"tame,\" meaning it is homeomorphic to the interior of a compact 3-manifold. This conjecture was proven by 2004 mathematician Ian Agol and, independently, by Danny Calegari and David Gabai. The theorem is now known as the Tameness Theorem. ",
+  "terms": ["hyperbolic 3-manifold", "finitely generated fundamental group", "topologically tame", "homeomorphic", "compact 3-manifold"],
+  "related_conjectures": ["Thurston's Ending Lamination Conjecture", "Ahlfors' Measure Conjecture"],
+  "subjects": ["hyperbolic geometry", "topology", "Kleinian group theory"]
+
 }
