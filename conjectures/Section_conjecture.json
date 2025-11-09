@@ -7,8 +7,9 @@
   "posed_by": "Alexander Grothendieck",
   "solved_by": "unsolved",
   "year_originated": 40,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "explained": "The Section Conjecture, proposed by Alexander Grothendieck, posits a correspondence between the rational points of a curve and the \"sections\" of an exact sequence involving its arithmetic fundamental group and absolute Galois group. It states that the sections of the canonical projection from an arithmetic fundamental group to the absolute Galois group of the base field are in one-to-one correspondence with the rational points of the curve. This conjecture, still open, has significant implications for understanding the rational points on hyperbolic curves and their arithmetic.",
+  "terms": ["étale fundamental group", "Galois group", "rational points", "splittings of an exact sequence", "hyperbolic curve", "field finitely generated over \(\mathbb{Q}\)", "birational section conjecture", "valuative section conjecture", "2-nilpotent real section conjecture", "connection to anabelian geometry", "Berkovich spaces"],
+  "related_conjectures": ["Birational section conjecture", "Cuspidalization conjecture", "S-Selmer Section Conjecture", "Conjectures related to Kim's Conjecture", "Conjectures involving Brauer-Severi varieties"],
+  "subjects": ["algebraic geometry", "number theory", "arithmetic geometry"]
+
 }
