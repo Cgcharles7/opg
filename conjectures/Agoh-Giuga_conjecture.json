@@ -2,13 +2,14 @@
   "uuid": "14e70887-60c5-44c7-aea5-4e49393a08a6",
   "name": "Agoh–Giuga conjecture",
   "link": "https://en.wikipedia.org/wiki/Agoh%E2%80%93Giuga_conjecture",
-  "rephrased": null,
-  "implication_form": null,
-  "posed_by": null,
-  "solved_by": null,
-  "year_originated": null,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "rephrased": "A positive integer \\(n\\) is a prime number if and only if the sum of the powers \\(k^{n-1}\\) for \\(k=1\\) to \\(n-1\\) is congruent to -1 modulo \\(n\\). ",
+  "implication_form": "A positive integer \\(n\\) is a prime number if and only if the sum of the powers \\(k^{n-1}\\) for \\(k=1\\) to \\(n-1\\) is congruent to -1 modulo \\(n\\). ",
+  "posed_by": "posed by Giuseppe Giuga in 1950 and independently by Takashi Agoh around 1990",
+  "solved_by": "In 2002, Bernd C. Kellner proved that Agoh's conjecture is equivalent to Giuga's conjecture",
+  "year_originated": "1950 and 1990",
+  "explained": "The Agoh–Giuga conjecture states that a natural number \\(p\\) is prime if and only if a specific congruence involving Bernoulli numbers holds. This can be expressed in two equivalent forms: either the original congruence by Giuga (\\(\\sum _{i=1}^{p-1}i^{p-1}\\equiv -1\\quad (\\bmod p)\\)) or the reformulation by Agoh (\\(pB_{p-1}\\equiv -1\\quad (\\bmod p)\\)), where \\(B_{p-1}\\) is the $(p-1)\\(th<<!nav>>Bernoullinumber<<!/nav>>[2,3].Whileitiseasytoprovethe\"if\"direction(if\\)p$ is prime, the congruence holds), the converse (\"only if\") remains an unproven conjecture. ",
+  "terms": ["Bernoulli numbers", "Wilson's theorem", "Fermat's Little Theorem", "Carmichael numbers", "Giuga number"],
+  "related_conjectures": ["Giuga's conjecture"],
+  "subjects": ["number theory", "Computational Number Theory", "Congruence"]
+
 }
