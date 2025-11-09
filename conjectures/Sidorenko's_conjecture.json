@@ -7,8 +7,9 @@
   "posed_by": "Alexander Sidorenko",
   "solved_by": "unsolved",
   "year_originated": 38,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "explained": "Sidorenko's conjecture states that for any bipartite graph \\(H\\), the number of \"homomorphisms\" from \\(H\\) to a graph \\(G\\) is minimized when \\(G\\) is a \"pseudorandom\" or \"quasirandom\" graph with the same edge density. Informally, it suggests that the most \"efficient\" or common way to find copies of a bipartite graph \\(H\\) within another graph \\(G\\) is when \\(G\\) is as \"random-looking\" as possible. This has been proven for some specific classes of bipartite graphs, but remains a major open problem in graph theory. ",
+  "terms": ["bipartite graphs", "graph homomorphisms", "edge density", "pseudorandom graphs", "blow-ups", "colorings"],
+  "related_conjectures": ["forcing conjecture", "conjectures about counting colorings", "conjectures about independent sets", "The Chung–Graham–Wilson conjecture", "The KNRS conjecture"],
+  "subjects": ["combinatorics", "extremal combinatorics", "analytic combinatorics", "probability theory", "spectral graph theory", "graph limits", "matrix theory"]
+
 }
