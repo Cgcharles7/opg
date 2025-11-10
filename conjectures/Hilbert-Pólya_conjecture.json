@@ -7,8 +7,9 @@
   "posed_by": "David Hilbert and George Pólya",
   "solved_by": "unsolved",
   "year_originated": 123,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "explained": "The Hilbert–Pólya conjecture proposes that the non-trivial zeros of the Riemann zeta function correspond to the eigenvalues of a self-adjoint operator, which would prove the Riemann Hypothesis. This means the imaginary parts of the zeros would all be real numbers, as self-adjoint operators have real eigenvalues. The conjecture remains unproven, and the core challenge is to find a specific operator that satisfies this property. ",
+  "terms": ["Riemann zeta function", "non-trivial zeros", "eigenvalues", "Hamiltonian", "self-adjoint operator", "quantum mechanics", "Riemann hypothesis"],
+  "related_conjectures": ["Montgomery's pair correlation conjecture", "Berry-Keating conjecture", "Katz-Sarnak conjecture"],
+  "subjects": ["number theory", "mathematical physics", "spectral theory"]
+
 }
