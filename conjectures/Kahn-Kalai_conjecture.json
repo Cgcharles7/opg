@@ -5,10 +5,11 @@
   "rephrased": "The actual threshold for a property in random graphs is close to the expectation threshold.",
   "implication_form": "If the expectation threshold is E, then the actual threshold is close to E.",
   "posed_by": "Jeff Kahn and Gil Kalai",
-  "solved_by": "Park and Pham",
+  "solved_by": "Jinyoung Park and Huy Tuan Pham",
   "year_originated": 18,
-  "explained": null,
-  "terms": null,
+  "explained": "The Kahn–Kalai conjecture states that for any increasing property (like a graph having a certain structure), the \"true threshold\" for its emergence is close to the \"expectation threshold,\" which is easier to calculate. Specifically, the conjecture posits a logarithmic relationship between the two, meaning their gap is at most a universal constant multiplied by the logarithm of the system's size. It was famously proven by Jinyoung Park and Huy Tuan Pham in 2022, settling a major problem in probabilistic combinatorics. ",
+  "terms": ["probabilistic combinatorics", "random graphs", "monotone properties", "threshold", "expectation threshold", "logarithmic factor", "upper set"],
   "related_conjectures": null,
-  "subjects": null
+  "subjects": ["probabilistic combinatorics", "statistical mechanics", "discrete mathematics"]
+
 }
