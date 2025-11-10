@@ -7,8 +7,9 @@
   "posed_by": "Melvin Hochster",
   "solved_by": "unsolved",
   "year_originated": 1973,
-  "explained": null,
+  "explained": The "Homological Conjectures" are a collection of interrelated statements in commutative algebra that connect the homological properties of a ring to its internal structure. These conjectures, which originated from the work of mathematicians like Jean-Pierre Serre, Maurice Auslander, and others, relate concepts like projective dimension, Cohen-Macaulay modules, and direct summands. While many were resolved for rings containing a field, some remained open for \"mixed characteristic\" (where the ring does not contain a field of the same characteristic as its characteristic ideal) until recent breakthroughs, such as the proof of the Direct Summand Conjecture. ,
   "terms": null,
   "related_conjectures": null,
-  "subjects": null
+  "subjects": ["homological algebra", "algebraic geometry", "p-adic Hodge theory", "computational algebra"]
+
 }
