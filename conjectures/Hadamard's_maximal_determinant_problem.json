@@ -3,12 +3,13 @@
   "name": "Hadamard's maximal determinant problem",
   "link": "https://en.wikipedia.org/wiki/Hadamard%27s_maximal_determinant_problem",
   "rephrased": "What is the maximum determinant achievable by an n × n matrix with entries of 1 or −1?",
-  "implication_form": null,
+  "implication_form": "IF \\(M\\) is an \\(n\\times n\\) matrix with entries in the set \\(\\{+1,-1\\}\\), THEN the absolute value of its determinant, \\(|\\det (M)|\\), is at most \\(n^{n/2}\\). Furthermore, equality holds IF AND ONLY IF \\(n=1\\), \\(n=2\\), or \\(n\\) is a multiple of 4, and \\(M\\) is a Hadamard matrix (meaning its rows are pairwise orthogonal, i.e., \\(MM^{T}=nI\\), where \\(I\\) is the identity matrix). ",
   "posed_by": "Jacques Hadamard",
   "solved_by": "unsolved",
   "year_originated": 130,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "explained": "Hadamard's maximal determinant problem asks for the largest possible determinant of an \\(n\\times n\\) matrix where each entry is either \\(1\\) or \\(-1\\). It is a long-standing, unsolved problem in mathematics, named after Jacques Hadamard who proved a general upper bound for these determinants in 1893. The maximum value is achieved by certain matrices called Hadamard matrices, but their existence has only been proven for specific values of \\(n\\) (1, 2, and multiples of 4). ",
+  "terms": ["Hadamard matrices (matrices with \\(\\pm 1\\) entries that achieve the bound)", "complex Hadamard matrices (a broader category of matrices with entries on the unit circle)", "orthogonal matrices, and Hadamard's inequality", "quadratic residue design"],
+  "related_conjectures": ["Maximal Determinant for other orders: For orders \\(n\\not{\\equiv }0\\quad (\\bmod 4)\\) (and \\(n>2\\)), the Hadamard bound \\(n^{n/2}\\) is not attainable. Conjectures and research in this area focus on finding the exact maximal determinant and constructing matrices that achieve it (known as D-optimal designs).Barba's bound conjecture: For matrices of order \\(n\\equiv 1\\quad (\\bmod 4)\\), there is a specific upper bound derived by G. Barba. It is conjectured that this bound is attained whenever \\(n\\) has the form \\(a^{2}+(a+1)^{2}\\) for some integer \\(a\\).Specific maximal determinant values: For small, non-Hadamard orders (e.g., \\(n=19,22,23\\)), the exact value of the maximal determinant is still unknown, though record-holding matrices are found through computational searches and new constructions are conjectured to be maximal for specific values like \\(n=37\\). "],
+  "subjects": ["linear algebra", "combinatorics", "number theory", "statistics", "coding theory"]
+
 }
