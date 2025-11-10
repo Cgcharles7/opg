@@ -2,13 +2,14 @@
   "uuid": "ba1cddcf-c7ec-468f-aac3-35fe8c51b8d8",
   "name": "Landau's problems",
   "link": "https://en.wikipedia.org/wiki/Landau%27s_problems",
-  "rephrased": null,
+  "rephrased": "Landau's problems are four famous, yet unsolved, questions in number theory concerning the distribution of prime numbers. Edmund Landau presented them at the 1912 International Congress of Mathematicians, highlighting them as \"unattackable at the present state of mathematics\". ",
   "implication_form": null,
-  "posed_by": null,
-  "solved_by": null,
-  "year_originated": null,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "posed_by": "Edmund Landau",
+  "solved_by": "not soled",
+  "year_originated": "they have different originations",
+  "explained": "Landau's problems are four specific unsolved conjectures about prime numbers, listed by Edmund Landau in 1912, that he described as \"unattackable\" at the time. They are: the Goldbach conjecture, the twin prime conjecture, Legendre's conjecture (that there is always a prime between consecutive perfect squares), and whether there are infinitely many primes of the form \\(n^{2}+1\\).",
+  "terms": ["Goldbach conjecture", "the twin prime conjecture", "Legendre's conjecture"],
+  "related_conjectures": ["Goldbach conjecture", "the twin prime conjecture", "Legendre's conjecture"],
+  "subjects": ["number theory"]
+
 }
