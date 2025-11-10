@@ -2,13 +2,14 @@
   "uuid": "626d6198-e9c2-48d4-b4db-9be24d98f821",
   "name": "Collatz conjecture",
   "link": "https://en.wikipedia.org/wiki/Collatz_conjecture",
-  "rephrased": null,
-  "implication_form": null,
-  "posed_by": null,
-  "solved_by": null,
-  "year_originated": null,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "rephrased": "The Collatz conjecture states that for any positive integer, if you repeatedly apply the rule of dividing by two if it's even or multiplying by three and adding one if it's odd, you will eventually reach the number 1. ",
+  "implication_form": "An \"if-then\" explanation of the Collatz conjecture is: If the current number is even, then divide it by 2; if the current number is odd, then multiply it by 3 and add 1. The conjecture is that this process, when repeated, will always eventually reach 1, no matter which positive integer you start with. ",
+  "posed_by": "Lothar Collatz",
+  "solved_by": unsolved,
+  "year_originated": 1937,
+  "explained": "The Collatz conjecture is an unsolved math problem that states that if you start with any positive integer and repeatedly apply a simple rule, you will always eventually reach 1. The rule is: if the number is even, divide it by 2; if it's odd, multiply it by 3 and add 1. The sequence created is called the Collatz sequence, and it is sometimes called the \"3n+1 problem\" or \"hailstone numbers\" because the numbers in the sequence can rise and fall unpredictably before eventually reaching 1.  ",
+  "terms": ["stopping time", "total stopping time", "orbit", "cycle", "Collatz graph"],
+  "related_conjectures": ["abc conjecture", ],
+  "subjects": ["number theory", "modular arithmetic", "algebra", "chaos theory"]
+
 }
