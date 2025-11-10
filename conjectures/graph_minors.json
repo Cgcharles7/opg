@@ -1,0 +1,24 @@
+{
+  "uuid": "e237b41a-e4f5-4047-91cb-e99f25a81794", 
+  "name": "Graph Minor Theorem", 
+  "link": "", 
+  "rephrased": "The Graph Minors Theorem, also known as the Robertson–Seymour theorem, states that the family of all finite graphs, when partially ordered by the \"minor\" relationship, forms a well-quasi-ordering. This means any class of graphs closed under taking minors can be characterized by a finite set of forbidden minors, and it implies that for any fixed graph H, we can check in polynomial time if H is a minor of a given graph G.",  
+  "implication form": "The implication form of the graph minor theorem states that for any finite graph \\(H\\), there is a polynomial-time algorithm to test if a graph \\(G\\) contains \\(H\\) as a minor. A consequence of this is that any graph property closed under taking minors (deletion and contraction) can be recognized in polynomial time. For example, a property like embeddability in a particular surface is closed under these operations, and thus the theorem implies it can be tested efficiently for any given surface.",
+  "posed_by": "Neil Robertson and Paul Seymour", 
+  "solved_by":  "Neil Robertson and Paul Seymour", 
+  "year_originated": "1983-2004", 
+  "terms": [
+    "minor (a graph obtained by deleting edges/vertices and contracting edges)", 
+    "well-quasi-ordering (the minor relation is a well-quasi-order)", 
+    "forbidden minors (a finite set of graphs that characterize a minor-closed property)", 
+    "graph structure theorem (which describes the structure of graphs with a given excluded minor)", 
+    "topological minors (a variation of minors that involves subdivisions)"
+  ], 
+  "related_conjectures": [
+    "Hadwiger's conjecture, which links a graph's chromatic number to its possible clique minors", 
+    "Wagner's conjecture, which states that any infinite set of graphs must contain a minor-containment relationship between two members"
+  ], 
+  "subjects": ["graph theory", "discrete mathematics", "combinatorics", "topology"]
+}
+
+  
