@@ -7,8 +7,9 @@
   "posed_by": "Charles Hermite",
   "solved_by": "Arthur C. Magnuson (1954)",
   "year_originated": 176,
-  "explained": null,
-  "terms": null,
+  "explained": "Hermite's interpolation problem is a polynomial interpolation method where the goal is to find a polynomial that matches a function's values and its derivatives at given points (nodes). Unlike Lagrange interpolation, which only uses function values, Hermite interpolation uses both function values and derivative values to create a smoother and more accurate polynomial approximation. For a given set of data points, the resulting polynomial will have a degree that is less than the total number of conditions (function values + derivative values). ",
+  "terms": ["Hermite interpolating polynomial", "divided differences", "Hermite basis functions", "Lagrange interpolation (as it generalizes it)", "continuity and smoothness of the resulting polynomial", "piecewise cubic Hermite interpolating polynomials (or PCHIP)"],
   "related_conjectures": null,
-  "subjects": null
+  "subjects": ["Numerical Analysis", "Linear Algebra", "Computational Mathematics", "Differential Equations"]
+
 }
