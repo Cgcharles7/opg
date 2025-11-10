@@ -7,8 +7,9 @@
   "posed_by": "Hugh Montgomery",
   "solved_by": "unsolved",
   "year_originated": 51,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "explained": "Montgomery's pair correlation conjecture states that the distribution of the zeros of the Riemann zeta function on the critical line, when scaled, has a specific statistical correlation function. It suggests that the pair correlation function for these zeros is the same as that for the eigenvalues of a random Hermitian matrix in the Gaussian Unitary Ensemble (GUE). This implies a \"repulsion\" effect, where zeros are not found clumped together but are, on average, spaced out from each other. ",
+  "terms": ["Riemann hypothesis", "Riemann zeta function", "zeros of the Riemann zeta function", "random matrix theory (specifically the Gaussian Unitary Ensemble or GUE)", "prime number distribution", "analytic number theory", "sinc function"],
+  "related_conjectures": ["Hardy-Littlewood conjecture", "Essential Simplicity Hypothesis (ESH)", "Montgomery's Simplicity Conjecture"],
+  "subjects": ["mathematical physics", "random matrix theory", "probability", "statistics", "classical analysis", "Fourier analysis"]
+
 }
