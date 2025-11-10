@@ -1,0 +1,13 @@
+{
+  "uuid": "59235f90-232b-435a-856c-907988f3393a", 
+  "name": "Second Neighborhood Problem", 
+  "link": "", 
+  "rephrased": "The second neighborhood problem, also known as Seymour's Second Neighborhood Conjecture, asks if every oriented graph contains at least one vertex whose second neighborhood is as large as its first neighborhood. ", 
+  "implication_form": "If a graph \\(D\\) is an oriented graph (a directed graph with no loops or two-edge cycles between any two vertices), then there exists at least one vertex \\(v\\) in \\(D\\) such that the size of its second out-neighborhood is at least as large as the size of its first out-neighborhood. ", 
+  "posed_by": "Paul Seymour", 
+  "solved_by": "unsolved", 
+  "year_originated": "35", 
+  "explained": "The second neighborhood problem, also known as Seymour's second neighborhood conjecture, is an unsolved problem in graph theory that states that in any oriented graph, there must be at least one vertex where the number of second \"out-neighbors\" is greater than or equal to the number of first \"out-neighbors\". An oriented graph is a directed graph with no loops or digons (a pair of directed edges between the same two vertices). A vertex is a node in a graph, and its \"out-neighbors\" are the vertices it has a directed edge to. The \"second out-neighbors\" are vertices that are two steps away via a directed path. A vertex satisfying the conjecture is called a \"Seymour vertex\". ",
+  "terms": ["digraph", "out-neighborhood", "second out-neighborhood", "out-degree", "tournament", "orientation", "Seymour vertex", "acyclic digraph"], 
+  "related_conjectures": ["Caccetta–Häggkvist conjecture", "Sullivan's conjectures"], 
+  "subjects": ["Graph Theory", "Combinatorics", "Discrete Mathematics"]
