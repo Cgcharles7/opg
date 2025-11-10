@@ -7,8 +7,9 @@
   "posed_by": "Vladimir Arnold",
   "solved_by": "unsolved",
   "year_originated": 1960,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "explained": "The Nearby Lagrangian Conjecture, formulated by Vladimir Arnold in the 1980s, is a central open problem in symplectic topology. It states that any closed, exact Lagrangian submanifold within the cotangent bundle of a closed manifold (\\(T^{*}M\\)) must be Hamiltonian isotopic to the zero section. In simpler terms, it predicts that these submanifolds can be smoothly deformed to the \"flat\" zero section using a special kind of motion called a Hamiltonian isotopy. ",
+  "terms": ["symplectic topology", "Lagrangian submanifold", "cotangent bundle", "Hamiltonian isotopy", "zero section", "exact Lagrangian"],
+  "related_conjectures": ["Homotopy Equivalence to a Diffeomorphism", "Lagrangian Monodromy", "Lagrangian \\(C^{0}\\) Flux Conjecture", "Whitehead Torsion Vanishing", "Weinstein Exactness"],
+  "subjects": ["symplectic topology", "symplectic geometry", "algebraic topology", "K-theory", "classical mechanics"]
+
 }
