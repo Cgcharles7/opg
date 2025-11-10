@@ -10,8 +10,9 @@
   ],
   "solved_by": "unsolved",
   "year_originated": 170,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "explained": "The Kummer-Vandiver conjecture is a statement in number theory that a prime \\(p\\) does not divide the class number of the maximal real subfield of the \\(p\\)-th cyclotomic field. It is equivalent to stating that \\(p\\) does not divide the second factor (\\(h_{2}\\)) of the class number of the \\(p\\)-th cyclotomic field. This conjecture has important implications, most notably that if it is true, Fermat's Last Theorem holds for the exponent \\(p\\). ",
+  "terms": ["class number", "cyclotomic field", "primitive root of unity", "maximal real subfield", "Iwasawa invariants", "regular/irregular prime"],
+  "related_conjectures": ["the Iwasawa Main Conjecture", "the Quillen-Lichtenbaum conjecture", "Greenberg's conjecture"],
+  "subjects": ["number theory", "algebraic number theory", "cyclotomic fields","Iwasawa theory", "algebraic K-theory"]
+
 }
