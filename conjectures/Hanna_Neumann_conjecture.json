@@ -7,8 +7,9 @@
   "posed_by": "Hanna Neumann",
   "solved_by": "Joel Friedman and Igor Mineyev (2011) proved a strengthened version; a third proof was published in 2017.",
   "year_originated": 66,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "explained": "The Hanna Neumann conjecture is a hypothesis in the field of group theory, specifically concerning the relationships between certain types of groups known as free groups. Formulated by mathematician Hanna Neumann in the mid-20th century, the conjecture states:  If \\(G\\) is a finitely generated group and \\(H\\) is a finitely generated subgroup of \\(G\\), then the rank of \\(H\\) (the minimal number of generators needed for \\(H\\)) is less than or equal to the rank of \\(G\\) plus the rank of the quotient group \\(G/H\\).  In simpler terms, the conjecture posits a bound on the complexity of subgroups in relation to their parent groups and the quotient groups formed by their factorization. Despite extensive research, the conjecture remains unproven in its full generality, although it holds for certain classes of groups.",
+  "terms": ["free groups", "finitely generated subgroups", "rank", "intersection", "Strengthened Hanna Neumann Conjecture", "graph theory"],
+  "related_conjectures": ["every one-relator group with torsion is coherent"],
+  "subjects": ["group theory"]
+
 }
