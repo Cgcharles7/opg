@@ -7,8 +7,9 @@
   "posed_by": "H.S.M. Coxeter (as a general problem in the field)",
   "solved_by": "unsolved",
   "year_originated": 60,
-  "explained": null,
-  "terms": null,
-  "related_conjectures": null,
-  "subjects": null
+  "explained": "The isomorphism problem for Coxeter groups is the question of determining whether two given Coxeter groups, defined by their Coxeter diagrams, are isomorphic as abstract groups. This means deciding if a structure-preserving, one-to-one, and onto mapping exists between their elements. It is a difficult problem, as different generating sets can describe the same group, and even groups with the same properties might not be isomorphic. ",
+  "terms": ["Coxeter presentation", "even Coxeter groups", "profinite rigidity", "reflection independence", "irreducible Coxeter groups"],
+  "related_conjectures": ["Mühlherr's twist conjecture", "Dranishnikov's rigidity conjecture", "twist conjecture for skew-angled and chordal Coxeter systems", "twist-rigid condition"],
+  "subjects": ["group theory", "algebra", "geometry", "combinatorics"]
+
 }
