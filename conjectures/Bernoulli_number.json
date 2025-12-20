@@ -7,8 +7,9 @@
   "posed_by": "Jakob Bernoulli",
   "solved_by": "Jakob Bernoulli",
   "year_originated": 330,
-  "explained": null,
-  "terms": null,
+  "explained": "a sequence of rational numbers that appear frequently in number theory and analysis, defined by their exponential generating function or recurrence relations",
+  "terms": "Faulhaber's formula, Euler-Maclaurin formula, Taylor series for tan(x) and tanh(x), Riemann zeta function",
   "related_conjectures": null,
   "subjects": null
+
 }
