@@ -7,8 +7,9 @@
   "posed_by": "Richard Dedekind",
   "solved_by": "unsolved",
   "year_originated": 150,
-  "explained": null,
+  "explained": "Dedekind numbers (d(n)) count the number of monotone Boolean functions (logical rules that only go from false to true, never true to false) for n variables, representing a fascinating intersection of logic, set theory, and combinatorics, growing extremely fast (d(8) has 22 digits, d(9) has 42!), with the 9th number recently found in 2023 after 32 years, and d(10) expected to remain out of reach for a very long time due to its immense scale. ",
   "terms": null,
   "related_conjectures": null,
-  "subjects": null
+  "subjects": "logic, set theory, and combinatorics"
+
 }
