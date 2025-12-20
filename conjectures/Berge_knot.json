@@ -2,13 +2,14 @@
   "uuid": "57f4d09a-fadb-461b-a711-c05b94cf1c8e",
   "name": "Berge knot",
   "link": "https://en.wikipedia.org/wiki/Berge_knot",
-  "rephrased": "A Berge knot is a specific type of knot in the 3-sphere where performing a non-trivial Dehn surgery results in a lens space, and it can be described as a simple closed curve on a genus-2 Heegaard surface primitive in both handlebodies.",
+  "rephrased": "A Berge knot is a special type of mathematical knot in the 3-sphere defined by its relationship to a genus-two Heegaard surface, meaning it lies on this surface and intersects a meridian disk on each side exactly once, making it "doubly primitive",
   "implication_form": "If a knot is doubly primitive, then it is a Berge knot.",
   "posed_by": "Robert E. Giffen",
   "solved_by": "unsolved",
   "year_originated": "40 years ago",
-  "explained": null,
+  "explained": "a specific type of knot in the 3-sphere that lies on a genus two Heegaard surface and meets a meridian disk in each of the two bounding handlebodies exactly once",
   "terms": null,
-  "related_conjectures": null,
+  "related_conjectures": "Berge conjecture",
   "subjects": null
+
 }
