@@ -7,7 +7,7 @@
   "posed_by": "Eugène Charles Catalan",
   "solved_by": "unsolved",
   "year_originated": 1897,
-  "explained": "Catalan's constant (G) is a fundamental mathematical constant, approximately 0.9159656, defined as the infinite alternating sum of reciprocals of odd squares: \(1-\frac{1}{3^{2}}+\frac{1}{5^{2}}-\frac{1}{7^{2}}+\dots \), appearing in combinatorics, number theory, and geometry. It's named after Eugène Charles Catalan, and a major unsolved problem is whether it's rational or irrational, though it's strongly believed to be irrational. ",
+  "explained": "Catalan's constant (G) is a fundamental mathematical constant, approximately 0.9159656, defined as the infinite alternating sum of reciprocals of odd squares: \\(1-\\frac{1}{3^{2}}+\\frac{1}{5^{2}}-\\frac{1}{7^{2}}+\\dots \\), appearing in combinatorics, number theory, and geometry. It's named after Eugène Charles Catalan, and a major unsolved problem is whether it's rational or irrational, though it's strongly believed to be irrational. ",
   "terms": null,
   "related_conjectures": null,
   "subjects": ["Combinatorics","Counting domino tilings", "spanning trees", "Geometry", "Number Theory"]
