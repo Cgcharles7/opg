@@ -6,7 +6,7 @@
   "implication_form": "If one studies properties of space, then they are studying geometry.",
   "posed_by": "Ancient scholars (e.g., Euclid systematized it)",
   "solved_by": "Ongoing field of study",
-  "year_originated": 2323,
+  "year_originated": "2323",
   "explained": "Geometry is a fundamental branch of mathematics that explores the properties, relationships, and measurements of points, lines, surfaces, solids, and higher-dimensional objects in space. It primarily investigates concepts such as distance, shape, size, position, angles, curvature, and volume. Historically rooted in Euclidean geometry, which is based on the axioms of the ancient Greek mathematician Euclid, geometry has evolved to encompass various subfields, including non-Euclidean geometries (like hyperbolic and elliptic geometry), topology (the study of spatial properties preserved under continuous deformations), algebraic geometry (using algebraic methods to study geometric objects), differential geometry (applying calculus to geometric problems), and analytic geometry (combining algebra and geometry with coordinates). Geometry provides the mathematical foundation for describing the physical world and is essential in fields such as physics, engineering, computer graphics, and architecture.",
   "terms": [
     "Point",
