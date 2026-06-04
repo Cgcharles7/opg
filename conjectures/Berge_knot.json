@@ -2,7 +2,7 @@
   "uuid": "57f4d09a-fadb-461b-a711-c05b94cf1c8e",
   "name": "Berge knot",
   "link": "https://en.wikipedia.org/wiki/Berge_knot",
-  "rephrased": "A Berge knot is a special type of mathematical knot in the 3-sphere defined by its relationship to a genus-two Heegaard surface, meaning it lies on this surface and intersects a meridian disk on each side exactly once, making it "doubly primitive",
+  "rephrased": "A Berge knot is a special type of mathematical knot in the 3-sphere defined by its relationship to a genus-two Heegaard surface, meaning it lies on this surface and intersects a meridian disk on each side exactly once, making it doubly primitive",
   "implication_form": "If a knot is doubly primitive, then it is a Berge knot.",
   "posed_by": "Robert E. Giffen",
   "solved_by": "unsolved",
