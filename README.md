@@ -3,6 +3,8 @@
 A collaborative archive and exploration of open mathematical problems.  
 There has been a lot of talk on social media, message boards and across the internet looking for open research problems. Wikipedia originated such a collection. This project is based on content taken from Wikipedia, but housed in GitHib to have a community-driven approach.
 
+(https://cgcharles7.github.io/opg/)[https://cgcharles7.github.io/opg/]
+
 ---
 
 ## About This Project
