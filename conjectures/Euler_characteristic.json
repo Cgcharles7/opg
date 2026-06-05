@@ -7,7 +7,7 @@
   "posed_by": "Leonhard Euler",
   "solved_by": "Euler",
   "year_originated": 270,
-  "explained": "For simple polyhedra, it's \(V-E+F\) (Vertices - Edges + Faces). For more complex shapes (CW complexes), it's the alternating sum of the number of cells of each dimension: \(\chi =k_{0}-k_{1}+k_{2}-k_{3}+\dots \).Topological Invariant: It characterizes the "holes" or "handles"",
+  "explained": "For simple polyhedra, it's \\(V-E+F\\) (Vertices - Edges + Faces). For more complex shapes (CW complexes), it's the alternating sum of the number of cells of each dimension: \\(\\chi =k_{0}-k_{1}+k_{2}-k_{3}+\\dots \\).Topological Invariant: It characterizes the \"holes\" or \"handles\"",
   "terms": null,
   "related_conjectures": null,
   "subjects": null
